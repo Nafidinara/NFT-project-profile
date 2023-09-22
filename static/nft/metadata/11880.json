@@ -1,0 +1,27 @@
+{
+  "name": "Gilaredel  ",
+  "description": "The collection from onerichgroup #11880",
+  "image": "https://nft.onerichgroup.com/nft/11880.jpg",
+  "dna": "74243asmdjsadya6d7884396bec080e550767",
+  "edition": 1,
+  "date": 1689443117800,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

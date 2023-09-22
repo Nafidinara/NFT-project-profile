@@ -1,0 +1,28 @@
+{
+    "name": "Estarrien  ",
+    "description": "The collection from onerichgroup #50309",
+    "image": "https://nft.onerichgroup.com/nft/50309.jpg",
+    "dna": "40041asmdjsadya6d7840713bec080e551026",
+    "edition": 1,
+    "date": 1689478811205,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

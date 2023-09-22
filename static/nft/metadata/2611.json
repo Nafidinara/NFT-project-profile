@@ -1,0 +1,28 @@
+{
+    "name": "Eriliel  ",
+    "description": "The collection from onerichgroup #2611",
+    "image": "https://nft.onerichgroup.com/nft/2611.jpg",
+    "dna": "28792asmdjsadya6d7876433bec080e588635",
+    "edition": 1,
+    "date": 1689443114623,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

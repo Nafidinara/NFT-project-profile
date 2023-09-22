@@ -1,0 +1,28 @@
+{
+    "name": "Elbebsil  ",
+    "description": "The collection from onerichgroup #14220",
+    "image": "https://nft.onerichgroup.com/nft/14220.jpg",
+    "dna": "96501asmdjsadya6d7822782bec080e589357",
+    "edition": 1,
+    "date": 1689443118384,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

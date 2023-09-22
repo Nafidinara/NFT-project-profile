@@ -1,0 +1,28 @@
+{
+    "name": "Erediel  ",
+    "description": "The collection from onerichgroup #5143",
+    "image": "https://nft.onerichgroup.com/nft/5143.jpg",
+    "dna": "17373asmdjsadya6d7875889bec080e594887",
+    "edition": 1,
+    "date": 1689443115971,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

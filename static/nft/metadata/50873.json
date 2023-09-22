@@ -1,0 +1,28 @@
+{
+    "name": "Ganoleth  ",
+    "description": "The collection from onerichgroup #50873",
+    "image": "https://nft.onerichgroup.com/nft/50873.jpg",
+    "dna": "99998asmdjsadya6d7823253bec080e539469",
+    "edition": 1,
+    "date": 1689478811729,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Meladiel  ",
+    "description": "The collection from onerichgroup #7140",
+    "image": "https://nft.onerichgroup.com/nft/7140.jpg",
+    "dna": "84451asmdjsadya6d787765bec080e539451",
+    "edition": 1,
+    "date": 1689443116519,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

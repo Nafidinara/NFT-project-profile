@@ -1,0 +1,28 @@
+{
+    "name": "Estarroël  ",
+    "description": "The collection from onerichgroup #4569",
+    "image": "https://nft.onerichgroup.com/nft/4569.jpg",
+    "dna": "16255asmdjsadya6d7892462bec080e548321",
+    "edition": 1,
+    "date": 1689443115695,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

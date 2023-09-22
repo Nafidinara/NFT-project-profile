@@ -1,0 +1,28 @@
+{
+    "name": "Estamwë  ",
+    "description": "The collection from onerichgroup #58627",
+    "image": "https://nft.onerichgroup.com/nft/58627.jpg",
+    "dna": "84783asmdjsadya6d7810880bec080e520704",
+    "edition": 1,
+    "date": 1689478816098,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

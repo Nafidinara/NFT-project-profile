@@ -1,0 +1,28 @@
+{
+    "name": "Rinemrial  ",
+    "description": "The collection from onerichgroup #31093",
+    "image": "https://nft.onerichgroup.com/nft/31093.jpg",
+    "dna": "44083asmdjsadya6d7830145bec080e584873",
+    "edition": 1,
+    "date": 1689443121225,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

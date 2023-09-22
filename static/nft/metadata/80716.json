@@ -1,0 +1,28 @@
+{
+    "name": "Ganthalrial  ",
+    "description": "The vip collection from onerichgroup #80716",
+    "image": "https://nft.onerichgroup.com/nft/80716.jpg",
+    "dna": "30668iyuirf45edrtd45201vjvtyd45tuy54410",
+    "edition": 1,
+    "date": 1690898984721,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

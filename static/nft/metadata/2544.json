@@ -1,0 +1,28 @@
+{
+    "name": "Geleniel  ",
+    "description": "The collection from onerichgroup #2544",
+    "image": "https://nft.onerichgroup.com/nft/2544.jpg",
+    "dna": "80886asmdjsadya6d7883167bec080e524025",
+    "edition": 1,
+    "date": 1689443114580,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

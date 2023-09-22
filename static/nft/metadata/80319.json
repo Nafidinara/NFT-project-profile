@@ -1,0 +1,28 @@
+{
+    "name": "Marilel  ",
+    "description": "The vip collection from onerichgroup #80319",
+    "image": "https://nft.onerichgroup.com/nft/80319.jpg",
+    "dna": "84126iyuirf45edrtd8802vjvtyd45tuy25644",
+    "edition": 1,
+    "date": 1690898983550,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

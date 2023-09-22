@@ -1,0 +1,28 @@
+{
+    "name": "Relevroël  ",
+    "description": "The collection from onerichgroup #28805",
+    "image": "https://nft.onerichgroup.com/nft/28805.jpg",
+    "dna": "68784asmdjsadya6d7846936bec080e54652",
+    "edition": 1,
+    "date": 1689443120957,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

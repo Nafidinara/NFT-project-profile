@@ -1,0 +1,28 @@
+{
+    "name": "Mirebwen  ",
+    "description": "The collection from onerichgroup #57266",
+    "image": "https://nft.onerichgroup.com/nft/57266.jpg",
+    "dna": "15425asmdjsadya6d7891547bec080e542190",
+    "edition": 1,
+    "date": 1689478815491,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

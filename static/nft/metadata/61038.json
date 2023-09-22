@@ -1,0 +1,28 @@
+{
+    "name": "Imamwen  ",
+    "description": "The collection from onerichgroup #61038",
+    "image": "https://nft.onerichgroup.com/nft/61038.jpg",
+    "dna": "559287dje6rgfnbs099115bec080e575477",
+    "edition": 1,
+    "date": 1689584225451,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

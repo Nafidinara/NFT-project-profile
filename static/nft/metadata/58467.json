@@ -1,0 +1,28 @@
+{
+    "name": "Marirrien  ",
+    "description": "The collection from onerichgroup #58467",
+    "image": "https://nft.onerichgroup.com/nft/58467.jpg",
+    "dna": "39262asmdjsadya6d7817000bec080e583831",
+    "edition": 1,
+    "date": 1689478816025,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

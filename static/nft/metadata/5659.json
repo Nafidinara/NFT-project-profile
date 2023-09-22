@@ -1,0 +1,28 @@
+{
+    "name": "Nimedroël  ",
+    "description": "The collection from onerichgroup #5659",
+    "image": "https://nft.onerichgroup.com/nft/5659.jpg",
+    "dna": "46056asmdjsadya6d7864099bec080e519175",
+    "edition": 1,
+    "date": 1689443116166,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

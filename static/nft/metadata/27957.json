@@ -1,0 +1,28 @@
+{
+    "name": "Raloledel  ",
+    "description": "The collection from onerichgroup #27957",
+    "image": "https://nft.onerichgroup.com/nft/27957.jpg",
+    "dna": "31149asmdjsadya6d7813467bec080e545279",
+    "edition": 1,
+    "date": 1689443120768,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rinalrian  ",
+    "description": "The collection from onerichgroup #388",
+    "image": "https://nft.onerichgroup.com/nft/388.jpg",
+    "dna": "2872asmdjsadya6d7855075bec080e549172",
+    "edition": 1,
+    "date": 1689443113279,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

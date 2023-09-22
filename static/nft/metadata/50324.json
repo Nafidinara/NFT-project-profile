@@ -1,0 +1,28 @@
+{
+    "name": "Farasien  ",
+    "description": "The collection from onerichgroup #50324",
+    "image": "https://nft.onerichgroup.com/nft/50324.jpg",
+    "dna": "99331asmdjsadya6d7832547bec080e518178",
+    "edition": 1,
+    "date": 1689478811209,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

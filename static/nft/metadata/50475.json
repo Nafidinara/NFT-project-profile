@@ -1,0 +1,28 @@
+{
+    "name": "Imoleth  ",
+    "description": "The collection from onerichgroup #50475",
+    "image": "https://nft.onerichgroup.com/nft/50475.jpg",
+    "dna": "62805asmdjsadya6d7891394bec080e59567",
+    "edition": 1,
+    "date": 1689478811242,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

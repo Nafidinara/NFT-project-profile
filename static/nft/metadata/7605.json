@@ -1,0 +1,28 @@
+{
+    "name": "Erasrian  ",
+    "description": "The collection from onerichgroup #7605",
+    "image": "https://nft.onerichgroup.com/nft/7605.jpg",
+    "dna": "64236asmdjsadya6d789579bec080e583384",
+    "edition": 1,
+    "date": 1689443116618,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Marirloth  ",
+    "description": "The collection from onerichgroup #38851",
+    "image": "https://nft.onerichgroup.com/nft/38851.jpg",
+    "dna": "67456asmdjsadya6d7879913bec080e572154",
+    "edition": 1,
+    "date": 1689443121845,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Carelian  ",
+    "description": "The collection from onerichgroup #1885",
+    "image": "https://nft.onerichgroup.com/nft/1885.jpg",
+    "dna": "4500asmdjsadya6d785874bec080e535947",
+    "edition": 1,
+    "date": 1689443114309,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

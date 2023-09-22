@@ -1,0 +1,27 @@
+{
+  "name": "Carebsil  ",
+  "description": "The collection from onerichgroup #1067",
+  "image": "https://nft.onerichgroup.com/nft/1067.jpg",
+  "dna": "82396asmdjsadya6d7871020bec080e579149",
+  "edition": 1,
+  "date": 1689443113651,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

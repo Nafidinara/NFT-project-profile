@@ -1,0 +1,28 @@
+{
+    "name": "Relthonrian  ",
+    "description": "The collection from onerichgroup #54164",
+    "image": "https://nft.onerichgroup.com/nft/54164.jpg",
+    "dna": "76578asmdjsadya6d7874580bec080e534660",
+    "edition": 1,
+    "date": 1689478813834,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimedril  ",
+    "description": "The collection from onerichgroup #2062",
+    "image": "https://nft.onerichgroup.com/nft/2062.jpg",
+    "dna": "30869asmdjsadya6d7836612bec080e539797",
+    "edition": 1,
+    "date": 1689443114367,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

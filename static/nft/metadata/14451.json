@@ -1,0 +1,28 @@
+{
+    "name": "Liradwë  ",
+    "description": "The collection from onerichgroup #14451",
+    "image": "https://nft.onerichgroup.com/nft/14451.jpg",
+    "dna": "87649asmdjsadya6d7879933bec080e586277",
+    "edition": 1,
+    "date": 1689443118462,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

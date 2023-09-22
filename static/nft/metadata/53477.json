@@ -1,0 +1,28 @@
+{
+    "name": "Aninian  ",
+    "description": "The collection from onerichgroup #53477",
+    "image": "https://nft.onerichgroup.com/nft/53477.jpg",
+    "dna": "36115asmdjsadya6d7885433bec080e579229",
+    "edition": 1,
+    "date": 1689478813637,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

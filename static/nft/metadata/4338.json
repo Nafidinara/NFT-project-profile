@@ -1,0 +1,28 @@
+{
+    "name": "Rilthoniel  ",
+    "description": "The collection from onerichgroup #4338",
+    "image": "https://nft.onerichgroup.com/nft/4338.jpg",
+    "dna": "7275asmdjsadya6d7879258bec080e566294",
+    "edition": 1,
+    "date": 1689443115540,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

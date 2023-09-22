@@ -1,0 +1,28 @@
+{
+    "name": "Caladmir  ",
+    "description": "The collection from onerichgroup #52912",
+    "image": "https://nft.onerichgroup.com/nft/52912.jpg",
+    "dna": "67264asmdjsadya6d7819697bec080e57950",
+    "edition": 1,
+    "date": 1689478813343,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

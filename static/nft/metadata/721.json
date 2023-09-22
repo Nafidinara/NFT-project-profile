@@ -1,0 +1,28 @@
+{
+    "name": "Istilrien  ",
+    "description": "The collection from onerichgroup #721",
+    "image": "https://nft.onerichgroup.com/nft/721.jpg",
+    "dna": "70670asmdjsadya6d7868369bec080e556912",
+    "edition": 1,
+    "date": 1689443113551,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

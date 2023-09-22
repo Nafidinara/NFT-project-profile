@@ -1,0 +1,28 @@
+{
+    "name": "Gelasrien  ",
+    "description": "The collection from onerichgroup #41333",
+    "image": "https://nft.onerichgroup.com/nft/41333.jpg",
+    "dna": "58214asmdjsadya6d7872893bec080e524222",
+    "edition": 1,
+    "date": 1689443122044,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

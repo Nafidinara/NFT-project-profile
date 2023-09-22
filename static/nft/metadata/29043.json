@@ -1,0 +1,28 @@
+{
+    "name": "Inolroël  ",
+    "description": "The collection from onerichgroup #29043",
+    "image": "https://nft.onerichgroup.com/nft/29043.jpg",
+    "dna": "66037asmdjsadya6d7862794bec080e55726",
+    "edition": 1,
+    "date": 1689443120973,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

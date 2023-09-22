@@ -1,0 +1,27 @@
+{
+  "name": "Istinedel  ",
+  "description": "The collection from onerichgroup #13354",
+  "image": "https://nft.onerichgroup.com/nft/13354.jpg",
+  "dna": "69907asmdjsadya6d7876850bec080e52856",
+  "edition": 1,
+  "date": 1689443118199,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

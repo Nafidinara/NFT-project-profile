@@ -1,0 +1,28 @@
+{
+    "name": "Rilanwë  ",
+    "description": "The collection from onerichgroup #898",
+    "image": "https://nft.onerichgroup.com/nft/898.jpg",
+    "dna": "79554asmdjsadya6d7889512bec080e521749",
+    "edition": 1,
+    "date": 1689443113606,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

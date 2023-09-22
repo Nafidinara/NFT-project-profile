@@ -1,0 +1,28 @@
+{
+    "name": "Ilmoleth  ",
+    "description": "The collection from onerichgroup #14974",
+    "image": "https://nft.onerichgroup.com/nft/14974.jpg",
+    "dna": "84054asmdjsadya6d7893188bec080e554470",
+    "edition": 1,
+    "date": 1689443118677,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

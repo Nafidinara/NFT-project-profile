@@ -1,0 +1,28 @@
+{
+    "name": "Carebloth  ",
+    "description": "The collection from onerichgroup #6466",
+    "image": "https://nft.onerichgroup.com/nft/6466.jpg",
+    "dna": "78520asmdjsadya6d7840880bec080e559971",
+    "edition": 1,
+    "date": 1689443116449,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

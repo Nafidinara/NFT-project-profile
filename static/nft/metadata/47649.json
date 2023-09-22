@@ -1,0 +1,28 @@
+{
+    "name": "Ralalloth  ",
+    "description": "The collection from onerichgroup #47649",
+    "image": "https://nft.onerichgroup.com/nft/47649.jpg",
+    "dna": "34497asmdjsadya6d7896266bec080e599804",
+    "edition": 1,
+    "date": 1689443122386,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

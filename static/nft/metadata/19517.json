@@ -1,0 +1,28 @@
+{
+    "name": "Gelarwen  ",
+    "description": "The collection from onerichgroup #19517",
+    "image": "https://nft.onerichgroup.com/nft/19517.jpg",
+    "dna": "37421asmdjsadya6d7897725bec080e57358",
+    "edition": 1,
+    "date": 1689443119630,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

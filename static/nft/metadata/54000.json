@@ -1,0 +1,28 @@
+{
+    "name": "Aririan  ",
+    "description": "The collection from onerichgroup #54000",
+    "image": "https://nft.onerichgroup.com/nft/54000.jpg",
+    "dna": "83915asmdjsadya6d7884733bec080e546176",
+    "edition": 1,
+    "date": 1689478813783,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

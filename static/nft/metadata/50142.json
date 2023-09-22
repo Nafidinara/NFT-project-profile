@@ -1,0 +1,28 @@
+{
+    "name": "Rilinrien  ",
+    "description": "The collection from onerichgroup #50142",
+    "image": "https://nft.onerichgroup.com/nft/50142.jpg",
+    "dna": "20219asmdjsadya6d78207bec080e559784",
+    "edition": 1,
+    "date": 1689478811161,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

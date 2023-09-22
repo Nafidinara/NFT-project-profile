@@ -1,0 +1,28 @@
+{
+    "name": "Ganamriel  ",
+    "description": "The collection from onerichgroup #36374",
+    "image": "https://nft.onerichgroup.com/nft/36374.jpg",
+    "dna": "43720asmdjsadya6d7897753bec080e579951",
+    "edition": 1,
+    "date": 1689443121661,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

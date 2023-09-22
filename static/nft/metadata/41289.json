@@ -1,0 +1,28 @@
+{
+    "name": "Galirsil  ",
+    "description": "The collection from onerichgroup #41289",
+    "image": "https://nft.onerichgroup.com/nft/41289.jpg",
+    "dna": "36203asmdjsadya6d7893783bec080e525056",
+    "edition": 1,
+    "date": 1689443122041,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

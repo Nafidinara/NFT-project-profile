@@ -1,0 +1,28 @@
+{
+    "name": "Celerian  ",
+    "description": "The collection from onerichgroup #3286",
+    "image": "https://nft.onerichgroup.com/nft/3286.jpg",
+    "dna": "31079asmdjsadya6d7883439bec080e576337",
+    "edition": 1,
+    "date": 1689443114961,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

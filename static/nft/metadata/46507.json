@@ -1,0 +1,28 @@
+{
+    "name": "Arthalel  ",
+    "description": "The collection from onerichgroup #46507",
+    "image": "https://nft.onerichgroup.com/nft/46507.jpg",
+    "dna": "77512asmdjsadya6d7848622bec080e530682",
+    "edition": 1,
+    "date": 1689443122340,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

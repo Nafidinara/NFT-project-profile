@@ -1,0 +1,28 @@
+{
+    "name": "Laremril  ",
+    "description": "The vip collection from onerichgroup #80576",
+    "image": "https://nft.onerichgroup.com/nft/80576.jpg",
+    "dna": "68443iyuirf45edrtd73368vjvtyd45tuy45590",
+    "edition": 1,
+    "date": 1690898984420,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

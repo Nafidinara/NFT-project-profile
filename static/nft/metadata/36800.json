@@ -1,0 +1,28 @@
+{
+    "name": "Inasedel  ",
+    "description": "The collection from onerichgroup #36800",
+    "image": "https://nft.onerichgroup.com/nft/36800.jpg",
+    "dna": "10426asmdjsadya6d7832761bec080e526534",
+    "edition": 1,
+    "date": 1689443121675,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

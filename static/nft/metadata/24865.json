@@ -1,0 +1,28 @@
+{
+    "name": "Loransil  ",
+    "description": "The collection from onerichgroup #24865",
+    "image": "https://nft.onerichgroup.com/nft/24865.jpg",
+    "dna": "94202asmdjsadya6d7865133bec080e587489",
+    "edition": 1,
+    "date": 1689443120481,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

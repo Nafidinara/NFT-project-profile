@@ -1,0 +1,28 @@
+{
+    "name": "Geleseth  ",
+    "description": "The vip collection from onerichgroup #80813",
+    "image": "https://nft.onerichgroup.com/nft/80813.jpg",
+    "dna": "82851iyuirf45edrtd32369vjvtyd45tuy68468",
+    "edition": 1,
+    "date": 1690898985179,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

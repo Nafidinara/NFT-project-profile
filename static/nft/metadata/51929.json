@@ -1,0 +1,28 @@
+{
+    "name": "Ninediel  ",
+    "description": "The collection from onerichgroup #51929",
+    "image": "https://nft.onerichgroup.com/nft/51929.jpg",
+    "dna": "75283asmdjsadya6d7879593bec080e575790",
+    "edition": 1,
+    "date": 1689478812588,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Liradrian  ",
+    "description": "The collection from onerichgroup #6114",
+    "image": "https://nft.onerichgroup.com/nft/6114.jpg",
+    "dna": "31951asmdjsadya6d7841224bec080e536200",
+    "edition": 1,
+    "date": 1689443116396,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

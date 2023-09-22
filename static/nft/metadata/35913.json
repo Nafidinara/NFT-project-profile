@@ -1,0 +1,28 @@
+{
+    "name": "Imanrien  ",
+    "description": "The collection from onerichgroup #35913",
+    "image": "https://nft.onerichgroup.com/nft/35913.jpg",
+    "dna": "24785asmdjsadya6d7887464bec080e570653",
+    "edition": 1,
+    "date": 1689443121641,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

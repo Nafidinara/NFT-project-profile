@@ -1,0 +1,28 @@
+{
+    "name": "Iredloth  ",
+    "description": "The collection from onerichgroup #2601",
+    "image": "https://nft.onerichgroup.com/nft/2601.jpg",
+    "dna": "13433asmdjsadya6d789772bec080e516817",
+    "edition": 1,
+    "date": 1689443114621,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

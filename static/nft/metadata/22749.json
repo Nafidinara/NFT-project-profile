@@ -1,0 +1,28 @@
+{
+    "name": "Erlevedel  ",
+    "description": "The collection from onerichgroup #22749",
+    "image": "https://nft.onerichgroup.com/nft/22749.jpg",
+    "dna": "27778asmdjsadya6d7883611bec080e534696",
+    "edition": 1,
+    "date": 1689443120181,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

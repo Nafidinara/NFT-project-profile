@@ -1,0 +1,28 @@
+{
+    "name": "Nimereth  ",
+    "description": "The collection from onerichgroup #7749",
+    "image": "https://nft.onerichgroup.com/nft/7749.jpg",
+    "dna": "95228asmdjsadya6d7890715bec080e542231",
+    "edition": 1,
+    "date": 1689443116684,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

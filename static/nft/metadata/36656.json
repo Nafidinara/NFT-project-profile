@@ -1,0 +1,28 @@
+{
+    "name": "Galemwë  ",
+    "description": "The collection from onerichgroup #36656",
+    "image": "https://nft.onerichgroup.com/nft/36656.jpg",
+    "dna": "3897asmdjsadya6d7872407bec080e597970",
+    "edition": 1,
+    "date": 1689443121671,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

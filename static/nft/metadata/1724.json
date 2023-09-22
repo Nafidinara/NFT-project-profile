@@ -1,0 +1,28 @@
+{
+    "name": "Ralthalsil  ",
+    "description": "The collection from onerichgroup #1724",
+    "image": "https://nft.onerichgroup.com/nft/1724.jpg",
+    "dna": "27052asmdjsadya6d7863725bec080e535530",
+    "edition": 1,
+    "date": 1689443114156,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

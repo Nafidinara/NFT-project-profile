@@ -1,0 +1,27 @@
+{
+  "name": "Caremloth  ",
+  "description": "The collection from onerichgroup #13296",
+  "image": "https://nft.onerichgroup.com/nft/13296.jpg",
+  "dna": "79216asmdjsadya6d782249bec080e590914",
+  "edition": 1,
+  "date": 1689443118187,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

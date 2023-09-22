@@ -1,0 +1,28 @@
+{
+    "name": "Relamroël  ",
+    "description": "The vip collection from onerichgroup #80913",
+    "image": "https://nft.onerichgroup.com/nft/80913.jpg",
+    "dna": "34414iyuirf45edrtd5133vjvtyd45tuy93705",
+    "edition": 1,
+    "date": 1690898985612,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

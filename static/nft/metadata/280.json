@@ -1,0 +1,28 @@
+{
+    "name": "Mareriel  ",
+    "description": "The collection from onerichgroup #280",
+    "image": "https://nft.onerichgroup.com/nft/280.jpg",
+    "dna": "46731asmdjsadya6d7866868bec080e564039",
+    "edition": 1,
+    "date": 1689443113245,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

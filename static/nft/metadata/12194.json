@@ -1,0 +1,27 @@
+{
+  "name": "Laranel  ",
+  "description": "The collection from onerichgroup #12194",
+  "image": "https://nft.onerichgroup.com/nft/12194.jpg",
+  "dna": "45835asmdjsadya6d7858023bec080e584578",
+  "edition": 1,
+  "date": 1689443117879,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

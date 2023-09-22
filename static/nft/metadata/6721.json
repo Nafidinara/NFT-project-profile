@@ -1,0 +1,28 @@
+{
+    "name": "Gararwen  ",
+    "description": "The collection from onerichgroup #6721",
+    "image": "https://nft.onerichgroup.com/nft/6721.jpg",
+    "dna": "33616asmdjsadya6d7844730bec080e524879",
+    "edition": 1,
+    "date": 1689443116474,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

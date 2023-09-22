@@ -1,0 +1,28 @@
+{
+    "name": "Claradrial  ",
+    "description": "The collection from onerichgroup #58409",
+    "image": "https://nft.onerichgroup.com/nft/58409.jpg",
+    "dna": "29381asmdjsadya6d7827233bec080e569467",
+    "edition": 1,
+    "date": 1689478816010,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

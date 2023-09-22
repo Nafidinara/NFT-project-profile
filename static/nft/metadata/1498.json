@@ -1,0 +1,28 @@
+{
+    "name": "Erlthonriel  ",
+    "description": "The collection from onerichgroup #1498",
+    "image": "https://nft.onerichgroup.com/nft/1498.jpg",
+    "dna": "5492asmdjsadya6d7827098bec080e552758",
+    "edition": 1,
+    "date": 1689443113974,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Celersil  ",
+    "description": "The collection from onerichgroup #8022",
+    "image": "https://nft.onerichgroup.com/nft/8022.jpg",
+    "dna": "65420asmdjsadya6d7854910bec080e599567",
+    "edition": 1,
+    "date": 1689443116843,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

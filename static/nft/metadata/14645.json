@@ -1,0 +1,28 @@
+{
+    "name": "Gelalel  ",
+    "description": "The collection from onerichgroup #14645",
+    "image": "https://nft.onerichgroup.com/nft/14645.jpg",
+    "dna": "15874asmdjsadya6d7856559bec080e5180",
+    "edition": 1,
+    "date": 1689443118491,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

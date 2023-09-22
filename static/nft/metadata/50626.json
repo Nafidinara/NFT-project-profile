@@ -1,0 +1,28 @@
+{
+    "name": "Galalwen  ",
+    "description": "The collection from onerichgroup #50626",
+    "image": "https://nft.onerichgroup.com/nft/50626.jpg",
+    "dna": "14495asmdjsadya6d784610bec080e520924",
+    "edition": 1,
+    "date": 1689478811476,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

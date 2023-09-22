@@ -1,0 +1,28 @@
+{
+    "name": "Ilmirian  ",
+    "description": "The collection from onerichgroup #2587",
+    "image": "https://nft.onerichgroup.com/nft/2587.jpg",
+    "dna": "34670asmdjsadya6d7881963bec080e525456",
+    "edition": 1,
+    "date": 1689443114619,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

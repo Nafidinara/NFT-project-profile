@@ -1,0 +1,28 @@
+{
+    "name": "Ranadwë  ",
+    "description": "The collection from onerichgroup #60300",
+    "image": "https://nft.onerichgroup.com/nft/60300.jpg",
+    "dna": "60625asmdjsadya6d784060bec080e563815",
+    "edition": 1,
+    "date": 1689482664900,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

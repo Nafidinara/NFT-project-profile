@@ -1,0 +1,28 @@
+{
+    "name": "Anareth  ",
+    "description": "The collection from onerichgroup #56258",
+    "image": "https://nft.onerichgroup.com/nft/56258.jpg",
+    "dna": "50782asmdjsadya6d786244bec080e591574",
+    "edition": 1,
+    "date": 1689478815040,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Lorirwen  ",
+  "description": "The collection from onerichgroup #1092",
+  "image": "https://nft.onerichgroup.com/nft/1092.jpg",
+  "dna": "75392asmdjsadya6d7832939bec080e555076",
+  "edition": 1,
+  "date": 1689443113662,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

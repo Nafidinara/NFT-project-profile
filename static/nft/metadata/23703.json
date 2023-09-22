@@ -1,0 +1,28 @@
+{
+    "name": "Rinesril  ",
+    "description": "The collection from onerichgroup #23703",
+    "image": "https://nft.onerichgroup.com/nft/23703.jpg",
+    "dna": "17073asmdjsadya6d787158bec080e593561",
+    "edition": 1,
+    "date": 1689443120287,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

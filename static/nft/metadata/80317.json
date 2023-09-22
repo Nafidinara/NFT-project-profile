@@ -1,0 +1,28 @@
+{
+    "name": "Farevel  ",
+    "description": "The vip collection from onerichgroup #80317",
+    "image": "https://nft.onerichgroup.com/nft/80317.jpg",
+    "dna": "22350iyuirf45edrtd48393vjvtyd45tuy16107",
+    "edition": 1,
+    "date": 1690898983546,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

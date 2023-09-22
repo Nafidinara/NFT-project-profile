@@ -1,0 +1,28 @@
+{
+    "name": "Farareth  ",
+    "description": "The collection from onerichgroup #57166",
+    "image": "https://nft.onerichgroup.com/nft/57166.jpg",
+    "dna": "10848asmdjsadya6d7851175bec080e52769",
+    "edition": 1,
+    "date": 1689478815456,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

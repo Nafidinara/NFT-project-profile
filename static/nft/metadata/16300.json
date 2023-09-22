@@ -1,0 +1,28 @@
+{
+    "name": "Ararrial  ",
+    "description": "The collection from onerichgroup #16300",
+    "image": "https://nft.onerichgroup.com/nft/16300.jpg",
+    "dna": "42402asmdjsadya6d7839428bec080e577568",
+    "edition": 1,
+    "date": 1689443118953,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

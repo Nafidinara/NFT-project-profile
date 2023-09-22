@@ -1,0 +1,27 @@
+{
+  "name": "Loramwen  ",
+  "description": "The collection from onerichgroup #12924",
+  "image": "https://nft.onerichgroup.com/nft/12924.jpg",
+  "dna": "4400asmdjsadya6d7812120bec080e568523",
+  "edition": 1,
+  "date": 1689443118029,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

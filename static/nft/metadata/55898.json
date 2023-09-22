@@ -1,0 +1,28 @@
+{
+    "name": "Erasian  ",
+    "description": "The collection from onerichgroup #55898",
+    "image": "https://nft.onerichgroup.com/nft/55898.jpg",
+    "dna": "24010asmdjsadya6d7823892bec080e536481",
+    "edition": 1,
+    "date": 1689478814808,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

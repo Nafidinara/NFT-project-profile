@@ -1,0 +1,28 @@
+{
+    "name": "Marevrien  ",
+    "description": "The collection from onerichgroup #14222",
+    "image": "https://nft.onerichgroup.com/nft/14222.jpg",
+    "dna": "47076asmdjsadya6d7855410bec080e53767",
+    "edition": 1,
+    "date": 1689443118385,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

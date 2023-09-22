@@ -1,0 +1,28 @@
+{
+    "name": "Ranaliel  ",
+    "description": "The collection from onerichgroup #22482",
+    "image": "https://nft.onerichgroup.com/nft/22482.jpg",
+    "dna": "71761asmdjsadya6d7887108bec080e515858",
+    "edition": 1,
+    "date": 1689443120157,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

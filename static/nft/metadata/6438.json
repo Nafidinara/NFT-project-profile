@@ -1,0 +1,28 @@
+{
+    "name": "Erlalsil  ",
+    "description": "The collection from onerichgroup #6438",
+    "image": "https://nft.onerichgroup.com/nft/6438.jpg",
+    "dna": "56626asmdjsadya6d784154bec080e553770",
+    "edition": 1,
+    "date": 1689443116447,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

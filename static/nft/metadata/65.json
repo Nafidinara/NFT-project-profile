@@ -1,0 +1,28 @@
+{
+    "name": "Carersil  ",
+    "description": "The collection from onerichgroup #65",
+    "image": "https://nft.onerichgroup.com/nft/65.jpg",
+    "dna": "60219asmdjsadya6d7867240bec080e574973",
+    "edition": 1,
+    "date": 1689443113177,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

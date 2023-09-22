@@ -1,0 +1,28 @@
+{
+    "name": "Anedrial  ",
+    "description": "The collection from onerichgroup #51533",
+    "image": "https://nft.onerichgroup.com/nft/51533.jpg",
+    "dna": "20814asmdjsadya6d7852623bec080e565843",
+    "edition": 1,
+    "date": 1689478812344,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

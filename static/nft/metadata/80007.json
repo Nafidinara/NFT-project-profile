@@ -1,0 +1,28 @@
+{
+    "name": "Mararel  ",
+    "description": "The vip collection from onerichgroup #80007",
+    "image": "https://nft.onerichgroup.com/nft/80007.jpg",
+    "dna": "83376iyuirf45edrtd52501vjvtyd45tuy18555",
+    "edition": 1,
+    "date": 1690898982528,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilthaledel  ",
+    "description": "The collection from onerichgroup #60083",
+    "image": "https://nft.onerichgroup.com/nft/60083.jpg",
+    "dna": "46339asmdjsadya6d7810865bec080e575933",
+    "edition": 1,
+    "date": 1689482664848,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Claroledel  ",
+    "description": "The collection from onerichgroup #16040",
+    "image": "https://nft.onerichgroup.com/nft/16040.jpg",
+    "dna": "12722asmdjsadya6d7853611bec080e554964",
+    "edition": 1,
+    "date": 1689443118912,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

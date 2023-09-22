@@ -1,0 +1,27 @@
+{
+  "name": "Ganarian  ",
+  "description": "The collection from onerichgroup #13846",
+  "image": "https://nft.onerichgroup.com/nft/13846.jpg",
+  "dna": "69546asmdjsadya6d7818436bec080e51202",
+  "edition": 1,
+  "date": 1689443118320,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

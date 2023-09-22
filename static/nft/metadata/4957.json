@@ -1,0 +1,28 @@
+{
+    "name": "Gananril  ",
+    "description": "The collection from onerichgroup #4957",
+    "image": "https://nft.onerichgroup.com/nft/4957.jpg",
+    "dna": "42692asmdjsadya6d7866465bec080e559859",
+    "edition": 1,
+    "date": 1689443115880,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

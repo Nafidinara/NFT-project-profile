@@ -1,0 +1,28 @@
+{
+    "name": "Rimirrien  ",
+    "description": "The collection from onerichgroup #47269",
+    "image": "https://nft.onerichgroup.com/nft/47269.jpg",
+    "dna": "18149asmdjsadya6d7883914bec080e510094",
+    "edition": 1,
+    "date": 1689443122380,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

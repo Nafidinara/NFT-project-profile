@@ -1,0 +1,28 @@
+{
+    "name": "Gelilril  ",
+    "description": "The collection from onerichgroup #1827",
+    "image": "https://nft.onerichgroup.com/nft/1827.jpg",
+    "dna": "61049asmdjsadya6d7851158bec080e590429",
+    "edition": 1,
+    "date": 1689443114239,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

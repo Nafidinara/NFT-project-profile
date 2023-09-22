@@ -1,0 +1,28 @@
+{
+    "name": "Erladriel  ",
+    "description": "The collection from onerichgroup #709",
+    "image": "https://nft.onerichgroup.com/nft/709.jpg",
+    "dna": "66392asmdjsadya6d7836742bec080e590512",
+    "edition": 1,
+    "date": 1689443113548,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

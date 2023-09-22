@@ -1,0 +1,28 @@
+{
+    "name": "Niminriel  ",
+    "description": "The vip collection from onerichgroup #80878",
+    "image": "https://nft.onerichgroup.com/nft/80878.jpg",
+    "dna": "59947iyuirf45edrtd4138vjvtyd45tuy87969",
+    "edition": 1,
+    "date": 1690898985462,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

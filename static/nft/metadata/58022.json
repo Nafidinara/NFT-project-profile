@@ -1,0 +1,28 @@
+{
+    "name": "Cararrial  ",
+    "description": "The collection from onerichgroup #58022",
+    "image": "https://nft.onerichgroup.com/nft/58022.jpg",
+    "dna": "53183asmdjsadya6d7811367bec080e538193",
+    "edition": 1,
+    "date": 1689478815791,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

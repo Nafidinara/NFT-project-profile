@@ -1,0 +1,28 @@
+{
+    "name": "Clarthalmir  ",
+    "description": "The collection from onerichgroup #22345",
+    "image": "https://nft.onerichgroup.com/nft/22345.jpg",
+    "dna": "99185asmdjsadya6d7845337bec080e55847",
+    "edition": 1,
+    "date": 1689443120142,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

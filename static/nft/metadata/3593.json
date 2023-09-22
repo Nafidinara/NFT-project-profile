@@ -1,0 +1,28 @@
+{
+    "name": "Caredloth  ",
+    "description": "The collection from onerichgroup #3593",
+    "image": "https://nft.onerichgroup.com/nft/3593.jpg",
+    "dna": "29346asmdjsadya6d7878002bec080e540619",
+    "edition": 1,
+    "date": 1689443115123,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

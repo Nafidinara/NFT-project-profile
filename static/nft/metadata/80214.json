@@ -1,0 +1,28 @@
+{
+    "name": "Finenriel  ",
+    "description": "The vip collection from onerichgroup #80214",
+    "image": "https://nft.onerichgroup.com/nft/80214.jpg",
+    "dna": "29155iyuirf45edrtd72331vjvtyd45tuy68318",
+    "edition": 1,
+    "date": 1690898983388,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

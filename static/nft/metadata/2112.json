@@ -1,0 +1,28 @@
+{
+    "name": "Galemrian  ",
+    "description": "The collection from onerichgroup #2112",
+    "image": "https://nft.onerichgroup.com/nft/2112.jpg",
+    "dna": "99998asmdjsadya6d7841730bec080e58108",
+    "edition": 1,
+    "date": 1689443114383,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

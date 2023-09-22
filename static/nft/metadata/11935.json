@@ -1,0 +1,27 @@
+{
+  "name": "Laradwen  ",
+  "description": "The collection from onerichgroup #11935",
+  "image": "https://nft.onerichgroup.com/nft/11935.jpg",
+  "dna": "68663asmdjsadya6d7826955bec080e573398",
+  "edition": 1,
+  "date": 1689443117810,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Calirrial  ",
+    "description": "The collection from onerichgroup #2593",
+    "image": "https://nft.onerichgroup.com/nft/2593.jpg",
+    "dna": "96401asmdjsadya6d7869831bec080e533900",
+    "edition": 1,
+    "date": 1689443114620,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

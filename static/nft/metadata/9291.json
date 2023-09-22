@@ -1,0 +1,28 @@
+{
+    "name": "Eleliel  ",
+    "description": "The collection from onerichgroup #9291",
+    "image": "https://nft.onerichgroup.com/nft/9291.jpg",
+    "dna": "89604asmdjsadya6d7815441bec080e579738",
+    "edition": 1,
+    "date": 1689443117316,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

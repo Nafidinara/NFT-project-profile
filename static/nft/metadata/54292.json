@@ -1,0 +1,28 @@
+{
+    "name": "Clarevroël  ",
+    "description": "The collection from onerichgroup #54292",
+    "image": "https://nft.onerichgroup.com/nft/54292.jpg",
+    "dna": "63752asmdjsadya6d7826963bec080e565105",
+    "edition": 1,
+    "date": 1689478813966,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

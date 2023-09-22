@@ -1,0 +1,28 @@
+{
+    "name": "Estirwen  ",
+    "description": "The collection from onerichgroup #2490",
+    "image": "https://nft.onerichgroup.com/nft/2490.jpg",
+    "dna": "99024asmdjsadya6d7856105bec080e57291",
+    "edition": 1,
+    "date": 1689443114571,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

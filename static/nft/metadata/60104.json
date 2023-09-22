@@ -1,0 +1,28 @@
+{
+    "name": "Garaniel  ",
+    "description": "The collection from onerichgroup #60104",
+    "image": "https://nft.onerichgroup.com/nft/60104.jpg",
+    "dna": "98096asmdjsadya6d7895672bec080e589878",
+    "edition": 1,
+    "date": 1689482664854,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

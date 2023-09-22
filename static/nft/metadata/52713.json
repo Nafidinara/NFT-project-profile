@@ -1,0 +1,28 @@
+{
+    "name": "Loraswen  ",
+    "description": "The collection from onerichgroup #52713",
+    "image": "https://nft.onerichgroup.com/nft/52713.jpg",
+    "dna": "31349asmdjsadya6d7878758bec080e578717",
+    "edition": 1,
+    "date": 1689478813208,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Relolmir  ",
+    "description": "The collection from onerichgroup #3030",
+    "image": "https://nft.onerichgroup.com/nft/3030.jpg",
+    "dna": "52375asmdjsadya6d7888032bec080e592934",
+    "edition": 1,
+    "date": 1689443114752,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

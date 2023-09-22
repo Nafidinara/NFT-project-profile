@@ -1,0 +1,28 @@
+{
+    "name": "Erthalrial  ",
+    "description": "The collection from onerichgroup #57993",
+    "image": "https://nft.onerichgroup.com/nft/57993.jpg",
+    "dna": "32009asmdjsadya6d7830487bec080e530480",
+    "edition": 1,
+    "date": 1689478815783,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

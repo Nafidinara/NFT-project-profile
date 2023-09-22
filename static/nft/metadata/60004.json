@@ -1,0 +1,28 @@
+{
+    "name": "Aremedel  ",
+    "description": "The collection from onerichgroup #60004",
+    "image": "https://nft.onerichgroup.com/nft/60004.jpg",
+    "dna": "26168asmdjsadya6d7819917bec080e532670",
+    "edition": 1,
+    "date": 1689482664827,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

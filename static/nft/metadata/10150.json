@@ -1,0 +1,27 @@
+{
+  "name": "Lirthonwë  ",
+  "description": "The collection from onerichgroup #10150",
+  "image": "https://nft.onerichgroup.com/nft/10150.jpg",
+  "dna": "82306asmdjsadya6d7858286bec080e547804",
+  "edition": 1,
+  "date": 1689443117473,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

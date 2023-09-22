@@ -1,0 +1,28 @@
+{
+    "name": "Laraliel  ",
+    "description": "The collection from onerichgroup #3576",
+    "image": "https://nft.onerichgroup.com/nft/3576.jpg",
+    "dna": "74075asmdjsadya6d7861060bec080e551760",
+    "edition": 1,
+    "date": 1689443115096,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Isteswë  ",
+    "description": "The collection from onerichgroup #22024",
+    "image": "https://nft.onerichgroup.com/nft/22024.jpg",
+    "dna": "18411asmdjsadya6d7847217bec080e583294",
+    "edition": 1,
+    "date": 1689443120037,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erleleth  ",
+    "description": "The collection from onerichgroup #3072",
+    "image": "https://nft.onerichgroup.com/nft/3072.jpg",
+    "dna": "15903asmdjsadya6d7871254bec080e588877",
+    "edition": 1,
+    "date": 1689443114802,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

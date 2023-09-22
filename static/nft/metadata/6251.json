@@ -1,0 +1,28 @@
+{
+    "name": "Ranirwen  ",
+    "description": "The collection from onerichgroup #6251",
+    "image": "https://nft.onerichgroup.com/nft/6251.jpg",
+    "dna": "53017asmdjsadya6d7881928bec080e545221",
+    "edition": 1,
+    "date": 1689443116426,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

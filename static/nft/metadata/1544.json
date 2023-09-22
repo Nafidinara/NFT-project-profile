@@ -1,0 +1,28 @@
+{
+    "name": "Anoledel  ",
+    "description": "The collection from onerichgroup #1544",
+    "image": "https://nft.onerichgroup.com/nft/1544.jpg",
+    "dna": "97587asmdjsadya6d7842652bec080e513525",
+    "edition": 1,
+    "date": 1689443113994,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

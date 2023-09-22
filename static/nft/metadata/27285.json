@@ -1,0 +1,28 @@
+{
+    "name": "Clarelril  ",
+    "description": "The collection from onerichgroup #27285",
+    "image": "https://nft.onerichgroup.com/nft/27285.jpg",
+    "dna": "77094asmdjsadya6d7840586bec080e532283",
+    "edition": 1,
+    "date": 1689443120726,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

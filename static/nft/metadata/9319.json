@@ -1,0 +1,28 @@
+{
+    "name": "Cirariel  ",
+    "description": "The collection from onerichgroup #9319",
+    "image": "https://nft.onerichgroup.com/nft/9319.jpg",
+    "dna": "37991asmdjsadya6d7890768bec080e512719",
+    "edition": 1,
+    "date": 1689443117321,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ranemien  ",
+    "description": "The collection from onerichgroup #1781",
+    "image": "https://nft.onerichgroup.com/nft/1781.jpg",
+    "dna": "48198asmdjsadya6d7893649bec080e531780",
+    "edition": 1,
+    "date": 1689443114211,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

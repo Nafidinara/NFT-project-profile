@@ -1,0 +1,28 @@
+{
+    "name": "Erladrial  ",
+    "description": "The collection from onerichgroup #31284",
+    "image": "https://nft.onerichgroup.com/nft/31284.jpg",
+    "dna": "46379asmdjsadya6d7818840bec080e5741",
+    "edition": 1,
+    "date": 1689443121240,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

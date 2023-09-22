@@ -1,0 +1,28 @@
+{
+    "name": "Lorevian  ",
+    "description": "The collection from onerichgroup #59593",
+    "image": "https://nft.onerichgroup.com/nft/59593.jpg",
+    "dna": "84034asmdjsadya6d7869476bec080e577880",
+    "edition": 1,
+    "date": 1689478816451,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

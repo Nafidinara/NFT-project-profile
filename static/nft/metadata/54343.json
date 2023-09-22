@@ -1,0 +1,28 @@
+{
+    "name": "Imamroël  ",
+    "description": "The collection from onerichgroup #54343",
+    "image": "https://nft.onerichgroup.com/nft/54343.jpg",
+    "dna": "54751asmdjsadya6d7855383bec080e587241",
+    "edition": 1,
+    "date": 1689478814010,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

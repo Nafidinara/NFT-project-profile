@@ -1,0 +1,28 @@
+{
+    "name": "Gelesel  ",
+    "description": "The collection from onerichgroup #4991",
+    "image": "https://nft.onerichgroup.com/nft/4991.jpg",
+    "dna": "5567asmdjsadya6d785392bec080e586455",
+    "edition": 1,
+    "date": 1689443115892,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

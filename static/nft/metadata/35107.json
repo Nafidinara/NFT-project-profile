@@ -1,0 +1,28 @@
+{
+    "name": "Gilebel  ",
+    "description": "The collection from onerichgroup #35107",
+    "image": "https://nft.onerichgroup.com/nft/35107.jpg",
+    "dna": "82962asmdjsadya6d784767bec080e514301",
+    "edition": 1,
+    "date": 1689443121607,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Fineswë  ",
+    "description": "The collection from onerichgroup #31364",
+    "image": "https://nft.onerichgroup.com/nft/31364.jpg",
+    "dna": "79816asmdjsadya6d7810210bec080e55742",
+    "edition": 1,
+    "date": 1689443121244,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

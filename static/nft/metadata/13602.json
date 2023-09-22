@@ -1,0 +1,27 @@
+{
+  "name": "Elbinriel  ",
+  "description": "The collection from onerichgroup #13602",
+  "image": "https://nft.onerichgroup.com/nft/13602.jpg",
+  "dna": "21090asmdjsadya6d7894510bec080e570073",
+  "edition": 1,
+  "date": 1689443118270,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

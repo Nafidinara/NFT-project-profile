@@ -1,0 +1,28 @@
+{
+    "name": "Irilroël  ",
+    "description": "The collection from onerichgroup #5912",
+    "image": "https://nft.onerichgroup.com/nft/5912.jpg",
+    "dna": "9965asmdjsadya6d7856442bec080e584554",
+    "edition": 1,
+    "date": 1689443116328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rilenian  ",
+    "description": "The collection from onerichgroup #3496",
+    "image": "https://nft.onerichgroup.com/nft/3496.jpg",
+    "dna": "53952asmdjsadya6d7861663bec080e598202",
+    "edition": 1,
+    "date": 1689443115073,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

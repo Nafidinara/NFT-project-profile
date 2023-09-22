@@ -1,0 +1,28 @@
+{
+    "name": "Merebriel  ",
+    "description": "The collection from onerichgroup #60891",
+    "image": "https://nft.onerichgroup.com/nft/60891.jpg",
+    "dna": "38652asmdjsadya6d7841922bec080e540307",
+    "edition": 1,
+    "date": 1689482665359,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

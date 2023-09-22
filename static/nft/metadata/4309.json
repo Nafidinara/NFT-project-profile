@@ -1,0 +1,28 @@
+{
+    "name": "Istineth  ",
+    "description": "The collection from onerichgroup #4309",
+    "image": "https://nft.onerichgroup.com/nft/4309.jpg",
+    "dna": "18836asmdjsadya6d7844920bec080e558680",
+    "edition": 1,
+    "date": 1689443115529,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Arebwen  ",
+    "description": "The collection from onerichgroup #1685",
+    "image": "https://nft.onerichgroup.com/nft/1685.jpg",
+    "dna": "88237asmdjsadya6d7814560bec080e549953",
+    "edition": 1,
+    "date": 1689443114139,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

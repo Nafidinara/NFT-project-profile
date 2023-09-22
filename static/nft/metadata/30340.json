@@ -1,0 +1,28 @@
+{
+    "name": "Gilinedel  ",
+    "description": "The collection from onerichgroup #30340",
+    "image": "https://nft.onerichgroup.com/nft/30340.jpg",
+    "dna": "15804asmdjsadya6d7813855bec080e575258",
+    "edition": 1,
+    "date": 1689443121166,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Calarel  ",
+    "description": "The collection from onerichgroup #9254",
+    "image": "https://nft.onerichgroup.com/nft/9254.jpg",
+    "dna": "68262asmdjsadya6d7843408bec080e589740",
+    "edition": 1,
+    "date": 1689443117307,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

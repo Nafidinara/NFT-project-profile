@@ -1,0 +1,28 @@
+{
+    "name": "Niramrian  ",
+    "description": "The collection from onerichgroup #4079",
+    "image": "https://nft.onerichgroup.com/nft/4079.jpg",
+    "dna": "75090asmdjsadya6d782715bec080e565346",
+    "edition": 1,
+    "date": 1689443115410,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

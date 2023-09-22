@@ -1,0 +1,28 @@
+{
+    "name": "Niradwë  ",
+    "description": "The collection from onerichgroup #5993",
+    "image": "https://nft.onerichgroup.com/nft/5993.jpg",
+    "dna": "83914asmdjsadya6d783791bec080e527898",
+    "edition": 1,
+    "date": 1689443116357,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

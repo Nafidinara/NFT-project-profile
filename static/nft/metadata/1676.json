@@ -1,0 +1,28 @@
+{
+    "name": "Galolmir  ",
+    "description": "The collection from onerichgroup #1676",
+    "image": "https://nft.onerichgroup.com/nft/1676.jpg",
+    "dna": "8587asmdjsadya6d7852150bec080e519085",
+    "edition": 1,
+    "date": 1689443114133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

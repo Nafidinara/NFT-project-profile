@@ -1,0 +1,28 @@
+{
+    "name": "Lirelwë  ",
+    "description": "The collection from onerichgroup #17047",
+    "image": "https://nft.onerichgroup.com/nft/17047.jpg",
+    "dna": "49429asmdjsadya6d7883020bec080e583287",
+    "edition": 1,
+    "date": 1689443119233,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

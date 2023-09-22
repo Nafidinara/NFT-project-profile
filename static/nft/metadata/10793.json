@@ -1,0 +1,27 @@
+{
+  "name": "Rinadriel  ",
+  "description": "The collection from onerichgroup #10793",
+  "image": "https://nft.onerichgroup.com/nft/10793.jpg",
+  "dna": "7660asmdjsadya6d7880763bec080e581687",
+  "edition": 1,
+  "date": 1689443117522,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

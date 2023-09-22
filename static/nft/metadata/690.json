@@ -1,0 +1,28 @@
+{
+    "name": "Inaswen  ",
+    "description": "The collection from onerichgroup #690",
+    "image": "https://nft.onerichgroup.com/nft/690.jpg",
+    "dna": "20103asmdjsadya6d7827945bec080e545731",
+    "edition": 1,
+    "date": 1689443113545,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

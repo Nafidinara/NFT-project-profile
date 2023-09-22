@@ -1,0 +1,28 @@
+{
+    "name": "Anthalwen  ",
+    "description": "The collection from onerichgroup #13912",
+    "image": "https://nft.onerichgroup.com/nft/13912.jpg",
+    "dna": "81377asmdjsadya6d7891467bec080e566937",
+    "edition": 1,
+    "date": 1689443118337,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

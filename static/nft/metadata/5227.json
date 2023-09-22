@@ -1,0 +1,28 @@
+{
+    "name": "Fineliel  ",
+    "description": "The collection from onerichgroup #5227",
+    "image": "https://nft.onerichgroup.com/nft/5227.jpg",
+    "dna": "62086asmdjsadya6d7847163bec080e580225",
+    "edition": 1,
+    "date": 1689443115998,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

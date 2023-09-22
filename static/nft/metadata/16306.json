@@ -1,0 +1,28 @@
+{
+    "name": "Miramel  ",
+    "description": "The collection from onerichgroup #16306",
+    "image": "https://nft.onerichgroup.com/nft/16306.jpg",
+    "dna": "19010asmdjsadya6d7850604bec080e526367",
+    "edition": 1,
+    "date": 1689443118953,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

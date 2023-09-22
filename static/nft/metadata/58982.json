@@ -1,0 +1,28 @@
+{
+    "name": "Celiledel  ",
+    "description": "The collection from onerichgroup #58982",
+    "image": "https://nft.onerichgroup.com/nft/58982.jpg",
+    "dna": "3364asmdjsadya6d7842705bec080e553932",
+    "edition": 1,
+    "date": 1689478816179,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

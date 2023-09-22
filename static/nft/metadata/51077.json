@@ -1,0 +1,28 @@
+{
+    "name": "Giladloth  ",
+    "description": "The collection from onerichgroup #51077",
+    "image": "https://nft.onerichgroup.com/nft/51077.jpg",
+    "dna": "34533asmdjsadya6d7847394bec080e52812",
+    "edition": 1,
+    "date": 1689478811888,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Calemsil  ",
+    "description": "The collection from onerichgroup #20524",
+    "image": "https://nft.onerichgroup.com/nft/20524.jpg",
+    "dna": "39917asmdjsadya6d7835755bec080e599574",
+    "edition": 1,
+    "date": 1689443119812,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

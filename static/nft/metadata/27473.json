@@ -1,0 +1,28 @@
+{
+    "name": "Ranedrian  ",
+    "description": "The collection from onerichgroup #27473",
+    "image": "https://nft.onerichgroup.com/nft/27473.jpg",
+    "dna": "92221asmdjsadya6d7886653bec080e528698",
+    "edition": 1,
+    "date": 1689443120737,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

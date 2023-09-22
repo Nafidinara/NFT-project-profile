@@ -1,0 +1,27 @@
+{
+  "name": "Ralthaleth  ",
+  "description": "The collection from onerichgroup #11682",
+  "image": "https://nft.onerichgroup.com/nft/11682.jpg",
+  "dna": "75436asmdjsadya6d7813920bec080e562343",
+  "edition": 1,
+  "date": 1689443117712,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

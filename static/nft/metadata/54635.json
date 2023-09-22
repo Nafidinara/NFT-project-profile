@@ -1,0 +1,28 @@
+{
+    "name": "Rinerril  ",
+    "description": "The collection from onerichgroup #54635",
+    "image": "https://nft.onerichgroup.com/nft/54635.jpg",
+    "dna": "57954asmdjsadya6d781046bec080e5708",
+    "edition": 1,
+    "date": 1689478814121,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

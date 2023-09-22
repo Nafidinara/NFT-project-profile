@@ -1,0 +1,28 @@
+{
+    "name": "Maralmir  ",
+    "description": "The collection from onerichgroup #22789",
+    "image": "https://nft.onerichgroup.com/nft/22789.jpg",
+    "dna": "88432asmdjsadya6d7852742bec080e589155",
+    "edition": 1,
+    "date": 1689443120184,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

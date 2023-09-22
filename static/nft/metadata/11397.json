@@ -1,0 +1,27 @@
+{
+  "name": "Elbamroël  ",
+  "description": "The collection from onerichgroup #11397",
+  "image": "https://nft.onerichgroup.com/nft/11397.jpg",
+  "dna": "23953asmdjsadya6d7847305bec080e535403",
+  "edition": 1,
+  "date": 1689443117594,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

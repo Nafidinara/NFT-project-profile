@@ -1,0 +1,28 @@
+{
+    "name": "Imebedel  ",
+    "description": "The collection from onerichgroup #55840",
+    "image": "https://nft.onerichgroup.com/nft/55840.jpg",
+    "dna": "85532asmdjsadya6d7862155bec080e555148",
+    "edition": 1,
+    "date": 1689478814792,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

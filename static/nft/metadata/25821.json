@@ -1,0 +1,28 @@
+{
+    "name": "Imolroël  ",
+    "description": "The collection from onerichgroup #25821",
+    "image": "https://nft.onerichgroup.com/nft/25821.jpg",
+    "dna": "71688asmdjsadya6d7862719bec080e553202",
+    "edition": 1,
+    "date": 1689443120618,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

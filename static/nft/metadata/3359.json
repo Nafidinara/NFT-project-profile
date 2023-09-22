@@ -1,0 +1,28 @@
+{
+    "name": "Rimthalroël  ",
+    "description": "The collection from onerichgroup #3359",
+    "image": "https://nft.onerichgroup.com/nft/3359.jpg",
+    "dna": "53853asmdjsadya6d7866276bec080e553684",
+    "edition": 1,
+    "date": 1689443115031,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

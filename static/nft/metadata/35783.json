@@ -1,0 +1,28 @@
+{
+    "name": "Marthonriel  ",
+    "description": "The collection from onerichgroup #35783",
+    "image": "https://nft.onerichgroup.com/nft/35783.jpg",
+    "dna": "68328asmdjsadya6d7841985bec080e592013",
+    "edition": 1,
+    "date": 1689443121636,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

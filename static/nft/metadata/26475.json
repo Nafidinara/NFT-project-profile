@@ -1,0 +1,28 @@
+{
+    "name": "Cirammir  ",
+    "description": "The collection from onerichgroup #26475",
+    "image": "https://nft.onerichgroup.com/nft/26475.jpg",
+    "dna": "30122asmdjsadya6d7814329bec080e589030",
+    "edition": 1,
+    "date": 1689443120662,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

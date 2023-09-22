@@ -1,0 +1,28 @@
+{
+    "name": "Lirthonien  ",
+    "description": "The collection from onerichgroup #57967",
+    "image": "https://nft.onerichgroup.com/nft/57967.jpg",
+    "dna": "74077asmdjsadya6d7845829bec080e550465",
+    "edition": 1,
+    "date": 1689478815775,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

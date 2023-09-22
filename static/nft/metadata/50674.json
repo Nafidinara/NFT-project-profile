@@ -1,0 +1,28 @@
+{
+    "name": "Faralrial  ",
+    "description": "The collection from onerichgroup #50674",
+    "image": "https://nft.onerichgroup.com/nft/50674.jpg",
+    "dna": "18439asmdjsadya6d7877840bec080e550537",
+    "edition": 1,
+    "date": 1689478811531,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erlolian  ",
+    "description": "The collection from onerichgroup #54834",
+    "image": "https://nft.onerichgroup.com/nft/54834.jpg",
+    "dna": "26870asmdjsadya6d7823015bec080e59135",
+    "edition": 1,
+    "date": 1689478814303,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

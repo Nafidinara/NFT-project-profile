@@ -1,0 +1,28 @@
+{
+    "name": "Lirasel  ",
+    "description": "The collection from onerichgroup #3695",
+    "image": "https://nft.onerichgroup.com/nft/3695.jpg",
+    "dna": "11114asmdjsadya6d7864558bec080e598810",
+    "edition": 1,
+    "date": 1689443115209,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

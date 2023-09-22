@@ -1,0 +1,28 @@
+{
+    "name": "Relamsil  ",
+    "description": "The collection from onerichgroup #41570",
+    "image": "https://nft.onerichgroup.com/nft/41570.jpg",
+    "dna": "38716asmdjsadya6d7865231bec080e537763",
+    "edition": 1,
+    "date": 1689443122059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

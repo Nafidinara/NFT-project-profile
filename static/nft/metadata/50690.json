@@ -1,0 +1,28 @@
+{
+    "name": "Cirelriel  ",
+    "description": "The collection from onerichgroup #50690",
+    "image": "https://nft.onerichgroup.com/nft/50690.jpg",
+    "dna": "86821asmdjsadya6d7841559bec080e557719",
+    "edition": 1,
+    "date": 1689478811541,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

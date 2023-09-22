@@ -1,0 +1,28 @@
+{
+    "name": "Celebel  ",
+    "description": "The collection from onerichgroup #7635",
+    "image": "https://nft.onerichgroup.com/nft/7635.jpg",
+    "dna": "9024asmdjsadya6d7864959bec080e539092",
+    "edition": 1,
+    "date": 1689443116622,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

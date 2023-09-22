@@ -1,0 +1,27 @@
+{
+  "name": "Lirinel  ",
+  "description": "The collection from onerichgroup #12401",
+  "image": "https://nft.onerichgroup.com/nft/12401.jpg",
+  "dna": "82742asmdjsadya6d7884748bec080e554547",
+  "edition": 1,
+  "date": 1689443117921,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

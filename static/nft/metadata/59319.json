@@ -1,0 +1,28 @@
+{
+    "name": "Lorthalien  ",
+    "description": "The collection from onerichgroup #59319",
+    "image": "https://nft.onerichgroup.com/nft/59319.jpg",
+    "dna": "96246asmdjsadya6d7860509bec080e551062",
+    "edition": 1,
+    "date": 1689478816317,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

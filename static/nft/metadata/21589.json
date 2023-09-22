@@ -1,0 +1,28 @@
+{
+    "name": "Galolsil  ",
+    "description": "The collection from onerichgroup #21589",
+    "image": "https://nft.onerichgroup.com/nft/21589.jpg",
+    "dna": "22218asmdjsadya6d7844085bec080e588235",
+    "edition": 1,
+    "date": 1689443119938,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

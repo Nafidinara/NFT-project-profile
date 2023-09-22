@@ -1,0 +1,28 @@
+{
+    "name": "Ererwen  ",
+    "description": "The collection from onerichgroup #29",
+    "image": "https://nft.onerichgroup.com/nft/29.jpg",
+    "dna": "24542asmdjsadya6d7892850bec080e574818",
+    "edition": 1,
+    "date": 1689443113155,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

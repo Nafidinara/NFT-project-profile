@@ -1,0 +1,28 @@
+{
+    "name": "Faradien  ",
+    "description": "The collection from onerichgroup #51358",
+    "image": "https://nft.onerichgroup.com/nft/51358.jpg",
+    "dna": "63879asmdjsadya6d7822332bec080e599556",
+    "edition": 1,
+    "date": 1689478812177,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

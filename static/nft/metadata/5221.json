@@ -1,0 +1,28 @@
+{
+    "name": "Anirwë  ",
+    "description": "The collection from onerichgroup #5221",
+    "image": "https://nft.onerichgroup.com/nft/5221.jpg",
+    "dna": "44131asmdjsadya6d7879333bec080e593597",
+    "edition": 1,
+    "date": 1689443115996,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Rimemiel  ",
+  "description": "The collection from onerichgroup #13116",
+  "image": "https://nft.onerichgroup.com/nft/13116.jpg",
+  "dna": "70277asmdjsadya6d7897109bec080e578814",
+  "edition": 1,
+  "date": 1689443118079,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

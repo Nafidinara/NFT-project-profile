@@ -1,0 +1,28 @@
+{
+    "name": "Erleliel  ",
+    "description": "The collection from onerichgroup #50684",
+    "image": "https://nft.onerichgroup.com/nft/50684.jpg",
+    "dna": "43232asmdjsadya6d7882350bec080e599456",
+    "edition": 1,
+    "date": 1689478811537,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

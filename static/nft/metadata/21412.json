@@ -1,0 +1,28 @@
+{
+    "name": "Garanroël  ",
+    "description": "The collection from onerichgroup #21412",
+    "image": "https://nft.onerichgroup.com/nft/21412.jpg",
+    "dna": "11483asmdjsadya6d782561bec080e516478",
+    "edition": 1,
+    "date": 1689443119919,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilthoniel  ",
+    "description": "The collection from onerichgroup #17191",
+    "image": "https://nft.onerichgroup.com/nft/17191.jpg",
+    "dna": "76299asmdjsadya6d7850332bec080e551477",
+    "edition": 1,
+    "date": 1689443119248,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

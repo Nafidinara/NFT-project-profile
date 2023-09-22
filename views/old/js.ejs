@@ -1,0 +1,294 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/web3/4.0.2/web3.min.js"
+    integrity="sha512-4D1Ssn7wnKX8wN5ngp9Gq+r5paUi7N+lYQO8/Mhr4djP6BDjErM9IxpaayiU0VuQKrU7wCc/+Y8ZZ9IM2lyS1Q=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+
+    function setCookie(name, value, days = 1) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return "";
+    }
+
+    function eraseCookie(name) {
+        document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+
+    async function sign() {
+
+        if (typeof window.ethereum !== 'undefined') {
+            // warning('MetaMask | Trustwallet is installed!');
+        } else {
+            warning('MetaMask | Trustwallet is required!');
+            return;
+        }
+
+        try {
+
+            await ethereum.request({
+                method: 'eth_requestAccounts'
+            });
+            const web3 = new Web3(ethereum);
+            let accounts = await ethereum.request({
+                method: 'eth_accounts'
+            });
+            var account = accounts[0];
+            console.log(account);
+            if (account) {
+
+                var message = `Sign ${account} to valhallaworld from vikinghero ${Date.now()}`;
+                let sign = await ethereum.request({
+                    method: 'personal_sign',
+                    params: [message, account],
+                });
+                setCookie("message", message);
+                setCookie("token", sign);
+                setCookie("addr", account);
+
+                $(".addr").text(account.substring(0, 5) + ".." + account.substring(35, 42));
+
+
+                login();
+
+
+
+
+
+
+
+            }
+
+
+
+            let token = getCookie("token");
+            let msg = getCookie("message");
+
+
+        } catch (error) {
+            console.log(error);
+        }
+
+
+
+    }
+
+    async function logout() {
+
+        setCookie("message", "");
+        setCookie("token", "");
+        setCookie("addr", "");
+
+        location.href = "/"
+
+    }
+
+
+    async function login() {
+        var a = getCookie("addr");
+        var m = getCookie("message");
+        var t = getCookie("token");
+
+
+
+        let d = {
+            addr: a,
+            msg: m,
+            token: t
+        }
+        let u = "https://api.valhallaworld.net/api/login";
+        $.post(u, d)
+            .done(function (d) {
+                console.log(location.href);
+
+
+                if (d.status) {
+
+
+
+
+                    if (location.href.includes(".html") == false) location.href = "/pages/dashboard.html"
+
+
+
+                }
+
+                else {
+                    if (location.href.includes(".html")) location.href = "/";
+                    logout();
+                }
+            });
+
+
+    }
+
+    if (getCookie("addr").length > 10)
+        profile();
+
+
+    async function profile() {
+        var a = getCookie("addr");
+        var t = getCookie("token");
+
+        let d = {
+            addr: a,
+
+            token: t
+        }
+        let u = "https://api.valhallaworld.net/api/profile";
+        $.post(u, d)
+            .done(function (d) {
+                console.log(d);
+                if (d.status) {
+
+                    setCookie("id", d.data.id);
+
+
+                    $(".addrv").val(a.substring(0, 10) + "..." + a.substring(32, 42));
+                    $(".t_komisi").html((d.data.t_komisi * 1).toFixed(2));
+                    $(".o_kiri").html((d.data.o_kiri * 1).toFixed(2));
+                    $(".o_kanan").html((d.data.o_kanan * 1).toFixed(2));
+                    $(".withdraw").html((d.data.withdraw * 1).toFixed(2));
+                    // $(".t_deposit").html((d.data.deposit * 1).toFixed(2));
+                    // $(".t_withdraw").html((d.data.withdraw * 1).toFixed(2));
+                    // $(".u_reward_deposit").html((d.data.reward_deposit * 1).toFixed(2));
+                    // $(".u_reward_network").html((d.data.reward_network * 1).toFixed(2));
+                    // $(".u_hashrate").html((d.data.hashrate * 1).toFixed(2));
+                    // $(".u_userid").html((d.data.userid * 1));
+                    // $(".okananf").html((d.data.okananf * 1).toFixed(2));
+                    // $(".okirif").html((d.data.okirif * 1).toFixed(2));
+                    // $(".busd").html((d.data.busd * 1).toFixed(2));
+
+                    if (location.href.includes(".html") == false) location.href = "/pages/dashboard.html";
+
+
+
+                    if (d.txt.length > 0) {
+                        let a = "";
+                        d.txt.forEach(e => {
+
+                            a += `
+                            <tr>
+                                    <td>
+                                        <div class="d-flex px-2 py-1">
+
+                                            <div class="d-flex flex-column justify-content-center">
+                                                <h6 class="mb-0 text-sm">${e.id}</h6>
+                                            </div>
+                                        </div>
+                                    </td>
+                                   
+                                    <td class="align-middle text-center text-sm">
+                                        <span class="text-xs font-weight-bold">${e.amount} </span>
+                                    </td>
+                                    <td class="align-middle text-center">
+                                       
+                                           ${e.ket}
+                                       
+                                    </td>
+                                </tr>
+                               
+                            `;
+
+                        });
+
+
+                        $("#txs").html(a);
+                    }
+
+
+
+                } else {
+                    logout();
+                    if (location.href.includes(".html")) location.href = "/";
+                }
+
+            });
+
+
+    }
+
+
+    async function downline(id) {
+
+        let d = {
+            id: id
+        }
+        let u = "https://api.valhallaworld.net/api/downline";
+        $.post(u, d)
+            .done(function (d) {
+                console.log(d);
+                if (d.status) {
+
+                    let a = "";
+                    d.data.forEach(e => {
+                        a += `
+                    <tr>
+                    <td>
+                      <div class="d-flex px-2 py-1">
+                        <div>
+                          <img src="../assets/img/team-2.jpg" class="avatar avatar-sm me-3 border-radius-lg"
+                            alt="user1">
+                        </div>
+                        <div class="d-flex flex-column justify-content-center">
+                          <h6 class="mb-0 text-sm">${e.userid}</h6>
+                          <p class="text-xs text-secondary mb-0" title="${e.addr}">${e.addr.substring(0, 10) + "..." + e.addr.substring(32, 42)}</p>
+                        </div>
+                      </div>
+                    </td>
+
+                    <td class="align-middle text-center text-sm">
+                      <span class="badge badge-sm bg-gradient-success">Online</span>
+                    </td>
+
+
+                  </tr>
+                  `;
+                    });
+
+
+                    $("#downlinelist").html(a);
+
+                }
+            });
+    }
+
+
+
+    setCookie("addthis", "0");
+
+    function addthis(id, userid) {
+        // $("#modal-danger-data").html(`Select the + Button on network tree to add ${ userid} .`);
+        setCookie("addthis", id);
+        // $(".userclass").removeClass("bg-info")
+        // $("." +  userid).addClass("bg-info")
+        $(".selected").hide();
+        $(".unselected").removeClass("btn-success");
+        $(".unselected").addClass("btn-warning");
+        $(".selected" + id).addClass("btn-success");
+        $(".selected" + id).removeClass("btn-warning");
+
+
+        $(".unselected").show();
+        $(".unselected" + id).hide();
+        $(".selected" + id).show();
+
+
+        // $('#modal-danger').modal('show');
+    }
+
+</script>

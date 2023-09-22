@@ -1,0 +1,28 @@
+{
+    "name": "Melalroël  ",
+    "description": "The collection from onerichgroup #57428",
+    "image": "https://nft.onerichgroup.com/nft/57428.jpg",
+    "dna": "36760asmdjsadya6d7820396bec080e58829",
+    "edition": 1,
+    "date": 1689478815541,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

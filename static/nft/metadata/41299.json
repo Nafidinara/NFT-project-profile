@@ -1,0 +1,28 @@
+{
+    "name": "Elebrian  ",
+    "description": "The collection from onerichgroup #41299",
+    "image": "https://nft.onerichgroup.com/nft/41299.jpg",
+    "dna": "86334asmdjsadya6d786737bec080e566421",
+    "edition": 1,
+    "date": 1689443122042,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

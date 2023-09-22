@@ -1,0 +1,27 @@
+{
+  "name": "Erevril  ",
+  "description": "The collection from onerichgroup #11357",
+  "image": "https://nft.onerichgroup.com/nft/11357.jpg",
+  "dna": "40796asmdjsadya6d7874273bec080e516725",
+  "edition": 1,
+  "date": 1689443117590,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

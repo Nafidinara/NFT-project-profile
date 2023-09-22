@@ -1,0 +1,28 @@
+{
+    "name": "Elbarien  ",
+    "description": "The collection from onerichgroup #18928",
+    "image": "https://nft.onerichgroup.com/nft/18928.jpg",
+    "dna": "9051asmdjsadya6d7830323bec080e597685",
+    "edition": 1,
+    "date": 1689443119490,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

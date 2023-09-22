@@ -1,0 +1,27 @@
+{
+  "name": "Calebedel  ",
+  "description": "The collection from onerichgroup #10258",
+  "image": "https://nft.onerichgroup.com/nft/10258.jpg",
+  "dna": "61646asmdjsadya6d7848111bec080e513510",
+  "edition": 1,
+  "date": 1689443117482,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

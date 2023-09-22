@@ -1,0 +1,28 @@
+{
+    "name": "Estilriel  ",
+    "description": "The collection from onerichgroup #6",
+    "image": "https://nft.onerichgroup.com/nft/6.jpg",
+    "dna": "28180asmdjsadya6d7894283bec080e560561",
+    "edition": 1,
+    "date": 1689443113133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

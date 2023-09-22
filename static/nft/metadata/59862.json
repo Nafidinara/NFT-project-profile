@@ -1,0 +1,28 @@
+{
+    "name": "Galassil  ",
+    "description": "The collection from onerichgroup #59862",
+    "image": "https://nft.onerichgroup.com/nft/59862.jpg",
+    "dna": "95322asmdjsadya6d7894288bec080e531270",
+    "edition": 1,
+    "date": 1689478816510,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

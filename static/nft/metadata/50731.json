@@ -1,0 +1,28 @@
+{
+    "name": "Finenien  ",
+    "description": "The collection from onerichgroup #50731",
+    "image": "https://nft.onerichgroup.com/nft/50731.jpg",
+    "dna": "35260asmdjsadya6d7898226bec080e575108",
+    "edition": 1,
+    "date": 1689478811563,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

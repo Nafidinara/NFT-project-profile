@@ -1,0 +1,28 @@
+{
+    "name": "Finthonsil  ",
+    "description": "The collection from onerichgroup #4156",
+    "image": "https://nft.onerichgroup.com/nft/4156.jpg",
+    "dna": "85195asmdjsadya6d7834366bec080e563744",
+    "edition": 1,
+    "date": 1689443115439,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Melareth  ",
+    "description": "The collection from onerichgroup #21921",
+    "image": "https://nft.onerichgroup.com/nft/21921.jpg",
+    "dna": "44656asmdjsadya6d7866718bec080e540143",
+    "edition": 1,
+    "date": 1689443120023,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

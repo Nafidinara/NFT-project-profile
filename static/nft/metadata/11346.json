@@ -1,0 +1,27 @@
+{
+  "name": "Mararrial  ",
+  "description": "The collection from onerichgroup #11346",
+  "image": "https://nft.onerichgroup.com/nft/11346.jpg",
+  "dna": "96212asmdjsadya6d7855523bec080e556939",
+  "edition": 1,
+  "date": 1689443117586,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

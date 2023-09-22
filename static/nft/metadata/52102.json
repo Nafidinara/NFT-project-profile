@@ -1,0 +1,28 @@
+{
+    "name": "Carilloth  ",
+    "description": "The collection from onerichgroup #52102",
+    "image": "https://nft.onerichgroup.com/nft/52102.jpg",
+    "dna": "65307asmdjsadya6d7872293bec080e529270",
+    "edition": 1,
+    "date": 1689478812741,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gelamloth  ",
+    "description": "The collection from onerichgroup #17438",
+    "image": "https://nft.onerichgroup.com/nft/17438.jpg",
+    "dna": "77201asmdjsadya6d7830312bec080e526949",
+    "edition": 1,
+    "date": 1689443119307,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

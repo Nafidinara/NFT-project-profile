@@ -1,0 +1,28 @@
+{
+    "name": "Ariliel  ",
+    "description": "The collection from onerichgroup #54270",
+    "image": "https://nft.onerichgroup.com/nft/54270.jpg",
+    "dna": "17361asmdjsadya6d787809bec080e577844",
+    "edition": 1,
+    "date": 1689478813954,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

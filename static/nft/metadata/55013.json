@@ -1,0 +1,28 @@
+{
+    "name": "Ganthoniel  ",
+    "description": "The collection from onerichgroup #55013",
+    "image": "https://nft.onerichgroup.com/nft/55013.jpg",
+    "dna": "9104asmdjsadya6d7855014bec080e510588",
+    "edition": 1,
+    "date": 1689478814350,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

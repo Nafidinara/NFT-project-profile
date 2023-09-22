@@ -1,0 +1,28 @@
+{
+    "name": "Rilamwë  ",
+    "description": "The collection from onerichgroup #6615",
+    "image": "https://nft.onerichgroup.com/nft/6615.jpg",
+    "dna": "82770asmdjsadya6d7843412bec080e529022",
+    "edition": 1,
+    "date": 1689443116464,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

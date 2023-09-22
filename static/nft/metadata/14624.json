@@ -1,0 +1,28 @@
+{
+    "name": "Marevwen  ",
+    "description": "The collection from onerichgroup #14624",
+    "image": "https://nft.onerichgroup.com/nft/14624.jpg",
+    "dna": "96669asmdjsadya6d7895461bec080e581370",
+    "edition": 1,
+    "date": 1689443118489,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Carasian  ",
+    "description": "The collection from onerichgroup #1509",
+    "image": "https://nft.onerichgroup.com/nft/1509.jpg",
+    "dna": "74570asmdjsadya6d7847199bec080e541216",
+    "edition": 1,
+    "date": 1689443113978,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

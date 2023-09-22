@@ -1,0 +1,27 @@
+{
+  "name": "Erarsil  ",
+  "description": "The collection from onerichgroup #12049",
+  "image": "https://nft.onerichgroup.com/nft/12049.jpg",
+  "dna": "96012asmdjsadya6d7899553bec080e511789",
+  "edition": 1,
+  "date": 1689443117829,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

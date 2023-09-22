@@ -1,0 +1,28 @@
+{
+    "name": "Erlamril  ",
+    "description": "The collection from onerichgroup #27045",
+    "image": "https://nft.onerichgroup.com/nft/27045.jpg",
+    "dna": "50066asmdjsadya6d7843278bec080e524637",
+    "edition": 1,
+    "date": 1689443120705,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

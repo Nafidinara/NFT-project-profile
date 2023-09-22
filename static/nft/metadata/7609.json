@@ -1,0 +1,28 @@
+{
+    "name": "Nirolrian  ",
+    "description": "The collection from onerichgroup #7609",
+    "image": "https://nft.onerichgroup.com/nft/7609.jpg",
+    "dna": "24051asmdjsadya6d7825364bec080e531897",
+    "edition": 1,
+    "date": 1689443116619,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Galenriel  ",
+    "description": "The collection from onerichgroup #2782",
+    "image": "https://nft.onerichgroup.com/nft/2782.jpg",
+    "dna": "37771asmdjsadya6d7859765bec080e591025",
+    "edition": 1,
+    "date": 1689443114645,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

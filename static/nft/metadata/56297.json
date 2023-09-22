@@ -1,0 +1,28 @@
+{
+    "name": "Loradsil  ",
+    "description": "The collection from onerichgroup #56297",
+    "image": "https://nft.onerichgroup.com/nft/56297.jpg",
+    "dna": "13919asmdjsadya6d7879684bec080e542080",
+    "edition": 1,
+    "date": 1689478815052,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

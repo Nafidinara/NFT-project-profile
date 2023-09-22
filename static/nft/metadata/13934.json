@@ -1,0 +1,28 @@
+{
+    "name": "Imemien  ",
+    "description": "The collection from onerichgroup #13934",
+    "image": "https://nft.onerichgroup.com/nft/13934.jpg",
+    "dna": "46370asmdjsadya6d7869433bec080e571731",
+    "edition": 1,
+    "date": 1689443118340,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

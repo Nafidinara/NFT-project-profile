@@ -1,0 +1,28 @@
+{
+    "name": "Ninedrien  ",
+    "description": "The collection from onerichgroup #6348",
+    "image": "https://nft.onerichgroup.com/nft/6348.jpg",
+    "dna": "56031asmdjsadya6d7889915bec080e510983",
+    "edition": 1,
+    "date": 1689443116439,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

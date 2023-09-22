@@ -1,0 +1,28 @@
+{
+    "name": "Clareniel  ",
+    "description": "The collection from onerichgroup #7542",
+    "image": "https://nft.onerichgroup.com/nft/7542.jpg",
+    "dna": "98890asmdjsadya6d7855620bec080e559897",
+    "edition": 1,
+    "date": 1689443116609,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

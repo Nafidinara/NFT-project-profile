@@ -1,0 +1,28 @@
+{
+    "name": "Laramriel  ",
+    "description": "The vip collection from onerichgroup #80958",
+    "image": "https://nft.onerichgroup.com/nft/80958.jpg",
+    "dna": "77848iyuirf45edrtd2610vjvtyd45tuy596",
+    "edition": 1,
+    "date": 1690898985851,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erlarwen  ",
+    "description": "The collection from onerichgroup #50657",
+    "image": "https://nft.onerichgroup.com/nft/50657.jpg",
+    "dna": "61541asmdjsadya6d7812159bec080e517827",
+    "edition": 1,
+    "date": 1689478811520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Imarmir  ",
+    "description": "The collection from onerichgroup #2754",
+    "image": "https://nft.onerichgroup.com/nft/2754.jpg",
+    "dna": "82532asmdjsadya6d7862761bec080e560501",
+    "edition": 1,
+    "date": 1689443114641,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

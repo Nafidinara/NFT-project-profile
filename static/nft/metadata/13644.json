@@ -1,0 +1,27 @@
+{
+  "name": "Anemrian  ",
+  "description": "The collection from onerichgroup #13644",
+  "image": "https://nft.onerichgroup.com/nft/13644.jpg",
+  "dna": "64012asmdjsadya6d7826586bec080e529471",
+  "edition": 1,
+  "date": 1689443118280,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

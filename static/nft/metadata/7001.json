@@ -1,0 +1,28 @@
+{
+    "name": "Caladrien  ",
+    "description": "The collection from onerichgroup #7001",
+    "image": "https://nft.onerichgroup.com/nft/7001.jpg",
+    "dna": "1868asmdjsadya6d7811662bec080e519444",
+    "edition": 1,
+    "date": 1689443116506,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

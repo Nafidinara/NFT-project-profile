@@ -1,0 +1,27 @@
+{
+  "name": "Ninaswë  ",
+  "description": "The collection from onerichgroup #1070",
+  "image": "https://nft.onerichgroup.com/nft/1070.jpg",
+  "dna": "70797asmdjsadya6d7853167bec080e589089",
+  "edition": 1,
+  "date": 1689443113652,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

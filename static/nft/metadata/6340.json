@@ -1,0 +1,28 @@
+{
+    "name": "Mirthonmir  ",
+    "description": "The collection from onerichgroup #6340",
+    "image": "https://nft.onerichgroup.com/nft/6340.jpg",
+    "dna": "27135asmdjsadya6d7819409bec080e597704",
+    "edition": 1,
+    "date": 1689443116438,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

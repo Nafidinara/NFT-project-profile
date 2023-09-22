@@ -1,0 +1,28 @@
+{
+    "name": "Isterrien  ",
+    "description": "The collection from onerichgroup #53157",
+    "image": "https://nft.onerichgroup.com/nft/53157.jpg",
+    "dna": "8953asmdjsadya6d7879578bec080e530348",
+    "edition": 1,
+    "date": 1689478813450,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

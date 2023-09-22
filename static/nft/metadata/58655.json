@@ -1,0 +1,28 @@
+{
+    "name": "Larenedel  ",
+    "description": "The collection from onerichgroup #58655",
+    "image": "https://nft.onerichgroup.com/nft/58655.jpg",
+    "dna": "20875asmdjsadya6d7869256bec080e560925",
+    "edition": 1,
+    "date": 1689478816105,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elelsil  ",
+    "description": "The collection from onerichgroup #1571",
+    "image": "https://nft.onerichgroup.com/nft/1571.jpg",
+    "dna": "48254asmdjsadya6d7879843bec080e553407",
+    "edition": 1,
+    "date": 1689443114002,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

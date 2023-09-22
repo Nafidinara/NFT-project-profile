@@ -1,0 +1,28 @@
+{
+    "name": "Riladsil  ",
+    "description": "The collection from onerichgroup #54656",
+    "image": "https://nft.onerichgroup.com/nft/54656.jpg",
+    "dna": "77297asmdjsadya6d7885182bec080e510334",
+    "edition": 1,
+    "date": 1689478814182,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

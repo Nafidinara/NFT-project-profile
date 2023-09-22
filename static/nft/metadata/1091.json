@@ -1,0 +1,27 @@
+{
+  "name": "Erlermir  ",
+  "description": "The collection from onerichgroup #1091",
+  "image": "https://nft.onerichgroup.com/nft/1091.jpg",
+  "dna": "43552asmdjsadya6d7867380bec080e546192",
+  "edition": 1,
+  "date": 1689443113662,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

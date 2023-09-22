@@ -1,0 +1,28 @@
+{
+    "name": "Elbthalsil  ",
+    "description": "The collection from onerichgroup #61039",
+    "image": "https://nft.onerichgroup.com/nft/61039.jpg",
+    "dna": "980997dje6rgfnbs057479bec080e577939",
+    "edition": 1,
+    "date": 1689584225452,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Maresedel  ",
+    "description": "The collection from onerichgroup #51621",
+    "image": "https://nft.onerichgroup.com/nft/51621.jpg",
+    "dna": "69983asmdjsadya6d7849880bec080e575597",
+    "edition": 1,
+    "date": 1689478812385,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

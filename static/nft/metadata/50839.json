@@ -1,0 +1,28 @@
+{
+    "name": "Mirarrien  ",
+    "description": "The collection from onerichgroup #50839",
+    "image": "https://nft.onerichgroup.com/nft/50839.jpg",
+    "dna": "7633asmdjsadya6d7816391bec080e542071",
+    "edition": 1,
+    "date": 1689478811709,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

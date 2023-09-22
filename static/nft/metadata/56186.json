@@ -1,0 +1,28 @@
+{
+    "name": "Clarariel  ",
+    "description": "The collection from onerichgroup #56186",
+    "image": "https://nft.onerichgroup.com/nft/56186.jpg",
+    "dna": "37165asmdjsadya6d7862475bec080e531637",
+    "edition": 1,
+    "date": 1689478815020,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

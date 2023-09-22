@@ -1,0 +1,28 @@
+{
+    "name": "Nirarwen  ",
+    "description": "The collection from onerichgroup #60685",
+    "image": "https://nft.onerichgroup.com/nft/60685.jpg",
+    "dna": "88128asmdjsadya6d7867320bec080e513094",
+    "edition": 1,
+    "date": 1689482665213,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

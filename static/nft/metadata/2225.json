@@ -1,0 +1,28 @@
+{
+    "name": "Nimeliel  ",
+    "description": "The collection from onerichgroup #2225",
+    "image": "https://nft.onerichgroup.com/nft/2225.jpg",
+    "dna": "88471asmdjsadya6d7851612bec080e575094",
+    "edition": 1,
+    "date": 1689443114502,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

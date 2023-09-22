@@ -1,0 +1,28 @@
+{
+    "name": "Inolrien  ",
+    "description": "The collection from onerichgroup #57742",
+    "image": "https://nft.onerichgroup.com/nft/57742.jpg",
+    "dna": "89926asmdjsadya6d7883557bec080e539414",
+    "edition": 1,
+    "date": 1689478815655,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

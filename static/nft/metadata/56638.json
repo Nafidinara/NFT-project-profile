@@ -1,0 +1,28 @@
+{
+    "name": "Ganthonmir  ",
+    "description": "The collection from onerichgroup #56638",
+    "image": "https://nft.onerichgroup.com/nft/56638.jpg",
+    "dna": "30279asmdjsadya6d7893363bec080e5217",
+    "edition": 1,
+    "date": 1689478815195,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

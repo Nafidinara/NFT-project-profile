@@ -1,0 +1,28 @@
+{
+    "name": "Istarsil  ",
+    "description": "The collection from onerichgroup #6827",
+    "image": "https://nft.onerichgroup.com/nft/6827.jpg",
+    "dna": "50764asmdjsadya6d7825232bec080e571595",
+    "edition": 1,
+    "date": 1689443116484,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erledrien  ",
+    "description": "The collection from onerichgroup #21961",
+    "image": "https://nft.onerichgroup.com/nft/21961.jpg",
+    "dna": "77559asmdjsadya6d7881992bec080e5412",
+    "edition": 1,
+    "date": 1689443120027,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

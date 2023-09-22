@@ -1,0 +1,28 @@
+{
+    "name": "Finthalroël  ",
+    "description": "The collection from onerichgroup #4392",
+    "image": "https://nft.onerichgroup.com/nft/4392.jpg",
+    "dna": "41317asmdjsadya6d7895415bec080e54944",
+    "edition": 1,
+    "date": 1689443115593,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

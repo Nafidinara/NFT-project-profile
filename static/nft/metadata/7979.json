@@ -1,0 +1,28 @@
+{
+    "name": "Estedloth  ",
+    "description": "The collection from onerichgroup #7979",
+    "image": "https://nft.onerichgroup.com/nft/7979.jpg",
+    "dna": "97757asmdjsadya6d7821481bec080e555741",
+    "edition": 1,
+    "date": 1689443116831,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

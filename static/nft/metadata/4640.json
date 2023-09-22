@@ -1,0 +1,28 @@
+{
+    "name": "Ralesedel  ",
+    "description": "The collection from onerichgroup #4640",
+    "image": "https://nft.onerichgroup.com/nft/4640.jpg",
+    "dna": "86980asmdjsadya6d7887992bec080e597961",
+    "edition": 1,
+    "date": 1689443115750,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

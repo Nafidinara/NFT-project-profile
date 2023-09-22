@@ -1,0 +1,28 @@
+{
+    "name": "Galthonriel  ",
+    "description": "The collection from onerichgroup #60406",
+    "image": "https://nft.onerichgroup.com/nft/60406.jpg",
+    "dna": "20221asmdjsadya6d7861450bec080e583262",
+    "edition": 1,
+    "date": 1689482664968,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

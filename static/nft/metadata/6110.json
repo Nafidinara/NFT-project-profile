@@ -1,0 +1,28 @@
+{
+    "name": "Celemwen  ",
+    "description": "The collection from onerichgroup #6110",
+    "image": "https://nft.onerichgroup.com/nft/6110.jpg",
+    "dna": "13362asmdjsadya6d7881347bec080e549404",
+    "edition": 1,
+    "date": 1689443116395,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

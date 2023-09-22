@@ -1,0 +1,28 @@
+{
+    "name": "Analeth  ",
+    "description": "The collection from onerichgroup #365",
+    "image": "https://nft.onerichgroup.com/nft/365.jpg",
+    "dna": "429asmdjsadya6d7850733bec080e51407",
+    "edition": 1,
+    "date": 1689443113272,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

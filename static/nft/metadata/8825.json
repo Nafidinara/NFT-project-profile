@@ -1,0 +1,28 @@
+{
+    "name": "Erlthonroël  ",
+    "description": "The collection from onerichgroup #8825",
+    "image": "https://nft.onerichgroup.com/nft/8825.jpg",
+    "dna": "12105asmdjsadya6d7838085bec080e542475",
+    "edition": 1,
+    "date": 1689443117059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

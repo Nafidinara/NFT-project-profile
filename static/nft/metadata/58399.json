@@ -1,0 +1,28 @@
+{
+    "name": "Elalrial  ",
+    "description": "The collection from onerichgroup #58399",
+    "image": "https://nft.onerichgroup.com/nft/58399.jpg",
+    "dna": "80947asmdjsadya6d7863179bec080e548417",
+    "edition": 1,
+    "date": 1689478816007,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

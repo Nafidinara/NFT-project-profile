@@ -1,0 +1,28 @@
+{
+    "name": "Erlebel  ",
+    "description": "The collection from onerichgroup #18725",
+    "image": "https://nft.onerichgroup.com/nft/18725.jpg",
+    "dna": "72909asmdjsadya6d7835522bec080e541583",
+    "edition": 1,
+    "date": 1689443119471,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

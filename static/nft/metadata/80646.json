@@ -1,0 +1,28 @@
+{
+    "name": "Ralemeth  ",
+    "description": "The vip collection from onerichgroup #80646",
+    "image": "https://nft.onerichgroup.com/nft/80646.jpg",
+    "dna": "56370iyuirf45edrtd86526vjvtyd45tuy65272",
+    "edition": 1,
+    "date": 1690898984520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

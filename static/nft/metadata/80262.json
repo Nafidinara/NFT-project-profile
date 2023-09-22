@@ -1,0 +1,28 @@
+{
+    "name": "Larilien  ",
+    "description": "The vip collection from onerichgroup #80262",
+    "image": "https://nft.onerichgroup.com/nft/80262.jpg",
+    "dna": "29529iyuirf45edrtd20276vjvtyd45tuy31821",
+    "edition": 1,
+    "date": 1690898983468,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

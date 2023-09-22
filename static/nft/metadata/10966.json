@@ -1,0 +1,27 @@
+{
+  "name": "Relthaliel  ",
+  "description": "The collection from onerichgroup #10966",
+  "image": "https://nft.onerichgroup.com/nft/10966.jpg",
+  "dna": "27504asmdjsadya6d7819322bec080e569603",
+  "edition": 1,
+  "date": 1689443117533,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Mirelriel  ",
+    "description": "The collection from onerichgroup #56589",
+    "image": "https://nft.onerichgroup.com/nft/56589.jpg",
+    "dna": "66617asmdjsadya6d7819327bec080e554320",
+    "edition": 1,
+    "date": 1689478815181,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

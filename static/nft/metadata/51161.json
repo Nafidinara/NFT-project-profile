@@ -1,0 +1,28 @@
+{
+    "name": "Merolrien  ",
+    "description": "The collection from onerichgroup #51161",
+    "image": "https://nft.onerichgroup.com/nft/51161.jpg",
+    "dna": "91285asmdjsadya6d7852869bec080e541397",
+    "edition": 1,
+    "date": 1689478811937,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

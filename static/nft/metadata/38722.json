@@ -1,0 +1,28 @@
+{
+    "name": "Galthalrien  ",
+    "description": "The collection from onerichgroup #38722",
+    "image": "https://nft.onerichgroup.com/nft/38722.jpg",
+    "dna": "37336asmdjsadya6d7886172bec080e55820",
+    "edition": 1,
+    "date": 1689443121842,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

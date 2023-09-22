@@ -1,0 +1,28 @@
+{
+    "name": "Mareseth  ",
+    "description": "The collection from onerichgroup #3977",
+    "image": "https://nft.onerichgroup.com/nft/3977.jpg",
+    "dna": "98282asmdjsadya6d7862753bec080e520549",
+    "edition": 1,
+    "date": 1689443115379,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

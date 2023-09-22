@@ -1,0 +1,28 @@
+{
+    "name": "Istileth  ",
+    "description": "The collection from onerichgroup #17080",
+    "image": "https://nft.onerichgroup.com/nft/17080.jpg",
+    "dna": "7800asmdjsadya6d7876306bec080e529571",
+    "edition": 1,
+    "date": 1689443119235,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

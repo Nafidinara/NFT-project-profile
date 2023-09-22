@@ -1,0 +1,28 @@
+{
+    "name": "Erlerwen  ",
+    "description": "The collection from onerichgroup #54522",
+    "image": "https://nft.onerichgroup.com/nft/54522.jpg",
+    "dna": "21882asmdjsadya6d7884043bec080e541187",
+    "edition": 1,
+    "date": 1689478814075,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

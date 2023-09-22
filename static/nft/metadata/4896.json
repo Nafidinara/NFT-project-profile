@@ -1,0 +1,28 @@
+{
+    "name": "Nimanmir  ",
+    "description": "The collection from onerichgroup #4896",
+    "image": "https://nft.onerichgroup.com/nft/4896.jpg",
+    "dna": "17252asmdjsadya6d7852818bec080e515324",
+    "edition": 1,
+    "date": 1689443115865,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

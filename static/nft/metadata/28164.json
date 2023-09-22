@@ -1,0 +1,28 @@
+{
+    "name": "Lirebmir  ",
+    "description": "The collection from onerichgroup #28164",
+    "image": "https://nft.onerichgroup.com/nft/28164.jpg",
+    "dna": "84981asmdjsadya6d78549bec080e51884",
+    "edition": 1,
+    "date": 1689443120786,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

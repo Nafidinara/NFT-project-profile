@@ -1,0 +1,28 @@
+{
+    "name": "Eloledel  ",
+    "description": "The collection from onerichgroup #3377",
+    "image": "https://nft.onerichgroup.com/nft/3377.jpg",
+    "dna": "38602asmdjsadya6d7848833bec080e513488",
+    "edition": 1,
+    "date": 1689443115041,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

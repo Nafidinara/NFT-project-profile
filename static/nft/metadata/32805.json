@@ -1,0 +1,28 @@
+{
+    "name": "Celolmir  ",
+    "description": "The collection from onerichgroup #32805",
+    "image": "https://nft.onerichgroup.com/nft/32805.jpg",
+    "dna": "96468asmdjsadya6d7864513bec080e558104",
+    "edition": 1,
+    "date": 1689443121428,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

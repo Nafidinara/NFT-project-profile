@@ -1,0 +1,28 @@
+{
+    "name": "Ganamiel  ",
+    "description": "The collection from onerichgroup #50256",
+    "image": "https://nft.onerichgroup.com/nft/50256.jpg",
+    "dna": "3289asmdjsadya6d7889064bec080e579806",
+    "edition": 1,
+    "date": 1689478811191,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

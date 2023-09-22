@@ -1,0 +1,27 @@
+{
+  "name": "Liranmir  ",
+  "description": "The collection from onerichgroup #13867",
+  "image": "https://nft.onerichgroup.com/nft/13867.jpg",
+  "dna": "76703asmdjsadya6d7827192bec080e585694",
+  "edition": 1,
+  "date": 1689443118323,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

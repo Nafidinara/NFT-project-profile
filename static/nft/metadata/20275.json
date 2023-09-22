@@ -1,0 +1,28 @@
+{
+    "name": "Caladloth  ",
+    "description": "The collection from onerichgroup #20275",
+    "image": "https://nft.onerichgroup.com/nft/20275.jpg",
+    "dna": "45076asmdjsadya6d78657bec080e513187",
+    "edition": 1,
+    "date": 1689443119743,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

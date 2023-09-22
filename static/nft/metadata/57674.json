@@ -1,0 +1,28 @@
+{
+    "name": "Galenrien  ",
+    "description": "The collection from onerichgroup #57674",
+    "image": "https://nft.onerichgroup.com/nft/57674.jpg",
+    "dna": "58555asmdjsadya6d7851030bec080e574221",
+    "edition": 1,
+    "date": 1689478815639,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

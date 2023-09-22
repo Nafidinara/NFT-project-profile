@@ -1,0 +1,28 @@
+{
+    "name": "Celasiel  ",
+    "description": "The collection from onerichgroup #4741",
+    "image": "https://nft.onerichgroup.com/nft/4741.jpg",
+    "dna": "32746asmdjsadya6d7876983bec080e567698",
+    "edition": 1,
+    "date": 1689443115787,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elebrian  ",
+    "description": "The collection from onerichgroup #51482",
+    "image": "https://nft.onerichgroup.com/nft/51482.jpg",
+    "dna": "5151asmdjsadya6d7898501bec080e542129",
+    "edition": 1,
+    "date": 1689478812315,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Relesien  ",
+    "description": "The collection from onerichgroup #244",
+    "image": "https://nft.onerichgroup.com/nft/244.jpg",
+    "dna": "50112asmdjsadya6d7897224bec080e569656",
+    "edition": 1,
+    "date": 1689443113233,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

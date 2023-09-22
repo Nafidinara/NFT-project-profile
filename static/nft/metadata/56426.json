@@ -1,0 +1,28 @@
+{
+    "name": "Gariliel  ",
+    "description": "The collection from onerichgroup #56426",
+    "image": "https://nft.onerichgroup.com/nft/56426.jpg",
+    "dna": "36465asmdjsadya6d7880434bec080e55188",
+    "edition": 1,
+    "date": 1689478815124,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Mirevrial  ",
+    "description": "The collection from onerichgroup #14303",
+    "image": "https://nft.onerichgroup.com/nft/14303.jpg",
+    "dna": "92295asmdjsadya6d7881205bec080e580595",
+    "edition": 1,
+    "date": 1689443118394,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

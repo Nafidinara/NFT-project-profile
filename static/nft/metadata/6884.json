@@ -1,0 +1,28 @@
+{
+    "name": "Nimelian  ",
+    "description": "The collection from onerichgroup #6884",
+    "image": "https://nft.onerichgroup.com/nft/6884.jpg",
+    "dna": "8646asmdjsadya6d7841407bec080e54541",
+    "edition": 1,
+    "date": 1689443116491,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

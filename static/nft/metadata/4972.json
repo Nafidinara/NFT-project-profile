@@ -1,0 +1,28 @@
+{
+    "name": "Ranelsil  ",
+    "description": "The collection from onerichgroup #4972",
+    "image": "https://nft.onerichgroup.com/nft/4972.jpg",
+    "dna": "75315asmdjsadya6d7855791bec080e516638",
+    "edition": 1,
+    "date": 1689443115885,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

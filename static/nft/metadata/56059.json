@@ -1,0 +1,28 @@
+{
+    "name": "Anirel  ",
+    "description": "The collection from onerichgroup #56059",
+    "image": "https://nft.onerichgroup.com/nft/56059.jpg",
+    "dna": "2267asmdjsadya6d7880586bec080e593701",
+    "edition": 1,
+    "date": 1689478814915,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

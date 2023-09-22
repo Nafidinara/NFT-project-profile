@@ -1,0 +1,28 @@
+{
+    "name": "Estthaledel  ",
+    "description": "The collection from onerichgroup #52260",
+    "image": "https://nft.onerichgroup.com/nft/52260.jpg",
+    "dna": "57161asmdjsadya6d7862460bec080e558204",
+    "edition": 1,
+    "date": 1689478812869,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

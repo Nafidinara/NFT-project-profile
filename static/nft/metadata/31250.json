@@ -1,0 +1,28 @@
+{
+    "name": "Lirthonwen  ",
+    "description": "The collection from onerichgroup #31250",
+    "image": "https://nft.onerichgroup.com/nft/31250.jpg",
+    "dna": "3888asmdjsadya6d7891799bec080e598528",
+    "edition": 1,
+    "date": 1689443121236,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Inadiel  ",
+    "description": "The collection from onerichgroup #14697",
+    "image": "https://nft.onerichgroup.com/nft/14697.jpg",
+    "dna": "35900asmdjsadya6d7859866bec080e59475",
+    "edition": 1,
+    "date": 1689443118501,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

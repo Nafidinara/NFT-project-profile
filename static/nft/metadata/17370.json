@@ -1,0 +1,28 @@
+{
+    "name": "Lirasrien  ",
+    "description": "The collection from onerichgroup #17370",
+    "image": "https://nft.onerichgroup.com/nft/17370.jpg",
+    "dna": "14512asmdjsadya6d7826372bec080e530348",
+    "edition": 1,
+    "date": 1689443119295,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

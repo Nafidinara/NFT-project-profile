@@ -1,0 +1,28 @@
+{
+    "name": "Arthalwen  ",
+    "description": "The collection from onerichgroup #3616",
+    "image": "https://nft.onerichgroup.com/nft/3616.jpg",
+    "dna": "59839asmdjsadya6d7874033bec080e530235",
+    "edition": 1,
+    "date": 1689443115139,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

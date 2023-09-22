@@ -1,0 +1,28 @@
+{
+    "name": "Ralthonrial  ",
+    "description": "The collection from onerichgroup #42015",
+    "image": "https://nft.onerichgroup.com/nft/42015.jpg",
+    "dna": "75598asmdjsadya6d7887394bec080e595929",
+    "edition": 1,
+    "date": 1689443122075,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

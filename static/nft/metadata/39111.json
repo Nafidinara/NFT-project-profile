@@ -1,0 +1,28 @@
+{
+    "name": "Nininel  ",
+    "description": "The collection from onerichgroup #39111",
+    "image": "https://nft.onerichgroup.com/nft/39111.jpg",
+    "dna": "32065asmdjsadya6d7865258bec080e582824",
+    "edition": 1,
+    "date": 1689443121855,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

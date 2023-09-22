@@ -1,0 +1,28 @@
+{
+    "name": "Ranalriel  ",
+    "description": "The vip collection from onerichgroup #80924",
+    "image": "https://nft.onerichgroup.com/nft/80924.jpg",
+    "dna": "12331iyuirf45edrtd15803vjvtyd45tuy7496",
+    "edition": 1,
+    "date": 1690898985714,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

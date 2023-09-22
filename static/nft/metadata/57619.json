@@ -1,0 +1,28 @@
+{
+    "name": "Gelebrial  ",
+    "description": "The collection from onerichgroup #57619",
+    "image": "https://nft.onerichgroup.com/nft/57619.jpg",
+    "dna": "79591asmdjsadya6d7815615bec080e574391",
+    "edition": 1,
+    "date": 1689478815629,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

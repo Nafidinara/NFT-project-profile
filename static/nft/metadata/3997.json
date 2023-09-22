@@ -1,0 +1,28 @@
+{
+    "name": "Gelenel  ",
+    "description": "The collection from onerichgroup #3997",
+    "image": "https://nft.onerichgroup.com/nft/3997.jpg",
+    "dna": "82822asmdjsadya6d7860261bec080e561943",
+    "edition": 1,
+    "date": 1689443115384,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimarian  ",
+    "description": "The collection from onerichgroup #33854",
+    "image": "https://nft.onerichgroup.com/nft/33854.jpg",
+    "dna": "36212asmdjsadya6d7871271bec080e540558",
+    "edition": 1,
+    "date": 1689443121548,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

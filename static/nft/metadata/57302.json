@@ -1,0 +1,28 @@
+{
+    "name": "Ganammir  ",
+    "description": "The collection from onerichgroup #57302",
+    "image": "https://nft.onerichgroup.com/nft/57302.jpg",
+    "dna": "45173asmdjsadya6d7897227bec080e585454",
+    "edition": 1,
+    "date": 1689478815502,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

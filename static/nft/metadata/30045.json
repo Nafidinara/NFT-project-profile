@@ -1,0 +1,28 @@
+{
+    "name": "Istthalsil  ",
+    "description": "The collection from onerichgroup #30045",
+    "image": "https://nft.onerichgroup.com/nft/30045.jpg",
+    "dna": "50357asmdjsadya6d7827649bec080e519182",
+    "edition": 1,
+    "date": 1689443121147,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

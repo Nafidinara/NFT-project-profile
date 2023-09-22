@@ -1,0 +1,28 @@
+{
+    "name": "Ralalrial  ",
+    "description": "The collection from onerichgroup #61060",
+    "image": "https://nft.onerichgroup.com/nft/61060.jpg",
+    "dna": "224997dje6rgfnbs084694bec080e561123",
+    "edition": 1,
+    "date": 1689584225465,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

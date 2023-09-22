@@ -1,0 +1,28 @@
+{
+    "name": "Elenloth  ",
+    "description": "The collection from onerichgroup #7949",
+    "image": "https://nft.onerichgroup.com/nft/7949.jpg",
+    "dna": "86394asmdjsadya6d7881836bec080e593370",
+    "edition": 1,
+    "date": 1689443116820,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

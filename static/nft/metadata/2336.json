@@ -1,0 +1,28 @@
+{
+    "name": "Ralesril  ",
+    "description": "The collection from onerichgroup #2336",
+    "image": "https://nft.onerichgroup.com/nft/2336.jpg",
+    "dna": "50308asmdjsadya6d7811098bec080e595765",
+    "edition": 1,
+    "date": 1689443114548,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

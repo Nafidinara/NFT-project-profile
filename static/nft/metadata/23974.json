@@ -1,0 +1,28 @@
+{
+    "name": "Elarroël  ",
+    "description": "The collection from onerichgroup #23974",
+    "image": "https://nft.onerichgroup.com/nft/23974.jpg",
+    "dna": "6651asmdjsadya6d7830665bec080e588726",
+    "edition": 1,
+    "date": 1689443120319,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

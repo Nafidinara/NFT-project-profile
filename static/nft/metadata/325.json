@@ -1,0 +1,28 @@
+{
+    "name": "Relalrien  ",
+    "description": "The collection from onerichgroup #325",
+    "image": "https://nft.onerichgroup.com/nft/325.jpg",
+    "dna": "85679asmdjsadya6d7827297bec080e566743",
+    "edition": 1,
+    "date": 1689443113260,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

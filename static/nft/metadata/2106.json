@@ -1,0 +1,28 @@
+{
+    "name": "Rilasrien  ",
+    "description": "The collection from onerichgroup #2106",
+    "image": "https://nft.onerichgroup.com/nft/2106.jpg",
+    "dna": "23010asmdjsadya6d7889887bec080e56824",
+    "edition": 1,
+    "date": 1689443114382,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

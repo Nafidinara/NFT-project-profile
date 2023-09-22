@@ -1,0 +1,28 @@
+{
+    "name": "Larinriel  ",
+    "description": "The collection from onerichgroup #60016",
+    "image": "https://nft.onerichgroup.com/nft/60016.jpg",
+    "dna": "97748asmdjsadya6d785498bec080e537720",
+    "edition": 1,
+    "date": 1689482664831,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

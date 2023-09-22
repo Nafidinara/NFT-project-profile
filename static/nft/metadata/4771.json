@@ -1,0 +1,28 @@
+{
+    "name": "Irthalwen  ",
+    "description": "The collection from onerichgroup #4771",
+    "image": "https://nft.onerichgroup.com/nft/4771.jpg",
+    "dna": "30768asmdjsadya6d7820792bec080e572136",
+    "edition": 1,
+    "date": 1689443115798,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

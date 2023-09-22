@@ -1,0 +1,28 @@
+{
+    "name": "Celolriel  ",
+    "description": "The collection from onerichgroup #58676",
+    "image": "https://nft.onerichgroup.com/nft/58676.jpg",
+    "dna": "93977asmdjsadya6d7860472bec080e557179",
+    "edition": 1,
+    "date": 1689478816110,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

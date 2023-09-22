@@ -1,0 +1,28 @@
+{
+    "name": "Cirilrian  ",
+    "description": "The collection from onerichgroup #60295",
+    "image": "https://nft.onerichgroup.com/nft/60295.jpg",
+    "dna": "98913asmdjsadya6d7886043bec080e589917",
+    "edition": 1,
+    "date": 1689482664898,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

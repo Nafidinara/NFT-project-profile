@@ -1,0 +1,28 @@
+{
+    "name": "Galthalrien  ",
+    "description": "The collection from onerichgroup #59476",
+    "image": "https://nft.onerichgroup.com/nft/59476.jpg",
+    "dna": "98596asmdjsadya6d7895230bec080e575251",
+    "edition": 1,
+    "date": 1689478816398,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

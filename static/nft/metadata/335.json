@@ -1,0 +1,28 @@
+{
+    "name": "Erladwë  ",
+    "description": "The collection from onerichgroup #335",
+    "image": "https://nft.onerichgroup.com/nft/335.jpg",
+    "dna": "80669asmdjsadya6d7858041bec080e56319",
+    "edition": 1,
+    "date": 1689443113263,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

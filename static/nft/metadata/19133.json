@@ -1,0 +1,28 @@
+{
+    "name": "Merebmir  ",
+    "description": "The collection from onerichgroup #19133",
+    "image": "https://nft.onerichgroup.com/nft/19133.jpg",
+    "dna": "76189asmdjsadya6d7842178bec080e570770",
+    "edition": 1,
+    "date": 1689443119510,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

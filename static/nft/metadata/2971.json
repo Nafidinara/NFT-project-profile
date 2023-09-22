@@ -1,0 +1,28 @@
+{
+    "name": "Aradriel  ",
+    "description": "The collection from onerichgroup #2971",
+    "image": "https://nft.onerichgroup.com/nft/2971.jpg",
+    "dna": "67979asmdjsadya6d7885673bec080e572269",
+    "edition": 1,
+    "date": 1689443114704,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Rinenrien  ",
+  "description": "The collection from onerichgroup #12075",
+  "image": "https://nft.onerichgroup.com/nft/12075.jpg",
+  "dna": "69175asmdjsadya6d787880bec080e557040",
+  "edition": 1,
+  "date": 1689443117831,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

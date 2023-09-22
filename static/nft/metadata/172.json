@@ -1,0 +1,28 @@
+{
+    "name": "Melarriel  ",
+    "description": "The collection from onerichgroup #172",
+    "image": "https://nft.onerichgroup.com/nft/172.jpg",
+    "dna": "37383asmdjsadya6d7884497bec080e597859",
+    "edition": 1,
+    "date": 1689443113211,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

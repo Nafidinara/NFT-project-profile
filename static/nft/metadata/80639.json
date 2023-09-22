@@ -1,0 +1,28 @@
+{
+    "name": "Gelamel  ",
+    "description": "The vip collection from onerichgroup #80639",
+    "image": "https://nft.onerichgroup.com/nft/80639.jpg",
+    "dna": "43904iyuirf45edrtd42348vjvtyd45tuy81325",
+    "edition": 1,
+    "date": 1690898984515,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

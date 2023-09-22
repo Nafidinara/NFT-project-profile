@@ -1,0 +1,27 @@
+{
+  "name": "Lorthaleth  ",
+  "description": "The collection from onerichgroup #1291",
+  "image": "https://nft.onerichgroup.com/nft/1291.jpg",
+  "dna": "40658asmdjsadya6d7819810bec080e580873",
+  "edition": 1,
+  "date": 1689443113839,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

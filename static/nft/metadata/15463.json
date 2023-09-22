@@ -1,0 +1,28 @@
+{
+    "name": "Marolrien  ",
+    "description": "The collection from onerichgroup #15463",
+    "image": "https://nft.onerichgroup.com/nft/15463.jpg",
+    "dna": "17612asmdjsadya6d7843353bec080e518330",
+    "edition": 1,
+    "date": 1689443118828,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

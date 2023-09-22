@@ -1,0 +1,28 @@
+{
+    "name": "Irthoniel  ",
+    "description": "The collection from onerichgroup #2378",
+    "image": "https://nft.onerichgroup.com/nft/2378.jpg",
+    "dna": "40153asmdjsadya6d7820609bec080e530605",
+    "edition": 1,
+    "date": 1689443114554,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Estelsil  ",
+    "description": "The collection from onerichgroup #18252",
+    "image": "https://nft.onerichgroup.com/nft/18252.jpg",
+    "dna": "51895asmdjsadya6d7817063bec080e579840",
+    "edition": 1,
+    "date": 1689443119428,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erebril  ",
+    "description": "The collection from onerichgroup #60636",
+    "image": "https://nft.onerichgroup.com/nft/60636.jpg",
+    "dna": "61934asmdjsadya6d7825491bec080e549741",
+    "edition": 1,
+    "date": 1689482665157,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

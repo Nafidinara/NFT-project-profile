@@ -1,0 +1,28 @@
+{
+    "name": "Lorilril  ",
+    "description": "The collection from onerichgroup #7805",
+    "image": "https://nft.onerichgroup.com/nft/7805.jpg",
+    "dna": "94937asmdjsadya6d788965bec080e513648",
+    "edition": 1,
+    "date": 1689443116706,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

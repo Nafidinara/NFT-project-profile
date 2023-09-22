@@ -1,0 +1,28 @@
+{
+    "name": "Erlamrial  ",
+    "description": "The collection from onerichgroup #4682",
+    "image": "https://nft.onerichgroup.com/nft/4682.jpg",
+    "dna": "67571asmdjsadya6d7840328bec080e557511",
+    "edition": 1,
+    "date": 1689443115763,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

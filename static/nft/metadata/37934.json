@@ -1,0 +1,28 @@
+{
+    "name": "Ranthonsil  ",
+    "description": "The collection from onerichgroup #37934",
+    "image": "https://nft.onerichgroup.com/nft/37934.jpg",
+    "dna": "75792asmdjsadya6d7833949bec080e560096",
+    "edition": 1,
+    "date": 1689443121772,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

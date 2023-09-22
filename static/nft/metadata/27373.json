@@ -1,0 +1,28 @@
+{
+    "name": "Rinamril  ",
+    "description": "The collection from onerichgroup #27373",
+    "image": "https://nft.onerichgroup.com/nft/27373.jpg",
+    "dna": "97632asmdjsadya6d784505bec080e567476",
+    "edition": 1,
+    "date": 1689443120731,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Nirarian  ",
+  "description": "The collection from onerichgroup #10686",
+  "image": "https://nft.onerichgroup.com/nft/10686.jpg",
+  "dna": "45077asmdjsadya6d7865731bec080e551917",
+  "edition": 1,
+  "date": 1689443117515,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

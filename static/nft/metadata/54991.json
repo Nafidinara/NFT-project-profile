@@ -1,0 +1,28 @@
+{
+    "name": "Rilalrian  ",
+    "description": "The collection from onerichgroup #54991",
+    "image": "https://nft.onerichgroup.com/nft/54991.jpg",
+    "dna": "7861asmdjsadya6d7884881bec080e585392",
+    "edition": 1,
+    "date": 1689478814344,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

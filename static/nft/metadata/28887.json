@@ -1,0 +1,28 @@
+{
+    "name": "Rilemeth  ",
+    "description": "The collection from onerichgroup #28887",
+    "image": "https://nft.onerichgroup.com/nft/28887.jpg",
+    "dna": "18245asmdjsadya6d7899017bec080e567712",
+    "edition": 1,
+    "date": 1689443120959,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

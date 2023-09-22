@@ -1,0 +1,27 @@
+{
+  "name": "Irebiel  ",
+  "description": "The collection from onerichgroup #11429",
+  "image": "https://nft.onerichgroup.com/nft/11429.jpg",
+  "dna": "68104asmdjsadya6d7894179bec080e577280",
+  "edition": 1,
+  "date": 1689443117601,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

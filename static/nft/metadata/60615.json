@@ -1,0 +1,28 @@
+{
+    "name": "Marirwen  ",
+    "description": "The collection from onerichgroup #60615",
+    "image": "https://nft.onerichgroup.com/nft/60615.jpg",
+    "dna": "54313asmdjsadya6d7884929bec080e592909",
+    "edition": 1,
+    "date": 1689482665141,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

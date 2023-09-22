@@ -1,0 +1,28 @@
+{
+    "name": "Eroledel  ",
+    "description": "The collection from onerichgroup #1743",
+    "image": "https://nft.onerichgroup.com/nft/1743.jpg",
+    "dna": "80613asmdjsadya6d7848700bec080e5218",
+    "edition": 1,
+    "date": 1689443114190,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

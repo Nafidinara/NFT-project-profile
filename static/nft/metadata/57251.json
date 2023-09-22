@@ -1,0 +1,28 @@
+{
+    "name": "Cirarel  ",
+    "description": "The collection from onerichgroup #57251",
+    "image": "https://nft.onerichgroup.com/nft/57251.jpg",
+    "dna": "86484asmdjsadya6d7822796bec080e523240",
+    "edition": 1,
+    "date": 1689478815487,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

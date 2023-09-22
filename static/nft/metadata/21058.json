@@ -1,0 +1,28 @@
+{
+    "name": "Ninevwë  ",
+    "description": "The collection from onerichgroup #21058",
+    "image": "https://nft.onerichgroup.com/nft/21058.jpg",
+    "dna": "85439asmdjsadya6d7850295bec080e599059",
+    "edition": 1,
+    "date": 1689443119881,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

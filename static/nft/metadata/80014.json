@@ -1,0 +1,28 @@
+{
+    "name": "Analrien  ",
+    "description": "The vip collection from onerichgroup #80014",
+    "image": "https://nft.onerichgroup.com/nft/80014.jpg",
+    "dna": "48211iyuirf45edrtd49501vjvtyd45tuy34078",
+    "edition": 1,
+    "date": 1690898982554,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

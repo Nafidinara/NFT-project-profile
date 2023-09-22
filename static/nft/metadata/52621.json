@@ -1,0 +1,28 @@
+{
+    "name": "Relirriel  ",
+    "description": "The collection from onerichgroup #52621",
+    "image": "https://nft.onerichgroup.com/nft/52621.jpg",
+    "dna": "34313asmdjsadya6d7890306bec080e596781",
+    "edition": 1,
+    "date": 1689478813161,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

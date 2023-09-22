@@ -1,0 +1,28 @@
+{
+    "name": "Meremian  ",
+    "description": "The collection from onerichgroup #51787",
+    "image": "https://nft.onerichgroup.com/nft/51787.jpg",
+    "dna": "53012asmdjsadya6d7878141bec080e564182",
+    "edition": 1,
+    "date": 1689478812488,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

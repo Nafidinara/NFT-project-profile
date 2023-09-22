@@ -1,0 +1,27 @@
+{
+  "name": "Rimedwen  ",
+  "description": "The collection from onerichgroup #13397",
+  "image": "https://nft.onerichgroup.com/nft/13397.jpg",
+  "dna": "607asmdjsadya6d7845076bec080e534800",
+  "edition": 1,
+  "date": 1689443118231,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

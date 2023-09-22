@@ -1,0 +1,28 @@
+{
+    "name": "Clarevwë  ",
+    "description": "The collection from onerichgroup #7695",
+    "image": "https://nft.onerichgroup.com/nft/7695.jpg",
+    "dna": "79449asmdjsadya6d7822952bec080e598942",
+    "edition": 1,
+    "date": 1689443116631,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

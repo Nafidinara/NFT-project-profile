@@ -1,0 +1,28 @@
+{
+    "name": "Lararsil  ",
+    "description": "The collection from onerichgroup #56400",
+    "image": "https://nft.onerichgroup.com/nft/56400.jpg",
+    "dna": "76808asmdjsadya6d7820227bec080e548239",
+    "edition": 1,
+    "date": 1689478815115,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

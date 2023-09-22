@@ -1,0 +1,28 @@
+{
+    "name": "Arenroël  ",
+    "description": "The collection from onerichgroup #51285",
+    "image": "https://nft.onerichgroup.com/nft/51285.jpg",
+    "dna": "14160asmdjsadya6d7821097bec080e533718",
+    "edition": 1,
+    "date": 1689478812090,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

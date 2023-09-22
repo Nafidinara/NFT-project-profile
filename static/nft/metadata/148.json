@@ -1,0 +1,28 @@
+{
+    "name": "Ralesrian  ",
+    "description": "The collection from onerichgroup #148",
+    "image": "https://nft.onerichgroup.com/nft/148.jpg",
+    "dna": "87246asmdjsadya6d7890211bec080e582247",
+    "edition": 1,
+    "date": 1689443113205,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

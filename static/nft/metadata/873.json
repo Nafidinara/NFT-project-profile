@@ -1,0 +1,28 @@
+{
+    "name": "Ilmedwen  ",
+    "description": "The collection from onerichgroup #873",
+    "image": "https://nft.onerichgroup.com/nft/873.jpg",
+    "dna": "41571asmdjsadya6d7883230bec080e52906",
+    "edition": 1,
+    "date": 1689443113599,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

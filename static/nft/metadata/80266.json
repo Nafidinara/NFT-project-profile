@@ -1,0 +1,28 @@
+{
+    "name": "Rimarril  ",
+    "description": "The vip collection from onerichgroup #80266",
+    "image": "https://nft.onerichgroup.com/nft/80266.jpg",
+    "dna": "57308iyuirf45edrtd12823vjvtyd45tuy76008",
+    "edition": 1,
+    "date": 1690898983470,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

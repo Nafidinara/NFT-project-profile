@@ -1,0 +1,28 @@
+{
+    "name": "Imirloth  ",
+    "description": "The collection from onerichgroup #5368",
+    "image": "https://nft.onerichgroup.com/nft/5368.jpg",
+    "dna": "86943asmdjsadya6d7847883bec080e577611",
+    "edition": 1,
+    "date": 1689443116043,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

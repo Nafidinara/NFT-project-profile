@@ -1,0 +1,28 @@
+{
+    "name": "Galamril  ",
+    "description": "The collection from onerichgroup #19630",
+    "image": "https://nft.onerichgroup.com/nft/19630.jpg",
+    "dna": "515asmdjsadya6d7834223bec080e535131",
+    "edition": 1,
+    "date": 1689443119666,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

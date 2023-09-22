@@ -1,0 +1,28 @@
+{
+    "name": "Erlarmir  ",
+    "description": "The collection from onerichgroup #57299",
+    "image": "https://nft.onerichgroup.com/nft/57299.jpg",
+    "dna": "91661asmdjsadya6d7884334bec080e595032",
+    "edition": 1,
+    "date": 1689478815502,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Merirwë  ",
+    "description": "The collection from onerichgroup #6443",
+    "image": "https://nft.onerichgroup.com/nft/6443.jpg",
+    "dna": "60316asmdjsadya6d7889037bec080e577310",
+    "edition": 1,
+    "date": 1689443116447,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

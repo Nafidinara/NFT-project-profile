@@ -1,0 +1,28 @@
+{
+    "name": "Melerrial  ",
+    "description": "The collection from onerichgroup #2003",
+    "image": "https://nft.onerichgroup.com/nft/2003.jpg",
+    "dna": "92685asmdjsadya6d7872764bec080e566697",
+    "edition": 1,
+    "date": 1689443114346,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

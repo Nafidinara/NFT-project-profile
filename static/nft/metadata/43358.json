@@ -1,0 +1,28 @@
+{
+    "name": "Gilelrian  ",
+    "description": "The collection from onerichgroup #43358",
+    "image": "https://nft.onerichgroup.com/nft/43358.jpg",
+    "dna": "72846asmdjsadya6d7852209bec080e522437",
+    "edition": 1,
+    "date": 1689443122164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

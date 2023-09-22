@@ -1,0 +1,27 @@
+{
+  "name": "Calarloth  ",
+  "description": "The collection from onerichgroup #13624",
+  "image": "https://nft.onerichgroup.com/nft/13624.jpg",
+  "dna": "33087asmdjsadya6d786038bec080e594954",
+  "edition": 1,
+  "date": 1689443118275,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Carilril  ",
+    "description": "The collection from onerichgroup #5753",
+    "image": "https://nft.onerichgroup.com/nft/5753.jpg",
+    "dna": "44352asmdjsadya6d7853977bec080e51264",
+    "edition": 1,
+    "date": 1689443116233,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

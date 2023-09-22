@@ -1,0 +1,28 @@
+{
+    "name": "Miresrien  ",
+    "description": "The collection from onerichgroup #8943",
+    "image": "https://nft.onerichgroup.com/nft/8943.jpg",
+    "dna": "19249asmdjsadya6d7880325bec080e57944",
+    "edition": 1,
+    "date": 1689443117117,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

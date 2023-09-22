@@ -1,0 +1,28 @@
+{
+    "name": "Anassil  ",
+    "description": "The collection from onerichgroup #56459",
+    "image": "https://nft.onerichgroup.com/nft/56459.jpg",
+    "dna": "52825asmdjsadya6d7869948bec080e59396",
+    "edition": 1,
+    "date": 1689478815135,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

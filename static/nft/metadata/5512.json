@@ -1,0 +1,28 @@
+{
+    "name": "Farilrian  ",
+    "description": "The collection from onerichgroup #5512",
+    "image": "https://nft.onerichgroup.com/nft/5512.jpg",
+    "dna": "35319asmdjsadya6d7859853bec080e540206",
+    "edition": 1,
+    "date": 1689443116083,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

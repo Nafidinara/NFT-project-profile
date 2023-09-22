@@ -1,0 +1,28 @@
+{
+    "name": "Nineleth  ",
+    "description": "The vip collection from onerichgroup #80072",
+    "image": "https://nft.onerichgroup.com/nft/80072.jpg",
+    "dna": "2519iyuirf45edrtd13296vjvtyd45tuy28889",
+    "edition": 1,
+    "date": 1690898982716,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

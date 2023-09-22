@@ -1,0 +1,28 @@
+{
+    "name": "Meralwen  ",
+    "description": "The collection from onerichgroup #4386",
+    "image": "https://nft.onerichgroup.com/nft/4386.jpg",
+    "dna": "69675asmdjsadya6d7845732bec080e557888",
+    "edition": 1,
+    "date": 1689443115591,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

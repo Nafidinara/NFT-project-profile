@@ -1,0 +1,28 @@
+{
+    "name": "Ciredel  ",
+    "description": "The collection from onerichgroup #58144",
+    "image": "https://nft.onerichgroup.com/nft/58144.jpg",
+    "dna": "98061asmdjsadya6d7888495bec080e51108",
+    "edition": 1,
+    "date": 1689478815861,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

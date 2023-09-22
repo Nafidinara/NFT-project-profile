@@ -1,0 +1,28 @@
+{
+    "name": "Ganinedel  ",
+    "description": "The collection from onerichgroup #61134",
+    "image": "https://nft.onerichgroup.com/nft/61134.jpg",
+    "dna": "581287dje6rgfnbs033192bec080e583798",
+    "edition": 1,
+    "date": 1689584225815,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

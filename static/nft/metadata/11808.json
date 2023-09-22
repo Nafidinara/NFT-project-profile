@@ -1,0 +1,27 @@
+{
+  "name": "Ralilian  ",
+  "description": "The collection from onerichgroup #11808",
+  "image": "https://nft.onerichgroup.com/nft/11808.jpg",
+  "dna": "48367asmdjsadya6d7861769bec080e581782",
+  "edition": 1,
+  "date": 1689443117789,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

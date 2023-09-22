@@ -1,0 +1,28 @@
+{
+    "name": "Celaniel  ",
+    "description": "The collection from onerichgroup #768",
+    "image": "https://nft.onerichgroup.com/nft/768.jpg",
+    "dna": "57453asmdjsadya6d7821666bec080e53476",
+    "edition": 1,
+    "date": 1689443113571,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

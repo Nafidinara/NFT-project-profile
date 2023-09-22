@@ -1,0 +1,28 @@
+{
+    "name": "Mararroël  ",
+    "description": "The collection from onerichgroup #55925",
+    "image": "https://nft.onerichgroup.com/nft/55925.jpg",
+    "dna": "91644asmdjsadya6d7821095bec080e568600",
+    "edition": 1,
+    "date": 1689478814824,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

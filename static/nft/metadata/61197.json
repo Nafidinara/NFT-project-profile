@@ -1,0 +1,28 @@
+{
+    "name": "Gilarril  ",
+    "description": "The collection from onerichgroup #61197",
+    "image": "https://nft.onerichgroup.com/nft/61197.jpg",
+    "dna": "965107dje6rgfnbs064047bec080e52256",
+    "edition": 1,
+    "date": 1689584226079,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

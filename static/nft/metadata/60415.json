@@ -1,0 +1,28 @@
+{
+    "name": "Giladian  ",
+    "description": "The collection from onerichgroup #60415",
+    "image": "https://nft.onerichgroup.com/nft/60415.jpg",
+    "dna": "30246asmdjsadya6d7892632bec080e57788",
+    "edition": 1,
+    "date": 1689482664981,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

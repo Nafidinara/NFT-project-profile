@@ -1,0 +1,28 @@
+{
+    "name": "Anesrian  ",
+    "description": "The collection from onerichgroup #16746",
+    "image": "https://nft.onerichgroup.com/nft/16746.jpg",
+    "dna": "76320asmdjsadya6d7871054bec080e597006",
+    "edition": 1,
+    "date": 1689443119122,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

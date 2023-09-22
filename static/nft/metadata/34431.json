@@ -1,0 +1,28 @@
+{
+    "name": "Aramedel  ",
+    "description": "The collection from onerichgroup #34431",
+    "image": "https://nft.onerichgroup.com/nft/34431.jpg",
+    "dna": "45497asmdjsadya6d7889085bec080e521066",
+    "edition": 1,
+    "date": 1689443121575,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

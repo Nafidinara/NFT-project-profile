@@ -1,0 +1,28 @@
+{
+    "name": "Imevien  ",
+    "description": "The collection from onerichgroup #31730",
+    "image": "https://nft.onerichgroup.com/nft/31730.jpg",
+    "dna": "49587asmdjsadya6d7842900bec080e558411",
+    "edition": 1,
+    "date": 1689443121274,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

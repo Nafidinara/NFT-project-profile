@@ -1,0 +1,28 @@
+{
+    "name": "Ninanien  ",
+    "description": "The collection from onerichgroup #54377",
+    "image": "https://nft.onerichgroup.com/nft/54377.jpg",
+    "dna": "71126asmdjsadya6d7848022bec080e518464",
+    "edition": 1,
+    "date": 1689478814021,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

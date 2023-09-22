@@ -1,0 +1,28 @@
+{
+    "name": "Finarrial  ",
+    "description": "The collection from onerichgroup #346",
+    "image": "https://nft.onerichgroup.com/nft/346.jpg",
+    "dna": "74592asmdjsadya6d7851483bec080e517380",
+    "edition": 1,
+    "date": 1689443113267,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

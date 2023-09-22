@@ -1,0 +1,28 @@
+{
+    "name": "Galerloth  ",
+    "description": "The collection from onerichgroup #1699",
+    "image": "https://nft.onerichgroup.com/nft/1699.jpg",
+    "dna": "60532asmdjsadya6d7884197bec080e51164",
+    "edition": 1,
+    "date": 1689443114144,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Estolel  ",
+    "description": "The collection from onerichgroup #53429",
+    "image": "https://nft.onerichgroup.com/nft/53429.jpg",
+    "dna": "87058asmdjsadya6d7840781bec080e547580",
+    "edition": 1,
+    "date": 1689478813630,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

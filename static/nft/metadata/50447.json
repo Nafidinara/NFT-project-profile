@@ -1,0 +1,28 @@
+{
+    "name": "Niremrien  ",
+    "description": "The collection from onerichgroup #50447",
+    "image": "https://nft.onerichgroup.com/nft/50447.jpg",
+    "dna": "60756asmdjsadya6d7895749bec080e570537",
+    "edition": 1,
+    "date": 1689478811235,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

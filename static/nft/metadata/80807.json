@@ -1,0 +1,28 @@
+{
+    "name": "Finamel  ",
+    "description": "The vip collection from onerichgroup #80807",
+    "image": "https://nft.onerichgroup.com/nft/80807.jpg",
+    "dna": "22692iyuirf45edrtd32725vjvtyd45tuy54455",
+    "edition": 1,
+    "date": 1690898985155,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

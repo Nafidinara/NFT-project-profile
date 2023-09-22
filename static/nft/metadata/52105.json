@@ -1,0 +1,28 @@
+{
+    "name": "Rimilel  ",
+    "description": "The collection from onerichgroup #52105",
+    "image": "https://nft.onerichgroup.com/nft/52105.jpg",
+    "dna": "6455asmdjsadya6d7889944bec080e517691",
+    "edition": 1,
+    "date": 1689478812742,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Merasien  ",
+    "description": "The collection from onerichgroup #51838",
+    "image": "https://nft.onerichgroup.com/nft/51838.jpg",
+    "dna": "72309asmdjsadya6d7897754bec080e586890",
+    "edition": 1,
+    "date": 1689478812520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

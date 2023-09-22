@@ -1,0 +1,28 @@
+{
+    "name": "Ganevriel  ",
+    "description": "The collection from onerichgroup #50101",
+    "image": "https://nft.onerichgroup.com/nft/50101.jpg",
+    "dna": "97560asmdjsadya6d7886114bec080e599278",
+    "edition": 1,
+    "date": 1689478811152,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

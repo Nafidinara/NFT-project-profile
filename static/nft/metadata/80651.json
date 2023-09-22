@@ -1,0 +1,28 @@
+{
+    "name": "Ganalwen  ",
+    "description": "The vip collection from onerichgroup #80651",
+    "image": "https://nft.onerichgroup.com/nft/80651.jpg",
+    "dna": "68831iyuirf45edrtd84851vjvtyd45tuy21803",
+    "edition": 1,
+    "date": 1690898984531,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

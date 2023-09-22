@@ -1,0 +1,28 @@
+{
+    "name": "Galalril  ",
+    "description": "The collection from onerichgroup #432",
+    "image": "https://nft.onerichgroup.com/nft/432.jpg",
+    "dna": "73962asmdjsadya6d7845186bec080e530149",
+    "edition": 1,
+    "date": 1689443113291,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

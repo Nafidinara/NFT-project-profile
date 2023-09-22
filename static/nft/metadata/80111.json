@@ -1,0 +1,28 @@
+{
+    "name": "Galadmir  ",
+    "description": "The vip collection from onerichgroup #80111",
+    "image": "https://nft.onerichgroup.com/nft/80111.jpg",
+    "dna": "952iyuirf45edrtd58775vjvtyd45tuy86699",
+    "edition": 1,
+    "date": 1690898982853,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elbebian  ",
+    "description": "The collection from onerichgroup #29422",
+    "image": "https://nft.onerichgroup.com/nft/29422.jpg",
+    "dna": "62675asmdjsadya6d7856880bec080e593314",
+    "edition": 1,
+    "date": 1689443121083,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

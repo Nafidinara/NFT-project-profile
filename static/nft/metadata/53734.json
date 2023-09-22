@@ -1,0 +1,28 @@
+{
+    "name": "Ganthalroël  ",
+    "description": "The collection from onerichgroup #53734",
+    "image": "https://nft.onerichgroup.com/nft/53734.jpg",
+    "dna": "66555asmdjsadya6d7877228bec080e590657",
+    "edition": 1,
+    "date": 1689478813707,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

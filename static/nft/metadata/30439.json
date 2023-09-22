@@ -1,0 +1,28 @@
+{
+    "name": "Lorereth  ",
+    "description": "The collection from onerichgroup #30439",
+    "image": "https://nft.onerichgroup.com/nft/30439.jpg",
+    "dna": "71358asmdjsadya6d783963bec080e528721",
+    "edition": 1,
+    "date": 1689443121170,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

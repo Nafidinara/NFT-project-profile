@@ -1,0 +1,27 @@
+{
+  "name": "Mirelsil  ",
+  "description": "The collection from onerichgroup #10108",
+  "image": "https://nft.onerichgroup.com/nft/10108.jpg",
+  "dna": "55012asmdjsadya6d7887059bec080e577589",
+  "edition": 1,
+  "date": 1689443117469,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

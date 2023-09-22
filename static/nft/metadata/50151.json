@@ -1,0 +1,28 @@
+{
+    "name": "Laradwë  ",
+    "description": "The collection from onerichgroup #50151",
+    "image": "https://nft.onerichgroup.com/nft/50151.jpg",
+    "dna": "55283asmdjsadya6d7841372bec080e525541",
+    "edition": 1,
+    "date": 1689478811164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

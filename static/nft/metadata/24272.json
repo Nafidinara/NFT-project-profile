@@ -1,0 +1,28 @@
+{
+    "name": "Rilolrian  ",
+    "description": "The collection from onerichgroup #24272",
+    "image": "https://nft.onerichgroup.com/nft/24272.jpg",
+    "dna": "7764asmdjsadya6d783691bec080e539740",
+    "edition": 1,
+    "date": 1689443120386,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

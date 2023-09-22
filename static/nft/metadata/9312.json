@@ -1,0 +1,28 @@
+{
+    "name": "Ranalroël  ",
+    "description": "The collection from onerichgroup #9312",
+    "image": "https://nft.onerichgroup.com/nft/9312.jpg",
+    "dna": "64864asmdjsadya6d7863335bec080e589152",
+    "edition": 1,
+    "date": 1689443117320,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

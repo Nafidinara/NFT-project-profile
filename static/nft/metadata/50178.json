@@ -1,0 +1,28 @@
+{
+    "name": "Gilesrian  ",
+    "description": "The collection from onerichgroup #50178",
+    "image": "https://nft.onerichgroup.com/nft/50178.jpg",
+    "dna": "27549asmdjsadya6d7839481bec080e539436",
+    "edition": 1,
+    "date": 1689478811170,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

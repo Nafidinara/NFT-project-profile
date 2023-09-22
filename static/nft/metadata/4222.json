@@ -1,0 +1,28 @@
+{
+    "name": "Laranrian  ",
+    "description": "The collection from onerichgroup #4222",
+    "image": "https://nft.onerichgroup.com/nft/4222.jpg",
+    "dna": "84002asmdjsadya6d7893789bec080e534716",
+    "edition": 1,
+    "date": 1689443115500,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

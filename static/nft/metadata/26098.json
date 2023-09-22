@@ -1,0 +1,28 @@
+{
+    "name": "Finadmir  ",
+    "description": "The collection from onerichgroup #26098",
+    "image": "https://nft.onerichgroup.com/nft/26098.jpg",
+    "dna": "55441asmdjsadya6d7844999bec080e533750",
+    "edition": 1,
+    "date": 1689443120641,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

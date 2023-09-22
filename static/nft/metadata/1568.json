@@ -1,0 +1,28 @@
+{
+    "name": "Rimthalwë  ",
+    "description": "The collection from onerichgroup #1568",
+    "image": "https://nft.onerichgroup.com/nft/1568.jpg",
+    "dna": "16455asmdjsadya6d7852078bec080e566342",
+    "edition": 1,
+    "date": 1689443114001,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

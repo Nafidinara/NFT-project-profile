@@ -1,0 +1,28 @@
+{
+    "name": "Ciramedel  ",
+    "description": "The collection from onerichgroup #50029",
+    "image": "https://nft.onerichgroup.com/nft/50029.jpg",
+    "dna": "63866asmdjsadya6d7888236bec080e540432",
+    "edition": 1,
+    "date": 1689478811133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

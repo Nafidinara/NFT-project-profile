@@ -1,0 +1,28 @@
+{
+    "name": "Caremrien  ",
+    "description": "The collection from onerichgroup #34963",
+    "image": "https://nft.onerichgroup.com/nft/34963.jpg",
+    "dna": "94595asmdjsadya6d7852215bec080e549891",
+    "edition": 1,
+    "date": 1689443121597,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

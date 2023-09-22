@@ -1,0 +1,28 @@
+{
+    "name": "Meremrien  ",
+    "description": "The collection from onerichgroup #53449",
+    "image": "https://nft.onerichgroup.com/nft/53449.jpg",
+    "dna": "83665asmdjsadya6d7854074bec080e581420",
+    "edition": 1,
+    "date": 1689478813632,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

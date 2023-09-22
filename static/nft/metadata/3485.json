@@ -1,0 +1,28 @@
+{
+    "name": "Finassil  ",
+    "description": "The collection from onerichgroup #3485",
+    "image": "https://nft.onerichgroup.com/nft/3485.jpg",
+    "dna": "68014asmdjsadya6d7879339bec080e523984",
+    "edition": 1,
+    "date": 1689443115070,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

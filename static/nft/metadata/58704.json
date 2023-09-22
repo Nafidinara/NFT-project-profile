@@ -1,0 +1,28 @@
+{
+    "name": "Ganebriel  ",
+    "description": "The collection from onerichgroup #58704",
+    "image": "https://nft.onerichgroup.com/nft/58704.jpg",
+    "dna": "58487asmdjsadya6d7847803bec080e525136",
+    "edition": 1,
+    "date": 1689478816116,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

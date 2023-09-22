@@ -1,0 +1,28 @@
+{
+    "name": "Larilwen  ",
+    "description": "The collection from onerichgroup #51159",
+    "image": "https://nft.onerichgroup.com/nft/51159.jpg",
+    "dna": "82276asmdjsadya6d7864278bec080e567931",
+    "edition": 1,
+    "date": 1689478811936,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

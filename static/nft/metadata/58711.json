@@ -1,0 +1,28 @@
+{
+    "name": "Ilmemwen  ",
+    "description": "The collection from onerichgroup #58711",
+    "image": "https://nft.onerichgroup.com/nft/58711.jpg",
+    "dna": "55753asmdjsadya6d7824439bec080e512696",
+    "edition": 1,
+    "date": 1689478816119,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Cirolloth  ",
+    "description": "The collection from onerichgroup #56579",
+    "image": "https://nft.onerichgroup.com/nft/56579.jpg",
+    "dna": "2961asmdjsadya6d7820725bec080e587961",
+    "edition": 1,
+    "date": 1689478815177,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

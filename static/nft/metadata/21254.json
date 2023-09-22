@@ -1,0 +1,28 @@
+{
+    "name": "Gelinril  ",
+    "description": "The collection from onerichgroup #21254",
+    "image": "https://nft.onerichgroup.com/nft/21254.jpg",
+    "dna": "36206asmdjsadya6d7879142bec080e594685",
+    "edition": 1,
+    "date": 1689443119906,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

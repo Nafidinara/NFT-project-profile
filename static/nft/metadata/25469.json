@@ -1,0 +1,28 @@
+{
+    "name": "Farenedel  ",
+    "description": "The collection from onerichgroup #25469",
+    "image": "https://nft.onerichgroup.com/nft/25469.jpg",
+    "dna": "86899asmdjsadya6d7854974bec080e555680",
+    "edition": 1,
+    "date": 1689443120595,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

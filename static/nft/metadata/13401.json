@@ -1,0 +1,27 @@
+{
+  "name": "Clarasroël  ",
+  "description": "The collection from onerichgroup #13401",
+  "image": "https://nft.onerichgroup.com/nft/13401.jpg",
+  "dna": "8145asmdjsadya6d7883262bec080e549617",
+  "edition": 1,
+  "date": 1689443118231,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

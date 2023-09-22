@@ -1,0 +1,28 @@
+{
+    "name": "Elbolel  ",
+    "description": "The collection from onerichgroup #28261",
+    "image": "https://nft.onerichgroup.com/nft/28261.jpg",
+    "dna": "34056asmdjsadya6d7891634bec080e570344",
+    "edition": 1,
+    "date": 1689443120897,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

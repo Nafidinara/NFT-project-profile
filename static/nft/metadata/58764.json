@@ -1,0 +1,28 @@
+{
+    "name": "Celevian  ",
+    "description": "The collection from onerichgroup #58764",
+    "image": "https://nft.onerichgroup.com/nft/58764.jpg",
+    "dna": "37369asmdjsadya6d7855239bec080e577238",
+    "edition": 1,
+    "date": 1689478816133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

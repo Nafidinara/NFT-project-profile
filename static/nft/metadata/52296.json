@@ -1,0 +1,28 @@
+{
+    "name": "Nimarriel  ",
+    "description": "The collection from onerichgroup #52296",
+    "image": "https://nft.onerichgroup.com/nft/52296.jpg",
+    "dna": "55377asmdjsadya6d7850273bec080e537639",
+    "edition": 1,
+    "date": 1689478812885,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

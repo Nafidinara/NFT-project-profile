@@ -1,0 +1,28 @@
+{
+    "name": "Calemel  ",
+    "description": "The vip collection from onerichgroup #80930",
+    "image": "https://nft.onerichgroup.com/nft/80930.jpg",
+    "dna": "31026iyuirf45edrtd77215vjvtyd45tuy34756",
+    "edition": 1,
+    "date": 1690898985733,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

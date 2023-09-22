@@ -1,0 +1,28 @@
+{
+    "name": "Elbamrian  ",
+    "description": "The collection from onerichgroup #2885",
+    "image": "https://nft.onerichgroup.com/nft/2885.jpg",
+    "dna": "2592asmdjsadya6d7857738bec080e577482",
+    "edition": 1,
+    "date": 1689443114659,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

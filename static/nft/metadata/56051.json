@@ -1,0 +1,28 @@
+{
+    "name": "Erlenmir  ",
+    "description": "The collection from onerichgroup #56051",
+    "image": "https://nft.onerichgroup.com/nft/56051.jpg",
+    "dna": "98207asmdjsadya6d7828605bec080e565092",
+    "edition": 1,
+    "date": 1689478814912,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

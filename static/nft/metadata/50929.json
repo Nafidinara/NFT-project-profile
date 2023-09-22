@@ -1,0 +1,28 @@
+{
+    "name": "Nimamian  ",
+    "description": "The collection from onerichgroup #50929",
+    "image": "https://nft.onerichgroup.com/nft/50929.jpg",
+    "dna": "89428asmdjsadya6d7819553bec080e562588",
+    "edition": 1,
+    "date": 1689478811762,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

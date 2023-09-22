@@ -1,0 +1,28 @@
+{
+    "name": "Merenriel  ",
+    "description": "The collection from onerichgroup #54136",
+    "image": "https://nft.onerichgroup.com/nft/54136.jpg",
+    "dna": "85903asmdjsadya6d7875513bec080e5829",
+    "edition": 1,
+    "date": 1689478813823,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Cirerwen  ",
+    "description": "The collection from onerichgroup #253",
+    "image": "https://nft.onerichgroup.com/nft/253.jpg",
+    "dna": "50146asmdjsadya6d7872435bec080e591062",
+    "edition": 1,
+    "date": 1689443113237,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

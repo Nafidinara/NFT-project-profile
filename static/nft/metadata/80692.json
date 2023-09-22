@@ -1,0 +1,28 @@
+{
+    "name": "Ninerrian  ",
+    "description": "The vip collection from onerichgroup #80692",
+    "image": "https://nft.onerichgroup.com/nft/80692.jpg",
+    "dna": "49093iyuirf45edrtd57870vjvtyd45tuy90172",
+    "edition": 1,
+    "date": 1690898984587,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilaneth  ",
+    "description": "The collection from onerichgroup #154",
+    "image": "https://nft.onerichgroup.com/nft/154.jpg",
+    "dna": "39163asmdjsadya6d7829115bec080e534928",
+    "edition": 1,
+    "date": 1689443113206,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

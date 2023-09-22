@@ -1,0 +1,28 @@
+{
+    "name": "Ilmenel  ",
+    "description": "The collection from onerichgroup #50148",
+    "image": "https://nft.onerichgroup.com/nft/50148.jpg",
+    "dna": "89452asmdjsadya6d7858662bec080e572791",
+    "edition": 1,
+    "date": 1689478811164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

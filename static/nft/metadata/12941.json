@@ -1,0 +1,27 @@
+{
+  "name": "Aroledel  ",
+  "description": "The collection from onerichgroup #12941",
+  "image": "https://nft.onerichgroup.com/nft/12941.jpg",
+  "dna": "58848asmdjsadya6d7841258bec080e57709",
+  "edition": 1,
+  "date": 1689443118033,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

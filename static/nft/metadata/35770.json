@@ -1,0 +1,28 @@
+{
+    "name": "Gelineth  ",
+    "description": "The collection from onerichgroup #35770",
+    "image": "https://nft.onerichgroup.com/nft/35770.jpg",
+    "dna": "45041asmdjsadya6d7825786bec080e52457",
+    "edition": 1,
+    "date": 1689443121635,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

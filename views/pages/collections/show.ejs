@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-US"
+    class=" yes-js js_active js js csstransitions js  js no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Onerichgroup - All in one cryptoworld platform</title>
+    <link rel="shortcut icon" href="/assets/images/logos/favicon-enefti.jpg">
+
+    <%- include('../../includes/styles.ejs') %>
+
+        <link rel="stylesheet" href="/assets/css/styles.css">
+
+        <style>
+            body {
+                background-color: rgb(14, 14, 14) !important;
+            }
+        </style>
+</head>
+
+<body>
+    <!--place the navbar here-->
+    <%- include('../../includes/navbar.ejs') %>
+        <!--place the navbar here-->
+        </div>
+        <!--BreadCrumbs-->
+        <div class="breadcrumbs-dark">
+            <div class="container">
+                <div class="d-flex align-items-center justify-content-between">
+                    <div>
+                        <h1 class="text-white">Product Details</h1>
+                    </div>
+                    <div>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="#" class="text-white">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page"
+                                    style="color: rgb(23, 239, 151);">Collection</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Item Section-->
+        <section class="enefti-single-nft-section">
+            <div class="container">
+                <div class="enefti-item-content row">
+                    <div class="enefti-single-nft-img-container col-md-6">
+                        <div class="enefti-item-image enefti-single-nft-gallery">
+                            <a href="/nft/<%= nft %>.jpg">
+                                <img src="/nft/<%= nft %>.jpg" alt="single-nft" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-12 enefti-product-title enefti-single-product-title">
+                                <h3 class="n-nft-<%= nft %>" style="color:rgb(23, 239, 151)">----</h3>
+                                <p class="enefti-single-nft-subtitle">
+                                    <span class=" n-collection-<%= nft %>">
+                                        ----
+                                    </span><br>
+                                    <span>
+                                        This is NFT able to use booster APR at our DeFi platform!
+                                    </span>
+                                </p>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 enefti-product-details d-flex flex-row align-items-center">
+                                <span class="enefti-pound-price mb-3" style="color:rgb(23, 239, 151)"> <span
+                                        class="p-nft-<%= nft %>">--</span> USDT ( bep20 ) </span>
+                            </div>
+                        </div>
+
+
+                        <section id="warp-item">
+                            <div class="card card-item-btn nft-available">
+
+                            </div>
+
+                            <div class="card card-item-btn mt-5 wallet-connect">
+
+                            </div>
+
+                            <div class="card card-item-btn mt-5 usdt-balance">
+
+                            </div>
+
+                            <div class="card card-item-btn mt-5 usdt-approved">
+
+                            </div>
+
+                            <div class="mint-button" id="mint-button">
+
+                            </div>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="container d-none">
+                <div class="row">
+                    <div class="col">
+                        <div>
+                            <ul class="nav nav-tabs enefti-single-enefti-tabs">
+                                <li class="nav-item">
+                                    <div id="enefti-single-nft-tab-btn-1" data-target="#enefti-single-nft-info"
+                                        class="enefti-single-nft-tab nav-link active" role="tablist" data-toggle="tab">
+                                        Description
+                                    </div>
+                                </li>
+
+                                <li class="nav-item">
+                                    <div id="enefti-single-nft-tab-btn-3" data-target="#enefti-single-nft-table"
+                                        class="enefti-single-nft-tab nav-link" role="tablist" data-toggle="tab">
+                                        Traits
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane active row enefti-product-tab-1-content"
+                                id="enefti-single-nft-info">
+                                <div class="enefti-tab-info-txt col-12">
+                                    <p>
+
+                                    </p>
+
+                                </div>
+                            </div>
+
+                            <div role="tabpanel" class="tab-pane fade row enefti-product-tab-3-content"
+                                id="enefti-single-nft-table">
+                                <div class="col-12">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <th>Class</th>
+                                                <th class="c-nft-<%= nft %>">---</th>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container d-none ">
+                <h1 class="text-white">Guides</h1>
+                <div id="accordion">
+                    <div class="card mt-3">
+                        <div class="card-header" id="headingOne">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                                    aria-expanded="true" aria-controls="collapseOne">
+                                    Lorem Ipsum
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                            data-parent="#accordion">
+                            <div class="card-body">
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae maxime modi quo fuga hic
+                                deleniti illum assumenda! Eum quibusdam ab nostrum, minima dolor ratione voluptatum
+                                dignissimos, autem tempora illum consectetur.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card mt-3 d-none">
+                        <div class="card-header" id="headingTwo">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                                    aria-expanded="false" aria-controls="collapseTwo">
+                                    Lorem
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div class="card-body">
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. A modi nesciunt sed veritatis
+                                nam omnis ipsum quos accusamus unde. In ipsa mollitia nostrum, vero necessitatibus
+                                corporis magni deleniti cupiditate repellat!
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="container mt-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="enefti-title-subtitle">
+                            <h2 class="text-white">Related Products</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" id="related-nft">
+
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <!--place the page section here-->
+
+        <!--place the footer here-->
+        <%- include('../../includes/footer.ejs') %>
+            <!--place the footer here-->
+
+            <!--scripts gunna be here-->
+            <%- include('../../includes/scripts.ejs') %>
+                <script src="/assets/js/item.js?<%= Math.random() %>"></script>
+                <script src="/assets/js/main.js"></script>
+
+                <script type="module">
+                    import { web3Helper } from "/assets/js/web3Helper.js";
+
+                    const id = (<%= nft %>)
+                        let priceId = 0;
+
+                    const basePrice = 10 ** 18;
+                    let nftprice = 100;
+
+                    if (id > 50000 && id <= 60000) {
+                        priceId = 1;
+                        nftprice = 1000 * basePrice;
+                    } else if (id > 60000 && id <= 61000) {
+                        priceId = 2;
+                        nftprice = 10000 * basePrice;
+                    } else if (id > 61000) {
+                        priceId = 3;
+                        nftprice = 100000 * basePrice;
+                    } else {
+                        priceId = 0;
+                        nftprice = 100 * basePrice;
+                    }
+
+                    Item.generate(priceId);
+                    Item.getinfo(id);
+
+                    let myAddress;
+                    let nftContract;
+
+                    (async () => {
+                        const myAccount = await web3Helper.getAccount();
+                        myAddress = myAccount.address;
+
+                        const modal = web3Helper.web3Modal();
+
+                        if (!myAddress) {
+                            $("#warp-item").replaceWith(`
+        <div class="mint-button">
+                <button class="mt-5 btn-mint" id="connect-button">
+                  Connect Wallet
+                </button>
+              </div>
+        `)
+                            $('#connect-button').on('click', () => {
+                                modal.openModal();
+                            });
+                            const checkingAddrInterval = setInterval(async () => {
+                                console.log(await web3Helper.getAccount())
+                                if ((await web3Helper.getAccount()).address) {
+                                    clearInterval(checkingAddrInterval)
+                                    window.location.reload();
+                                }
+                            }, 2000);
+                        }
+
+                        let NFT = [
+                            "0xdB92bE5d6ef6136c3e8d54e161A10E83E4F4A113",
+                            "0xAE2650dFD2b0D435fc395EeDf2fd14e30AF9A354",
+                            "0x909a73b84C5D394d8fFbf1af87a6686dBdD814Ec",
+                            "0x891a9b49c02bD3c87b89e7d0fAd209A4f5f7f440"
+                        ];
+
+                        nftContract = NFT[priceId];
+                        const myBalance = await web3Helper.checkBalance(myAddress, '0x55d398326f99059ff775485246999027b3197955');
+                        const allowance = await web3Helper.getAllowance('0x55d398326f99059ff775485246999027b3197955', myAddress, nftContract);
+                        const isMinted = await web3Helper.isMinted(id);
+
+
+                        let conditions = [
+                            !isMinted,
+                            myAccount.address.length > 0,
+                            Number(myBalance.value) > Number(nftprice),
+                            Number(allowance) >= nftprice
+                        ]
+
+                        await Item.initEventListener(web3Helper, nftContract, nftprice, myAddress, id);
+                        const diffBalance = ((Number(nftprice) - Number(myBalance.value)) / basePrice).toFixed(2)
+                        await Item.initCondition(conditions, diffBalance);
+                    })();
+
+                </script>
+                <!--scripts gunna be here-->
+</body>
+
+</html>

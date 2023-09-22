@@ -1,0 +1,28 @@
+{
+    "name": "Gilebloth  ",
+    "description": "The collection from onerichgroup #14970",
+    "image": "https://nft.onerichgroup.com/nft/14970.jpg",
+    "dna": "70193asmdjsadya6d7898359bec080e594511",
+    "edition": 1,
+    "date": 1689443118676,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

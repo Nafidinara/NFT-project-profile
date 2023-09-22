@@ -1,0 +1,28 @@
+{
+    "name": "Meriliel  ",
+    "description": "The collection from onerichgroup #44522",
+    "image": "https://nft.onerichgroup.com/nft/44522.jpg",
+    "dna": "97009asmdjsadya6d7872888bec080e587844",
+    "edition": 1,
+    "date": 1689443122309,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

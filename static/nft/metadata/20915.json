@@ -1,0 +1,28 @@
+{
+    "name": "Garemmir  ",
+    "description": "The collection from onerichgroup #20915",
+    "image": "https://nft.onerichgroup.com/nft/20915.jpg",
+    "dna": "60918asmdjsadya6d7851532bec080e552149",
+    "edition": 1,
+    "date": 1689443119862,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

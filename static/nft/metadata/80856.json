@@ -1,0 +1,28 @@
+{
+    "name": "Estalsil  ",
+    "description": "The vip collection from onerichgroup #80856",
+    "image": "https://nft.onerichgroup.com/nft/80856.jpg",
+    "dna": "87267iyuirf45edrtd30673vjvtyd45tuy59801",
+    "edition": 1,
+    "date": 1690898985363,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

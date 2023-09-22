@@ -1,0 +1,27 @@
+{
+  "name": "Arevriel  ",
+  "description": "The collection from onerichgroup #11247",
+  "image": "https://nft.onerichgroup.com/nft/11247.jpg",
+  "dna": "66453asmdjsadya6d7898489bec080e538981",
+  "edition": 1,
+  "date": 1689443117570,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

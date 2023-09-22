@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en-US"
+    class=" yes-js js_active js js csstransitions js  js no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Onerichgroup - All in one cryptoworld platform</title>
+    <link rel="shortcut icon" href="./assets/images/logos/favicon-enefti.jpg">
+
+    <%- include('../../includes/styles.ejs') %>
+
+        <link rel="stylesheet" href="./assets/css/styles.css">
+
+        <style>
+            body {
+                background-color: rgb(14, 14, 14) !important;
+            }
+        </style>
+
+</head>
+
+<body>
+    <!--place the navbar here-->
+    <%- include('../../includes/navbar.ejs') %>
+        <!--place the navbar here-->
+
+        <!--place the page section here-->
+        <div class="mt-5 mb-5">
+            <div class="container">
+                <div class="header-farm d-flex justify-content-between">
+                    <h6>Pools</h6>
+                    <h6>Pools</h6>
+                    <h6>Pools</h6>
+
+                    <h6>Pools</h6>
+                    <h6>Pools</h6>
+
+                </div>
+            </div>
+            <div class="container">
+                <div id="accordion">
+                    <div class="card card-farm">
+                        <div class="card-header" id="headingTwo">
+                            <div class="d-flex justify-content-between">
+                                <button class="btn btn-link collapsed d-flex align-items-center text-white"
+                                    data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
+                                    aria-controls="collapseTwo">
+                                    <img src="/assets/images/farm.png" alt="Previous-Image" class="mr-3">BEST-DOT / BEST
+                                </button>
+                                <h4 class="text-white font-weight-normal" id="apy">89.58 %</h4>
+                                <h4 class="text-white font-weight-normal" id="staked">2586.50 <span
+                                        class="text-green">BNB</span></h4>
+                                <h4 class="text-white font-weight-normal" id="tearned">899.50
+                                    <span class="text-green">BNB</span>
+                                </h4>
+                                <h4 class="text-white font-weight-normal" id="tvl">$305,626.99</h4>
+
+
+
+                            </div>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div class="card-body d-flex justify-content-between">
+                                <div class="info">
+                                    <ul>
+                                        <li><a href="">Get ACT-BNB</a></li>
+                                        <li><a href="">View Contract</a></li>
+                                        <li><a href="">Unstaking Fee</a></li>
+                                    </ul>
+                                </div>
+                                <div class="button-area">
+                                    <button class="btn btn-deposit" data-toggle="modal" data-target="#exampleModalDepo"
+                                        type="button">Deposit</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+        <!--place the page section here-->
+
+        <!-- modal depo here -->
+        <div class="modal fade" id="exampleModalDepo" tabindex="-1" role="dialog"
+            aria-labelledby="exampleModalDepoLabel" aria-hidden="true">
+            <div class="modal-dialog " role="document">
+                <div class="modal-content farm">
+                    <div class="modal-header farm">
+                        <h5 class="modal-title" id="exampleModalDepoLabel">Add Liquidity</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+
+                    <div class="modal-body">
+                        <div class="input-amount">
+                            <input type="text" class="form-control form-input-amount" placeholder="0"
+                                aria-label="Input Amount">
+                            <div class="btn-wrapper mt-3">
+                                <button class="btn-input-amount">10%</button>
+                                <button class="btn-input-amount mr-3">25%</button>
+                                <button class="btn-input-amount mr-3">50%</button>
+                                <button class="btn-input-amount mr-3">75%</button>
+                                <button class="btn-input-amount mr-3">Max</button>
+                            </div>
+                        </div>
+                        <button class="btn btn-top-up mt-4">
+                            Add
+                        </button>
+                        <button class="btn btn-top-up mt-4" disabled>
+                            Add Disabled
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--place the footer here-->
+        <%- include('../../includes/footer.ejs') %>
+            <!--place the footer here-->
+
+            <!--scripts gunna be here-->
+            <%- include('../../includes/scripts.ejs') %>
+                <script src="/assets/js/staking.js?<%= Math.random() %>"></script>
+
+                <script>
+                    for (let a = 0; a < 10; a++) {
+                        let lockpercent = Math.floor(Math.random() * 100);
+                        let b = ` <div class="swiper-slide item" data-swiper-slide-index="${a}" style="width: 346px; margin-right: 30px;">
+                            <div class="card project-card">
+                                <div class="media">
+                                   
+                                     <img class="card-img-top avatar-max-lg" src="/nft/1.jpg" alt="">
+                                   
+                                    <div class="media-body ml-4">
+                                        <a href="project-details.html">
+                                            <h4 class="m-0">Nft Name</h4>
+                                        </a>
+                                        <div class="countdown-times">
+                                            <h6 class="my-2">Start time: 01/01/2023</h6>
+                                            <h6 class="my-2">Unlock time: 01/07/2023</h6>
+                                            <div class="countdown d-flex" data-date="2022-06-30" style="display: none;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Project Body -->
+                                <div class="card-body">
+                                    <div class="items">
+                                        <!-- Single Item -->
+                                        <div class="single-item">
+                                            <span>Total raise</span>
+                                            <span>100k</span>
+                                        </div>
+                                        <!-- Single Item -->
+                                        <div class="single-item">
+                                            <span>Valu</span>
+                                            <span>2.8M</span>
+                                        </div>
+                                        <!-- Single Item -->
+                                        <div class="single-item">
+                                            <span>Min allo</span>
+                                            <span>$0</span>
+                                        </div>
+                                    </div>
+                                    <div class="item-progress">
+                                        <div class="progress mt-4 mt-md-5">
+                                            <div class="progress-bar" role="progressbar" style="width: ${lockpercent}%;" aria-valuenow="${lockpercent}" aria-valuemin="0" aria-valuemax="100">${lockpercent}%</div>
+                                        </div>
+                                        <div class="progress-sale d-flex justify-content-between mt-3">
+                                            <span>Reward</span>
+                                            <span>0.12345678 ORG</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Project Footer -->
+                                <div class="project-footer d-flex align-items-center mt-4 mt-md-5">
+                                    <a class="btn btn-bordered-white btn-smaller" >Claim Reward</a>
+                                 
+                                </div>
+                                <!-- Blockchain Icon -->
+                               
+                            </div>
+                        </div>`;
+                        $("#stakinglist").append(b)
+                    }
+
+                </script>
+
+                <!--scripts gunna be here-->
+</body>
+
+</html>

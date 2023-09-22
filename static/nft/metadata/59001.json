@@ -1,0 +1,28 @@
+{
+    "name": "Larinwë  ",
+    "description": "The collection from onerichgroup #59001",
+    "image": "https://nft.onerichgroup.com/nft/59001.jpg",
+    "dna": "55157asmdjsadya6d7853690bec080e522386",
+    "edition": 1,
+    "date": 1689478816187,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

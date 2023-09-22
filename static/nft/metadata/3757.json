@@ -1,0 +1,28 @@
+{
+    "name": "Gelamiel  ",
+    "description": "The collection from onerichgroup #3757",
+    "image": "https://nft.onerichgroup.com/nft/3757.jpg",
+    "dna": "42303asmdjsadya6d7844459bec080e560964",
+    "edition": 1,
+    "date": 1689443115232,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

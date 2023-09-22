@@ -1,0 +1,28 @@
+{
+    "name": "Niradrial  ",
+    "description": "The collection from onerichgroup #879",
+    "image": "https://nft.onerichgroup.com/nft/879.jpg",
+    "dna": "59203asmdjsadya6d7863884bec080e539422",
+    "edition": 1,
+    "date": 1689443113600,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

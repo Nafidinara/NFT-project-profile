@@ -1,0 +1,28 @@
+{
+    "name": "Ganelrial  ",
+    "description": "The collection from onerichgroup #55079",
+    "image": "https://nft.onerichgroup.com/nft/55079.jpg",
+    "dna": "23431asmdjsadya6d7898229bec080e562060",
+    "edition": 1,
+    "date": 1689478814368,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

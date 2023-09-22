@@ -1,0 +1,28 @@
+{
+    "name": "Clarthonrien  ",
+    "description": "The collection from onerichgroup #75",
+    "image": "https://nft.onerichgroup.com/nft/75.jpg",
+    "dna": "24861asmdjsadya6d7848782bec080e522945",
+    "edition": 1,
+    "date": 1689443113179,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Lirilwen  ",
+    "description": "The collection from onerichgroup #52870",
+    "image": "https://nft.onerichgroup.com/nft/52870.jpg",
+    "dna": "93986asmdjsadya6d7889726bec080e567834",
+    "edition": 1,
+    "date": 1689478813329,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

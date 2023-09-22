@@ -1,0 +1,28 @@
+{
+    "name": "Ilmileth  ",
+    "description": "The collection from onerichgroup #21996",
+    "image": "https://nft.onerichgroup.com/nft/21996.jpg",
+    "dna": "5772asmdjsadya6d7854811bec080e540816",
+    "edition": 1,
+    "date": 1689443120031,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

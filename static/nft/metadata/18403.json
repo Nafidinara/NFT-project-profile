@@ -1,0 +1,28 @@
+{
+    "name": "Elemedel  ",
+    "description": "The collection from onerichgroup #18403",
+    "image": "https://nft.onerichgroup.com/nft/18403.jpg",
+    "dna": "46874asmdjsadya6d7880102bec080e518463",
+    "edition": 1,
+    "date": 1689443119445,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

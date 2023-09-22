@@ -1,0 +1,28 @@
+{
+    "name": "Nimamriel  ",
+    "description": "The collection from onerichgroup #50341",
+    "image": "https://nft.onerichgroup.com/nft/50341.jpg",
+    "dna": "41789asmdjsadya6d7831523bec080e596083",
+    "edition": 1,
+    "date": 1689478811212,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

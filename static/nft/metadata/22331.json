@@ -1,0 +1,28 @@
+{
+    "name": "Istadmir  ",
+    "description": "The collection from onerichgroup #22331",
+    "image": "https://nft.onerichgroup.com/nft/22331.jpg",
+    "dna": "83032asmdjsadya6d7839662bec080e565955",
+    "edition": 1,
+    "date": 1689443120140,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

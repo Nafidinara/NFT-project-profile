@@ -1,0 +1,28 @@
+{
+    "name": "Merthonwen  ",
+    "description": "The vip collection from onerichgroup #80824",
+    "image": "https://nft.onerichgroup.com/nft/80824.jpg",
+    "dna": "16320iyuirf45edrtd94665vjvtyd45tuy46696",
+    "edition": 1,
+    "date": 1690898985220,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Iredril  ",
+    "description": "The collection from onerichgroup #5998",
+    "image": "https://nft.onerichgroup.com/nft/5998.jpg",
+    "dna": "80839asmdjsadya6d7855491bec080e555922",
+    "edition": 1,
+    "date": 1689443116359,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

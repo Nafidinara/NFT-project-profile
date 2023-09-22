@@ -1,0 +1,28 @@
+{
+    "name": "Galalrien  ",
+    "description": "The collection from onerichgroup #71",
+    "image": "https://nft.onerichgroup.com/nft/71.jpg",
+    "dna": "9516asmdjsadya6d7814027bec080e511286",
+    "edition": 1,
+    "date": 1689443113178,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

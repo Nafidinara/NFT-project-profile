@@ -1,0 +1,28 @@
+{
+    "name": "Garalril  ",
+    "description": "The collection from onerichgroup #6650",
+    "image": "https://nft.onerichgroup.com/nft/6650.jpg",
+    "dna": "92876asmdjsadya6d7860331bec080e559005",
+    "edition": 1,
+    "date": 1689443116467,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

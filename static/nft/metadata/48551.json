@@ -1,0 +1,28 @@
+{
+    "name": "Miremsil  ",
+    "description": "The collection from onerichgroup #48551",
+    "image": "https://nft.onerichgroup.com/nft/48551.jpg",
+    "dna": "95191asmdjsadya6d7897085bec080e559276",
+    "edition": 1,
+    "date": 1689443122398,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

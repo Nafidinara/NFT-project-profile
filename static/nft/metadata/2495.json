@@ -1,0 +1,28 @@
+{
+    "name": "Finemrian  ",
+    "description": "The collection from onerichgroup #2495",
+    "image": "https://nft.onerichgroup.com/nft/2495.jpg",
+    "dna": "65412asmdjsadya6d7870672bec080e583563",
+    "edition": 1,
+    "date": 1689443114572,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

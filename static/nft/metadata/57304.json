@@ -1,0 +1,28 @@
+{
+    "name": "Calelroël  ",
+    "description": "The collection from onerichgroup #57304",
+    "image": "https://nft.onerichgroup.com/nft/57304.jpg",
+    "dna": "12856asmdjsadya6d7863377bec080e585905",
+    "edition": 1,
+    "date": 1689478815503,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

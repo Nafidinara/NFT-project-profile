@@ -1,0 +1,28 @@
+{
+    "name": "Galaledel  ",
+    "description": "The collection from onerichgroup #25079",
+    "image": "https://nft.onerichgroup.com/nft/25079.jpg",
+    "dna": "57970asmdjsadya6d7813906bec080e57623",
+    "edition": 1,
+    "date": 1689443120528,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

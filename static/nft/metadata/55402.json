@@ -1,0 +1,28 @@
+{
+    "name": "Mararrial  ",
+    "description": "The collection from onerichgroup #55402",
+    "image": "https://nft.onerichgroup.com/nft/55402.jpg",
+    "dna": "2862asmdjsadya6d7871144bec080e541873",
+    "edition": 1,
+    "date": 1689478814563,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

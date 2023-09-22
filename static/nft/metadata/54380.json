@@ -1,0 +1,28 @@
+{
+    "name": "Anasril  ",
+    "description": "The collection from onerichgroup #54380",
+    "image": "https://nft.onerichgroup.com/nft/54380.jpg",
+    "dna": "14251asmdjsadya6d7861031bec080e584137",
+    "edition": 1,
+    "date": 1689478814023,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

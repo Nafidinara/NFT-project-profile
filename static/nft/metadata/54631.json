@@ -1,0 +1,28 @@
+{
+    "name": "Gelolrial  ",
+    "description": "The collection from onerichgroup #54631",
+    "image": "https://nft.onerichgroup.com/nft/54631.jpg",
+    "dna": "44774asmdjsadya6d7829172bec080e595299",
+    "edition": 1,
+    "date": 1689478814120,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Riledrien  ",
+    "description": "The collection from onerichgroup #54415",
+    "image": "https://nft.onerichgroup.com/nft/54415.jpg",
+    "dna": "72299asmdjsadya6d7821607bec080e577393",
+    "edition": 1,
+    "date": 1689478814033,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

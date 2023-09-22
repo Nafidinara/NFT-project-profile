@@ -1,0 +1,28 @@
+{
+    "name": "Erasloth  ",
+    "description": "The collection from onerichgroup #34618",
+    "image": "https://nft.onerichgroup.com/nft/34618.jpg",
+    "dna": "6904asmdjsadya6d7857798bec080e592153",
+    "edition": 1,
+    "date": 1689443121583,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

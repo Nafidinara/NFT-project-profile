@@ -1,0 +1,28 @@
+{
+    "name": "Elbenedel  ",
+    "description": "The vip collection from onerichgroup #80060",
+    "image": "https://nft.onerichgroup.com/nft/80060.jpg",
+    "dna": "7118iyuirf45edrtd81958vjvtyd45tuy52879",
+    "edition": 1,
+    "date": 1690898982654,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

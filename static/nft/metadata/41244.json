@@ -1,0 +1,28 @@
+{
+    "name": "Rimenroël  ",
+    "description": "The collection from onerichgroup #41244",
+    "image": "https://nft.onerichgroup.com/nft/41244.jpg",
+    "dna": "85948asmdjsadya6d7836571bec080e532296",
+    "edition": 1,
+    "date": 1689443122039,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

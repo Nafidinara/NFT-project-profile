@@ -1,0 +1,28 @@
+{
+    "name": "Meradedel  ",
+    "description": "The collection from onerichgroup #8795",
+    "image": "https://nft.onerichgroup.com/nft/8795.jpg",
+    "dna": "37745asmdjsadya6d7817915bec080e574233",
+    "edition": 1,
+    "date": 1689443117053,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

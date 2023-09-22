@@ -1,0 +1,28 @@
+{
+    "name": "Loremwë  ",
+    "description": "The collection from onerichgroup #55881",
+    "image": "https://nft.onerichgroup.com/nft/55881.jpg",
+    "dna": "51218asmdjsadya6d7859271bec080e562115",
+    "edition": 1,
+    "date": 1689478814803,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

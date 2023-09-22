@@ -1,0 +1,28 @@
+{
+    "name": "Irinrial  ",
+    "description": "The collection from onerichgroup #16257",
+    "image": "https://nft.onerichgroup.com/nft/16257.jpg",
+    "dna": "8816asmdjsadya6d7863062bec080e521700",
+    "edition": 1,
+    "date": 1689443118945,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

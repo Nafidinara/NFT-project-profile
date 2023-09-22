@@ -1,0 +1,28 @@
+{
+    "name": "Gilesrial  ",
+    "description": "The collection from onerichgroup #5744",
+    "image": "https://nft.onerichgroup.com/nft/5744.jpg",
+    "dna": "42890asmdjsadya6d7890768bec080e531236",
+    "edition": 1,
+    "date": 1689443116229,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

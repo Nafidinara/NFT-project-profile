@@ -1,0 +1,28 @@
+{
+    "name": "Fininrial  ",
+    "description": "The collection from onerichgroup #50483",
+    "image": "https://nft.onerichgroup.com/nft/50483.jpg",
+    "dna": "4242asmdjsadya6d7885480bec080e581419",
+    "edition": 1,
+    "date": 1689478811243,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

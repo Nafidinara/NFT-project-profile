@@ -1,0 +1,28 @@
+{
+    "name": "Clarinrien  ",
+    "description": "The collection from onerichgroup #5428",
+    "image": "https://nft.onerichgroup.com/nft/5428.jpg",
+    "dna": "76014asmdjsadya6d7842623bec080e568088",
+    "edition": 1,
+    "date": 1689443116061,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

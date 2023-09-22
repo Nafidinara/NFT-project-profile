@@ -1,0 +1,28 @@
+{
+    "name": "Ninilmir  ",
+    "description": "The collection from onerichgroup #27872",
+    "image": "https://nft.onerichgroup.com/nft/27872.jpg",
+    "dna": "97604asmdjsadya6d7840830bec080e585655",
+    "edition": 1,
+    "date": 1689443120763,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

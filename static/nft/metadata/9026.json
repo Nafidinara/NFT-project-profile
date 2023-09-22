@@ -1,0 +1,28 @@
+{
+    "name": "Lirenloth  ",
+    "description": "The collection from onerichgroup #9026",
+    "image": "https://nft.onerichgroup.com/nft/9026.jpg",
+    "dna": "30818asmdjsadya6d7829724bec080e525904",
+    "edition": 1,
+    "date": 1689443117243,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

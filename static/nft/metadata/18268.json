@@ -1,0 +1,28 @@
+{
+    "name": "Melenril  ",
+    "description": "The collection from onerichgroup #18268",
+    "image": "https://nft.onerichgroup.com/nft/18268.jpg",
+    "dna": "69134asmdjsadya6d7832390bec080e536256",
+    "edition": 1,
+    "date": 1689443119430,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

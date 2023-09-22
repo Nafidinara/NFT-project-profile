@@ -1,0 +1,28 @@
+{
+    "name": "Istarwë  ",
+    "description": "The collection from onerichgroup #14757",
+    "image": "https://nft.onerichgroup.com/nft/14757.jpg",
+    "dna": "32421asmdjsadya6d7847711bec080e566834",
+    "edition": 1,
+    "date": 1689443118521,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

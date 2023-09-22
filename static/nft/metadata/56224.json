@@ -1,0 +1,28 @@
+{
+    "name": "Ralinroël  ",
+    "description": "The collection from onerichgroup #56224",
+    "image": "https://nft.onerichgroup.com/nft/56224.jpg",
+    "dna": "57085asmdjsadya6d7812109bec080e517815",
+    "edition": 1,
+    "date": 1689478815032,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

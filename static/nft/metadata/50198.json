@@ -1,0 +1,28 @@
+{
+    "name": "Ganeliel  ",
+    "description": "The collection from onerichgroup #50198",
+    "image": "https://nft.onerichgroup.com/nft/50198.jpg",
+    "dna": "55331asmdjsadya6d7832170bec080e511622",
+    "edition": 1,
+    "date": 1689478811175,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

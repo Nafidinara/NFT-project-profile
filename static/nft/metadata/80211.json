@@ -1,0 +1,28 @@
+{
+    "name": "Irilwen  ",
+    "description": "The vip collection from onerichgroup #80211",
+    "image": "https://nft.onerichgroup.com/nft/80211.jpg",
+    "dna": "32835iyuirf45edrtd77279vjvtyd45tuy82898",
+    "edition": 1,
+    "date": 1690898983382,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

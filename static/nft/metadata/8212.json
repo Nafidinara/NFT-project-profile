@@ -1,0 +1,28 @@
+{
+    "name": "Celilwen  ",
+    "description": "The collection from onerichgroup #8212",
+    "image": "https://nft.onerichgroup.com/nft/8212.jpg",
+    "dna": "15279asmdjsadya6d7839344bec080e587858",
+    "edition": 1,
+    "date": 1689443116891,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Larevrial  ",
+    "description": "The collection from onerichgroup #23126",
+    "image": "https://nft.onerichgroup.com/nft/23126.jpg",
+    "dna": "71179asmdjsadya6d7826676bec080e517550",
+    "edition": 1,
+    "date": 1689443120220,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

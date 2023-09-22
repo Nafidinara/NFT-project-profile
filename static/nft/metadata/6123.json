@@ -1,0 +1,28 @@
+{
+    "name": "Garebiel  ",
+    "description": "The collection from onerichgroup #6123",
+    "image": "https://nft.onerichgroup.com/nft/6123.jpg",
+    "dna": "8602asmdjsadya6d7877958bec080e538515",
+    "edition": 1,
+    "date": 1689443116400,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

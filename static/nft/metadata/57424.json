@@ -1,0 +1,28 @@
+{
+    "name": "Inelrian  ",
+    "description": "The collection from onerichgroup #57424",
+    "image": "https://nft.onerichgroup.com/nft/57424.jpg",
+    "dna": "85255asmdjsadya6d7830973bec080e535921",
+    "edition": 1,
+    "date": 1689478815540,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

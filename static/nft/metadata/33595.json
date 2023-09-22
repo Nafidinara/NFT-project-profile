@@ -1,0 +1,28 @@
+{
+    "name": "Inelril  ",
+    "description": "The collection from onerichgroup #33595",
+    "image": "https://nft.onerichgroup.com/nft/33595.jpg",
+    "dna": "17596asmdjsadya6d7833458bec080e5480",
+    "edition": 1,
+    "date": 1689443121530,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

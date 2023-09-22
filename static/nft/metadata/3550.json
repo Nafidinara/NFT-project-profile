@@ -1,0 +1,28 @@
+{
+    "name": "Caradwë  ",
+    "description": "The collection from onerichgroup #3550",
+    "image": "https://nft.onerichgroup.com/nft/3550.jpg",
+    "dna": "16119asmdjsadya6d7864466bec080e512583",
+    "edition": 1,
+    "date": 1689443115088,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

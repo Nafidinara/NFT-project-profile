@@ -1,0 +1,28 @@
+{
+    "name": "Cirerian  ",
+    "description": "The collection from onerichgroup #40830",
+    "image": "https://nft.onerichgroup.com/nft/40830.jpg",
+    "dna": "49916asmdjsadya6d7818422bec080e562594",
+    "edition": 1,
+    "date": 1689443122003,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

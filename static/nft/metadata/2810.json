@@ -1,0 +1,28 @@
+{
+    "name": "Niralloth  ",
+    "description": "The collection from onerichgroup #2810",
+    "image": "https://nft.onerichgroup.com/nft/2810.jpg",
+    "dna": "60600asmdjsadya6d7897063bec080e518113",
+    "edition": 1,
+    "date": 1689443114649,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

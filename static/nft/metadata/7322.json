@@ -1,0 +1,28 @@
+{
+    "name": "Larereth  ",
+    "description": "The collection from onerichgroup #7322",
+    "image": "https://nft.onerichgroup.com/nft/7322.jpg",
+    "dna": "14952asmdjsadya6d7895535bec080e594128",
+    "edition": 1,
+    "date": 1689443116535,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

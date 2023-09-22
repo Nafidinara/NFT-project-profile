@@ -1,0 +1,28 @@
+{
+    "name": "Elerloth  ",
+    "description": "The collection from onerichgroup #16156",
+    "image": "https://nft.onerichgroup.com/nft/16156.jpg",
+    "dna": "97813asmdjsadya6d7865554bec080e526364",
+    "edition": 1,
+    "date": 1689443118928,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

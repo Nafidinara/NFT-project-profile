@@ -1,0 +1,28 @@
+{
+    "name": "Istesmir  ",
+    "description": "The collection from onerichgroup #8759",
+    "image": "https://nft.onerichgroup.com/nft/8759.jpg",
+    "dna": "59101asmdjsadya6d7866315bec080e583418",
+    "edition": 1,
+    "date": 1689443117045,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

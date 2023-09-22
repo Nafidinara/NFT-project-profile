@@ -1,0 +1,27 @@
+{
+  "name": "Nimadwë  ",
+  "description": "The collection from onerichgroup #10360",
+  "image": "https://nft.onerichgroup.com/nft/10360.jpg",
+  "dna": "44885asmdjsadya6d7820429bec080e531421",
+  "edition": 1,
+  "date": 1689443117490,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

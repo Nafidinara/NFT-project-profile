@@ -1,0 +1,28 @@
+{
+    "name": "Mirthalrien  ",
+    "description": "The collection from onerichgroup #61194",
+    "image": "https://nft.onerichgroup.com/nft/61194.jpg",
+    "dna": "300317dje6rgfnbs053769bec080e589839",
+    "edition": 1,
+    "date": 1689584226051,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

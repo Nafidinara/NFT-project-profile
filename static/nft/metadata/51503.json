@@ -1,0 +1,28 @@
+{
+    "name": "Caremroël  ",
+    "description": "The collection from onerichgroup #51503",
+    "image": "https://nft.onerichgroup.com/nft/51503.jpg",
+    "dna": "24045asmdjsadya6d7847028bec080e535562",
+    "edition": 1,
+    "date": 1689478812328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

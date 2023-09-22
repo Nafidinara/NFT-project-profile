@@ -1,0 +1,28 @@
+{
+    "name": "Rinanien  ",
+    "description": "The collection from onerichgroup #56915",
+    "image": "https://nft.onerichgroup.com/nft/56915.jpg",
+    "dna": "62132asmdjsadya6d7870661bec080e541255",
+    "edition": 1,
+    "date": 1689478815271,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

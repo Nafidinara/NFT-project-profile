@@ -1,0 +1,28 @@
+{
+    "name": "Relthalmir  ",
+    "description": "The collection from onerichgroup #39258",
+    "image": "https://nft.onerichgroup.com/nft/39258.jpg",
+    "dna": "5735asmdjsadya6d784761bec080e579524",
+    "edition": 1,
+    "date": 1689443121862,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

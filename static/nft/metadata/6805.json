@@ -1,0 +1,28 @@
+{
+    "name": "Mirasedel  ",
+    "description": "The collection from onerichgroup #6805",
+    "image": "https://nft.onerichgroup.com/nft/6805.jpg",
+    "dna": "33764asmdjsadya6d7899655bec080e555687",
+    "edition": 1,
+    "date": 1689443116482,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

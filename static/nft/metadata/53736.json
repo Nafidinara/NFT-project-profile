@@ -1,0 +1,28 @@
+{
+    "name": "Niralriel  ",
+    "description": "The collection from onerichgroup #53736",
+    "image": "https://nft.onerichgroup.com/nft/53736.jpg",
+    "dna": "81540asmdjsadya6d7891101bec080e559005",
+    "edition": 1,
+    "date": 1689478813712,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

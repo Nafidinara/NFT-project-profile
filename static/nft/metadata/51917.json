@@ -1,0 +1,28 @@
+{
+    "name": "Finarwë  ",
+    "description": "The collection from onerichgroup #51917",
+    "image": "https://nft.onerichgroup.com/nft/51917.jpg",
+    "dna": "11684asmdjsadya6d7868903bec080e541765",
+    "edition": 1,
+    "date": 1689478812581,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

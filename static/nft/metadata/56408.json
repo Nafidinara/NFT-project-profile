@@ -1,0 +1,28 @@
+{
+    "name": "Galinrian  ",
+    "description": "The collection from onerichgroup #56408",
+    "image": "https://nft.onerichgroup.com/nft/56408.jpg",
+    "dna": "90553asmdjsadya6d788885bec080e584660",
+    "edition": 1,
+    "date": 1689478815118,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

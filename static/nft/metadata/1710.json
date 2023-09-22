@@ -1,0 +1,28 @@
+{
+    "name": "Erlinriel  ",
+    "description": "The collection from onerichgroup #1710",
+    "image": "https://nft.onerichgroup.com/nft/1710.jpg",
+    "dna": "18539asmdjsadya6d7882306bec080e539565",
+    "edition": 1,
+    "date": 1689443114149,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

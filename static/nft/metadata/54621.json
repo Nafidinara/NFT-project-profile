@@ -1,0 +1,28 @@
+{
+    "name": "Ilmansil  ",
+    "description": "The collection from onerichgroup #54621",
+    "image": "https://nft.onerichgroup.com/nft/54621.jpg",
+    "dna": "1992asmdjsadya6d788857bec080e513843",
+    "edition": 1,
+    "date": 1689478814116,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

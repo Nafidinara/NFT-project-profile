@@ -1,0 +1,28 @@
+{
+    "name": "Melelril  ",
+    "description": "The collection from onerichgroup #40567",
+    "image": "https://nft.onerichgroup.com/nft/40567.jpg",
+    "dna": "21715asmdjsadya6d786538bec080e554985",
+    "edition": 1,
+    "date": 1689443121990,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

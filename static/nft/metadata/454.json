@@ -1,0 +1,28 @@
+{
+    "name": "Elanwen  ",
+    "description": "The collection from onerichgroup #454",
+    "image": "https://nft.onerichgroup.com/nft/454.jpg",
+    "dna": "47686asmdjsadya6d7830380bec080e570848",
+    "edition": 1,
+    "date": 1689443113310,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

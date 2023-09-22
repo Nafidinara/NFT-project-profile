@@ -1,0 +1,28 @@
+{
+    "name": "Faredriel  ",
+    "description": "The collection from onerichgroup #50508",
+    "image": "https://nft.onerichgroup.com/nft/50508.jpg",
+    "dna": "89910asmdjsadya6d7811341bec080e513697",
+    "edition": 1,
+    "date": 1689478811250,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

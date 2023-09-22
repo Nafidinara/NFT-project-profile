@@ -1,0 +1,28 @@
+{
+    "name": "Maremeth  ",
+    "description": "The collection from onerichgroup #52667",
+    "image": "https://nft.onerichgroup.com/nft/52667.jpg",
+    "dna": "63099asmdjsadya6d7818663bec080e525302",
+    "edition": 1,
+    "date": 1689478813194,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

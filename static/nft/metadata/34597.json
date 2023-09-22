@@ -1,0 +1,28 @@
+{
+    "name": "Anebedel  ",
+    "description": "The collection from onerichgroup #34597",
+    "image": "https://nft.onerichgroup.com/nft/34597.jpg",
+    "dna": "17750asmdjsadya6d7893931bec080e5695",
+    "edition": 1,
+    "date": 1689443121582,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

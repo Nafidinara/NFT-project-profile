@@ -1,0 +1,28 @@
+{
+    "name": "Maranrien  ",
+    "description": "The collection from onerichgroup #4048",
+    "image": "https://nft.onerichgroup.com/nft/4048.jpg",
+    "dna": "59440asmdjsadya6d7816052bec080e589445",
+    "edition": 1,
+    "date": 1689443115399,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

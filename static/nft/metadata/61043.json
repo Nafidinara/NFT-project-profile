@@ -1,0 +1,28 @@
+{
+    "name": "Ranadril  ",
+    "description": "The collection from onerichgroup #61043",
+    "image": "https://nft.onerichgroup.com/nft/61043.jpg",
+    "dna": "832767dje6rgfnbs07374bec080e577999",
+    "edition": 1,
+    "date": 1689584225455,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

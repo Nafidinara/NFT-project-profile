@@ -1,0 +1,28 @@
+{
+    "name": "Estariel  ",
+    "description": "The collection from onerichgroup #934",
+    "image": "https://nft.onerichgroup.com/nft/934.jpg",
+    "dna": "83163asmdjsadya6d7899553bec080e566429",
+    "edition": 1,
+    "date": 1689443113613,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

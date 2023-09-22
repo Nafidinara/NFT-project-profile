@@ -1,0 +1,28 @@
+{
+    "name": "Erliredel  ",
+    "description": "The collection from onerichgroup #15455",
+    "image": "https://nft.onerichgroup.com/nft/15455.jpg",
+    "dna": "61963asmdjsadya6d7857398bec080e580215",
+    "edition": 1,
+    "date": 1689443118827,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

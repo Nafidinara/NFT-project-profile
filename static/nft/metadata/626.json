@@ -1,0 +1,28 @@
+{
+    "name": "Ganenwen  ",
+    "description": "The collection from onerichgroup #626",
+    "image": "https://nft.onerichgroup.com/nft/626.jpg",
+    "dna": "49822asmdjsadya6d7864443bec080e547653",
+    "edition": 1,
+    "date": 1689443113520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

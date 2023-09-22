@@ -1,0 +1,28 @@
+{
+    "name": "Loresrial  ",
+    "description": "The collection from onerichgroup #54190",
+    "image": "https://nft.onerichgroup.com/nft/54190.jpg",
+    "dna": "69410asmdjsadya6d7853801bec080e546622",
+    "edition": 1,
+    "date": 1689478813842,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

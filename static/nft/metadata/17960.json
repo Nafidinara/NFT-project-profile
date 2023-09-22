@@ -1,0 +1,28 @@
+{
+    "name": "Finebsil  ",
+    "description": "The collection from onerichgroup #17960",
+    "image": "https://nft.onerichgroup.com/nft/17960.jpg",
+    "dna": "9887asmdjsadya6d7878397bec080e528459",
+    "edition": 1,
+    "date": 1689443119383,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

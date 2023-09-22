@@ -1,0 +1,28 @@
+{
+    "name": "Elareth  ",
+    "description": "The collection from onerichgroup #55514",
+    "image": "https://nft.onerichgroup.com/nft/55514.jpg",
+    "dna": "39221asmdjsadya6d7888896bec080e57978",
+    "edition": 1,
+    "date": 1689478814601,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

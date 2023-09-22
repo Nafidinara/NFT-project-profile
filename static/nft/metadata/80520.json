@@ -1,0 +1,28 @@
+{
+    "name": "Istanian  ",
+    "description": "The vip collection from onerichgroup #80520",
+    "image": "https://nft.onerichgroup.com/nft/80520.jpg",
+    "dna": "82249iyuirf45edrtd66717vjvtyd45tuy75341",
+    "edition": 1,
+    "date": 1690898984244,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

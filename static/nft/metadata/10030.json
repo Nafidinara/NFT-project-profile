@@ -1,0 +1,27 @@
+{
+  "name": "Imamloth  ",
+  "description": "The collection from onerichgroup #10030",
+  "image": "https://nft.onerichgroup.com/nft/10030.jpg",
+  "dna": "82580asmdjsadya6d7825821bec080e524998",
+  "edition": 1,
+  "date": 1689443117463,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

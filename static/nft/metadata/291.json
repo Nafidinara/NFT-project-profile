@@ -1,0 +1,28 @@
+{
+    "name": "Caledroël  ",
+    "description": "The collection from onerichgroup #291",
+    "image": "https://nft.onerichgroup.com/nft/291.jpg",
+    "dna": "49590asmdjsadya6d7812956bec080e599816",
+    "edition": 1,
+    "date": 1689443113250,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

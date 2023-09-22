@@ -1,0 +1,28 @@
+{
+    "name": "Loremrial  ",
+    "description": "The collection from onerichgroup #60633",
+    "image": "https://nft.onerichgroup.com/nft/60633.jpg",
+    "dna": "43935asmdjsadya6d7833219bec080e581835",
+    "edition": 1,
+    "date": 1689482665156,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

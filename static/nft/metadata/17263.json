@@ -1,0 +1,28 @@
+{
+    "name": "Rilthonedel  ",
+    "description": "The collection from onerichgroup #17263",
+    "image": "https://nft.onerichgroup.com/nft/17263.jpg",
+    "dna": "88951asmdjsadya6d7828295bec080e599366",
+    "edition": 1,
+    "date": 1689443119284,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

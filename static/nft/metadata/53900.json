@@ -1,0 +1,28 @@
+{
+    "name": "Calthalmir  ",
+    "description": "The collection from onerichgroup #53900",
+    "image": "https://nft.onerichgroup.com/nft/53900.jpg",
+    "dna": "89395asmdjsadya6d7858287bec080e599509",
+    "edition": 1,
+    "date": 1689478813746,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

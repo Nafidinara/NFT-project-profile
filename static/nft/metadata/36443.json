@@ -1,0 +1,28 @@
+{
+    "name": "Gelthonedel  ",
+    "description": "The collection from onerichgroup #36443",
+    "image": "https://nft.onerichgroup.com/nft/36443.jpg",
+    "dna": "71917asmdjsadya6d7873644bec080e561090",
+    "edition": 1,
+    "date": 1689443121664,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Garalrien  ",
+    "description": "The vip collection from onerichgroup #80737",
+    "image": "https://nft.onerichgroup.com/nft/80737.jpg",
+    "dna": "97315iyuirf45edrtd77130vjvtyd45tuy28590",
+    "edition": 1,
+    "date": 1690898984821,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

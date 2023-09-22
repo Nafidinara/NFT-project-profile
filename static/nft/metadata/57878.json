@@ -1,0 +1,28 @@
+{
+    "name": "Rimthaliel  ",
+    "description": "The collection from onerichgroup #57878",
+    "image": "https://nft.onerichgroup.com/nft/57878.jpg",
+    "dna": "93229asmdjsadya6d7868392bec080e524083",
+    "edition": 1,
+    "date": 1689478815753,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

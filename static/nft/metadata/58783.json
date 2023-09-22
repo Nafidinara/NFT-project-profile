@@ -1,0 +1,28 @@
+{
+    "name": "Irirel  ",
+    "description": "The collection from onerichgroup #58783",
+    "image": "https://nft.onerichgroup.com/nft/58783.jpg",
+    "dna": "67047asmdjsadya6d7863264bec080e554832",
+    "edition": 1,
+    "date": 1689478816136,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

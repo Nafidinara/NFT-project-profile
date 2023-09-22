@@ -1,0 +1,28 @@
+{
+    "name": "Liranedel  ",
+    "description": "The collection from onerichgroup #179",
+    "image": "https://nft.onerichgroup.com/nft/179.jpg",
+    "dna": "81144asmdjsadya6d7811778bec080e528025",
+    "edition": 1,
+    "date": 1689443113213,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

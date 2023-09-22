@@ -1,0 +1,28 @@
+{
+    "name": "Elthonriel  ",
+    "description": "The collection from onerichgroup #4578",
+    "image": "https://nft.onerichgroup.com/nft/4578.jpg",
+    "dna": "95171asmdjsadya6d782486bec080e510273",
+    "edition": 1,
+    "date": 1689443115696,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elbinroël  ",
+    "description": "The collection from onerichgroup #61184",
+    "image": "https://nft.onerichgroup.com/nft/61184.jpg",
+    "dna": "675177dje6rgfnbs06878bec080e59568",
+    "edition": 1,
+    "date": 1689584226015,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

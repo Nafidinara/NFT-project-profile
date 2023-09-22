@@ -1,0 +1,28 @@
+{
+    "name": "Inolian  ",
+    "description": "The collection from onerichgroup #4028",
+    "image": "https://nft.onerichgroup.com/nft/4028.jpg",
+    "dna": "88001asmdjsadya6d7898629bec080e577230",
+    "edition": 1,
+    "date": 1689443115393,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

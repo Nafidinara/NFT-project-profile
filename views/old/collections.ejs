@@ -1,0 +1,187 @@
+<%- include("header2.ejs") %>
+
+
+<!--BreadCrumbs-->
+<div class="enefti-breadcrumbs-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="col-md-12 p-0">
+                    <h1>Collections</h1>
+                </div>
+                <div class="col-md-12 p-0">
+                    <div class="breadcrumbs breadcrumbs-navxt" typeof="BreadcrumbList" vocab="https://schema.org/">
+                        <span property="itemListElement" typeof="ListItem">
+                            <a property="item" typeof="WebPage" title="Go to Enefti." href="../html/index.html" class="home">
+                                <span property="name">Onerichgroup</span>
+                            </a>
+                            <meta property="position" content="1" />
+                        </span>
+                        /
+                        <span property="itemListElement" typeof="ListItem">
+                            <a property="item" typeof="WebPage" title="Go to the NFT Category archives." href="collections.html" class="taxonomy category">
+                                <span property="name">Collections</span>
+                            </a>
+                            <meta property="position" content="2" />
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Collection Shop-->
+<section class="enefti-shop">
+    <div class="container">
+        <div class="row">
+            <div class="enefti-sidebar col-md-3 d-none">
+                <div id="enefti-products-search" class="enefti-blog-search">
+                    <h3 class="enefti-search-post-title">Search</h3>
+                    <form method="post" class="newsletter-footer d-flex justify-content-between enefti-search-v1" action="../html/search.html">
+                        <input class="search" type="text" name="search" placeholder="Search products.." required=""><br>
+                        <button type="submit" class="rippler rippler-default">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </form>
+                </div>
+                <div id="enefti-products-category-checkbox" class="enefti-category-checkbox">
+                    <h3 class="enefti-search-post-title">NFT Category</h3>
+                    <ul>
+                        <li>
+                            <input data-name="Archetype" id="bapf_1_314" type="checkbox" value="314" />
+                            <label for="bapf_1_314">Archetype</label>
+                        </li>
+                        <li>
+                            <input data-name="Avid Lines" id="bapf_1_307" type="checkbox" value="307" />
+                            <label for="bapf_1_307">Avid Lines</label>
+                        </li>
+                        <li>
+                            <input data-name="Azuki" id="bapf_1_312" type="checkbox" value="312" />
+                            <label for="bapf_1_312">Azuki</label>
+                        </li>
+                        <li>
+                            <input data-name="Chimera by mpkoz" id="bapf_1_315" type="checkbox" value="315" />
+                            <label for="bapf_1_315">Chimera by mpkoz</label>
+                        </li>
+
+                    </ul>
+                </div>
+                <div id="enefti-products-state-checkbox" class="enefti-state-checkbox">
+                    <h3 class="enefti-search-post-title">NFT Type</h3>
+                    <ul>
+                        <li>
+                            <input data-name="Archetype" id="bapf_1_414" type="checkbox" value="414" />
+                            <label for="bapf_1_414">Buy Now</label>
+                        </li>
+                        <li>
+                            <input data-name="Avid Lines" id="bapf_1_407" type="checkbox" value="407" />
+                            <label for="bapf_1_407">Has Offers</label>
+                        </li>
+                        <li>
+                            <input data-name="Azuki" id="bapf_1_412" type="checkbox" value="412" />
+                            <label for="bapf_1_412">On Auction</label>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-12">
+                <div class="enefti-shop-sort-group d-flex justify-content-between align-items-center">
+                    <p>
+                        Showing random 1–9 of 61250 results
+                    </p>
+
+                    <button class="next page-numbers used" onclick="generate()">
+                        Find More
+                    </button>
+                    <div class="enefti-shop-dropdown">
+                        <div class="dropdown">
+                            <select class="enefti-select enefti-select-dropdown">
+                                <option value="" class="dropdown-item active">Default sorting</option>
+                                <option value="popularity" class="dropdown-item">Sort by popularity</option>
+                                <option value="average-rating" class="dropdown-item">Sort by average rating</option>
+                                <option value="latest" class="dropdown-item">Sort by latest</option>
+                                <option value="price-low-to-high" class="dropdown-item">Sort by price low to high
+                                </option>
+                                <option value="price-high-to-low" class="dropdown-item">Sort by price high to low
+                                </option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="enefti-shop-pagination" class="nav-links text-center">
+
+
+                </div>
+
+                <!--Products-->
+                <div class="row" id="nftlist">
+
+
+                </div>
+
+                <!--Pagination-->
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script>
+    function generate() {
+        $("#nftlist").html("");
+        for (let l = 1; l < 9; l++) {
+            let nft = Math.floor(Math.random() * 100) + 1;
+            let a = `<div id="enefti-tab-1-card-1"
+                            class="mt-addons-blog-posts-carousel-single-post col-lg-3 col-md-4 col-sm-6 col-12">
+                            <div id="nft-45233"
+                                class="enefti-card-wrapper mt-addons-blog-posts-carousel-single-post-wrapper">
+                                <div class="mt-addons-blog-posts-carousel-custom">
+                                    <div class="mt-addons-blog-posts-carousel-thumbnail enefti-card-img">
+                                        <div class="mt-addons-blog-featured-image">
+                                            <a href="#">
+                                                <img src="/nft/${nft}.jpg" alt="celebracion">
+                                            </a>
+                                            <div class="mt-addons-blog-posts-carousel-button mt-shop-cards-button">
+                                                <div class="mt-addons-blog-posts-carousel-content-inside">
+                                                    <a href="#" onClick="mint(${nft})"
+                                                        class="enefti-gradient-v1 enefti-btn-xl relative" >
+                                                         Mint this NFT
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-addons-blog-posts-carousel-head-content">
+                                    <div class="enefti-card-title d-flex justify-content-between">
+                                        <a href="#" class="n-nft-${nft}">---</a>
+                                       
+                                    </div>
+                                    <div class="enefti-details-card">
+                                        <p>Mint Price</p>
+                                        <a class="d-flex align-items-center">
+                                            <img class="enefty-crypto-img" src="/assets/images/icons_svgs/weth.svg"
+                                                alt="weth">100 USDT
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>`;
+            $("#nftlist").append(a);
+
+            $.get(`/nft/metadata/${nft}.json`, function(data, status) {
+
+                $(".n-nft-" + nft).html(data.name);
+
+            });
+
+
+        }
+    }
+    generate()
+</script>

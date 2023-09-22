@@ -1,0 +1,28 @@
+{
+    "name": "Eliledel  ",
+    "description": "The collection from onerichgroup #59150",
+    "image": "https://nft.onerichgroup.com/nft/59150.jpg",
+    "dna": "72949asmdjsadya6d7844259bec080e581794",
+    "edition": 1,
+    "date": 1689478816220,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

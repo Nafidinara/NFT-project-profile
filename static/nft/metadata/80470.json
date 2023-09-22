@@ -1,0 +1,28 @@
+{
+    "name": "Arirsil  ",
+    "description": "The vip collection from onerichgroup #80470",
+    "image": "https://nft.onerichgroup.com/nft/80470.jpg",
+    "dna": "15601iyuirf45edrtd80853vjvtyd45tuy7799",
+    "edition": 1,
+    "date": 1690898983984,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

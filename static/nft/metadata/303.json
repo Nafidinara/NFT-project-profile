@@ -1,0 +1,28 @@
+{
+    "name": "Galeswë  ",
+    "description": "The collection from onerichgroup #303",
+    "image": "https://nft.onerichgroup.com/nft/303.jpg",
+    "dna": "9740asmdjsadya6d785116bec080e561659",
+    "edition": 1,
+    "date": 1689443113255,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Farthoniel  ",
+    "description": "The collection from onerichgroup #56848",
+    "image": "https://nft.onerichgroup.com/nft/56848.jpg",
+    "dna": "7753asmdjsadya6d7839606bec080e588339",
+    "edition": 1,
+    "date": 1689478815255,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

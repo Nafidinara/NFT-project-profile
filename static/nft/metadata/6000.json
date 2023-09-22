@@ -1,0 +1,28 @@
+{
+    "name": "Melerian  ",
+    "description": "The collection from onerichgroup #6000",
+    "image": "https://nft.onerichgroup.com/nft/6000.jpg",
+    "dna": "73629asmdjsadya6d7854226bec080e586689",
+    "edition": 1,
+    "date": 1689443116359,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

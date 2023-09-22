@@ -1,0 +1,28 @@
+{
+    "name": "Elbirwen  ",
+    "description": "The collection from onerichgroup #54750",
+    "image": "https://nft.onerichgroup.com/nft/54750.jpg",
+    "dna": "90339asmdjsadya6d7894428bec080e526410",
+    "edition": 1,
+    "date": 1689478814279,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

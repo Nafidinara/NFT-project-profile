@@ -1,0 +1,28 @@
+{
+    "name": "Mirebwen  ",
+    "description": "The collection from onerichgroup #8620",
+    "image": "https://nft.onerichgroup.com/nft/8620.jpg",
+    "dna": "38154asmdjsadya6d78660bec080e524644",
+    "edition": 1,
+    "date": 1689443117004,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

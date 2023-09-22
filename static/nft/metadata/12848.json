@@ -1,0 +1,27 @@
+{
+  "name": "Celadeth  ",
+  "description": "The collection from onerichgroup #12848",
+  "image": "https://nft.onerichgroup.com/nft/12848.jpg",
+  "dna": "63876asmdjsadya6d7819937bec080e570129",
+  "edition": 1,
+  "date": 1689443118013,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Arebeth  ",
+    "description": "The collection from onerichgroup #21837",
+    "image": "https://nft.onerichgroup.com/nft/21837.jpg",
+    "dna": "96051asmdjsadya6d78324bec080e578454",
+    "edition": 1,
+    "date": 1689443120010,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

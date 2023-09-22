@@ -1,0 +1,28 @@
+{
+    "name": "Galoleth  ",
+    "description": "The collection from onerichgroup #44476",
+    "image": "https://nft.onerichgroup.com/nft/44476.jpg",
+    "dna": "28707asmdjsadya6d7898205bec080e526266",
+    "edition": 1,
+    "date": 1689443122309,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

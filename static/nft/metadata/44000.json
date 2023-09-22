@@ -1,0 +1,28 @@
+{
+    "name": "Rilalloth  ",
+    "description": "The collection from onerichgroup #44000",
+    "image": "https://nft.onerichgroup.com/nft/44000.jpg",
+    "dna": "14529asmdjsadya6d7833730bec080e589661",
+    "edition": 1,
+    "date": 1689443122190,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

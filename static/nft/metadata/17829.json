@@ -1,0 +1,28 @@
+{
+    "name": "Lirirel  ",
+    "description": "The collection from onerichgroup #17829",
+    "image": "https://nft.onerichgroup.com/nft/17829.jpg",
+    "dna": "94876asmdjsadya6d7891067bec080e540349",
+    "edition": 1,
+    "date": 1689443119362,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

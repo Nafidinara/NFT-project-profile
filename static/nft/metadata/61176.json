@@ -1,0 +1,28 @@
+{
+    "name": "Melolien  ",
+    "description": "The collection from onerichgroup #61176",
+    "image": "https://nft.onerichgroup.com/nft/61176.jpg",
+    "dna": "928577dje6rgfnbs064091bec080e516843",
+    "edition": 1,
+    "date": 1689584225973,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

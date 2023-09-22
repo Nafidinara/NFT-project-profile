@@ -1,0 +1,28 @@
+{
+    "name": "Anadrien  ",
+    "description": "The collection from onerichgroup #20787",
+    "image": "https://nft.onerichgroup.com/nft/20787.jpg",
+    "dna": "45037asmdjsadya6d7881766bec080e52194",
+    "edition": 1,
+    "date": 1689443119844,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

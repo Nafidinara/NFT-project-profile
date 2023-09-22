@@ -1,0 +1,28 @@
+{
+    "name": "Gararedel  ",
+    "description": "The collection from onerichgroup #34935",
+    "image": "https://nft.onerichgroup.com/nft/34935.jpg",
+    "dna": "37797asmdjsadya6d7833605bec080e593202",
+    "edition": 1,
+    "date": 1689443121595,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

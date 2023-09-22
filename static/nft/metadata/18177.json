@@ -1,0 +1,28 @@
+{
+    "name": "Melelian  ",
+    "description": "The collection from onerichgroup #18177",
+    "image": "https://nft.onerichgroup.com/nft/18177.jpg",
+    "dna": "31156asmdjsadya6d787704bec080e546555",
+    "edition": 1,
+    "date": 1689443119416,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Cirenrial  ",
+    "description": "The collection from onerichgroup #5660",
+    "image": "https://nft.onerichgroup.com/nft/5660.jpg",
+    "dna": "75814asmdjsadya6d7823974bec080e579405",
+    "edition": 1,
+    "date": 1689443116167,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

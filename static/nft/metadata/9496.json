@@ -1,0 +1,28 @@
+{
+    "name": "Ineriel  ",
+    "description": "The collection from onerichgroup #9496",
+    "image": "https://nft.onerichgroup.com/nft/9496.jpg",
+    "dna": "62731asmdjsadya6d7832127bec080e547294",
+    "edition": 1,
+    "date": 1689443117422,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

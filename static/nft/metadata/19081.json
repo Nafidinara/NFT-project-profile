@@ -1,0 +1,28 @@
+{
+    "name": "Garevrian  ",
+    "description": "The collection from onerichgroup #19081",
+    "image": "https://nft.onerichgroup.com/nft/19081.jpg",
+    "dna": "31604asmdjsadya6d7810366bec080e511482",
+    "edition": 1,
+    "date": 1689443119502,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

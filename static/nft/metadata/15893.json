@@ -1,0 +1,28 @@
+{
+    "name": "Aniriel  ",
+    "description": "The collection from onerichgroup #15893",
+    "image": "https://nft.onerichgroup.com/nft/15893.jpg",
+    "dna": "97636asmdjsadya6d7867215bec080e553185",
+    "edition": 1,
+    "date": 1689443118890,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

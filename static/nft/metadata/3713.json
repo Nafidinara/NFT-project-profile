@@ -1,0 +1,28 @@
+{
+    "name": "Claraswen  ",
+    "description": "The collection from onerichgroup #3713",
+    "image": "https://nft.onerichgroup.com/nft/3713.jpg",
+    "dna": "73419asmdjsadya6d7860962bec080e583650",
+    "edition": 1,
+    "date": 1689443115214,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

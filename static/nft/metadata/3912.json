@@ -1,0 +1,28 @@
+{
+    "name": "Irinrien  ",
+    "description": "The collection from onerichgroup #3912",
+    "image": "https://nft.onerichgroup.com/nft/3912.jpg",
+    "dna": "82896asmdjsadya6d7874131bec080e539929",
+    "edition": 1,
+    "date": 1689443115322,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

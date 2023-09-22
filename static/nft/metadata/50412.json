@@ -1,0 +1,28 @@
+{
+    "name": "Rinemrial  ",
+    "description": "The collection from onerichgroup #50412",
+    "image": "https://nft.onerichgroup.com/nft/50412.jpg",
+    "dna": "47302asmdjsadya6d788431bec080e524700",
+    "edition": 1,
+    "date": 1689478811228,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

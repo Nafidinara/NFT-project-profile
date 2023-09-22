@@ -1,0 +1,28 @@
+{
+    "name": "Gararroël  ",
+    "description": "The collection from onerichgroup #33811",
+    "image": "https://nft.onerichgroup.com/nft/33811.jpg",
+    "dna": "41422asmdjsadya6d7840013bec080e521861",
+    "edition": 1,
+    "date": 1689443121546,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Aroleth  ",
+    "description": "The collection from onerichgroup #6329",
+    "image": "https://nft.onerichgroup.com/nft/6329.jpg",
+    "dna": "41479asmdjsadya6d7889180bec080e56310",
+    "edition": 1,
+    "date": 1689443116437,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

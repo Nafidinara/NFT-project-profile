@@ -1,0 +1,28 @@
+{
+    "name": "Imaledel  ",
+    "description": "The collection from onerichgroup #14716",
+    "image": "https://nft.onerichgroup.com/nft/14716.jpg",
+    "dna": "92750asmdjsadya6d7828224bec080e525157",
+    "edition": 1,
+    "date": 1689443118505,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

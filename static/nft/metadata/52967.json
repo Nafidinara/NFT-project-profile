@@ -1,0 +1,28 @@
+{
+    "name": "Garthalmir  ",
+    "description": "The collection from onerichgroup #52967",
+    "image": "https://nft.onerichgroup.com/nft/52967.jpg",
+    "dna": "79088asmdjsadya6d7858299bec080e58865",
+    "edition": 1,
+    "date": 1689478813363,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

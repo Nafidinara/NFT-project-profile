@@ -1,0 +1,28 @@
+{
+    "name": "Iradrial  ",
+    "description": "The collection from onerichgroup #18590",
+    "image": "https://nft.onerichgroup.com/nft/18590.jpg",
+    "dna": "20756asmdjsadya6d782961bec080e515672",
+    "edition": 1,
+    "date": 1689443119460,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

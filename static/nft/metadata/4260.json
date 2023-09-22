@@ -1,0 +1,28 @@
+{
+    "name": "Irasril  ",
+    "description": "The collection from onerichgroup #4260",
+    "image": "https://nft.onerichgroup.com/nft/4260.jpg",
+    "dna": "33722asmdjsadya6d7874453bec080e5422",
+    "edition": 1,
+    "date": 1689443115513,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

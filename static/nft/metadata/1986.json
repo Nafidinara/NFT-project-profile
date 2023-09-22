@@ -1,0 +1,28 @@
+{
+    "name": "Estirrien  ",
+    "description": "The collection from onerichgroup #1986",
+    "image": "https://nft.onerichgroup.com/nft/1986.jpg",
+    "dna": "45525asmdjsadya6d7844628bec080e526313",
+    "edition": 1,
+    "date": 1689443114341,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

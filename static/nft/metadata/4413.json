@@ -1,0 +1,28 @@
+{
+    "name": "Irirwë  ",
+    "description": "The collection from onerichgroup #4413",
+    "image": "https://nft.onerichgroup.com/nft/4413.jpg",
+    "dna": "10562asmdjsadya6d7824321bec080e590459",
+    "edition": 1,
+    "date": 1689443115601,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ralanroël  ",
+    "description": "The vip collection from onerichgroup #80039",
+    "image": "https://nft.onerichgroup.com/nft/80039.jpg",
+    "dna": "67947iyuirf45edrtd48662vjvtyd45tuy77347",
+    "edition": 1,
+    "date": 1690898982601,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Laraniel  ",
+    "description": "The collection from onerichgroup #445",
+    "image": "https://nft.onerichgroup.com/nft/445.jpg",
+    "dna": "4838asmdjsadya6d7836706bec080e593667",
+    "edition": 1,
+    "date": 1689443113298,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

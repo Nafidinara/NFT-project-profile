@@ -1,0 +1,28 @@
+{
+    "name": "Celevwen  ",
+    "description": "The collection from onerichgroup #14408",
+    "image": "https://nft.onerichgroup.com/nft/14408.jpg",
+    "dna": "2057asmdjsadya6d782740bec080e593823",
+    "edition": 1,
+    "date": 1689443118454,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

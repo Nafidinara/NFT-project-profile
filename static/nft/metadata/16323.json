@@ -1,0 +1,28 @@
+{
+    "name": "Cirebriel  ",
+    "description": "The collection from onerichgroup #16323",
+    "image": "https://nft.onerichgroup.com/nft/16323.jpg",
+    "dna": "29705asmdjsadya6d7824659bec080e597210",
+    "edition": 1,
+    "date": 1689443118955,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

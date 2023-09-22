@@ -1,0 +1,28 @@
+{
+    "name": "Niremiel  ",
+    "description": "The collection from onerichgroup #4285",
+    "image": "https://nft.onerichgroup.com/nft/4285.jpg",
+    "dna": "59819asmdjsadya6d7871425bec080e524948",
+    "edition": 1,
+    "date": 1689443115522,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

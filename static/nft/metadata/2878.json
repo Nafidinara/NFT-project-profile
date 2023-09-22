@@ -1,0 +1,28 @@
+{
+    "name": "Mirilian  ",
+    "description": "The collection from onerichgroup #2878",
+    "image": "https://nft.onerichgroup.com/nft/2878.jpg",
+    "dna": "19226asmdjsadya6d7839949bec080e534172",
+    "edition": 1,
+    "date": 1689443114658,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

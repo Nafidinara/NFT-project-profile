@@ -1,0 +1,28 @@
+{
+    "name": "Melinien  ",
+    "description": "The collection from onerichgroup #2506",
+    "image": "https://nft.onerichgroup.com/nft/2506.jpg",
+    "dna": "69321asmdjsadya6d7812115bec080e555269",
+    "edition": 1,
+    "date": 1689443114574,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

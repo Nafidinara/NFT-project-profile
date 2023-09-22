@@ -1,0 +1,28 @@
+{
+    "name": "Gilasril  ",
+    "description": "The collection from onerichgroup #52733",
+    "image": "https://nft.onerichgroup.com/nft/52733.jpg",
+    "dna": "2285asmdjsadya6d7815532bec080e58612",
+    "edition": 1,
+    "date": 1689478813215,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

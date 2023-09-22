@@ -1,0 +1,28 @@
+{
+    "name": "Loramsil  ",
+    "description": "The collection from onerichgroup #55890",
+    "image": "https://nft.onerichgroup.com/nft/55890.jpg",
+    "dna": "22822asmdjsadya6d7863987bec080e588392",
+    "edition": 1,
+    "date": 1689478814806,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

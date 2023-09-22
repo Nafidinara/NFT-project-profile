@@ -1,0 +1,28 @@
+{
+    "name": "Nimemroël  ",
+    "description": "The vip collection from onerichgroup #80458",
+    "image": "https://nft.onerichgroup.com/nft/80458.jpg",
+    "dna": "48782iyuirf45edrtd92287vjvtyd45tuy89141",
+    "edition": 1,
+    "date": 1690898983961,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

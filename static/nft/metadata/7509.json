@@ -1,0 +1,28 @@
+{
+    "name": "Anerrial  ",
+    "description": "The collection from onerichgroup #7509",
+    "image": "https://nft.onerichgroup.com/nft/7509.jpg",
+    "dna": "3274asmdjsadya6d7822512bec080e527586",
+    "edition": 1,
+    "date": 1689443116602,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

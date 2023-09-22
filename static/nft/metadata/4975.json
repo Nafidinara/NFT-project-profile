@@ -1,0 +1,28 @@
+{
+    "name": "Estebwë  ",
+    "description": "The collection from onerichgroup #4975",
+    "image": "https://nft.onerichgroup.com/nft/4975.jpg",
+    "dna": "95362asmdjsadya6d7819982bec080e521371",
+    "edition": 1,
+    "date": 1689443115886,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

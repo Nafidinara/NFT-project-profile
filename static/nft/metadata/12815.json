@@ -1,0 +1,27 @@
+{
+  "name": "Celenedel  ",
+  "description": "The collection from onerichgroup #12815",
+  "image": "https://nft.onerichgroup.com/nft/12815.jpg",
+  "dna": "97311asmdjsadya6d7830379bec080e592651",
+  "edition": 1,
+  "date": 1689443118004,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

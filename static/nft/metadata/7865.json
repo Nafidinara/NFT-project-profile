@@ -1,0 +1,28 @@
+{
+    "name": "Ranasroël  ",
+    "description": "The collection from onerichgroup #7865",
+    "image": "https://nft.onerichgroup.com/nft/7865.jpg",
+    "dna": "98765asmdjsadya6d7873701bec080e512749",
+    "edition": 1,
+    "date": 1689443116756,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

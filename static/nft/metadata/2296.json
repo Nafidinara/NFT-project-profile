@@ -1,0 +1,28 @@
+{
+    "name": "Merirwen  ",
+    "description": "The collection from onerichgroup #2296",
+    "image": "https://nft.onerichgroup.com/nft/2296.jpg",
+    "dna": "65692asmdjsadya6d7890232bec080e520216",
+    "edition": 1,
+    "date": 1689443114533,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

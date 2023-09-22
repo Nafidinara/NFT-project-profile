@@ -1,0 +1,28 @@
+{
+    "name": "Lorelmir  ",
+    "description": "The collection from onerichgroup #53425",
+    "image": "https://nft.onerichgroup.com/nft/53425.jpg",
+    "dna": "84547asmdjsadya6d7896156bec080e579400",
+    "edition": 1,
+    "date": 1689478813630,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

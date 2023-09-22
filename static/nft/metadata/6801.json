@@ -1,0 +1,28 @@
+{
+    "name": "Rinevwen  ",
+    "description": "The collection from onerichgroup #6801",
+    "image": "https://nft.onerichgroup.com/nft/6801.jpg",
+    "dna": "82127asmdjsadya6d782632bec080e579672",
+    "edition": 1,
+    "date": 1689443116481,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Celediel  ",
+    "description": "The collection from onerichgroup #18991",
+    "image": "https://nft.onerichgroup.com/nft/18991.jpg",
+    "dna": "96542asmdjsadya6d7875463bec080e54702",
+    "edition": 1,
+    "date": 1689443119495,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

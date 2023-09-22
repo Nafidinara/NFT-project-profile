@@ -1,0 +1,28 @@
+{
+    "name": "Nimemsil  ",
+    "description": "The collection from onerichgroup #3637",
+    "image": "https://nft.onerichgroup.com/nft/3637.jpg",
+    "dna": "66824asmdjsadya6d7853456bec080e540084",
+    "edition": 1,
+    "date": 1689443115144,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

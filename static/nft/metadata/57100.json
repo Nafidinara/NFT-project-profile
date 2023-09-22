@@ -1,0 +1,28 @@
+{
+    "name": "Marermir  ",
+    "description": "The collection from onerichgroup #57100",
+    "image": "https://nft.onerichgroup.com/nft/57100.jpg",
+    "dna": "26382asmdjsadya6d7864460bec080e545980",
+    "edition": 1,
+    "date": 1689478815397,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

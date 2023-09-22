@@ -1,0 +1,28 @@
+{
+    "name": "Ranilsil  ",
+    "description": "The vip collection from onerichgroup #80089",
+    "image": "https://nft.onerichgroup.com/nft/80089.jpg",
+    "dna": "12309iyuirf45edrtd29425vjvtyd45tuy28935",
+    "edition": 1,
+    "date": 1690898982775,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

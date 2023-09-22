@@ -1,0 +1,28 @@
+{
+    "name": "Calasriel  ",
+    "description": "The collection from onerichgroup #20865",
+    "image": "https://nft.onerichgroup.com/nft/20865.jpg",
+    "dna": "49418asmdjsadya6d7851730bec080e515585",
+    "edition": 1,
+    "date": 1689443119853,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

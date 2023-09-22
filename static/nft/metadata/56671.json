@@ -1,0 +1,28 @@
+{
+    "name": "Ninaleth  ",
+    "description": "The collection from onerichgroup #56671",
+    "image": "https://nft.onerichgroup.com/nft/56671.jpg",
+    "dna": "5401asmdjsadya6d7833516bec080e557908",
+    "edition": 1,
+    "date": 1689478815203,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilarsil  ",
+    "description": "The collection from onerichgroup #5241",
+    "image": "https://nft.onerichgroup.com/nft/5241.jpg",
+    "dna": "43342asmdjsadya6d7874822bec080e532239",
+    "edition": 1,
+    "date": 1689443116003,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

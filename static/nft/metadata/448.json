@@ -1,0 +1,28 @@
+{
+    "name": "Reledriel  ",
+    "description": "The collection from onerichgroup #448",
+    "image": "https://nft.onerichgroup.com/nft/448.jpg",
+    "dna": "71722asmdjsadya6d7835273bec080e559786",
+    "edition": 1,
+    "date": 1689443113302,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

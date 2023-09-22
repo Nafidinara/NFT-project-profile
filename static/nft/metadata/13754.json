@@ -1,0 +1,27 @@
+{
+  "name": "Ninevel  ",
+  "description": "The collection from onerichgroup #13754",
+  "image": "https://nft.onerichgroup.com/nft/13754.jpg",
+  "dna": "53788asmdjsadya6d7811744bec080e586097",
+  "edition": 1,
+  "date": 1689443118297,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

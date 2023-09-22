@@ -1,0 +1,27 @@
+{
+  "name": "Relevian  ",
+  "description": "The collection from onerichgroup #13092",
+  "image": "https://nft.onerichgroup.com/nft/13092.jpg",
+  "dna": "67925asmdjsadya6d7895794bec080e581377",
+  "edition": 1,
+  "date": 1689443118069,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

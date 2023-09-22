@@ -1,0 +1,28 @@
+{
+    "name": "Ranevrien  ",
+    "description": "The collection from onerichgroup #56188",
+    "image": "https://nft.onerichgroup.com/nft/56188.jpg",
+    "dna": "62131asmdjsadya6d7865874bec080e590668",
+    "edition": 1,
+    "date": 1689478815021,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

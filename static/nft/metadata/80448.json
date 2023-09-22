@@ -1,0 +1,28 @@
+{
+    "name": "Faririel  ",
+    "description": "The vip collection from onerichgroup #80448",
+    "image": "https://nft.onerichgroup.com/nft/80448.jpg",
+    "dna": "10785iyuirf45edrtd6550vjvtyd45tuy55539",
+    "edition": 1,
+    "date": 1690898983919,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

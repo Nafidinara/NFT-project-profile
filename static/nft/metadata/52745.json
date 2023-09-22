@@ -1,0 +1,28 @@
+{
+    "name": "Cirinrian  ",
+    "description": "The collection from onerichgroup #52745",
+    "image": "https://nft.onerichgroup.com/nft/52745.jpg",
+    "dna": "73334asmdjsadya6d7886883bec080e568973",
+    "edition": 1,
+    "date": 1689478813221,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ilmadrial  ",
+    "description": "The collection from onerichgroup #8610",
+    "image": "https://nft.onerichgroup.com/nft/8610.jpg",
+    "dna": "77436asmdjsadya6d7815370bec080e580058",
+    "edition": 1,
+    "date": 1689443116993,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

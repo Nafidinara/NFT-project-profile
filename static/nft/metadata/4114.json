@@ -1,0 +1,28 @@
+{
+    "name": "Niralroël  ",
+    "description": "The collection from onerichgroup #4114",
+    "image": "https://nft.onerichgroup.com/nft/4114.jpg",
+    "dna": "74609asmdjsadya6d7847582bec080e561605",
+    "edition": 1,
+    "date": 1689443115424,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

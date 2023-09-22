@@ -1,0 +1,28 @@
+{
+    "name": "Geledian  ",
+    "description": "The collection from onerichgroup #470",
+    "image": "https://nft.onerichgroup.com/nft/470.jpg",
+    "dna": "90316asmdjsadya6d7834106bec080e541021",
+    "edition": 1,
+    "date": 1689443113381,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

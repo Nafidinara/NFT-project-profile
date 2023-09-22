@@ -1,0 +1,28 @@
+{
+    "name": "Galalriel  ",
+    "description": "The collection from onerichgroup #56320",
+    "image": "https://nft.onerichgroup.com/nft/56320.jpg",
+    "dna": "47980asmdjsadya6d7872574bec080e54038",
+    "edition": 1,
+    "date": 1689478815059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

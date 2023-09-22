@@ -1,0 +1,28 @@
+{
+    "name": "Niresiel  ",
+    "description": "The collection from onerichgroup #7517",
+    "image": "https://nft.onerichgroup.com/nft/7517.jpg",
+    "dna": "42633asmdjsadya6d7876446bec080e514198",
+    "edition": 1,
+    "date": 1689443116604,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

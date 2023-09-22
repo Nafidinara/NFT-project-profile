@@ -1,0 +1,28 @@
+{
+    "name": "Melolwen  ",
+    "description": "The collection from onerichgroup #18273",
+    "image": "https://nft.onerichgroup.com/nft/18273.jpg",
+    "dna": "23708asmdjsadya6d7897080bec080e597552",
+    "edition": 1,
+    "date": 1689443119431,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Melevwë  ",
+    "description": "The collection from onerichgroup #57198",
+    "image": "https://nft.onerichgroup.com/nft/57198.jpg",
+    "dna": "24447asmdjsadya6d7861000bec080e587384",
+    "edition": 1,
+    "date": 1689478815472,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

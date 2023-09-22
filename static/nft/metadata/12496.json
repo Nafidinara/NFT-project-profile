@@ -1,0 +1,27 @@
+{
+  "name": "Lorthonian  ",
+  "description": "The collection from onerichgroup #12496",
+  "image": "https://nft.onerichgroup.com/nft/12496.jpg",
+  "dna": "30280asmdjsadya6d7849832bec080e528948",
+  "edition": 1,
+  "date": 1689443117937,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

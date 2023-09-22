@@ -1,0 +1,28 @@
+{
+    "name": "Ilmedloth  ",
+    "description": "The collection from onerichgroup #55395",
+    "image": "https://nft.onerichgroup.com/nft/55395.jpg",
+    "dna": "67712asmdjsadya6d7818280bec080e524704",
+    "edition": 1,
+    "date": 1689478814558,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

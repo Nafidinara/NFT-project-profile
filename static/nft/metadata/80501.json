@@ -1,0 +1,28 @@
+{
+    "name": "Elevriel  ",
+    "description": "The vip collection from onerichgroup #80501",
+    "image": "https://nft.onerichgroup.com/nft/80501.jpg",
+    "dna": "10129iyuirf45edrtd94164vjvtyd45tuy39727",
+    "edition": 1,
+    "date": 1690898984120,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Istalwen  ",
+    "description": "The collection from onerichgroup #7597",
+    "image": "https://nft.onerichgroup.com/nft/7597.jpg",
+    "dna": "80856asmdjsadya6d7869688bec080e546896",
+    "edition": 1,
+    "date": 1689443116617,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

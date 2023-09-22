@@ -1,0 +1,28 @@
+{
+    "name": "Anedel  ",
+    "description": "The collection from onerichgroup #6812",
+    "image": "https://nft.onerichgroup.com/nft/6812.jpg",
+    "dna": "62546asmdjsadya6d789784bec080e591698",
+    "edition": 1,
+    "date": 1689443116483,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

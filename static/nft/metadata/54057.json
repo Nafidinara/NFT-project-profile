@@ -1,0 +1,28 @@
+{
+    "name": "Finedrien  ",
+    "description": "The collection from onerichgroup #54057",
+    "image": "https://nft.onerichgroup.com/nft/54057.jpg",
+    "dna": "41663asmdjsadya6d782682bec080e518414",
+    "edition": 1,
+    "date": 1689478813799,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

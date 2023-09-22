@@ -1,0 +1,28 @@
+{
+    "name": "Gelebel  ",
+    "description": "The collection from onerichgroup #8496",
+    "image": "https://nft.onerichgroup.com/nft/8496.jpg",
+    "dna": "16584asmdjsadya6d7842620bec080e529720",
+    "edition": 1,
+    "date": 1689443116963,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

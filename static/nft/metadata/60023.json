@@ -1,0 +1,28 @@
+{
+    "name": "Istirriel  ",
+    "description": "The collection from onerichgroup #60023",
+    "image": "https://nft.onerichgroup.com/nft/60023.jpg",
+    "dna": "44166asmdjsadya6d7882737bec080e571729",
+    "edition": 1,
+    "date": 1689482664834,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Anilmir  ",
+    "description": "The collection from onerichgroup #25441",
+    "image": "https://nft.onerichgroup.com/nft/25441.jpg",
+    "dna": "71037asmdjsadya6d7871107bec080e575714",
+    "edition": 1,
+    "date": 1689443120593,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

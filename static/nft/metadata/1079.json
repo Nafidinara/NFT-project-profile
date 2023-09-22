@@ -1,0 +1,27 @@
+{
+  "name": "Lararrien  ",
+  "description": "The collection from onerichgroup #1079",
+  "image": "https://nft.onerichgroup.com/nft/1079.jpg",
+  "dna": "17149asmdjsadya6d7861779bec080e511556",
+  "edition": 1,
+  "date": 1689443113660,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

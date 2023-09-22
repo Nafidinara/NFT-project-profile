@@ -1,0 +1,28 @@
+{
+    "name": "Larebrial  ",
+    "description": "The collection from onerichgroup #50172",
+    "image": "https://nft.onerichgroup.com/nft/50172.jpg",
+    "dna": "28108asmdjsadya6d7828869bec080e527872",
+    "edition": 1,
+    "date": 1689478811169,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

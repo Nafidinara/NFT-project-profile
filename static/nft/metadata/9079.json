@@ -1,0 +1,28 @@
+{
+    "name": "Reliredel  ",
+    "description": "The collection from onerichgroup #9079",
+    "image": "https://nft.onerichgroup.com/nft/9079.jpg",
+    "dna": "7321asmdjsadya6d7829161bec080e540130",
+    "edition": 1,
+    "date": 1689443117263,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

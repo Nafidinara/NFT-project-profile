@@ -1,0 +1,28 @@
+{
+    "name": "Rimadien  ",
+    "description": "The collection from onerichgroup #54278",
+    "image": "https://nft.onerichgroup.com/nft/54278.jpg",
+    "dna": "20574asmdjsadya6d7819692bec080e550640",
+    "edition": 1,
+    "date": 1689478813959,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

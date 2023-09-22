@@ -1,0 +1,28 @@
+{
+    "name": "Imthalroël  ",
+    "description": "The collection from onerichgroup #27055",
+    "image": "https://nft.onerichgroup.com/nft/27055.jpg",
+    "dna": "73344asmdjsadya6d7861747bec080e569614",
+    "edition": 1,
+    "date": 1689443120706,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

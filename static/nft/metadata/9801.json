@@ -1,0 +1,28 @@
+{
+    "name": "Estthalel  ",
+    "description": "The collection from onerichgroup #9801",
+    "image": "https://nft.onerichgroup.com/nft/9801.jpg",
+    "dna": "84208asmdjsadya6d7860842bec080e593660",
+    "edition": 1,
+    "date": 1689443117445,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

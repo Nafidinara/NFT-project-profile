@@ -1,0 +1,28 @@
+{
+    "name": "Nimthalriel  ",
+    "description": "The collection from onerichgroup #60825",
+    "image": "https://nft.onerichgroup.com/nft/60825.jpg",
+    "dna": "84728asmdjsadya6d7857701bec080e545289",
+    "edition": 1,
+    "date": 1689482665329,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

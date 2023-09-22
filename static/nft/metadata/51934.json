@@ -1,0 +1,28 @@
+{
+    "name": "Imthonriel  ",
+    "description": "The collection from onerichgroup #51934",
+    "image": "https://nft.onerichgroup.com/nft/51934.jpg",
+    "dna": "33917asmdjsadya6d7892730bec080e524681",
+    "edition": 1,
+    "date": 1689478812611,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilesiel  ",
+    "description": "The collection from onerichgroup #2035",
+    "image": "https://nft.onerichgroup.com/nft/2035.jpg",
+    "dna": "9164asmdjsadya6d7898454bec080e552499",
+    "edition": 1,
+    "date": 1689443114359,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

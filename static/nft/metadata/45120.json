@@ -1,0 +1,28 @@
+{
+    "name": "Celesrien  ",
+    "description": "The collection from onerichgroup #45120",
+    "image": "https://nft.onerichgroup.com/nft/45120.jpg",
+    "dna": "36411asmdjsadya6d7859473bec080e58567",
+    "edition": 1,
+    "date": 1689443122320,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Faremiel  ",
+    "description": "The collection from onerichgroup #31487",
+    "image": "https://nft.onerichgroup.com/nft/31487.jpg",
+    "dna": "7012asmdjsadya6d7814089bec080e532066",
+    "edition": 1,
+    "date": 1689443121254,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

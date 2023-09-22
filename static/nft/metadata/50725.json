@@ -1,0 +1,28 @@
+{
+    "name": "Lorolien  ",
+    "description": "The collection from onerichgroup #50725",
+    "image": "https://nft.onerichgroup.com/nft/50725.jpg",
+    "dna": "75806asmdjsadya6d7836525bec080e556526",
+    "edition": 1,
+    "date": 1689478811560,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

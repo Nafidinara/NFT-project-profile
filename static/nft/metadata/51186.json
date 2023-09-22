@@ -1,0 +1,28 @@
+{
+    "name": "Larelrian  ",
+    "description": "The collection from onerichgroup #51186",
+    "image": "https://nft.onerichgroup.com/nft/51186.jpg",
+    "dna": "70041asmdjsadya6d7878399bec080e580037",
+    "edition": 1,
+    "date": 1689478811952,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

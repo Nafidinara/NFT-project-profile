@@ -1,0 +1,28 @@
+{
+    "name": "Claremel  ",
+    "description": "The collection from onerichgroup #18768",
+    "image": "https://nft.onerichgroup.com/nft/18768.jpg",
+    "dna": "76405asmdjsadya6d7868039bec080e511729",
+    "edition": 1,
+    "date": 1689443119474,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

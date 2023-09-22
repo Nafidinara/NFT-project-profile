@@ -1,0 +1,28 @@
+{
+    "name": "Celoliel  ",
+    "description": "The collection from onerichgroup #52597",
+    "image": "https://nft.onerichgroup.com/nft/52597.jpg",
+    "dna": "16219asmdjsadya6d7816244bec080e575685",
+    "edition": 1,
+    "date": 1689478813118,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

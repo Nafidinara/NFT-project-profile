@@ -1,0 +1,28 @@
+{
+    "name": "Garthonmir  ",
+    "description": "The collection from onerichgroup #15277",
+    "image": "https://nft.onerichgroup.com/nft/15277.jpg",
+    "dna": "85634asmdjsadya6d7894463bec080e542485",
+    "edition": 1,
+    "date": 1689443118783,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Relanriel  ",
+    "description": "The collection from onerichgroup #50006",
+    "image": "https://nft.onerichgroup.com/nft/50006.jpg",
+    "dna": "31222asmdjsadya6d7812600bec080e55059",
+    "edition": 1,
+    "date": 1689478811125,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

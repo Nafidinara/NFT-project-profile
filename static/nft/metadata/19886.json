@@ -1,0 +1,28 @@
+{
+    "name": "Relevloth  ",
+    "description": "The collection from onerichgroup #19886",
+    "image": "https://nft.onerichgroup.com/nft/19886.jpg",
+    "dna": "10843asmdjsadya6d7855496bec080e526487",
+    "edition": 1,
+    "date": 1689443119698,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

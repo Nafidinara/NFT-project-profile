@@ -1,0 +1,28 @@
+{
+    "name": "Rimedloth  ",
+    "description": "The collection from onerichgroup #3198",
+    "image": "https://nft.onerichgroup.com/nft/3198.jpg",
+    "dna": "23689asmdjsadya6d7869968bec080e562505",
+    "edition": 1,
+    "date": 1689443114919,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ninamwen  ",
+    "description": "The collection from onerichgroup #22006",
+    "image": "https://nft.onerichgroup.com/nft/22006.jpg",
+    "dna": "66194asmdjsadya6d7895026bec080e583535",
+    "edition": 1,
+    "date": 1689443120032,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

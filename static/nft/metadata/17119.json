@@ -1,0 +1,28 @@
+{
+    "name": "Eladiel  ",
+    "description": "The collection from onerichgroup #17119",
+    "image": "https://nft.onerichgroup.com/nft/17119.jpg",
+    "dna": "51666asmdjsadya6d7819625bec080e528738",
+    "edition": 1,
+    "date": 1689443119242,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

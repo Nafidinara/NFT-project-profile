@@ -1,0 +1,28 @@
+{
+    "name": "Gilenrien  ",
+    "description": "The collection from onerichgroup #14790",
+    "image": "https://nft.onerichgroup.com/nft/14790.jpg",
+    "dna": "26032asmdjsadya6d785380bec080e560233",
+    "edition": 1,
+    "date": 1689443118528,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

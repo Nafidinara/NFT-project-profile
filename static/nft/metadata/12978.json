@@ -1,0 +1,27 @@
+{
+  "name": "Ganesian  ",
+  "description": "The collection from onerichgroup #12978",
+  "image": "https://nft.onerichgroup.com/nft/12978.jpg",
+  "dna": "30875asmdjsadya6d7896063bec080e573409",
+  "edition": 1,
+  "date": 1689443118043,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

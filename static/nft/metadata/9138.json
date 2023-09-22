@@ -1,0 +1,28 @@
+{
+    "name": "Calalsil  ",
+    "description": "The collection from onerichgroup #9138",
+    "image": "https://nft.onerichgroup.com/nft/9138.jpg",
+    "dna": "70448asmdjsadya6d7850476bec080e576591",
+    "edition": 1,
+    "date": 1689443117278,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

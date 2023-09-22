@@ -1,0 +1,28 @@
+{
+    "name": "Ganerrien  ",
+    "description": "The collection from onerichgroup #56477",
+    "image": "https://nft.onerichgroup.com/nft/56477.jpg",
+    "dna": "79906asmdjsadya6d7894432bec080e550880",
+    "edition": 1,
+    "date": 1689478815140,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

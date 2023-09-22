@@ -1,0 +1,28 @@
+{
+    "name": "Liredrien  ",
+    "description": "The collection from onerichgroup #28701",
+    "image": "https://nft.onerichgroup.com/nft/28701.jpg",
+    "dna": "78910asmdjsadya6d7841301bec080e598723",
+    "edition": 1,
+    "date": 1689443120952,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

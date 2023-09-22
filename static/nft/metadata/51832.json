@@ -1,0 +1,28 @@
+{
+    "name": "Estedrien  ",
+    "description": "The collection from onerichgroup #51832",
+    "image": "https://nft.onerichgroup.com/nft/51832.jpg",
+    "dna": "79068asmdjsadya6d7826904bec080e518458",
+    "edition": 1,
+    "date": 1689478812518,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

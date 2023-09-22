@@ -1,0 +1,28 @@
+{
+    "name": "Lirebrien  ",
+    "description": "The collection from onerichgroup #3434",
+    "image": "https://nft.onerichgroup.com/nft/3434.jpg",
+    "dna": "12459asmdjsadya6d7887354bec080e580487",
+    "edition": 1,
+    "date": 1689443115057,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

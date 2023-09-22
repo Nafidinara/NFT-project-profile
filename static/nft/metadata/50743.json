@@ -1,0 +1,28 @@
+{
+    "name": "Fineniel  ",
+    "description": "The collection from onerichgroup #50743",
+    "image": "https://nft.onerichgroup.com/nft/50743.jpg",
+    "dna": "91603asmdjsadya6d7879035bec080e574479",
+    "edition": 1,
+    "date": 1689478811572,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

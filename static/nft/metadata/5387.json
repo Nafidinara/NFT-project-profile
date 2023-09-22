@@ -1,0 +1,28 @@
+{
+    "name": "Elbermir  ",
+    "description": "The collection from onerichgroup #5387",
+    "image": "https://nft.onerichgroup.com/nft/5387.jpg",
+    "dna": "6271asmdjsadya6d7878122bec080e532221",
+    "edition": 1,
+    "date": 1689443116050,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

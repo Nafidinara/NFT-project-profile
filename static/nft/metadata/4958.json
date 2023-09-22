@@ -1,0 +1,28 @@
+{
+    "name": "Caliniel  ",
+    "description": "The collection from onerichgroup #4958",
+    "image": "https://nft.onerichgroup.com/nft/4958.jpg",
+    "dna": "54827asmdjsadya6d7840734bec080e520152",
+    "edition": 1,
+    "date": 1689443115880,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

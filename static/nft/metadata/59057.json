@@ -1,0 +1,28 @@
+{
+    "name": "Estolian  ",
+    "description": "The collection from onerichgroup #59057",
+    "image": "https://nft.onerichgroup.com/nft/59057.jpg",
+    "dna": "29024asmdjsadya6d7838165bec080e582328",
+    "edition": 1,
+    "date": 1689478816200,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

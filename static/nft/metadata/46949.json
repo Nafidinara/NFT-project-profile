@@ -1,0 +1,28 @@
+{
+    "name": "Carilel  ",
+    "description": "The collection from onerichgroup #46949",
+    "image": "https://nft.onerichgroup.com/nft/46949.jpg",
+    "dna": "93585asmdjsadya6d7886273bec080e514782",
+    "edition": 1,
+    "date": 1689443122366,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

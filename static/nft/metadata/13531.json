@@ -1,0 +1,27 @@
+{
+  "name": "Estilwë  ",
+  "description": "The collection from onerichgroup #13531",
+  "image": "https://nft.onerichgroup.com/nft/13531.jpg",
+  "dna": "42702asmdjsadya6d782021bec080e522457",
+  "edition": 1,
+  "date": 1689443118260,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

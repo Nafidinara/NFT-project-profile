@@ -1,0 +1,27 @@
+{
+  "name": "Rinaseth  ",
+  "description": "The collection from onerichgroup #10102",
+  "image": "https://nft.onerichgroup.com/nft/10102.jpg",
+  "dna": "37269asmdjsadya6d7817665bec080e516127",
+  "edition": 1,
+  "date": 1689443117468,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

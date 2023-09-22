@@ -1,0 +1,28 @@
+{
+    "name": "Ranebwë  ",
+    "description": "The collection from onerichgroup #60093",
+    "image": "https://nft.onerichgroup.com/nft/60093.jpg",
+    "dna": "55636asmdjsadya6d7873535bec080e521765",
+    "edition": 1,
+    "date": 1689482664852,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

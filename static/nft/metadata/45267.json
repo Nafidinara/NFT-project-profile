@@ -1,0 +1,28 @@
+{
+    "name": "Ganaswë  ",
+    "description": "The collection from onerichgroup #45267",
+    "image": "https://nft.onerichgroup.com/nft/45267.jpg",
+    "dna": "28504asmdjsadya6d7851330bec080e578535",
+    "edition": 1,
+    "date": 1689443122322,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

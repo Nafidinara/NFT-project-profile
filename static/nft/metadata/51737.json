@@ -1,0 +1,28 @@
+{
+    "name": "Erlthalriel  ",
+    "description": "The collection from onerichgroup #51737",
+    "image": "https://nft.onerichgroup.com/nft/51737.jpg",
+    "dna": "63975asmdjsadya6d7862917bec080e555809",
+    "edition": 1,
+    "date": 1689478812471,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

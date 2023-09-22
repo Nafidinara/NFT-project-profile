@@ -1,0 +1,28 @@
+{
+    "name": "Anineth  ",
+    "description": "The collection from onerichgroup #51513",
+    "image": "https://nft.onerichgroup.com/nft/51513.jpg",
+    "dna": "90251asmdjsadya6d7886814bec080e51175",
+    "edition": 1,
+    "date": 1689478812331,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

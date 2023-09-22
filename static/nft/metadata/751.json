@@ -1,0 +1,28 @@
+{
+    "name": "Aririel  ",
+    "description": "The collection from onerichgroup #751",
+    "image": "https://nft.onerichgroup.com/nft/751.jpg",
+    "dna": "70290asmdjsadya6d7859483bec080e565699",
+    "edition": 1,
+    "date": 1689443113557,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

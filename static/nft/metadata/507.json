@@ -1,0 +1,28 @@
+{
+    "name": "Elbesril  ",
+    "description": "The collection from onerichgroup #507",
+    "image": "https://nft.onerichgroup.com/nft/507.jpg",
+    "dna": "33159asmdjsadya6d7898383bec080e557924",
+    "edition": 1,
+    "date": 1689443113430,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

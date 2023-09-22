@@ -1,0 +1,28 @@
+{
+    "name": "Ganolroël  ",
+    "description": "The collection from onerichgroup #2674",
+    "image": "https://nft.onerichgroup.com/nft/2674.jpg",
+    "dna": "31061asmdjsadya6d7879830bec080e544970",
+    "edition": 1,
+    "date": 1689443114631,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

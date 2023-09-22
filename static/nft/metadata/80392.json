@@ -1,0 +1,28 @@
+{
+    "name": "Galerril  ",
+    "description": "The vip collection from onerichgroup #80392",
+    "image": "https://nft.onerichgroup.com/nft/80392.jpg",
+    "dna": "10158iyuirf45edrtd93367vjvtyd45tuy45063",
+    "edition": 1,
+    "date": 1690898983692,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

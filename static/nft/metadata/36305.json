@@ -1,0 +1,28 @@
+{
+    "name": "Mirilel  ",
+    "description": "The collection from onerichgroup #36305",
+    "image": "https://nft.onerichgroup.com/nft/36305.jpg",
+    "dna": "97797asmdjsadya6d7824830bec080e596330",
+    "edition": 1,
+    "date": 1689443121658,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

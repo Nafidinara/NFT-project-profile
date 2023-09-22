@@ -1,0 +1,28 @@
+{
+    "name": "Meremroël  ",
+    "description": "The collection from onerichgroup #4365",
+    "image": "https://nft.onerichgroup.com/nft/4365.jpg",
+    "dna": "52571asmdjsadya6d7899531bec080e585387",
+    "edition": 1,
+    "date": 1689443115583,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

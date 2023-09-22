@@ -1,0 +1,28 @@
+{
+    "name": "Erolmir  ",
+    "description": "The collection from onerichgroup #14306",
+    "image": "https://nft.onerichgroup.com/nft/14306.jpg",
+    "dna": "24653asmdjsadya6d7879593bec080e586313",
+    "edition": 1,
+    "date": 1689443118395,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

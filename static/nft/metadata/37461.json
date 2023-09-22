@@ -1,0 +1,28 @@
+{
+    "name": "Elbthonedel  ",
+    "description": "The collection from onerichgroup #37461",
+    "image": "https://nft.onerichgroup.com/nft/37461.jpg",
+    "dna": "90487asmdjsadya6d7889333bec080e540389",
+    "edition": 1,
+    "date": 1689443121706,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rinanwen  ",
+    "description": "The vip collection from onerichgroup #80649",
+    "image": "https://nft.onerichgroup.com/nft/80649.jpg",
+    "dna": "24497iyuirf45edrtd28383vjvtyd45tuy5419",
+    "edition": 1,
+    "date": 1690898984529,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

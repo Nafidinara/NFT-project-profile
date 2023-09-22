@@ -1,0 +1,28 @@
+{
+    "name": "Marilloth  ",
+    "description": "The collection from onerichgroup #17222",
+    "image": "https://nft.onerichgroup.com/nft/17222.jpg",
+    "dna": "64456asmdjsadya6d7861650bec080e551411",
+    "edition": 1,
+    "date": 1689443119271,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

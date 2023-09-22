@@ -1,0 +1,28 @@
+{
+    "name": "Iralien  ",
+    "description": "The collection from onerichgroup #8376",
+    "image": "https://nft.onerichgroup.com/nft/8376.jpg",
+    "dna": "66966asmdjsadya6d7817538bec080e576804",
+    "edition": 1,
+    "date": 1689443116928,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

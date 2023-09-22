@@ -1,0 +1,28 @@
+{
+    "name": "Rinevel  ",
+    "description": "The collection from onerichgroup #21509",
+    "image": "https://nft.onerichgroup.com/nft/21509.jpg",
+    "dna": "26008asmdjsadya6d7833688bec080e546654",
+    "edition": 1,
+    "date": 1689443119930,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

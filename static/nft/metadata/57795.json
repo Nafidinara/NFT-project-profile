@@ -1,0 +1,28 @@
+{
+    "name": "Melilmir  ",
+    "description": "The collection from onerichgroup #57795",
+    "image": "https://nft.onerichgroup.com/nft/57795.jpg",
+    "dna": "25967asmdjsadya6d7890085bec080e587232",
+    "edition": 1,
+    "date": 1689478815669,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

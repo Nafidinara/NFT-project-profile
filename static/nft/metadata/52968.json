@@ -1,0 +1,28 @@
+{
+    "name": "Marenedel  ",
+    "description": "The collection from onerichgroup #52968",
+    "image": "https://nft.onerichgroup.com/nft/52968.jpg",
+    "dna": "73483asmdjsadya6d7862623bec080e515571",
+    "edition": 1,
+    "date": 1689478813363,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

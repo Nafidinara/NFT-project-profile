@@ -1,0 +1,28 @@
+{
+    "name": "Erladiel  ",
+    "description": "The collection from onerichgroup #51074",
+    "image": "https://nft.onerichgroup.com/nft/51074.jpg",
+    "dna": "80867asmdjsadya6d7870928bec080e532121",
+    "edition": 1,
+    "date": 1689478811886,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

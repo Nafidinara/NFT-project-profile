@@ -1,0 +1,27 @@
+{
+  "name": "Anevrien  ",
+  "description": "The collection from onerichgroup #11868",
+  "image": "https://nft.onerichgroup.com/nft/11868.jpg",
+  "dna": "25191asmdjsadya6d7889239bec080e59196",
+  "edition": 1,
+  "date": 1689443117799,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

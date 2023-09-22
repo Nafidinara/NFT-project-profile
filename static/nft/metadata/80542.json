@@ -1,0 +1,28 @@
+{
+    "name": "Farolrien  ",
+    "description": "The vip collection from onerichgroup #80542",
+    "image": "https://nft.onerichgroup.com/nft/80542.jpg",
+    "dna": "58748iyuirf45edrtd17450vjvtyd45tuy50984",
+    "edition": 1,
+    "date": 1690898984353,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

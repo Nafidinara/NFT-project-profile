@@ -1,0 +1,28 @@
+{
+    "name": "Nirebian  ",
+    "description": "The collection from onerichgroup #17919",
+    "image": "https://nft.onerichgroup.com/nft/17919.jpg",
+    "dna": "86403asmdjsadya6d7825513bec080e594272",
+    "edition": 1,
+    "date": 1689443119377,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

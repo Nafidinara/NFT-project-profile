@@ -1,0 +1,28 @@
+{
+    "name": "Irevrial  ",
+    "description": "The collection from onerichgroup #54626",
+    "image": "https://nft.onerichgroup.com/nft/54626.jpg",
+    "dna": "68880asmdjsadya6d7821806bec080e585247",
+    "edition": 1,
+    "date": 1689478814119,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

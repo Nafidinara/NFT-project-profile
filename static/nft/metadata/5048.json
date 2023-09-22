@@ -1,0 +1,28 @@
+{
+    "name": "Mirasriel  ",
+    "description": "The collection from onerichgroup #5048",
+    "image": "https://nft.onerichgroup.com/nft/5048.jpg",
+    "dna": "13158asmdjsadya6d783390bec080e572874",
+    "edition": 1,
+    "date": 1689443115906,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

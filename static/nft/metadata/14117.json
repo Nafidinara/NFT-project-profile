@@ -1,0 +1,28 @@
+{
+    "name": "Estamiel  ",
+    "description": "The collection from onerichgroup #14117",
+    "image": "https://nft.onerichgroup.com/nft/14117.jpg",
+    "dna": "58379asmdjsadya6d7854586bec080e594711",
+    "edition": 1,
+    "date": 1689443118368,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

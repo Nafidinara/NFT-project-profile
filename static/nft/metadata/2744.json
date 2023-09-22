@@ -1,0 +1,28 @@
+{
+    "name": "Claramloth  ",
+    "description": "The collection from onerichgroup #2744",
+    "image": "https://nft.onerichgroup.com/nft/2744.jpg",
+    "dna": "63755asmdjsadya6d7845248bec080e588243",
+    "edition": 1,
+    "date": 1689443114640,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

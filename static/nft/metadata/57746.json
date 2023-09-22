@@ -1,0 +1,28 @@
+{
+    "name": "Mirevian  ",
+    "description": "The collection from onerichgroup #57746",
+    "image": "https://nft.onerichgroup.com/nft/57746.jpg",
+    "dna": "31558asmdjsadya6d7833594bec080e518791",
+    "edition": 1,
+    "date": 1689478815656,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

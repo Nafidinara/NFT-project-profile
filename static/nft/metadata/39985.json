@@ -1,0 +1,28 @@
+{
+    "name": "Mirinien  ",
+    "description": "The collection from onerichgroup #39985",
+    "image": "https://nft.onerichgroup.com/nft/39985.jpg",
+    "dna": "82075asmdjsadya6d7835052bec080e539261",
+    "edition": 1,
+    "date": 1689443121932,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gilanedel  ",
+    "description": "The collection from onerichgroup #2090",
+    "image": "https://nft.onerichgroup.com/nft/2090.jpg",
+    "dna": "96940asmdjsadya6d7844019bec080e581800",
+    "edition": 1,
+    "date": 1689443114376,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

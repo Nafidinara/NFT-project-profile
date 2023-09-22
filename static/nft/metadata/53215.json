@@ -1,0 +1,28 @@
+{
+    "name": "Inasloth  ",
+    "description": "The collection from onerichgroup #53215",
+    "image": "https://nft.onerichgroup.com/nft/53215.jpg",
+    "dna": "57154asmdjsadya6d7848449bec080e565257",
+    "edition": 1,
+    "date": 1689478813471,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

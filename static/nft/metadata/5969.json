@@ -1,0 +1,28 @@
+{
+    "name": "Niralwen  ",
+    "description": "The collection from onerichgroup #5969",
+    "image": "https://nft.onerichgroup.com/nft/5969.jpg",
+    "dna": "30527asmdjsadya6d7846402bec080e511444",
+    "edition": 1,
+    "date": 1689443116346,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Caraliel  ",
+    "description": "The collection from onerichgroup #55242",
+    "image": "https://nft.onerichgroup.com/nft/55242.jpg",
+    "dna": "75279asmdjsadya6d7898597bec080e513556",
+    "edition": 1,
+    "date": 1689478814466,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

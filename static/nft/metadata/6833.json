@@ -1,0 +1,28 @@
+{
+    "name": "Garinel  ",
+    "description": "The collection from onerichgroup #6833",
+    "image": "https://nft.onerichgroup.com/nft/6833.jpg",
+    "dna": "44285asmdjsadya6d785231bec080e540915",
+    "edition": 1,
+    "date": 1689443116485,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

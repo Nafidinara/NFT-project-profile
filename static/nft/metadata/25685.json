@@ -1,0 +1,28 @@
+{
+    "name": "Ranasrial  ",
+    "description": "The collection from onerichgroup #25685",
+    "image": "https://nft.onerichgroup.com/nft/25685.jpg",
+    "dna": "18670asmdjsadya6d7873920bec080e521584",
+    "edition": 1,
+    "date": 1689443120610,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

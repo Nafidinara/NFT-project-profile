@@ -1,0 +1,28 @@
+{
+    "name": "Ilmthonroël  ",
+    "description": "The collection from onerichgroup #14212",
+    "image": "https://nft.onerichgroup.com/nft/14212.jpg",
+    "dna": "90542asmdjsadya6d7828247bec080e54330",
+    "edition": 1,
+    "date": 1689443118381,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

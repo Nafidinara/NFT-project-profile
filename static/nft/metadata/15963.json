@@ -1,0 +1,28 @@
+{
+    "name": "Nirerrian  ",
+    "description": "The collection from onerichgroup #15963",
+    "image": "https://nft.onerichgroup.com/nft/15963.jpg",
+    "dna": "20830asmdjsadya6d7890894bec080e534022",
+    "edition": 1,
+    "date": 1689443118899,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

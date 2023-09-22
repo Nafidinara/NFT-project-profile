@@ -1,0 +1,28 @@
+{
+    "name": "Iralloth  ",
+    "description": "The collection from onerichgroup #60617",
+    "image": "https://nft.onerichgroup.com/nft/60617.jpg",
+    "dna": "50591asmdjsadya6d7880097bec080e588254",
+    "edition": 1,
+    "date": 1689482665142,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

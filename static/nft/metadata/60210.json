@@ -1,0 +1,28 @@
+{
+    "name": "Ilmesiel  ",
+    "description": "The collection from onerichgroup #60210",
+    "image": "https://nft.onerichgroup.com/nft/60210.jpg",
+    "dna": "59432asmdjsadya6d7890546bec080e549283",
+    "edition": 1,
+    "date": 1689482664879,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

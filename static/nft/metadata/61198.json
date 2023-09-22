@@ -1,0 +1,28 @@
+{
+    "name": "Niredriel  ",
+    "description": "The collection from onerichgroup #61198",
+    "image": "https://nft.onerichgroup.com/nft/61198.jpg",
+    "dna": "812067dje6rgfnbs027315bec080e596643",
+    "edition": 1,
+    "date": 1689584226094,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

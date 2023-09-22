@@ -1,0 +1,28 @@
+{
+    "name": "Imiredel  ",
+    "description": "The collection from onerichgroup #3009",
+    "image": "https://nft.onerichgroup.com/nft/3009.jpg",
+    "dna": "67769asmdjsadya6d7840137bec080e562457",
+    "edition": 1,
+    "date": 1689443114737,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

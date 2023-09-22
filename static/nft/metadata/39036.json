@@ -1,0 +1,28 @@
+{
+    "name": "Erlilroël  ",
+    "description": "The collection from onerichgroup #39036",
+    "image": "https://nft.onerichgroup.com/nft/39036.jpg",
+    "dna": "75821asmdjsadya6d7818944bec080e526402",
+    "edition": 1,
+    "date": 1689443121854,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

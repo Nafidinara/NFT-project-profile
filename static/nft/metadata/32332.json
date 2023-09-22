@@ -1,0 +1,28 @@
+{
+    "name": "Ranthalian  ",
+    "description": "The collection from onerichgroup #32332",
+    "image": "https://nft.onerichgroup.com/nft/32332.jpg",
+    "dna": "24784asmdjsadya6d781240bec080e572148",
+    "edition": 1,
+    "date": 1689443121383,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

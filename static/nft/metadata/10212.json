@@ -1,0 +1,27 @@
+{
+  "name": "Farinrian  ",
+  "description": "The collection from onerichgroup #10212",
+  "image": "https://nft.onerichgroup.com/nft/10212.jpg",
+  "dna": "62883asmdjsadya6d7879499bec080e584785",
+  "edition": 1,
+  "date": 1689443117479,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

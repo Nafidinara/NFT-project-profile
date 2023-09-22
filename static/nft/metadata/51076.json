@@ -1,0 +1,28 @@
+{
+    "name": "Inasiel  ",
+    "description": "The collection from onerichgroup #51076",
+    "image": "https://nft.onerichgroup.com/nft/51076.jpg",
+    "dna": "94533asmdjsadya6d7893470bec080e52503",
+    "edition": 1,
+    "date": 1689478811887,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

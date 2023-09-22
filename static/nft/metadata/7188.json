@@ -1,0 +1,28 @@
+{
+    "name": "Istenel  ",
+    "description": "The collection from onerichgroup #7188",
+    "image": "https://nft.onerichgroup.com/nft/7188.jpg",
+    "dna": "1063asmdjsadya6d7874053bec080e591690",
+    "edition": 1,
+    "date": 1689443116523,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

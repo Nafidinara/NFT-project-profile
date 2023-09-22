@@ -1,0 +1,28 @@
+{
+    "name": "Garanedel  ",
+    "description": "The collection from onerichgroup #30118",
+    "image": "https://nft.onerichgroup.com/nft/30118.jpg",
+    "dna": "86685asmdjsadya6d7821079bec080e523840",
+    "edition": 1,
+    "date": 1689443121152,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

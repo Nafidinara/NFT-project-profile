@@ -1,0 +1,28 @@
+{
+    "name": "Relaleth  ",
+    "description": "The collection from onerichgroup #61028",
+    "image": "https://nft.onerichgroup.com/nft/61028.jpg",
+    "dna": "417147dje6rgfnbs01519bec080e576686",
+    "edition": 1,
+    "date": 1689584225439,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

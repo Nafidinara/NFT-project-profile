@@ -1,0 +1,28 @@
+{
+    "name": "Ninevrian  ",
+    "description": "The collection from onerichgroup #35934",
+    "image": "https://nft.onerichgroup.com/nft/35934.jpg",
+    "dna": "74699asmdjsadya6d788045bec080e534546",
+    "edition": 1,
+    "date": 1689443121642,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

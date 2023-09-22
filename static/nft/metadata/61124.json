@@ -1,0 +1,28 @@
+{
+    "name": "Istthoniel  ",
+    "description": "The collection from onerichgroup #61124",
+    "image": "https://nft.onerichgroup.com/nft/61124.jpg",
+    "dna": "125937dje6rgfnbs084664bec080e582540",
+    "edition": 1,
+    "date": 1689584225805,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

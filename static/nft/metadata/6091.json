@@ -1,0 +1,28 @@
+{
+    "name": "Elbanrian  ",
+    "description": "The collection from onerichgroup #6091",
+    "image": "https://nft.onerichgroup.com/nft/6091.jpg",
+    "dna": "80247asmdjsadya6d7890456bec080e557517",
+    "edition": 1,
+    "date": 1689443116392,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

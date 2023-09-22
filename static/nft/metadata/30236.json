@@ -1,0 +1,28 @@
+{
+    "name": "Estinloth  ",
+    "description": "The collection from onerichgroup #30236",
+    "image": "https://nft.onerichgroup.com/nft/30236.jpg",
+    "dna": "94385asmdjsadya6d78571bec080e541497",
+    "edition": 1,
+    "date": 1689443121160,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

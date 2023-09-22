@@ -1,0 +1,28 @@
+{
+    "name": "Mirasel  ",
+    "description": "The collection from onerichgroup #53403",
+    "image": "https://nft.onerichgroup.com/nft/53403.jpg",
+    "dna": "95640asmdjsadya6d7815465bec080e577129",
+    "edition": 1,
+    "date": 1689478813627,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

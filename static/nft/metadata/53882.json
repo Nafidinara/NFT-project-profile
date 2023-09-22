@@ -1,0 +1,28 @@
+{
+    "name": "Aralwen  ",
+    "description": "The collection from onerichgroup #53882",
+    "image": "https://nft.onerichgroup.com/nft/53882.jpg",
+    "dna": "93421asmdjsadya6d7876859bec080e549735",
+    "edition": 1,
+    "date": 1689478813737,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

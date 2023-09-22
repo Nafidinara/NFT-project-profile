@@ -1,0 +1,28 @@
+{
+    "name": "Erenrien  ",
+    "description": "The collection from onerichgroup #31011",
+    "image": "https://nft.onerichgroup.com/nft/31011.jpg",
+    "dna": "19329asmdjsadya6d7876330bec080e566534",
+    "edition": 1,
+    "date": 1689443121219,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

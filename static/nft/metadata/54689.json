@@ -1,0 +1,28 @@
+{
+    "name": "Larthalrian  ",
+    "description": "The collection from onerichgroup #54689",
+    "image": "https://nft.onerichgroup.com/nft/54689.jpg",
+    "dna": "77136asmdjsadya6d7828097bec080e587036",
+    "edition": 1,
+    "date": 1689478814208,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Irthalrien  ",
+    "description": "The collection from onerichgroup #30315",
+    "image": "https://nft.onerichgroup.com/nft/30315.jpg",
+    "dna": "90082asmdjsadya6d7858061bec080e599081",
+    "edition": 1,
+    "date": 1689443121164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

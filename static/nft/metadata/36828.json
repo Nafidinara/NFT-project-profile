@@ -1,0 +1,28 @@
+{
+    "name": "Relebedel  ",
+    "description": "The collection from onerichgroup #36828",
+    "image": "https://nft.onerichgroup.com/nft/36828.jpg",
+    "dna": "9356asmdjsadya6d7827185bec080e594590",
+    "edition": 1,
+    "date": 1689443121676,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

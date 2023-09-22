@@ -1,0 +1,28 @@
+{
+    "name": "Celesel  ",
+    "description": "The collection from onerichgroup #48",
+    "image": "https://nft.onerichgroup.com/nft/48.jpg",
+    "dna": "22674asmdjsadya6d786465bec080e531837",
+    "edition": 1,
+    "date": 1689443113171,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

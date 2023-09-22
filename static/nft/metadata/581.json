@@ -1,0 +1,28 @@
+{
+    "name": "Caralmir  ",
+    "description": "The collection from onerichgroup #581",
+    "image": "https://nft.onerichgroup.com/nft/581.jpg",
+    "dna": "13532asmdjsadya6d7872388bec080e553768",
+    "edition": 1,
+    "date": 1689443113498,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

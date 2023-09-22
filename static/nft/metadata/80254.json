@@ -1,0 +1,28 @@
+{
+    "name": "Rimedwen  ",
+    "description": "The vip collection from onerichgroup #80254",
+    "image": "https://nft.onerichgroup.com/nft/80254.jpg",
+    "dna": "37764iyuirf45edrtd2748vjvtyd45tuy30053",
+    "edition": 1,
+    "date": 1690898983453,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

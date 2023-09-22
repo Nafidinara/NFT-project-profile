@@ -1,0 +1,28 @@
+{
+    "name": "Elthonroël  ",
+    "description": "The collection from onerichgroup #61080",
+    "image": "https://nft.onerichgroup.com/nft/61080.jpg",
+    "dna": "922647dje6rgfnbs020441bec080e548956",
+    "edition": 1,
+    "date": 1689584225499,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

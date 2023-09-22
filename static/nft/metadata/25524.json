@@ -1,0 +1,28 @@
+{
+    "name": "Nirthalrial  ",
+    "description": "The collection from onerichgroup #25524",
+    "image": "https://nft.onerichgroup.com/nft/25524.jpg",
+    "dna": "38094asmdjsadya6d782398bec080e540102",
+    "edition": 1,
+    "date": 1689443120599,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

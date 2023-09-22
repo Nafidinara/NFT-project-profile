@@ -1,0 +1,28 @@
+{
+    "name": "Estalrial  ",
+    "description": "The collection from onerichgroup #9176",
+    "image": "https://nft.onerichgroup.com/nft/9176.jpg",
+    "dna": "34002asmdjsadya6d7898179bec080e551211",
+    "edition": 1,
+    "date": 1689443117287,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

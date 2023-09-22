@@ -1,0 +1,27 @@
+{
+  "name": "Larileth  ",
+  "description": "The collection from onerichgroup #1344",
+  "image": "https://nft.onerichgroup.com/nft/1344.jpg",
+  "dna": "64066asmdjsadya6d7850522bec080e582435",
+  "edition": 1,
+  "date": 1689443113897,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

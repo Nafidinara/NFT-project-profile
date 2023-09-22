@@ -1,0 +1,28 @@
+{
+    "name": "Estasroël  ",
+    "description": "The collection from onerichgroup #52858",
+    "image": "https://nft.onerichgroup.com/nft/52858.jpg",
+    "dna": "51917asmdjsadya6d7855779bec080e561477",
+    "edition": 1,
+    "date": 1689478813326,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

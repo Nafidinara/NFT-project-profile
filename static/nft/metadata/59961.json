@@ -1,0 +1,28 @@
+{
+    "name": "Galinriel  ",
+    "description": "The collection from onerichgroup #59961",
+    "image": "https://nft.onerichgroup.com/nft/59961.jpg",
+    "dna": "46615asmdjsadya6d7887523bec080e521828",
+    "edition": 1,
+    "date": 1689478816560,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

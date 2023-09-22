@@ -1,0 +1,28 @@
+{
+    "name": "Carthonrien  ",
+    "description": "The collection from onerichgroup #51622",
+    "image": "https://nft.onerichgroup.com/nft/51622.jpg",
+    "dna": "31485asmdjsadya6d7882229bec080e564832",
+    "edition": 1,
+    "date": 1689478812385,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

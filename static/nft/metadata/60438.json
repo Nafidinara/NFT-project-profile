@@ -1,0 +1,28 @@
+{
+    "name": "Eranril  ",
+    "description": "The collection from onerichgroup #60438",
+    "image": "https://nft.onerichgroup.com/nft/60438.jpg",
+    "dna": "68541asmdjsadya6d7898572bec080e533582",
+    "edition": 1,
+    "date": 1689482665001,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

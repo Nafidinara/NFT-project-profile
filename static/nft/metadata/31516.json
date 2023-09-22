@@ -1,0 +1,28 @@
+{
+    "name": "Lirenrial  ",
+    "description": "The collection from onerichgroup #31516",
+    "image": "https://nft.onerichgroup.com/nft/31516.jpg",
+    "dna": "36349asmdjsadya6d7838926bec080e537117",
+    "edition": 1,
+    "date": 1689443121256,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

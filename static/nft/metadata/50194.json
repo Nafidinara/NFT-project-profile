@@ -1,0 +1,28 @@
+{
+    "name": "Niredwen  ",
+    "description": "The collection from onerichgroup #50194",
+    "image": "https://nft.onerichgroup.com/nft/50194.jpg",
+    "dna": "17772asmdjsadya6d7880906bec080e569519",
+    "edition": 1,
+    "date": 1689478811174,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

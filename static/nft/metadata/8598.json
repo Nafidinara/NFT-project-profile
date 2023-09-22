@@ -1,0 +1,28 @@
+{
+    "name": "Celasroël  ",
+    "description": "The collection from onerichgroup #8598",
+    "image": "https://nft.onerichgroup.com/nft/8598.jpg",
+    "dna": "8665asmdjsadya6d7863162bec080e557096",
+    "edition": 1,
+    "date": 1689443116989,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

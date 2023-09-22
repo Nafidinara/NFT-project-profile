@@ -1,0 +1,28 @@
+{
+    "name": "Ilmthaledel  ",
+    "description": "The collection from onerichgroup #52384",
+    "image": "https://nft.onerichgroup.com/nft/52384.jpg",
+    "dna": "57848asmdjsadya6d7813596bec080e563793",
+    "edition": 1,
+    "date": 1689478812993,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

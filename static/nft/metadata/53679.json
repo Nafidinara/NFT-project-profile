@@ -1,0 +1,28 @@
+{
+    "name": "Nirelsil  ",
+    "description": "The collection from onerichgroup #53679",
+    "image": "https://nft.onerichgroup.com/nft/53679.jpg",
+    "dna": "65644asmdjsadya6d7896129bec080e548279",
+    "edition": 1,
+    "date": 1689478813689,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

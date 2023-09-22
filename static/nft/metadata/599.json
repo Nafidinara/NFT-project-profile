@@ -1,0 +1,28 @@
+{
+    "name": "Maremrial  ",
+    "description": "The collection from onerichgroup #599",
+    "image": "https://nft.onerichgroup.com/nft/599.jpg",
+    "dna": "82526asmdjsadya6d7812158bec080e557401",
+    "edition": 1,
+    "date": 1689443113509,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

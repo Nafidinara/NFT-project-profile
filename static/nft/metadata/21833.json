@@ -1,0 +1,28 @@
+{
+    "name": "Inthonrial  ",
+    "description": "The collection from onerichgroup #21833",
+    "image": "https://nft.onerichgroup.com/nft/21833.jpg",
+    "dna": "50775asmdjsadya6d7836159bec080e582793",
+    "edition": 1,
+    "date": 1689443120009,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

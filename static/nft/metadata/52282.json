@@ -1,0 +1,28 @@
+{
+    "name": "Celaseth  ",
+    "description": "The collection from onerichgroup #52282",
+    "image": "https://nft.onerichgroup.com/nft/52282.jpg",
+    "dna": "42677asmdjsadya6d783520bec080e523653",
+    "edition": 1,
+    "date": 1689478812878,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

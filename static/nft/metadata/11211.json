@@ -1,0 +1,27 @@
+{
+  "name": "Gilolsil  ",
+  "description": "The collection from onerichgroup #11211",
+  "image": "https://nft.onerichgroup.com/nft/11211.jpg",
+  "dna": "26285asmdjsadya6d7863119bec080e547175",
+  "edition": 1,
+  "date": 1689443117561,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

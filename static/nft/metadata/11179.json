@@ -1,0 +1,27 @@
+{
+  "name": "Carelwë  ",
+  "description": "The collection from onerichgroup #11179",
+  "image": "https://nft.onerichgroup.com/nft/11179.jpg",
+  "dna": "38400asmdjsadya6d7879047bec080e553582",
+  "edition": 1,
+  "date": 1689443117554,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

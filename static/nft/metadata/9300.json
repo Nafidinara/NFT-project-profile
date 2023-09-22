@@ -1,0 +1,28 @@
+{
+    "name": "Nimerrian  ",
+    "description": "The collection from onerichgroup #9300",
+    "image": "https://nft.onerichgroup.com/nft/9300.jpg",
+    "dna": "74351asmdjsadya6d7861114bec080e514043",
+    "edition": 1,
+    "date": 1689443117319,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

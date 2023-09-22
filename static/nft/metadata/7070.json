@@ -1,0 +1,28 @@
+{
+    "name": "Imalrian  ",
+    "description": "The collection from onerichgroup #7070",
+    "image": "https://nft.onerichgroup.com/nft/7070.jpg",
+    "dna": "44644asmdjsadya6d7830731bec080e58040",
+    "edition": 1,
+    "date": 1689443116512,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

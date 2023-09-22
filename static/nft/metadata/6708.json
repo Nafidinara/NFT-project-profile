@@ -1,0 +1,28 @@
+{
+    "name": "Elbevmir  ",
+    "description": "The collection from onerichgroup #6708",
+    "image": "https://nft.onerichgroup.com/nft/6708.jpg",
+    "dna": "58571asmdjsadya6d7894097bec080e568341",
+    "edition": 1,
+    "date": 1689443116473,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

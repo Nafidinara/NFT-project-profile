@@ -1,0 +1,28 @@
+{
+    "name": "Celeneth  ",
+    "description": "The collection from onerichgroup #18146",
+    "image": "https://nft.onerichgroup.com/nft/18146.jpg",
+    "dna": "49844asmdjsadya6d7838875bec080e515895",
+    "edition": 1,
+    "date": 1689443119412,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

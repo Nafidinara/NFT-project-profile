@@ -1,0 +1,28 @@
+{
+    "name": "Cararsil  ",
+    "description": "The collection from onerichgroup #56209",
+    "image": "https://nft.onerichgroup.com/nft/56209.jpg",
+    "dna": "4435asmdjsadya6d7831942bec080e527764",
+    "edition": 1,
+    "date": 1689478815027,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

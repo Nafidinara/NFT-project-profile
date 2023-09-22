@@ -1,0 +1,27 @@
+{
+  "name": "Carthaliel  ",
+  "description": "The collection from onerichgroup #10928",
+  "image": "https://nft.onerichgroup.com/nft/10928.jpg",
+  "dna": "48348asmdjsadya6d7823872bec080e564499",
+  "edition": 1,
+  "date": 1689443117530,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

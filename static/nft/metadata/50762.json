@@ -1,0 +1,28 @@
+{
+    "name": "Ilmamril  ",
+    "description": "The collection from onerichgroup #50762",
+    "image": "https://nft.onerichgroup.com/nft/50762.jpg",
+    "dna": "83131asmdjsadya6d7888266bec080e551282",
+    "edition": 1,
+    "date": 1689478811582,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

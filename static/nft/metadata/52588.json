@@ -1,0 +1,28 @@
+{
+    "name": "Geleneth  ",
+    "description": "The collection from onerichgroup #52588",
+    "image": "https://nft.onerichgroup.com/nft/52588.jpg",
+    "dna": "47507asmdjsadya6d7856862bec080e586769",
+    "edition": 1,
+    "date": 1689478813114,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

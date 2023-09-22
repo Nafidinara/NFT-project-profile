@@ -1,0 +1,28 @@
+{
+    "name": "Rimemrial  ",
+    "description": "The collection from onerichgroup #54606",
+    "image": "https://nft.onerichgroup.com/nft/54606.jpg",
+    "dna": "41769asmdjsadya6d7885879bec080e525264",
+    "edition": 1,
+    "date": 1689478814107,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

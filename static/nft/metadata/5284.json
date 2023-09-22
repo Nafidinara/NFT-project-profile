@@ -1,0 +1,28 @@
+{
+    "name": "Calesien  ",
+    "description": "The collection from onerichgroup #5284",
+    "image": "https://nft.onerichgroup.com/nft/5284.jpg",
+    "dna": "33481asmdjsadya6d7867237bec080e568946",
+    "edition": 1,
+    "date": 1689443116015,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

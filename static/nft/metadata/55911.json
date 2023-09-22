@@ -1,0 +1,28 @@
+{
+    "name": "Garthonsil  ",
+    "description": "The collection from onerichgroup #55911",
+    "image": "https://nft.onerichgroup.com/nft/55911.jpg",
+    "dna": "88235asmdjsadya6d78512bec080e524553",
+    "edition": 1,
+    "date": 1689478814816,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clararroël  ",
+    "description": "The collection from onerichgroup #51965",
+    "image": "https://nft.onerichgroup.com/nft/51965.jpg",
+    "dna": "41062asmdjsadya6d7845955bec080e565132",
+    "edition": 1,
+    "date": 1689478812666,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miralroël  ",
+    "description": "The collection from onerichgroup #42840",
+    "image": "https://nft.onerichgroup.com/nft/42840.jpg",
+    "dna": "82150asmdjsadya6d7856431bec080e510147",
+    "edition": 1,
+    "date": 1689443122144,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

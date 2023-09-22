@@ -1,0 +1,28 @@
+{
+    "name": "Celiriel  ",
+    "description": "The collection from onerichgroup #4128",
+    "image": "https://nft.onerichgroup.com/nft/4128.jpg",
+    "dna": "23191asmdjsadya6d7878510bec080e559604",
+    "edition": 1,
+    "date": 1689443115430,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

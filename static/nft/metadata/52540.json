@@ -1,0 +1,28 @@
+{
+    "name": "Cirenedel  ",
+    "description": "The collection from onerichgroup #52540",
+    "image": "https://nft.onerichgroup.com/nft/52540.jpg",
+    "dna": "60740asmdjsadya6d786853bec080e56592",
+    "edition": 1,
+    "date": 1689478813094,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

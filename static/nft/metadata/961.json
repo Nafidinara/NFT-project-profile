@@ -1,0 +1,28 @@
+{
+    "name": "Garirmir  ",
+    "description": "The collection from onerichgroup #961",
+    "image": "https://nft.onerichgroup.com/nft/961.jpg",
+    "dna": "90343asmdjsadya6d7816428bec080e595247",
+    "edition": 1,
+    "date": 1689443113617,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rinalril  ",
+    "description": "The collection from onerichgroup #7548",
+    "image": "https://nft.onerichgroup.com/nft/7548.jpg",
+    "dna": "60968asmdjsadya6d7829523bec080e522517",
+    "edition": 1,
+    "date": 1689443116610,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

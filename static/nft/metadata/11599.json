@@ -1,0 +1,27 @@
+{
+  "name": "Estenel  ",
+  "description": "The collection from onerichgroup #11599",
+  "image": "https://nft.onerichgroup.com/nft/11599.jpg",
+  "dna": "6919asmdjsadya6d7863942bec080e532349",
+  "edition": 1,
+  "date": 1689443117663,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

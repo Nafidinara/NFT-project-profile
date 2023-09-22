@@ -1,0 +1,28 @@
+{
+    "name": "Finebrial  ",
+    "description": "The collection from onerichgroup #4499",
+    "image": "https://nft.onerichgroup.com/nft/4499.jpg",
+    "dna": "28197asmdjsadya6d786545bec080e531697",
+    "edition": 1,
+    "date": 1689443115671,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

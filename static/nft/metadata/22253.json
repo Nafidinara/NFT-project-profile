@@ -1,0 +1,28 @@
+{
+    "name": "Ninirsil  ",
+    "description": "The collection from onerichgroup #22253",
+    "image": "https://nft.onerichgroup.com/nft/22253.jpg",
+    "dna": "32313asmdjsadya6d7898744bec080e558775",
+    "edition": 1,
+    "date": 1689443120097,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

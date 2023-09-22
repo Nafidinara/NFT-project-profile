@@ -1,0 +1,28 @@
+{
+    "name": "Laramwë  ",
+    "description": "The collection from onerichgroup #40141",
+    "image": "https://nft.onerichgroup.com/nft/40141.jpg",
+    "dna": "2254asmdjsadya6d7887647bec080e519772",
+    "edition": 1,
+    "date": 1689443121940,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

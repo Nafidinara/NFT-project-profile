@@ -1,0 +1,28 @@
+{
+    "name": "Inenmir  ",
+    "description": "The collection from onerichgroup #2688",
+    "image": "https://nft.onerichgroup.com/nft/2688.jpg",
+    "dna": "99141asmdjsadya6d7872141bec080e525707",
+    "edition": 1,
+    "date": 1689443114632,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

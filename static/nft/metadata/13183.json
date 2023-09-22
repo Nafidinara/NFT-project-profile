@@ -1,0 +1,27 @@
+{
+  "name": "Relenrian  ",
+  "description": "The collection from onerichgroup #13183",
+  "image": "https://nft.onerichgroup.com/nft/13183.jpg",
+  "dna": "98955asmdjsadya6d7888587bec080e551741",
+  "edition": 1,
+  "date": 1689443118117,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Farerian  ",
+    "description": "The collection from onerichgroup #56697",
+    "image": "https://nft.onerichgroup.com/nft/56697.jpg",
+    "dna": "97707asmdjsadya6d7861679bec080e561183",
+    "edition": 1,
+    "date": 1689478815211,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

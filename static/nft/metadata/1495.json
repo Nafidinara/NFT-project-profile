@@ -1,0 +1,28 @@
+{
+    "name": "Elbebrian  ",
+    "description": "The collection from onerichgroup #1495",
+    "image": "https://nft.onerichgroup.com/nft/1495.jpg",
+    "dna": "21135asmdjsadya6d7813302bec080e599459",
+    "edition": 1,
+    "date": 1689443113973,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

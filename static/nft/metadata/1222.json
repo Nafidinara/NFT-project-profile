@@ -1,0 +1,27 @@
+{
+  "name": "Ganamwen  ",
+  "description": "The collection from onerichgroup #1222",
+  "image": "https://nft.onerichgroup.com/nft/1222.jpg",
+  "dna": "17382asmdjsadya6d7821400bec080e544517",
+  "edition": 1,
+  "date": 1689443113802,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

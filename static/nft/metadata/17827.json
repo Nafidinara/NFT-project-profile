@@ -1,0 +1,28 @@
+{
+    "name": "Celadrian  ",
+    "description": "The collection from onerichgroup #17827",
+    "image": "https://nft.onerichgroup.com/nft/17827.jpg",
+    "dna": "27435asmdjsadya6d7839207bec080e525335",
+    "edition": 1,
+    "date": 1689443119361,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

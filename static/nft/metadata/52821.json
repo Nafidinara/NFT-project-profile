@@ -1,0 +1,28 @@
+{
+    "name": "Gilerroël  ",
+    "description": "The collection from onerichgroup #52821",
+    "image": "https://nft.onerichgroup.com/nft/52821.jpg",
+    "dna": "792asmdjsadya6d7834193bec080e571448",
+    "edition": 1,
+    "date": 1689478813307,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

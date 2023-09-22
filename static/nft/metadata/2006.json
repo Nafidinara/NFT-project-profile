@@ -1,0 +1,28 @@
+{
+    "name": "Erthaledel  ",
+    "description": "The collection from onerichgroup #2006",
+    "image": "https://nft.onerichgroup.com/nft/2006.jpg",
+    "dna": "26803asmdjsadya6d7819635bec080e532171",
+    "edition": 1,
+    "date": 1689443114348,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

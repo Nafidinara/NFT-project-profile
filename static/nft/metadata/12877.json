@@ -1,0 +1,27 @@
+{
+  "name": "Imesien  ",
+  "description": "The collection from onerichgroup #12877",
+  "image": "https://nft.onerichgroup.com/nft/12877.jpg",
+  "dna": "51502asmdjsadya6d783501bec080e522386",
+  "edition": 1,
+  "date": 1689443118020,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

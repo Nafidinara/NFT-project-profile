@@ -1,0 +1,28 @@
+{
+    "name": "Aralsil  ",
+    "description": "The collection from onerichgroup #9309",
+    "image": "https://nft.onerichgroup.com/nft/9309.jpg",
+    "dna": "15704asmdjsadya6d7882239bec080e528476",
+    "edition": 1,
+    "date": 1689443117320,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

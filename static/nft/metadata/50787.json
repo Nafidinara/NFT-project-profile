@@ -1,0 +1,28 @@
+{
+    "name": "Larthaliel  ",
+    "description": "The collection from onerichgroup #50787",
+    "image": "https://nft.onerichgroup.com/nft/50787.jpg",
+    "dna": "45329asmdjsadya6d7899804bec080e586907",
+    "edition": 1,
+    "date": 1689478811600,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

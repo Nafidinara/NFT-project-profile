@@ -1,0 +1,28 @@
+{
+    "name": "Anamedel  ",
+    "description": "The collection from onerichgroup #14787",
+    "image": "https://nft.onerichgroup.com/nft/14787.jpg",
+    "dna": "42145asmdjsadya6d7821473bec080e583411",
+    "edition": 1,
+    "date": 1689443118527,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

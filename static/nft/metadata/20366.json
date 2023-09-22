@@ -1,0 +1,28 @@
+{
+    "name": "Ganoliel  ",
+    "description": "The collection from onerichgroup #20366",
+    "image": "https://nft.onerichgroup.com/nft/20366.jpg",
+    "dna": "86510asmdjsadya6d788352bec080e548562",
+    "edition": 1,
+    "date": 1689443119756,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

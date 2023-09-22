@@ -1,0 +1,28 @@
+{
+    "name": "Imirriel  ",
+    "description": "The collection from onerichgroup #58800",
+    "image": "https://nft.onerichgroup.com/nft/58800.jpg",
+    "dna": "2686asmdjsadya6d7890253bec080e527569",
+    "edition": 1,
+    "date": 1689478816138,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

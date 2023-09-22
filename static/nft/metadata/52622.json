@@ -1,0 +1,28 @@
+{
+    "name": "Elaniel  ",
+    "description": "The collection from onerichgroup #52622",
+    "image": "https://nft.onerichgroup.com/nft/52622.jpg",
+    "dna": "99729asmdjsadya6d7852405bec080e565155",
+    "edition": 1,
+    "date": 1689478813161,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Larthoneth  ",
+    "description": "The collection from onerichgroup #56669",
+    "image": "https://nft.onerichgroup.com/nft/56669.jpg",
+    "dna": "93221asmdjsadya6d7836869bec080e548801",
+    "edition": 1,
+    "date": 1689478815202,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

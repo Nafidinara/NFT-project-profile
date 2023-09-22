@@ -1,0 +1,28 @@
+{
+    "name": "Anemedel  ",
+    "description": "The collection from onerichgroup #20471",
+    "image": "https://nft.onerichgroup.com/nft/20471.jpg",
+    "dna": "45001asmdjsadya6d7874198bec080e557741",
+    "edition": 1,
+    "date": 1689443119806,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

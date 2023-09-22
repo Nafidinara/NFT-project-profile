@@ -1,0 +1,28 @@
+{
+    "name": "Ganirian  ",
+    "description": "The collection from onerichgroup #59084",
+    "image": "https://nft.onerichgroup.com/nft/59084.jpg",
+    "dna": "99187asmdjsadya6d7828796bec080e515624",
+    "edition": 1,
+    "date": 1689478816208,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

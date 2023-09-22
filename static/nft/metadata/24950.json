@@ -1,0 +1,28 @@
+{
+    "name": "Lorebrial  ",
+    "description": "The collection from onerichgroup #24950",
+    "image": "https://nft.onerichgroup.com/nft/24950.jpg",
+    "dna": "8957asmdjsadya6d7842566bec080e531772",
+    "edition": 1,
+    "date": 1689443120491,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Estemriel  ",
+  "description": "The collection from onerichgroup #1148",
+  "image": "https://nft.onerichgroup.com/nft/1148.jpg",
+  "dna": "42718asmdjsadya6d7816256bec080e539568",
+  "edition": 1,
+  "date": 1689443113743,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Eranroël  ",
+    "description": "The collection from onerichgroup #831",
+    "image": "https://nft.onerichgroup.com/nft/831.jpg",
+    "dna": "80284asmdjsadya6d7847250bec080e58813",
+    "edition": 1,
+    "date": 1689443113593,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

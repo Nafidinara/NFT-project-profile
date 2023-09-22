@@ -1,0 +1,26 @@
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<!-- <script src="/assets/plugins/jquery/jquery.min.js"></script> -->
+<script src="/assets/plugins/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+<script src="/assets/plugins/select2/js/select2.js"></script>
+<script src="/assets/plugins/animate/js/animate.js"></script>
+<script src="/assets/plugins/bootstrap4/js/bootstrap.js"></script>
+<script src="/assets/js/enefti-custom.js"></script>
+<script src="/assets/plugins/nice-select/jquery.nice-select.min.js"></script>
+<script src="/assets/plugins/swiper-js/js/swiper-bundle.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+    window.onscroll = function () { myFunction() };
+
+    const header = document.querySelector(".header1");
+    var sticky = header.offsetTop;
+
+    function myFunction() {
+        if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+        } else {
+            header.classList.remove("sticky");
+        }
+    }
+
+</script>

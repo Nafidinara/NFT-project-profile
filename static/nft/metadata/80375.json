@@ -1,0 +1,28 @@
+{
+    "name": "Cirevsil  ",
+    "description": "The vip collection from onerichgroup #80375",
+    "image": "https://nft.onerichgroup.com/nft/80375.jpg",
+    "dna": "55222iyuirf45edrtd293vjvtyd45tuy22116",
+    "edition": 1,
+    "date": 1690898983637,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

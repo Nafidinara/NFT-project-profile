@@ -1,0 +1,28 @@
+{
+    "name": "Rinelroël  ",
+    "description": "The collection from onerichgroup #41810",
+    "image": "https://nft.onerichgroup.com/nft/41810.jpg",
+    "dna": "85189asmdjsadya6d7822462bec080e552627",
+    "edition": 1,
+    "date": 1689443122067,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

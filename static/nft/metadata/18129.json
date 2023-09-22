@@ -1,0 +1,28 @@
+{
+    "name": "Mirerian  ",
+    "description": "The collection from onerichgroup #18129",
+    "image": "https://nft.onerichgroup.com/nft/18129.jpg",
+    "dna": "83866asmdjsadya6d7886613bec080e536366",
+    "edition": 1,
+    "date": 1689443119410,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

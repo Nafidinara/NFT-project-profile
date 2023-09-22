@@ -1,0 +1,28 @@
+{
+    "name": "Melolriel  ",
+    "description": "The collection from onerichgroup #57000",
+    "image": "https://nft.onerichgroup.com/nft/57000.jpg",
+    "dna": "5176asmdjsadya6d784797bec080e579700",
+    "edition": 1,
+    "date": 1689478815296,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

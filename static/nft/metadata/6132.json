@@ -1,0 +1,28 @@
+{
+    "name": "Finaledel  ",
+    "description": "The collection from onerichgroup #6132",
+    "image": "https://nft.onerichgroup.com/nft/6132.jpg",
+    "dna": "95045asmdjsadya6d7819071bec080e569686",
+    "edition": 1,
+    "date": 1689443116404,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

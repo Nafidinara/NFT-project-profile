@@ -1,0 +1,28 @@
+{
+    "name": "Relelien  ",
+    "description": "The collection from onerichgroup #18907",
+    "image": "https://nft.onerichgroup.com/nft/18907.jpg",
+    "dna": "55813asmdjsadya6d7880480bec080e55183",
+    "edition": 1,
+    "date": 1689443119486,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

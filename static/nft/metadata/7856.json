@@ -1,0 +1,28 @@
+{
+    "name": "Gilthonriel  ",
+    "description": "The collection from onerichgroup #7856",
+    "image": "https://nft.onerichgroup.com/nft/7856.jpg",
+    "dna": "25364asmdjsadya6d7847268bec080e558623",
+    "edition": 1,
+    "date": 1689443116754,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Istasian  ",
+    "description": "The collection from onerichgroup #8452",
+    "image": "https://nft.onerichgroup.com/nft/8452.jpg",
+    "dna": "60095asmdjsadya6d7899640bec080e569534",
+    "edition": 1,
+    "date": 1689443116949,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

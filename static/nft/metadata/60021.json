@@ -1,0 +1,28 @@
+{
+    "name": "Ilmedrien  ",
+    "description": "The collection from onerichgroup #60021",
+    "image": "https://nft.onerichgroup.com/nft/60021.jpg",
+    "dna": "11152asmdjsadya6d7853182bec080e523553",
+    "edition": 1,
+    "date": 1689482664833,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

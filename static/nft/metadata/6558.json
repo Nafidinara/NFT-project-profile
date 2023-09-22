@@ -1,0 +1,28 @@
+{
+    "name": "Rililien  ",
+    "description": "The collection from onerichgroup #6558",
+    "image": "https://nft.onerichgroup.com/nft/6558.jpg",
+    "dna": "67725asmdjsadya6d7813548bec080e567142",
+    "edition": 1,
+    "date": 1689443116459,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

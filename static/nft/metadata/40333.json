@@ -1,0 +1,28 @@
+{
+    "name": "Larinrien  ",
+    "description": "The collection from onerichgroup #40333",
+    "image": "https://nft.onerichgroup.com/nft/40333.jpg",
+    "dna": "43346asmdjsadya6d7871840bec080e586847",
+    "edition": 1,
+    "date": 1689443121951,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

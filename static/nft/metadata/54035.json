@@ -1,0 +1,28 @@
+{
+    "name": "Riminwë  ",
+    "description": "The collection from onerichgroup #54035",
+    "image": "https://nft.onerichgroup.com/nft/54035.jpg",
+    "dna": "79062asmdjsadya6d7821739bec080e53377",
+    "edition": 1,
+    "date": 1689478813791,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Mirelrian  ",
+    "description": "The collection from onerichgroup #61066",
+    "image": "https://nft.onerichgroup.com/nft/61066.jpg",
+    "dna": "552857dje6rgfnbs075130bec080e5560",
+    "edition": 1,
+    "date": 1689584225470,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

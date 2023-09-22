@@ -1,0 +1,28 @@
+{
+    "name": "Rilemrian  ",
+    "description": "The collection from onerichgroup #30060",
+    "image": "https://nft.onerichgroup.com/nft/30060.jpg",
+    "dna": "70216asmdjsadya6d7859842bec080e515467",
+    "edition": 1,
+    "date": 1689443121148,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

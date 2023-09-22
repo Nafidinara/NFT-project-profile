@@ -1,0 +1,28 @@
+{
+    "name": "Arthonriel  ",
+    "description": "The collection from onerichgroup #52754",
+    "image": "https://nft.onerichgroup.com/nft/52754.jpg",
+    "dna": "60523asmdjsadya6d7815406bec080e534239",
+    "edition": 1,
+    "date": 1689478813224,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

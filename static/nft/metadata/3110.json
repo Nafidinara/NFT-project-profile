@@ -1,0 +1,28 @@
+{
+    "name": "Isteriel  ",
+    "description": "The collection from onerichgroup #3110",
+    "image": "https://nft.onerichgroup.com/nft/3110.jpg",
+    "dna": "22987asmdjsadya6d7829984bec080e554673",
+    "edition": 1,
+    "date": 1689443114825,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

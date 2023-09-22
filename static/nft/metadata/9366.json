@@ -1,0 +1,28 @@
+{
+    "name": "Larirroël  ",
+    "description": "The collection from onerichgroup #9366",
+    "image": "https://nft.onerichgroup.com/nft/9366.jpg",
+    "dna": "3764asmdjsadya6d7886017bec080e563017",
+    "edition": 1,
+    "date": 1689443117328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

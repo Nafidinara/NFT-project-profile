@@ -1,0 +1,28 @@
+{
+    "name": "Imasrien  ",
+    "description": "The collection from onerichgroup #18385",
+    "image": "https://nft.onerichgroup.com/nft/18385.jpg",
+    "dna": "35386asmdjsadya6d7848292bec080e51167",
+    "edition": 1,
+    "date": 1689443119443,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

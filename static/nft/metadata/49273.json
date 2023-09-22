@@ -1,0 +1,28 @@
+{
+    "name": "Miralmir  ",
+    "description": "The collection from onerichgroup #49273",
+    "image": "https://nft.onerichgroup.com/nft/49273.jpg",
+    "dna": "71034asmdjsadya6d7852000bec080e51566",
+    "edition": 1,
+    "date": 1689443122408,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

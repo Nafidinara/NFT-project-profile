@@ -1,0 +1,28 @@
+{
+    "name": "Nimenmir  ",
+    "description": "The collection from onerichgroup #7834",
+    "image": "https://nft.onerichgroup.com/nft/7834.jpg",
+    "dna": "73493asmdjsadya6d7872239bec080e543806",
+    "edition": 1,
+    "date": 1689443116736,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

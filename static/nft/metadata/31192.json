@@ -1,0 +1,28 @@
+{
+    "name": "Rinilel  ",
+    "description": "The collection from onerichgroup #31192",
+    "image": "https://nft.onerichgroup.com/nft/31192.jpg",
+    "dna": "37374asmdjsadya6d7868907bec080e56970",
+    "edition": 1,
+    "date": 1689443121232,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

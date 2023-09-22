@@ -1,0 +1,28 @@
+{
+    "name": "Giladedel  ",
+    "description": "The collection from onerichgroup #6919",
+    "image": "https://nft.onerichgroup.com/nft/6919.jpg",
+    "dna": "25064asmdjsadya6d789556bec080e563413",
+    "edition": 1,
+    "date": 1689443116497,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

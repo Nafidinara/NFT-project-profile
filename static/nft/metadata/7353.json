@@ -1,0 +1,28 @@
+{
+    "name": "Calesrien  ",
+    "description": "The collection from onerichgroup #7353",
+    "image": "https://nft.onerichgroup.com/nft/7353.jpg",
+    "dna": "27128asmdjsadya6d786526bec080e59680",
+    "edition": 1,
+    "date": 1689443116539,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clarinedel  ",
+    "description": "The collection from onerichgroup #37255",
+    "image": "https://nft.onerichgroup.com/nft/37255.jpg",
+    "dna": "64524asmdjsadya6d7824764bec080e547317",
+    "edition": 1,
+    "date": 1689443121692,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

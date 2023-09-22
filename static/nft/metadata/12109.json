@@ -1,0 +1,27 @@
+{
+  "name": "Carolril  ",
+  "description": "The collection from onerichgroup #12109",
+  "image": "https://nft.onerichgroup.com/nft/12109.jpg",
+  "dna": "37446asmdjsadya6d7866349bec080e597844",
+  "edition": 1,
+  "date": 1689443117837,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

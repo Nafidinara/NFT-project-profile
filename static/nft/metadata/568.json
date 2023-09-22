@@ -1,0 +1,28 @@
+{
+    "name": "Gilemian  ",
+    "description": "The collection from onerichgroup #568",
+    "image": "https://nft.onerichgroup.com/nft/568.jpg",
+    "dna": "21968asmdjsadya6d7883742bec080e540062",
+    "edition": 1,
+    "date": 1689443113492,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

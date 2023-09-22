@@ -1,0 +1,28 @@
+{
+    "name": "Raleswen  ",
+    "description": "The collection from onerichgroup #60971",
+    "image": "https://nft.onerichgroup.com/nft/60971.jpg",
+    "dna": "45799asmdjsadya6d7880302bec080e596765",
+    "edition": 1,
+    "date": 1689482665394,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

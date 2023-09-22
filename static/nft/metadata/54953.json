@@ -1,0 +1,28 @@
+{
+    "name": "Laredwen  ",
+    "description": "The collection from onerichgroup #54953",
+    "image": "https://nft.onerichgroup.com/nft/54953.jpg",
+    "dna": "30983asmdjsadya6d7893015bec080e538939",
+    "edition": 1,
+    "date": 1689478814335,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

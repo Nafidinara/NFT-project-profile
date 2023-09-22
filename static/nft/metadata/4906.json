@@ -1,0 +1,28 @@
+{
+    "name": "Rininwë  ",
+    "description": "The collection from onerichgroup #4906",
+    "image": "https://nft.onerichgroup.com/nft/4906.jpg",
+    "dna": "32336asmdjsadya6d7856986bec080e54974",
+    "edition": 1,
+    "date": 1689443115868,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

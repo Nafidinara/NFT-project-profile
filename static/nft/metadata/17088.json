@@ -1,0 +1,28 @@
+{
+    "name": "Carediel  ",
+    "description": "The collection from onerichgroup #17088",
+    "image": "https://nft.onerichgroup.com/nft/17088.jpg",
+    "dna": "84849asmdjsadya6d785312bec080e589946",
+    "edition": 1,
+    "date": 1689443119236,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

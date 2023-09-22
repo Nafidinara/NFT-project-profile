@@ -1,0 +1,28 @@
+{
+    "name": "Irerriel  ",
+    "description": "The collection from onerichgroup #53578",
+    "image": "https://nft.onerichgroup.com/nft/53578.jpg",
+    "dna": "40530asmdjsadya6d7829715bec080e563888",
+    "edition": 1,
+    "date": 1689478813652,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

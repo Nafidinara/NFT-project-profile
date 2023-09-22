@@ -1,0 +1,28 @@
+{
+    "name": "Calevrial  ",
+    "description": "The collection from onerichgroup #15911",
+    "image": "https://nft.onerichgroup.com/nft/15911.jpg",
+    "dna": "49762asmdjsadya6d7829202bec080e518516",
+    "edition": 1,
+    "date": 1689443118891,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Marebiel  ",
+    "description": "The collection from onerichgroup #24395",
+    "image": "https://nft.onerichgroup.com/nft/24395.jpg",
+    "dna": "47147asmdjsadya6d7820194bec080e542576",
+    "edition": 1,
+    "date": 1689443120398,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

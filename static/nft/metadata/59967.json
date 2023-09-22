@@ -1,0 +1,28 @@
+{
+    "name": "Erlthonwen  ",
+    "description": "The collection from onerichgroup #59967",
+    "image": "https://nft.onerichgroup.com/nft/59967.jpg",
+    "dna": "68250asmdjsadya6d7818508bec080e568607",
+    "edition": 1,
+    "date": 1689478816561,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

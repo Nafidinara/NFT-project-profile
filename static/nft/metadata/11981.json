@@ -1,0 +1,27 @@
+{
+  "name": "Ilmanwen  ",
+  "description": "The collection from onerichgroup #11981",
+  "image": "https://nft.onerichgroup.com/nft/11981.jpg",
+  "dna": "72731asmdjsadya6d7832213bec080e533069",
+  "edition": 1,
+  "date": 1689443117817,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

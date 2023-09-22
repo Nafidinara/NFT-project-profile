@@ -1,0 +1,28 @@
+{
+    "name": "Ralebrien  ",
+    "description": "The collection from onerichgroup #321",
+    "image": "https://nft.onerichgroup.com/nft/321.jpg",
+    "dna": "31272asmdjsadya6d7864750bec080e566430",
+    "edition": 1,
+    "date": 1689443113258,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

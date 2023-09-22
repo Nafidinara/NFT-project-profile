@@ -1,0 +1,28 @@
+{
+    "name": "Eradrian  ",
+    "description": "The collection from onerichgroup #3092",
+    "image": "https://nft.onerichgroup.com/nft/3092.jpg",
+    "dna": "65062asmdjsadya6d7828752bec080e550315",
+    "edition": 1,
+    "date": 1689443114818,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Maranrian  ",
+    "description": "The collection from onerichgroup #23729",
+    "image": "https://nft.onerichgroup.com/nft/23729.jpg",
+    "dna": "78003asmdjsadya6d7854727bec080e579497",
+    "edition": 1,
+    "date": 1689443120291,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

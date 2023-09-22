@@ -1,0 +1,28 @@
+{
+    "name": "Ireneth  ",
+    "description": "The collection from onerichgroup #50461",
+    "image": "https://nft.onerichgroup.com/nft/50461.jpg",
+    "dna": "46691asmdjsadya6d7853195bec080e544623",
+    "edition": 1,
+    "date": 1689478811240,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

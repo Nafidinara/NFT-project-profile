@@ -1,0 +1,28 @@
+{
+    "name": "Irasrian  ",
+    "description": "The collection from onerichgroup #7945",
+    "image": "https://nft.onerichgroup.com/nft/7945.jpg",
+    "dna": "61373asmdjsadya6d7851948bec080e588780",
+    "edition": 1,
+    "date": 1689443116817,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

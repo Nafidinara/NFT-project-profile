@@ -1,0 +1,28 @@
+{
+    "name": "Aninroël  ",
+    "description": "The collection from onerichgroup #57355",
+    "image": "https://nft.onerichgroup.com/nft/57355.jpg",
+    "dna": "41620asmdjsadya6d7827329bec080e564777",
+    "edition": 1,
+    "date": 1689478815521,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

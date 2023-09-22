@@ -1,0 +1,28 @@
+{
+    "name": "Nirinrial  ",
+    "description": "The collection from onerichgroup #14679",
+    "image": "https://nft.onerichgroup.com/nft/14679.jpg",
+    "dna": "17329asmdjsadya6d7857427bec080e556403",
+    "edition": 1,
+    "date": 1689443118496,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

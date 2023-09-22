@@ -1,0 +1,28 @@
+{
+    "name": "Ilmthalril  ",
+    "description": "The collection from onerichgroup #2809",
+    "image": "https://nft.onerichgroup.com/nft/2809.jpg",
+    "dna": "68554asmdjsadya6d7845236bec080e57583",
+    "edition": 1,
+    "date": 1689443114648,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

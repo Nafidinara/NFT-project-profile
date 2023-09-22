@@ -1,0 +1,28 @@
+{
+    "name": "Gelemwen  ",
+    "description": "The collection from onerichgroup #61103",
+    "image": "https://nft.onerichgroup.com/nft/61103.jpg",
+    "dna": "370547dje6rgfnbs040448bec080e540689",
+    "edition": 1,
+    "date": 1689584225664,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

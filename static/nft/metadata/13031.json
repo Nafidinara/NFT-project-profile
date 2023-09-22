@@ -1,0 +1,27 @@
+{
+  "name": "Inevsil  ",
+  "description": "The collection from onerichgroup #13031",
+  "image": "https://nft.onerichgroup.com/nft/13031.jpg",
+  "dna": "32527asmdjsadya6d7855001bec080e579936",
+  "edition": 1,
+  "date": 1689443118055,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

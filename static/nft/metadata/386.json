@@ -1,0 +1,28 @@
+{
+    "name": "Ciresiel  ",
+    "description": "The collection from onerichgroup #386",
+    "image": "https://nft.onerichgroup.com/nft/386.jpg",
+    "dna": "38979asmdjsadya6d7833906bec080e586649",
+    "edition": 1,
+    "date": 1689443113278,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

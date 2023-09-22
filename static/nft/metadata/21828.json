@@ -1,0 +1,28 @@
+{
+    "name": "Farenian  ",
+    "description": "The collection from onerichgroup #21828",
+    "image": "https://nft.onerichgroup.com/nft/21828.jpg",
+    "dna": "27604asmdjsadya6d7898201bec080e529487",
+    "edition": 1,
+    "date": 1689443120008,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

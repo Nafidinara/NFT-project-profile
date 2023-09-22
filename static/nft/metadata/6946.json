@@ -1,0 +1,28 @@
+{
+    "name": "Istaledel  ",
+    "description": "The collection from onerichgroup #6946",
+    "image": "https://nft.onerichgroup.com/nft/6946.jpg",
+    "dna": "27389asmdjsadya6d7855721bec080e527082",
+    "edition": 1,
+    "date": 1689443116501,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

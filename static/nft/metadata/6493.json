@@ -1,0 +1,28 @@
+{
+    "name": "Clarenian  ",
+    "description": "The collection from onerichgroup #6493",
+    "image": "https://nft.onerichgroup.com/nft/6493.jpg",
+    "dna": "31410asmdjsadya6d78272bec080e539172",
+    "edition": 1,
+    "date": 1689443116451,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

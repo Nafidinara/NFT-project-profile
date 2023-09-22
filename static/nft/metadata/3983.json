@@ -1,0 +1,28 @@
+{
+    "name": "Ilmesmir  ",
+    "description": "The collection from onerichgroup #3983",
+    "image": "https://nft.onerichgroup.com/nft/3983.jpg",
+    "dna": "61175asmdjsadya6d7846251bec080e581959",
+    "edition": 1,
+    "date": 1689443115380,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

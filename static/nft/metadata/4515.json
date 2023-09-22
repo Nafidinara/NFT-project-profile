@@ -1,0 +1,28 @@
+{
+    "name": "Carthaleth  ",
+    "description": "The collection from onerichgroup #4515",
+    "image": "https://nft.onerichgroup.com/nft/4515.jpg",
+    "dna": "47501asmdjsadya6d7830252bec080e527339",
+    "edition": 1,
+    "date": 1689443115676,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

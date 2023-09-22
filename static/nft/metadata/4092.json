@@ -1,0 +1,28 @@
+{
+    "name": "Ninilian  ",
+    "description": "The collection from onerichgroup #4092",
+    "image": "https://nft.onerichgroup.com/nft/4092.jpg",
+    "dna": "65166asmdjsadya6d7852317bec080e588307",
+    "edition": 1,
+    "date": 1689443115414,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

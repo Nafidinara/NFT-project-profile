@@ -1,0 +1,28 @@
+{
+    "name": "Ilmebien  ",
+    "description": "The collection from onerichgroup #57617",
+    "image": "https://nft.onerichgroup.com/nft/57617.jpg",
+    "dna": "59710asmdjsadya6d7869978bec080e513857",
+    "edition": 1,
+    "date": 1689478815628,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

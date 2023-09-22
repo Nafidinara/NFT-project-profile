@@ -1,0 +1,27 @@
+{
+  "name": "Loralroël  ",
+  "description": "The collection from onerichgroup #13347",
+  "image": "https://nft.onerichgroup.com/nft/13347.jpg",
+  "dna": "40969asmdjsadya6d785112bec080e521358",
+  "edition": 1,
+  "date": 1689443118197,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

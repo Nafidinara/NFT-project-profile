@@ -1,0 +1,27 @@
+{
+  "name": "Claririel  ",
+  "description": "The collection from onerichgroup #10573",
+  "image": "https://nft.onerichgroup.com/nft/10573.jpg",
+  "dna": "85912asmdjsadya6d7847625bec080e588021",
+  "edition": 1,
+  "date": 1689443117506,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

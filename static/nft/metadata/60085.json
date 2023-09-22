@@ -1,0 +1,28 @@
+{
+    "name": "Irevwen  ",
+    "description": "The collection from onerichgroup #60085",
+    "image": "https://nft.onerichgroup.com/nft/60085.jpg",
+    "dna": "64896asmdjsadya6d7814770bec080e578882",
+    "edition": 1,
+    "date": 1689482664849,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

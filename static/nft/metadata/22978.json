@@ -1,0 +1,28 @@
+{
+    "name": "Rilebrial  ",
+    "description": "The collection from onerichgroup #22978",
+    "image": "https://nft.onerichgroup.com/nft/22978.jpg",
+    "dna": "72541asmdjsadya6d7890310bec080e58025",
+    "edition": 1,
+    "date": 1689443120207,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

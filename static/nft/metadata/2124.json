@@ -1,0 +1,28 @@
+{
+    "name": "Lorthalril  ",
+    "description": "The collection from onerichgroup #2124",
+    "image": "https://nft.onerichgroup.com/nft/2124.jpg",
+    "dna": "46537asmdjsadya6d7823068bec080e522530",
+    "edition": 1,
+    "date": 1689443114407,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

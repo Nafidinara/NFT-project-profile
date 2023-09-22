@@ -1,0 +1,28 @@
+{
+    "name": "Larilwen  ",
+    "description": "The collection from onerichgroup #9638",
+    "image": "https://nft.onerichgroup.com/nft/9638.jpg",
+    "dna": "55812asmdjsadya6d78930bec080e554285",
+    "edition": 1,
+    "date": 1689443117433,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

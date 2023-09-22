@@ -1,0 +1,28 @@
+{
+    "name": "Irolrian  ",
+    "description": "The collection from onerichgroup #50970",
+    "image": "https://nft.onerichgroup.com/nft/50970.jpg",
+    "dna": "66114asmdjsadya6d7814797bec080e548792",
+    "edition": 1,
+    "date": 1689478811780,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

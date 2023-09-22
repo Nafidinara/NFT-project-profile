@@ -1,0 +1,28 @@
+{
+    "name": "Rilelwë  ",
+    "description": "The collection from onerichgroup #23501",
+    "image": "https://nft.onerichgroup.com/nft/23501.jpg",
+    "dna": "48691asmdjsadya6d7837960bec080e561481",
+    "edition": 1,
+    "date": 1689443120257,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

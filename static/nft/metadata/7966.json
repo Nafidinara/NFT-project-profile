@@ -1,0 +1,28 @@
+{
+    "name": "Elerrien  ",
+    "description": "The collection from onerichgroup #7966",
+    "image": "https://nft.onerichgroup.com/nft/7966.jpg",
+    "dna": "55631asmdjsadya6d7873722bec080e573843",
+    "edition": 1,
+    "date": 1689443116826,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

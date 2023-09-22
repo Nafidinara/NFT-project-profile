@@ -1,0 +1,28 @@
+{
+    "name": "Istedian  ",
+    "description": "The collection from onerichgroup #55495",
+    "image": "https://nft.onerichgroup.com/nft/55495.jpg",
+    "dna": "87547asmdjsadya6d7885808bec080e597647",
+    "edition": 1,
+    "date": 1689478814592,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

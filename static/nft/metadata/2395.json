@@ -1,0 +1,28 @@
+{
+    "name": "Elbolwë  ",
+    "description": "The collection from onerichgroup #2395",
+    "image": "https://nft.onerichgroup.com/nft/2395.jpg",
+    "dna": "71545asmdjsadya6d7848113bec080e531161",
+    "edition": 1,
+    "date": 1689443114558,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

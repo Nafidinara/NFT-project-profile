@@ -1,0 +1,28 @@
+{
+    "name": "Ganthalrien  ",
+    "description": "The collection from onerichgroup #51526",
+    "image": "https://nft.onerichgroup.com/nft/51526.jpg",
+    "dna": "52870asmdjsadya6d7824007bec080e536579",
+    "edition": 1,
+    "date": 1689478812339,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

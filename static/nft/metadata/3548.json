@@ -1,0 +1,28 @@
+{
+    "name": "Miremrial  ",
+    "description": "The collection from onerichgroup #3548",
+    "image": "https://nft.onerichgroup.com/nft/3548.jpg",
+    "dna": "6340asmdjsadya6d7826836bec080e568384",
+    "edition": 1,
+    "date": 1689443115087,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

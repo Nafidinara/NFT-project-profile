@@ -1,0 +1,28 @@
+{
+    "name": "Finanriel  ",
+    "description": "The collection from onerichgroup #3515",
+    "image": "https://nft.onerichgroup.com/nft/3515.jpg",
+    "dna": "48920asmdjsadya6d7894402bec080e561603",
+    "edition": 1,
+    "date": 1689443115079,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

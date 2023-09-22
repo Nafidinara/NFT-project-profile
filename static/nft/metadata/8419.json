@@ -1,0 +1,28 @@
+{
+    "name": "Laremriel  ",
+    "description": "The collection from onerichgroup #8419",
+    "image": "https://nft.onerichgroup.com/nft/8419.jpg",
+    "dna": "19752asmdjsadya6d7896825bec080e563841",
+    "edition": 1,
+    "date": 1689443116942,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

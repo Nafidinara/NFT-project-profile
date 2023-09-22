@@ -1,0 +1,27 @@
+{
+  "name": "Elbemrien  ",
+  "description": "The collection from onerichgroup #11712",
+  "image": "https://nft.onerichgroup.com/nft/11712.jpg",
+  "dna": "49855asmdjsadya6d7879435bec080e510502",
+  "edition": 1,
+  "date": 1689443117755,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

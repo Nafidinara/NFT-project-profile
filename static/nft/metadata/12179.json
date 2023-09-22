@@ -1,0 +1,27 @@
+{
+  "name": "Arasian  ",
+  "description": "The collection from onerichgroup #12179",
+  "image": "https://nft.onerichgroup.com/nft/12179.jpg",
+  "dna": "2697asmdjsadya6d7874241bec080e59508",
+  "edition": 1,
+  "date": 1689443117845,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

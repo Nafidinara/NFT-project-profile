@@ -1,0 +1,27 @@
+{
+  "name": "Inilroël  ",
+  "description": "The collection from onerichgroup #13041",
+  "image": "https://nft.onerichgroup.com/nft/13041.jpg",
+  "dna": "45734asmdjsadya6d7844627bec080e535139",
+  "edition": 1,
+  "date": 1689443118057,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

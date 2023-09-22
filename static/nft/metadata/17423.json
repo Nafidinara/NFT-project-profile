@@ -1,0 +1,28 @@
+{
+    "name": "Elamwen  ",
+    "description": "The collection from onerichgroup #17423",
+    "image": "https://nft.onerichgroup.com/nft/17423.jpg",
+    "dna": "35798asmdjsadya6d7892062bec080e540719",
+    "edition": 1,
+    "date": 1689443119300,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

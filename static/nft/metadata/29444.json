@@ -1,0 +1,28 @@
+{
+    "name": "Celelrian  ",
+    "description": "The collection from onerichgroup #29444",
+    "image": "https://nft.onerichgroup.com/nft/29444.jpg",
+    "dna": "22271asmdjsadya6d7852683bec080e576563",
+    "edition": 1,
+    "date": 1689443121087,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

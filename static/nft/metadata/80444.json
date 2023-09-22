@@ -1,0 +1,28 @@
+{
+    "name": "Carireth  ",
+    "description": "The vip collection from onerichgroup #80444",
+    "image": "https://nft.onerichgroup.com/nft/80444.jpg",
+    "dna": "53672iyuirf45edrtd26937vjvtyd45tuy77799",
+    "edition": 1,
+    "date": 1690898983914,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

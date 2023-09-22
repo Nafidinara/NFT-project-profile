@@ -1,0 +1,28 @@
+{
+    "name": "Anereth  ",
+    "description": "The collection from onerichgroup #43550",
+    "image": "https://nft.onerichgroup.com/nft/43550.jpg",
+    "dna": "57577asmdjsadya6d7848526bec080e589010",
+    "edition": 1,
+    "date": 1689443122171,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

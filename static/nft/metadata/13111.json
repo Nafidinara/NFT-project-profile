@@ -1,0 +1,27 @@
+{
+  "name": "Istasien  ",
+  "description": "The collection from onerichgroup #13111",
+  "image": "https://nft.onerichgroup.com/nft/13111.jpg",
+  "dna": "84946asmdjsadya6d7888495bec080e579330",
+  "edition": 1,
+  "date": 1689443118077,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

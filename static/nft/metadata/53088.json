@@ -1,0 +1,28 @@
+{
+    "name": "Claraseth  ",
+    "description": "The collection from onerichgroup #53088",
+    "image": "https://nft.onerichgroup.com/nft/53088.jpg",
+    "dna": "54192asmdjsadya6d7885412bec080e510110",
+    "edition": 1,
+    "date": 1689478813419,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

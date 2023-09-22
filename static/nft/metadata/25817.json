@@ -1,0 +1,28 @@
+{
+    "name": "Nirthonwen  ",
+    "description": "The collection from onerichgroup #25817",
+    "image": "https://nft.onerichgroup.com/nft/25817.jpg",
+    "dna": "35646asmdjsadya6d7854070bec080e518600",
+    "edition": 1,
+    "date": 1689443120617,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Finelwen  ",
+  "description": "The collection from onerichgroup #10050",
+  "image": "https://nft.onerichgroup.com/nft/10050.jpg",
+  "dna": "21740asmdjsadya6d7897941bec080e562370",
+  "edition": 1,
+  "date": 1689443117465,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

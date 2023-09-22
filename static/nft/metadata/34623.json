@@ -1,0 +1,28 @@
+{
+    "name": "Lirarwë  ",
+    "description": "The collection from onerichgroup #34623",
+    "image": "https://nft.onerichgroup.com/nft/34623.jpg",
+    "dna": "19486asmdjsadya6d7850490bec080e557895",
+    "edition": 1,
+    "date": 1689443121584,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

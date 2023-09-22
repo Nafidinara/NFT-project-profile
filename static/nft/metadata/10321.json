@@ -1,0 +1,27 @@
+{
+  "name": "Raleveth  ",
+  "description": "The collection from onerichgroup #10321",
+  "image": "https://nft.onerichgroup.com/nft/10321.jpg",
+  "dna": "23716asmdjsadya6d7850785bec080e585787",
+  "edition": 1,
+  "date": 1689443117487,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Relaneth  ",
+    "description": "The collection from onerichgroup #54886",
+    "image": "https://nft.onerichgroup.com/nft/54886.jpg",
+    "dna": "86892asmdjsadya6d7819085bec080e564271",
+    "edition": 1,
+    "date": 1689478814317,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

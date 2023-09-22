@@ -1,0 +1,28 @@
+{
+    "name": "Meramiel  ",
+    "description": "The collection from onerichgroup #5165",
+    "image": "https://nft.onerichgroup.com/nft/5165.jpg",
+    "dna": "7738asmdjsadya6d789060bec080e536380",
+    "edition": 1,
+    "date": 1689443115976,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

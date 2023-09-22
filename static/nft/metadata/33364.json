@@ -1,0 +1,28 @@
+{
+    "name": "Reloleth  ",
+    "description": "The collection from onerichgroup #33364",
+    "image": "https://nft.onerichgroup.com/nft/33364.jpg",
+    "dna": "97187asmdjsadya6d7816274bec080e567324",
+    "edition": 1,
+    "date": 1689443121483,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

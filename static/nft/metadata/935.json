@@ -1,0 +1,28 @@
+{
+    "name": "Galedien  ",
+    "description": "The collection from onerichgroup #935",
+    "image": "https://nft.onerichgroup.com/nft/935.jpg",
+    "dna": "19099asmdjsadya6d7815629bec080e550920",
+    "edition": 1,
+    "date": 1689443113613,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

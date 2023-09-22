@@ -1,0 +1,28 @@
+{
+    "name": "Laranroël  ",
+    "description": "The collection from onerichgroup #4684",
+    "image": "https://nft.onerichgroup.com/nft/4684.jpg",
+    "dna": "35038asmdjsadya6d7865837bec080e588392",
+    "edition": 1,
+    "date": 1689443115764,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

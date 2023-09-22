@@ -1,0 +1,28 @@
+{
+    "name": "Nimelriel  ",
+    "description": "The collection from onerichgroup #60230",
+    "image": "https://nft.onerichgroup.com/nft/60230.jpg",
+    "dna": "55080asmdjsadya6d7843194bec080e56067",
+    "edition": 1,
+    "date": 1689482664884,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Areredel  ",
+    "description": "The collection from onerichgroup #15562",
+    "image": "https://nft.onerichgroup.com/nft/15562.jpg",
+    "dna": "95051asmdjsadya6d7835409bec080e540501",
+    "edition": 1,
+    "date": 1689443118845,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

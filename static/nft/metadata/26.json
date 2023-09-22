@@ -1,0 +1,28 @@
+{
+    "name": "Fineswen  ",
+    "description": "The collection from onerichgroup #26",
+    "image": "https://nft.onerichgroup.com/nft/26.jpg",
+    "dna": "65910asmdjsadya6d7890499bec080e53092",
+    "edition": 1,
+    "date": 1689443113151,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

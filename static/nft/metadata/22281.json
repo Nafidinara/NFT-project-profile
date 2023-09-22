@@ -1,0 +1,28 @@
+{
+    "name": "Ganebeth  ",
+    "description": "The collection from onerichgroup #22281",
+    "image": "https://nft.onerichgroup.com/nft/22281.jpg",
+    "dna": "83849asmdjsadya6d7819503bec080e558380",
+    "edition": 1,
+    "date": 1689443120131,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Isterrian  ",
+    "description": "The collection from onerichgroup #20293",
+    "image": "https://nft.onerichgroup.com/nft/20293.jpg",
+    "dna": "92482asmdjsadya6d7883135bec080e518115",
+    "edition": 1,
+    "date": 1689443119746,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

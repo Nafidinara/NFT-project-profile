@@ -1,0 +1,28 @@
+{
+    "name": "Nimadiel  ",
+    "description": "The collection from onerichgroup #50943",
+    "image": "https://nft.onerichgroup.com/nft/50943.jpg",
+    "dna": "21376asmdjsadya6d7849638bec080e579312",
+    "edition": 1,
+    "date": 1689478811768,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

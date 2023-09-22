@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en-US"
+    class=" yes-js js_active js js csstransitions js  js no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Onerichgroup - All in one cryptoworld platform</title>
+
+    <link rel="shortcut icon" href="/assets/images/logos/favicon-enefti.jpg">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/assets/plugins/animate/css/animate.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/assets/plugins/select2/css/select2.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/assets/plugins/nice-select/nice-select.css">
+    <link rel="stylesheet" href="/assets/plugins/swiper-js/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="/assets/plugins/font-awesome/all.min.css">
+    <link rel="stylesheet" href="/assets/plugins/bootstrap4/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/plugins/magnific-popup/css/magnific-popup.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"
+        integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <!--CSS Custom-->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script type="text/javascript" src="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+    <!--Fonts-->
+    <script>
+        let mmm = {};
+    </script>
+
+    <script type="module">
+
+        import {
+            EthereumClient,
+            w3mConnectors,
+            w3mProvider,
+            WagmiCore,
+            WagmiCoreChains,
+            WagmiCoreConnectors,
+        } from "https://unpkg.com/@web3modal/ethereum@2.7.0";
+
+        import {
+            Web3Modal,
+
+        } from "https://unpkg.com/@web3modal/html@2.6.2";
+
+        // const {InjectedConnector} = WagmiCoreConnectors;
+
+        // import * as wagmi from 'https://esm.run/wagmi';
+
+        // console.log(wagmi)
+
+        // console.log(WagmiCoreConnectors);
+
+
+        const {
+            configureChains,
+            createConfig,
+            fetchBalance,
+            getAccount,
+            connect,
+            writeContract,
+            signMessage
+        } = WagmiCore
+
+
+        // 0. Import wagmi dependencies
+        const {
+            bsc
+        } = WagmiCoreChains;
+        const chains = [bsc];
+
+
+        const projectId = "2aca272d18deb10ff748260da5f78bfd";
+
+        // const {
+        //     publicClient
+        // } = configureChains(chains, [w3mProvider({
+        //     projectId,chains
+        // })])
+
+
+
+        // const wagmiConfig = createConfig({
+        //     autoConnect: true,
+        //     connectors: [...w3mConnectors({ projectId, chains })],
+        //     publicClient
+        //   })
+
+
+
+
+
+
+        // const ethereumClient = new EthereumClient(wagmiConfig, chains)
+
+        const { publicClient } = configureChains(chains, [w3mProvider({ projectId })]);
+        const wagmiConfig = createConfig({
+            autoConnect: true,
+            connectors: w3mConnectors({ projectId, chains }),
+            publicClient,
+        });
+        const ethereumClient = new EthereumClient(wagmiConfig, chains);
+        const web3modal = new Web3Modal({ projectId }, ethereumClient)
+
+
+
+
+        console.log(WagmiCore)
+        // console.log(wagmiConfig);
+        // console.log(ethereumClient);
+        // console.log(getAccount())
+
+        async function ac() {
+            // const result = await connect({
+            //     chainId: bsc.id,
+            //     connector: w3mConnectors({ projectId, chains })
+            //   })
+
+            // console.log(result);
+            const balance = await fetchBalance({
+                address: '0xA0Cf798816D4b9b9866b5330EEa46a18382f251e',
+            })
+            console.log(balance)
+
+
+            //   const signature = await signMessage({
+            //     message: 'gm wagmi frens',
+            //   })
+
+            //   console.log(signature);
+
+
+            //   const { hash } = await writeContract({
+            //     address: '0x55d398326f99059fF775485246999027B3197955',
+            //     abi: abi,
+            //     functionName: 'transfer',
+            //     args: ["0x027fD3Ecf17B31A3B045F0fa137c2174148255d5",1],
+            //   })
+
+
+        }
+        ac()
+
+
+        async function mintnft(a) {
+            let abi = [{ "inputs": [], "stateMutability": "nonpayable", "type": "constructor" }, { "anonymous": false, "inputs": [{ "indexed": true, "internalType": "address", "name": "owner", "type": "address" }, { "indexed": true, "internalType": "address", "name": "approved", "type": "address" }, { "indexed": true, "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "Approval", "type": "event" }, { "anonymous": false, "inputs": [{ "indexed": true, "internalType": "address", "name": "owner", "type": "address" }, { "indexed": true, "internalType": "address", "name": "operator", "type": "address" }, { "indexed": false, "internalType": "bool", "name": "approved", "type": "bool" }], "name": "ApprovalForAll", "type": "event" }, { "anonymous": false, "inputs": [{ "indexed": true, "internalType": "address", "name": "previousOwner", "type": "address" }, { "indexed": true, "internalType": "address", "name": "newOwner", "type": "address" }], "name": "OwnershipTransferred", "type": "event" }, { "anonymous": false, "inputs": [{ "indexed": true, "internalType": "address", "name": "from", "type": "address" }, { "indexed": true, "internalType": "address", "name": "to", "type": "address" }, { "indexed": true, "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "Transfer", "type": "event" }, { "inputs": [{ "internalType": "address", "name": "to", "type": "address" }, { "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "approve", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "owner", "type": "address" }], "name": "balanceOf", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "baseExtension", "outputs": [{ "internalType": "string", "name": "", "type": "string" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "getApproved", "outputs": [{ "internalType": "address", "name": "", "type": "address" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "owner", "type": "address" }, { "internalType": "address", "name": "operator", "type": "address" }], "name": "isApprovedForAll", "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "maxSupply", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "_id", "type": "uint256" }], "name": "mint", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [], "name": "mintPrice", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "name": "minted", "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "name", "outputs": [{ "internalType": "string", "name": "", "type": "string" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "owner", "outputs": [{ "internalType": "address", "name": "", "type": "address" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "ownerOf", "outputs": [{ "internalType": "address", "name": "", "type": "address" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "pool", "outputs": [{ "internalType": "address", "name": "", "type": "address" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "renounceOwnership", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "from", "type": "address" }, { "internalType": "address", "name": "to", "type": "address" }, { "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "safeTransferFrom", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "from", "type": "address" }, { "internalType": "address", "name": "to", "type": "address" }, { "internalType": "uint256", "name": "tokenId", "type": "uint256" }, { "internalType": "bytes", "name": "_data", "type": "bytes" }], "name": "safeTransferFrom", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "operator", "type": "address" }, { "internalType": "bool", "name": "approved", "type": "bool" }], "name": "setApprovalForAll", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "string", "name": "_newBaseExtension", "type": "string" }], "name": "setBaseExtension", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "string", "name": "_newBaseURI", "type": "string" }], "name": "setBaseURI", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [], "name": "startId", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "bytes4", "name": "interfaceId", "type": "bytes4" }], "name": "supportsInterface", "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "symbol", "outputs": [{ "internalType": "string", "name": "", "type": "string" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "index", "type": "uint256" }], "name": "tokenByIndex", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "owner", "type": "address" }, { "internalType": "uint256", "name": "index", "type": "uint256" }], "name": "tokenOfOwnerByIndex", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "tokenURI", "outputs": [{ "internalType": "string", "name": "", "type": "string" }], "stateMutability": "view", "type": "function" }, { "inputs": [], "name": "totalSupply", "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }], "stateMutability": "view", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "from", "type": "address" }, { "internalType": "address", "name": "to", "type": "address" }, { "internalType": "uint256", "name": "tokenId", "type": "uint256" }], "name": "transferFrom", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "newOwner", "type": "address" }], "name": "transferOwnership", "outputs": [], "stateMutability": "nonpayable", "type": "function" }, { "inputs": [{ "internalType": "address", "name": "_pool", "type": "address" }], "name": "update_pool", "outputs": [], "stateMutability": "nonpayable", "type": "function" }]
+            const { hash } = await writeContract({
+                address: '0xdB92bE5d6ef6136c3e8d54e161A10E83E4F4A113',
+                abi: abi,
+                functionName: 'mint',
+                args: [a],
+            })
+        }
+
+
+        mmm = mintnft;
+
+    </script>
+
+    <script>
+        function mint(a) {
+
+            mmm(a);
+        }
+    </script>
+
+    <link rel='stylesheet' type='text/css' media='all'
+        href='https://fonts.googleapis.com/css?family=Raleway:ital,100;0,200;0,300;0,500;0,600;0,700;1,100;1,200;1,300;1,500;1,600%7CPoppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700' />
+</head>
+
+<style>
+    .dark-discover-body {
+        width: 60%;
+    }
+</style>
+
+<%- include(page) %>
+
+
+
+
+    <!--Footer-->
+    <footer>
+        <div class="enefti-footer-additional-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-12">
+                        <div class="enefti-footer-address">
+                            <h3>Our Adress</h3>
+                            <p>Cooming soon <br>
+                                <br>support@onerichgroup.com
+                            </p>
+                            <ul class="enefti-social-icons p-0 d-flex justify-content-start">
+                                <li class="enefti-social-item dark-social">
+                                    <a href="https://facebook.com">
+                                        <i class="fab fa-facebook-square"></i>
+                                    </a>
+                                </li>
+                                <li class="enefti-social-item dark-social">
+                                    <a href="https://twitter.com">
+                                        <i class="fab fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li class="enefti-social-item dark-social">
+                                    <a href="https://linkedin.com">
+                                        <i class="fab fa-linkedin"></i>
+                                    </a>
+                                </li>
+                                <li class="enefti-social-item dark-social">
+                                    <a href="https://instagram.com">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="enefti-footer-useful-links">
+                            <h3>Useful Links</h3>
+                            <ul class="p-0">
+                                <li class="enefti-useful-item">
+                                    <a href="single-post.html"><i
+                                            class="enefti-useful-icon fas fa-angle-double-right"></i>Collectibles</a>
+                                </li>
+
+
+                                <li class="enefti-useful-item">
+                                    <a href="single-post.html"><i
+                                            class="enefti-useful-icon fas fa-angle-double-right"></i>Virtual Worlds</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="enefti-footer-our-policy">
+                            <h3>Our Policy</h3>
+                            <ul class="p-0">
+                                <li class="enefti-policy-item">
+                                    <a href="single-post.html"><i
+                                            class="enefti-policy-icon fas fa-angle-double-right"></i>Help Center</a>
+                                </li>
+
+                                <li class="enefti-policy-item">
+                                    <a href="single-post.html"><i
+                                            class="enefti-policy-icon fas fa-angle-double-right"></i>Newsletter</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="enefti-footer-address">
+                            <h3>Stay Informed By Newsletter</h3>
+                            <p>*Subscribe to our newsletter.</p>
+                            <form method="post"
+                                class="newsletter-footer d-flex justify-content-between enefti-search-v2 enefti-search-btn-v3">
+                                <input class="email" type="email" name="EMAIL" placeholder="Enter your email"
+                                    required=""><br>
+                                <button type="submit" class="rippler rippler-default">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="enefti-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="enefti-copyright-text col d-flex justify-content-between flex-wrap">
+                        <p>Copyright by Onerichgroup. All Rights Reserved.</p>
+                        <p class="d-none d-md-block d-lg-block">Onerichgroup.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/assets/plugins/jquery/jquery.min.js"></script>
+    <script src="/assets/plugins/magnific-popup/js/jquery.magnific-popup.min.js"></script>
+    <script src="/assets/plugins/select2/js/select2.js"></script>
+    <script src="/assets/plugins/animate/js/animate.js"></script>
+    <script src="/assets/plugins/bootstrap4/js/bootstrap.js"></script>
+    <script src="/assets/js/enefti-custom.js"></script>
+    <script src="/assets/plugins/nice-select/jquery.nice-select.min.js"></script>
+    <script src="/assets/plugins/swiper-js/js/swiper-bundle.min.js"></script>
+
+
+    </body>
+
+</html>
+
+
+
+
+<script>
+
+
+
+
+    for (let l = 1; l < 10; l++) {
+        let nft = Math.floor(Math.random() * 100) + 1;
+        let a = ` <div class="swiper-slide" id="enefti-slide-${l}" data-swiper-slide-index="1">
+                                        <div class="enefti-swiper-img">
+                                            <a class="modeltheme_media_image" title="AvidLines #9998"
+                                                href="single-nft.html">
+                                                <img src="/nft/${nft}.jpg" alt="nft #${nft}" />
+                                            </a>
+                                        </div>
+                                        <div class="mt-addons-collector-wrapper">
+                                            <img class="cat-image entered lazyloaded" alt="avid-logo"
+                                                src="/nft/1.jpg" />
+                                        </div>
+                                        <div class="mt-addons-info-wrapper info-wrapper-v2">
+                                            <a class="#categoryid_306 addon-dark" href="https://opensea.io/assets/bsc/0xdb92be5d6ef6136c3e8d54e161a10e83e4f4a113/${nft}">
+                                                <span class="mt-addons-title n-nft-${nft}"  > --- </span>
+                                            </a>
+                                            <span class="mt-addons-subtitle">
+                                                <strong>100 USDT</strong>
+                                            </span>
+                                            <br>
+                                        </div>
+                                    </div>`;
+        $("#slid").append(a);
+
+        $.get(`/nft/metadata/${nft}.json`, function (data, status) {
+
+            $(".n-nft-" + nft).html(data.name);
+
+        });
+
+
+    }
+</script>

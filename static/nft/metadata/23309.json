@@ -1,0 +1,28 @@
+{
+    "name": "Niminrien  ",
+    "description": "The collection from onerichgroup #23309",
+    "image": "https://nft.onerichgroup.com/nft/23309.jpg",
+    "dna": "84318asmdjsadya6d7893934bec080e513338",
+    "edition": 1,
+    "date": 1689443120234,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

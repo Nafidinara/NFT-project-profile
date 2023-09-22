@@ -1,0 +1,28 @@
+{
+    "name": "Ninelmir  ",
+    "description": "The collection from onerichgroup #60707",
+    "image": "https://nft.onerichgroup.com/nft/60707.jpg",
+    "dna": "82832asmdjsadya6d7880802bec080e575802",
+    "edition": 1,
+    "date": 1689482665224,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

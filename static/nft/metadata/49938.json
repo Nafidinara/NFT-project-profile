@@ -1,0 +1,28 @@
+{
+    "name": "Galenian  ",
+    "description": "The collection from onerichgroup #49938",
+    "image": "https://nft.onerichgroup.com/nft/49938.jpg",
+    "dna": "77910asmdjsadya6d7881068bec080e578258",
+    "edition": 1,
+    "date": 1689443122443,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

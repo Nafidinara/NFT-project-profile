@@ -1,0 +1,28 @@
+{
+    "name": "Imthalmir  ",
+    "description": "The collection from onerichgroup #5458",
+    "image": "https://nft.onerichgroup.com/nft/5458.jpg",
+    "dna": "14165asmdjsadya6d7836412bec080e510949",
+    "edition": 1,
+    "date": 1689443116067,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

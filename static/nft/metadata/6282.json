@@ -1,0 +1,28 @@
+{
+    "name": "Nimiledel  ",
+    "description": "The collection from onerichgroup #6282",
+    "image": "https://nft.onerichgroup.com/nft/6282.jpg",
+    "dna": "78253asmdjsadya6d7857657bec080e542010",
+    "edition": 1,
+    "date": 1689443116429,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

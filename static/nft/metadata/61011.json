@@ -1,0 +1,28 @@
+{
+    "name": "Rilenwen  ",
+    "description": "The collection from onerichgroup #61011",
+    "image": "https://nft.onerichgroup.com/nft/61011.jpg",
+    "dna": "978547dje6rgfnbs03445bec080e580394",
+    "edition": 1,
+    "date": 1689584225415,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

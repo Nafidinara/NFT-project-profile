@@ -1,0 +1,28 @@
+{
+    "name": "Lorirrien  ",
+    "description": "The collection from onerichgroup #54539",
+    "image": "https://nft.onerichgroup.com/nft/54539.jpg",
+    "dna": "39118asmdjsadya6d7885574bec080e533546",
+    "edition": 1,
+    "date": 1689478814082,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

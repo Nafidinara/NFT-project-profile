@@ -1,0 +1,28 @@
+{
+    "name": "Galalwen  ",
+    "description": "The collection from onerichgroup #17862",
+    "image": "https://nft.onerichgroup.com/nft/17862.jpg",
+    "dna": "268asmdjsadya6d7895021bec080e551350",
+    "edition": 1,
+    "date": 1689443119370,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

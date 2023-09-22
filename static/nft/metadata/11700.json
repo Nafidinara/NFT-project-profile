@@ -1,0 +1,27 @@
+{
+  "name": "Elebroël  ",
+  "description": "The collection from onerichgroup #11700",
+  "image": "https://nft.onerichgroup.com/nft/11700.jpg",
+  "dna": "47247asmdjsadya6d7883195bec080e5832",
+  "edition": 1,
+  "date": 1689443117716,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

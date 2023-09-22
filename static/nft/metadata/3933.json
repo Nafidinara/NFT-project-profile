@@ -1,0 +1,28 @@
+{
+    "name": "Farthalian  ",
+    "description": "The collection from onerichgroup #3933",
+    "image": "https://nft.onerichgroup.com/nft/3933.jpg",
+    "dna": "31775asmdjsadya6d7832405bec080e51895",
+    "edition": 1,
+    "date": 1689443115362,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

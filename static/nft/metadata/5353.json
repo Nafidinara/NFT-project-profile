@@ -1,0 +1,28 @@
+{
+    "name": "Ilmalien  ",
+    "description": "The collection from onerichgroup #5353",
+    "image": "https://nft.onerichgroup.com/nft/5353.jpg",
+    "dna": "52144asmdjsadya6d7892664bec080e539378",
+    "edition": 1,
+    "date": 1689443116038,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

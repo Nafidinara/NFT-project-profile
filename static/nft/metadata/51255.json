@@ -1,0 +1,28 @@
+{
+    "name": "Erereth  ",
+    "description": "The collection from onerichgroup #51255",
+    "image": "https://nft.onerichgroup.com/nft/51255.jpg",
+    "dna": "95177asmdjsadya6d7825259bec080e556267",
+    "edition": 1,
+    "date": 1689478812069,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

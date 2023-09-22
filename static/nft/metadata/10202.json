@@ -1,0 +1,27 @@
+{
+  "name": "Imerriel  ",
+  "description": "The collection from onerichgroup #10202",
+  "image": "https://nft.onerichgroup.com/nft/10202.jpg",
+  "dna": "8157asmdjsadya6d7882344bec080e536647",
+  "edition": 1,
+  "date": 1689443117478,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cirthalel  ",
+  "description": "The collection from onerichgroup #12619",
+  "image": "https://nft.onerichgroup.com/nft/12619.jpg",
+  "dna": "43217asmdjsadya6d7812449bec080e530717",
+  "edition": 1,
+  "date": 1689443117966,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

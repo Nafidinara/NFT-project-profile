@@ -1,0 +1,28 @@
+{
+    "name": "Rimanien  ",
+    "description": "The collection from onerichgroup #59642",
+    "image": "https://nft.onerichgroup.com/nft/59642.jpg",
+    "dna": "50780asmdjsadya6d782104bec080e527397",
+    "edition": 1,
+    "date": 1689478816460,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

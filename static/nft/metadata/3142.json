@@ -1,0 +1,28 @@
+{
+    "name": "Imirroël  ",
+    "description": "The collection from onerichgroup #3142",
+    "image": "https://nft.onerichgroup.com/nft/3142.jpg",
+    "dna": "29050asmdjsadya6d7879106bec080e55841",
+    "edition": 1,
+    "date": 1689443114835,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

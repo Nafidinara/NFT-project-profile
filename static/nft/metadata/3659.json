@@ -1,0 +1,28 @@
+{
+    "name": "Anilwë  ",
+    "description": "The collection from onerichgroup #3659",
+    "image": "https://nft.onerichgroup.com/nft/3659.jpg",
+    "dna": "49734asmdjsadya6d7810223bec080e597579",
+    "edition": 1,
+    "date": 1689443115151,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

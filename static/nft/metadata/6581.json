@@ -1,0 +1,28 @@
+{
+    "name": "Galessil  ",
+    "description": "The collection from onerichgroup #6581",
+    "image": "https://nft.onerichgroup.com/nft/6581.jpg",
+    "dna": "25501asmdjsadya6d781117bec080e586163",
+    "edition": 1,
+    "date": 1689443116461,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

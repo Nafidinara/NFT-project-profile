@@ -1,0 +1,28 @@
+{
+    "name": "Caradroël  ",
+    "description": "The collection from onerichgroup #9849",
+    "image": "https://nft.onerichgroup.com/nft/9849.jpg",
+    "dna": "11550asmdjsadya6d7834221bec080e56177",
+    "edition": 1,
+    "date": 1689443117450,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

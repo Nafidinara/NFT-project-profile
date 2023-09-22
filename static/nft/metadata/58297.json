@@ -1,0 +1,28 @@
+{
+    "name": "Loredeth  ",
+    "description": "The collection from onerichgroup #58297",
+    "image": "https://nft.onerichgroup.com/nft/58297.jpg",
+    "dna": "97146asmdjsadya6d7865558bec080e563995",
+    "edition": 1,
+    "date": 1689478815935,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

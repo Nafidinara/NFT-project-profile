@@ -1,0 +1,28 @@
+{
+    "name": "Geladwë  ",
+    "description": "The collection from onerichgroup #7440",
+    "image": "https://nft.onerichgroup.com/nft/7440.jpg",
+    "dna": "27908asmdjsadya6d7841223bec080e534916",
+    "edition": 1,
+    "date": 1689443116591,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

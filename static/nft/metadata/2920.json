@@ -1,0 +1,28 @@
+{
+    "name": "Erinmir  ",
+    "description": "The collection from onerichgroup #2920",
+    "image": "https://nft.onerichgroup.com/nft/2920.jpg",
+    "dna": "33174asmdjsadya6d784165bec080e537635",
+    "edition": 1,
+    "date": 1689443114663,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

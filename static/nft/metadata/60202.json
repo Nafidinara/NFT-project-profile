@@ -1,0 +1,28 @@
+{
+    "name": "Ninevriel  ",
+    "description": "The collection from onerichgroup #60202",
+    "image": "https://nft.onerichgroup.com/nft/60202.jpg",
+    "dna": "79090asmdjsadya6d7847087bec080e557030",
+    "edition": 1,
+    "date": 1689482664877,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

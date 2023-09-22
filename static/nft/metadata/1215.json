@@ -1,0 +1,27 @@
+{
+  "name": "Lorenrial  ",
+  "description": "The collection from onerichgroup #1215",
+  "image": "https://nft.onerichgroup.com/nft/1215.jpg",
+  "dna": "63642asmdjsadya6d7851976bec080e580545",
+  "edition": 1,
+  "date": 1689443113799,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

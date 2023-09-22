@@ -1,0 +1,28 @@
+{
+    "name": "Marevrian  ",
+    "description": "The collection from onerichgroup #59758",
+    "image": "https://nft.onerichgroup.com/nft/59758.jpg",
+    "dna": "22920asmdjsadya6d7861878bec080e593885",
+    "edition": 1,
+    "date": 1689478816490,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

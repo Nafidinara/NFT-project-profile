@@ -1,0 +1,28 @@
+{
+    "name": "Anerrial  ",
+    "description": "The collection from onerichgroup #50415",
+    "image": "https://nft.onerichgroup.com/nft/50415.jpg",
+    "dna": "17647asmdjsadya6d7864719bec080e56477",
+    "edition": 1,
+    "date": 1689478811228,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

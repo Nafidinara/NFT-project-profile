@@ -1,0 +1,28 @@
+{
+    "name": "Ninebedel  ",
+    "description": "The collection from onerichgroup #60399",
+    "image": "https://nft.onerichgroup.com/nft/60399.jpg",
+    "dna": "78876asmdjsadya6d7818878bec080e519167",
+    "edition": 1,
+    "date": 1689482664952,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

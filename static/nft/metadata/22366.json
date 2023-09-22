@@ -1,0 +1,28 @@
+{
+    "name": "Ranthalriel  ",
+    "description": "The collection from onerichgroup #22366",
+    "image": "https://nft.onerichgroup.com/nft/22366.jpg",
+    "dna": "32509asmdjsadya6d7855632bec080e559366",
+    "edition": 1,
+    "date": 1689443120144,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

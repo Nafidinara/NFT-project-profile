@@ -1,0 +1,27 @@
+{
+  "name": "Raledrien  ",
+  "description": "The collection from onerichgroup #11885",
+  "image": "https://nft.onerichgroup.com/nft/11885.jpg",
+  "dna": "96716asmdjsadya6d7876601bec080e586925",
+  "edition": 1,
+  "date": 1689443117802,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

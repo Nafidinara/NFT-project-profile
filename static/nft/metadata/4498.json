@@ -1,0 +1,28 @@
+{
+    "name": "Clarilian  ",
+    "description": "The collection from onerichgroup #4498",
+    "image": "https://nft.onerichgroup.com/nft/4498.jpg",
+    "dna": "52026asmdjsadya6d7894490bec080e557868",
+    "edition": 1,
+    "date": 1689443115670,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimeniel  ",
+    "description": "The collection from onerichgroup #60090",
+    "image": "https://nft.onerichgroup.com/nft/60090.jpg",
+    "dna": "98183asmdjsadya6d7861222bec080e58827",
+    "edition": 1,
+    "date": 1689482664850,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

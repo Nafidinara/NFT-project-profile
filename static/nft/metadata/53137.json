@@ -1,0 +1,28 @@
+{
+    "name": "Elbarel  ",
+    "description": "The collection from onerichgroup #53137",
+    "image": "https://nft.onerichgroup.com/nft/53137.jpg",
+    "dna": "88923asmdjsadya6d7858035bec080e547232",
+    "edition": 1,
+    "date": 1689478813439,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clarenedel  ",
+    "description": "The collection from onerichgroup #60632",
+    "image": "https://nft.onerichgroup.com/nft/60632.jpg",
+    "dna": "41276asmdjsadya6d7841118bec080e557785",
+    "edition": 1,
+    "date": 1689482665155,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

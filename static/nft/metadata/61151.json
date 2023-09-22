@@ -1,0 +1,28 @@
+{
+    "name": "Istemian  ",
+    "description": "The collection from onerichgroup #61151",
+    "image": "https://nft.onerichgroup.com/nft/61151.jpg",
+    "dna": "448637dje6rgfnbs082415bec080e598211",
+    "edition": 1,
+    "date": 1689584225849,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Larolel  ",
+    "description": "The collection from onerichgroup #2585",
+    "image": "https://nft.onerichgroup.com/nft/2585.jpg",
+    "dna": "53031asmdjsadya6d7880979bec080e590296",
+    "edition": 1,
+    "date": 1689443114619,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

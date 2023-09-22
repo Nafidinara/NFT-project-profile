@@ -1,0 +1,28 @@
+{
+    "name": "Elerriel  ",
+    "description": "The collection from onerichgroup #4219",
+    "image": "https://nft.onerichgroup.com/nft/4219.jpg",
+    "dna": "42824asmdjsadya6d7821700bec080e536014",
+    "edition": 1,
+    "date": 1689443115499,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

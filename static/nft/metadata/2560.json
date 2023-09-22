@@ -1,0 +1,28 @@
+{
+    "name": "Elarien  ",
+    "description": "The collection from onerichgroup #2560",
+    "image": "https://nft.onerichgroup.com/nft/2560.jpg",
+    "dna": "81670asmdjsadya6d7847378bec080e563932",
+    "edition": 1,
+    "date": 1689443114583,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

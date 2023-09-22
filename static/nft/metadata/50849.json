@@ -1,0 +1,28 @@
+{
+    "name": "Raliriel  ",
+    "description": "The collection from onerichgroup #50849",
+    "image": "https://nft.onerichgroup.com/nft/50849.jpg",
+    "dna": "49492asmdjsadya6d7814101bec080e531532",
+    "edition": 1,
+    "date": 1689478811714,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

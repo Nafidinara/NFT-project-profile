@@ -1,0 +1,28 @@
+{
+    "name": "Lirerrien  ",
+    "description": "The collection from onerichgroup #55206",
+    "image": "https://nft.onerichgroup.com/nft/55206.jpg",
+    "dna": "13095asmdjsadya6d7870206bec080e529568",
+    "edition": 1,
+    "date": 1689478814452,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

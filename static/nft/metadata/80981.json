@@ -1,0 +1,28 @@
+{
+    "name": "Clarirrien  ",
+    "description": "The vip collection from onerichgroup #80981",
+    "image": "https://nft.onerichgroup.com/nft/80981.jpg",
+    "dna": "8793iyuirf45edrtd14200vjvtyd45tuy25707",
+    "edition": 1,
+    "date": 1690898985888,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

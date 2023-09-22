@@ -1,0 +1,28 @@
+{
+    "name": "Carthalmir  ",
+    "description": "The vip collection from onerichgroup #80735",
+    "image": "https://nft.onerichgroup.com/nft/80735.jpg",
+    "dna": "63866iyuirf45edrtd31501vjvtyd45tuy5130",
+    "edition": 1,
+    "date": 1690898984819,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erlerel  ",
+    "description": "The vip collection from onerichgroup #80929",
+    "image": "https://nft.onerichgroup.com/nft/80929.jpg",
+    "dna": "77428iyuirf45edrtd75411vjvtyd45tuy20621",
+    "edition": 1,
+    "date": 1690898985732,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

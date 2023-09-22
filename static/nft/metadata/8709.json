@@ -1,0 +1,28 @@
+{
+    "name": "Marilrien  ",
+    "description": "The collection from onerichgroup #8709",
+    "image": "https://nft.onerichgroup.com/nft/8709.jpg",
+    "dna": "96603asmdjsadya6d7832612bec080e58861",
+    "edition": 1,
+    "date": 1689443117033,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

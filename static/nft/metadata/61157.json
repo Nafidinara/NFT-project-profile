@@ -1,0 +1,28 @@
+{
+    "name": "Marelian  ",
+    "description": "The collection from onerichgroup #61157",
+    "image": "https://nft.onerichgroup.com/nft/61157.jpg",
+    "dna": "299077dje6rgfnbs092128bec080e576753",
+    "edition": 1,
+    "date": 1689584225860,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

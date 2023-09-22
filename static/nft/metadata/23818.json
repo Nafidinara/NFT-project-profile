@@ -1,0 +1,28 @@
+{
+    "name": "Erlarril  ",
+    "description": "The collection from onerichgroup #23818",
+    "image": "https://nft.onerichgroup.com/nft/23818.jpg",
+    "dna": "47728asmdjsadya6d7811433bec080e539667",
+    "edition": 1,
+    "date": 1689443120299,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

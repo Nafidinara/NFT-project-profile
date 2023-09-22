@@ -1,0 +1,28 @@
+{
+    "name": "Garolwë  ",
+    "description": "The collection from onerichgroup #31923",
+    "image": "https://nft.onerichgroup.com/nft/31923.jpg",
+    "dna": "22704asmdjsadya6d7880559bec080e519550",
+    "edition": 1,
+    "date": 1689443121326,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

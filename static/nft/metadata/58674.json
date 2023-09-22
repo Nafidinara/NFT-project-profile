@@ -1,0 +1,28 @@
+{
+    "name": "Lirebwen  ",
+    "description": "The collection from onerichgroup #58674",
+    "image": "https://nft.onerichgroup.com/nft/58674.jpg",
+    "dna": "16361asmdjsadya6d784270bec080e547279",
+    "edition": 1,
+    "date": 1689478816110,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

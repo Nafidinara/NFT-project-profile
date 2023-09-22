@@ -1,0 +1,28 @@
+{
+    "name": "Farariel  ",
+    "description": "The collection from onerichgroup #7871",
+    "image": "https://nft.onerichgroup.com/nft/7871.jpg",
+    "dna": "44922asmdjsadya6d783414bec080e562425",
+    "edition": 1,
+    "date": 1689443116758,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

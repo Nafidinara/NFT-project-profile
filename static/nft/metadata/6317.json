@@ -1,0 +1,28 @@
+{
+    "name": "Nimolrian  ",
+    "description": "The collection from onerichgroup #6317",
+    "image": "https://nft.onerichgroup.com/nft/6317.jpg",
+    "dna": "63075asmdjsadya6d7852365bec080e57672",
+    "edition": 1,
+    "date": 1689443116435,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

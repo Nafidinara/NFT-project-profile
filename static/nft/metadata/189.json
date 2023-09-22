@@ -1,0 +1,28 @@
+{
+    "name": "Lirilrien  ",
+    "description": "The collection from onerichgroup #189",
+    "image": "https://nft.onerichgroup.com/nft/189.jpg",
+    "dna": "60227asmdjsadya6d7810202bec080e557889",
+    "edition": 1,
+    "date": 1689443113216,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

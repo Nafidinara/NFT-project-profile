@@ -1,0 +1,28 @@
+{
+    "name": "Ninanwen  ",
+    "description": "The collection from onerichgroup #53002",
+    "image": "https://nft.onerichgroup.com/nft/53002.jpg",
+    "dna": "49035asmdjsadya6d783355bec080e510543",
+    "edition": 1,
+    "date": 1689478813376,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

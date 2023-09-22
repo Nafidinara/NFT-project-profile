@@ -1,0 +1,28 @@
+{
+    "name": "Niralrial  ",
+    "description": "The collection from onerichgroup #18504",
+    "image": "https://nft.onerichgroup.com/nft/18504.jpg",
+    "dna": "51017asmdjsadya6d787000bec080e512521",
+    "edition": 1,
+    "date": 1689443119452,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

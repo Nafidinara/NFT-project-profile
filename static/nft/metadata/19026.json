@@ -1,0 +1,28 @@
+{
+    "name": "Calessil  ",
+    "description": "The collection from onerichgroup #19026",
+    "image": "https://nft.onerichgroup.com/nft/19026.jpg",
+    "dna": "11239asmdjsadya6d7890264bec080e592516",
+    "edition": 1,
+    "date": 1689443119497,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

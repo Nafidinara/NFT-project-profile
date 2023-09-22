@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en-US"
+    class=" yes-js js_active js js csstransitions js  js no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Staking NFT - Onerichgroup</title>
+    <link rel="shortcut icon" href="./assets/images/logos/favicon-enefti.jpg">
+
+    <%- include('../../includes/styles.ejs') %>
+        <link rel="stylesheet" href="./assets/css/staking.css">
+        <link rel="stylesheet" href="./assets/css/styles.css">
+
+        <style>
+            .swiper-container {
+                margin-left: auto;
+                margin-right: auto;
+                position: relative;
+                overflow: hidden;
+                list-style: none;
+                padding: 0;
+                z-index: 1;
+            }
+
+            .item img {
+                width: 40%;
+                height: auto;
+
+            }
+
+            body {
+                background-color: rgb(14, 14, 14) !important;
+            }
+            .form-control {
+                font-size: 11px !important;
+                font-family: Kanit;
+
+            }
+        </style>
+        
+
+</head>
+
+<body>
+    <!--place the navbar here-->
+    <%- include('../../includes/navbar.ejs') %>
+        <!--place the navbar here-->
+
+        <!--place the page section here-->
+        <div>
+
+            <section class="enefti-breadcrumbs-section mb-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <!-- Intro -->
+                            <div class="intro d-flex justify-content-between align-items-end m-0">
+                                <div class="intro-content">
+                                    <span class="intro-text">Staking</span>
+                                    <h4 class="mt-3 mb-0 text-white">My staking List</h4>
+                                </div>
+                                <div class="intro-btn">
+                                    <button type="submit" onclick="location.href='/collections'"
+                                        class="enefti-gradient-v1 enefti-btn-medium single_add_to_cart_button button alt  ">
+                                        Get More NFT
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                            <div class="row"
+                                
+                                id="stakinglist" style="min-height: 300px;">
+                                <!-- <div class="col-sm-6 col-md-4 col-lg-3 col-12 mt-5">
+                                    <div class="card project-card">
+                                        <div class="row p-1">
+                                            <div class="col-6 p-0 text-center">
+                                                <div class="col-12 text-center p-1">
+                                                <div class="col-12 text-center p-1 text-secondary"> Stake </div>
+                                                <div class="col-12 text-center p-1"> <img class="card-img-top avatar-max-lg" src="/nft/2.jpg" alt=""></div>
+                                                <div class="col-12 text-center p-1 text-secondary"> NFT#2 </div>
+                                                </div>
+                                            </div>
+                        
+                                            <div class="col-6 p-0 text-center">
+                                                <div class="col-12 text-center p-1">
+                                                <div class="col-12 text-center  p-1 text-secondary"> Reward </div>
+                                                <div class="col-12 text-center p-1"> <img class="card-img-top avatar-max-lg " src="/assets/images/logos/org300.png" alt=""></div>
+                                                <div class="col-12 text-center p-1 text-secondary"> ORG </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                           
+                                          
+                                        <div class="row p-1">
+                                            <div class="col-12  h4 text-center text-info"> Name  Name </div>
+                                           <div class="single-item col-12">
+                                                <span>Lock time</span> : 
+                                                <span class="float-right">01-01-20001</span>
+                                            </div>
+                                            <div class="single-item col-12">
+                                                <span>Unlock time</span> : 
+                                                <span class="float-right">01-01-20001</span>
+                                            </div>
+                                            <div class="single-item col-12">
+                                                <span>Curent APR</span> : 
+                                                <span class="float-right">15%</span>
+                                            </div>
+                                            <div class="single-item col-12">
+                                                <span>Lock value</span> : 
+                                                <span class="float-right">1,000 USDT</span>
+                                            </div>
+                                        </div>
+                                            
+                                        
+                                       
+                                            <div class="item-progress">
+                                               <div class="progress mt-2">
+                                                    <div class="progress-bar" role="progressbar" style="width: 58%;" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">58%</div>
+                                                </div>  
+                                                <div class="progress-sale d-flex justify-content-between ">
+                                                    <span>Reward</span>
+                                                    <span>0.12345678 ORG</span>
+                                                </div>
+                                            </div>
+                                       
+                                        Project Footer 
+                                        <div class="project-footer d-flex align-items-center mt-4  ">
+                                            <a class="btn btn-bordered-white btn-sm">Sample Staking</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-md-4 col-lg-3 col-12 mt-5 mynft-x">
+                                    <div class="card project-card">
+                                        <div class="row p-1">
+                                            <div class="col-12 p-0 text-center">
+                                                <div class="col-12 text-center p-1">
+                                                <div class="col-12 text-center p-1 text-secondary"> Your nft </div>
+                                                <div class="col-12 text-center p-1"> <img style="max-width:40%" class="card-img-top" src="/nft/1.jpg" alt=""></div>
+                                                <div class="col-12 text-center p-1 text-secondary"> NFT#1 </div>
+                                                </div>
+                                            </div>
+                        
+                                             
+                                        </div>
+                                        
+                                           
+                                          
+                                        <div class="row p-1">
+                                            <div class="col-12  h4 text-center text-info  ">Sample Name  </div>
+                        
+                                            <div class="single-item col-12">
+                                                <span>Collection</span> : 
+                                                <span class="float-right c-nft-1">zephyr</span>
+                                            </div>
+                        
+                                            <div class="single-item col-12">
+                                                <span>Nft value</span> : 
+                                                <span class="float-right p-nft-1">100 USDT</span>
+                                            </div>
+                        
+                                           
+                                            <div class="single-item col-12">
+                                                <span>Average APR</span> : 
+                                                <span class="float-right">15%</span>
+                                            </div>
+                                           
+                                        </div>
+                                            
+                                        
+                                       
+                                            <div class="item-progress">
+                                              
+                                                <div class="progress-sale text-center mt-3 p-2 text-secondary">
+                                                     This NFT available at Your wallet<br>
+                                                     This NFT available for Stake
+                                                </div>
+                                            </div>
+                                       
+                                       
+                                       <div class="project-footer d-flex align-items-center mt-4  ">
+                                            <a class="btn btn-bordered-white btn-sm">Sample NFT</a>
+                                        </div>
+                                    </div>
+                                </div> -->
+ 
+
+                            </div>
+                      <!--         <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span
+                                    class="swiper-pagination-bullet" tabindex="0" role="button"
+                                    aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet"
+                                    tabindex="0" role="button" aria-label="Go to slide 2"></span><span
+                                    class="swiper-pagination-bullet" tabindex="0" role="button"
+                                    aria-label="Go to slide 3"></span><span
+                                    class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0"
+                                    role="button" aria-label="Go to slide 4"></span><span
+                                    class="swiper-pagination-bullet" tabindex="0" role="button"
+                                    aria-label="Go to slide 5"></span></div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                        </div> -->
+                    
+                </div>
+            </section>
+
+<!-- Button trigger modal -->
+ 
+  
+  <!-- Modal -->
+  <div class="modal fade" id="stake" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" style="background-color: rgba(0,0,0,0.8);">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header text-center">
+          <div class="h4 text-center col-12" >NFT Stake Options</div>
+          <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button> -->
+        </div>
+        <div class="modal-body p-1">
+            <div class="row m-2 approvednft text-center justify-content-center" style="display:none" >
+                 <div class="form-group col-12 justify-content-center ">
+                    <label for="exampleInputEmail1">Sponsor address</label>
+                    <input type="email" class="form-control text-center mt-1 col-12" id="upline-addr" aria-describedby="emailHelp" placeholder="0x123456abcdef...">
+                    <small id="emailHelp" class="form-text text-muted">Please enter a valid wallet address.</small>
+                  </div>
+
+
+                 <div class="col-12 m-1 text-center">
+                  <small>  Plese select Staking periode ( m = Months ). </small>
+                 </div>
+                 <div class="col-6 p-1 text-left text-secondary">
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio1" value="0">
+                        <label class="form-check-label" for="inlineRadio1"> <small> 3m ~ <span class="apr-0 text-info">0</span>% APR </small></label>
+                    </div>
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio2" value="1">
+                        <label class="form-check-label" for="inlineRadio2"> <small> 6m ~ <span class="apr-1  text-info">0</span>% APR </small></label>
+                    </div>
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio3" value="2" >
+                        <label class="form-check-label" for="inlineRadio3"> <small> 12m ~ <span class="apr-2 text-info">0</span>% APR </small></label>
+                    </div>
+                </div>
+                <div class="col-6 p-1 text-left text-secondary">
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio4" value="3" >
+                        <label class="form-check-label" for="inlineRadio4"> <small> 18m ~ <span class="apr-3 text-info">0</span>% APR </small></label>
+                    </div>
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio5" value="4" >
+                        <label class="form-check-label" for="inlineRadio5"> <small> 24m ~ <span class="apr-4 text-info">0</span>% APR </small></label>
+                    </div>
+                    <div class="form-check form-check-inline p-2">
+                        <input class="form-check-input p-1" type="checkbox" name="inlineRadioOptions" id="inlineRadio6" value="5" >
+                        <label class="form-check-label" for="inlineRadio6"> <small> 36m ~ <span class="apr-5 text-info">0</span>% APR</small></label>
+                    </div>
+                 </div>
+             </div>
+
+             <script>
+             $(document).ready(function(){
+                $('.form-check-input').on("click",function(){
+                    $('.form-check-input').prop('checked',false);
+                    $('.form-check').removeClass('bg-white')
+                    $(this).prop('checked',true);
+                    $(this).parent().addClass('bg-white')
+                })
+            })
+             </script>
+
+            <div class="row mt-2 mb-2 before-approvednft">
+                <div class="col-12 justify-content-center">
+                 <!-- <button type="button" class="btn btn-primary">Approve Smartcontract</button> -->
+                 <p>Approve smartcontract to move your NFT from your wallet to Onerichgroup staking Smartcontract.</p>
+                
+                </div>
+            </div>
+
+        </div>
+        
+       
+
+        <div class="modal-footer">
+          <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Confirm</button> -->
+          <a class="btn btn-bordered-white btn-sm" data-dismiss="modal" onclick="">Close</a>
+          <a class="btn btn-bordered-white btn-sm approvednft" style="display:none" onclick="stake()">Confirm</a>
+          <a class="btn btn-bordered-white btn-sm before-approvednft" onclick="approveall()">Approve</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        </div>
+        <!--place the page section here-->
+
+        <!--place the footer here-->
+        <%- include('../../includes/footer.ejs') %>
+            <!--place the footer here-->
+
+            <!--scripts gunna be here-->
+            <%- include('../../includes/scripts.ejs') %>
+            <script>let Stakingf;</script>
+            <script type="module">
+              import { Staking } from "/assets/js/staking.js";
+              Stakingf=Staking;
+            </script>  
+            <!-- <script src="/assets/js/gallery.min.js"></script> -->
+            <!-- <script src="/assets/js/slider.min.js"></script> -->
+            <!-- <script src="/assets/js/shuffle.min.js"></script> -->
+            <!-- <script src="/assets/js/stakingasset.js"></script> -->
+               
+
+<script>
+      $("#stake").modal("hide");
+      let approve_all = 0;
+    async function modalStake(a){
+        approve_all = a;
+        console.log(Stakingf);
+        $("#stake").modal("show");
+        let aa = await Stakingf.isApprovedForAll(a);
+        if(aa){
+        $(".approvednft").show();
+        $(".before-approvednft").hide();
+
+        }
+        // console.log(aa);
+    }
+
+    async function approveall(){
+        let aa = await Stakingf.setApproveForAll(approve_all);
+        console.log(aa)
+        if(aa){
+            $(".approvednft").show();
+            $(".before-approvednft").hide();
+        }
+    }
+
+    async function stake(){
+    try {
+        
+   
+      let r =   $('input[name="inlineRadioOptions"]:checked').val();
+      let upline = $("#upline-addr").val();
+    //   if(upline.length<40) upline="0x34663163Adb7C2B2e40f0A2194A0efeFF4B98BC7";
+    //   upline="0x34663163Adb7C2B2e40f0A2194A0efeFF4B98BC8";
+      let upcheck = await Stakingf.nftlogs(0,upline);
+      console.log("cek", upcheck);
+      if(upcheck.length==0){alert("Invalid sponsor address"); return;}
+    
+    //   return;
+     
+      if(r*1+1>0){
+        console.log(r,approve_all);
+      
+        let aa = await Stakingf.stake(upline,approve_all,r);
+        console.log(aa);
+        $("#stake").modal("hide");
+        approve_all = 0;
+        setTimeout(function(){
+        location.href="/staking-nft";},5000);
+      } else {alert("Please select staking periode");return;}
+    } catch (error) {
+      console.log(error);
+      alert("invalid sponsor address");
+    }
+
+    }
+
+    async function claim_staking_reward(id){
+    let pr = await Stakingf.claim_staking_reward(id);
+
+    }
+    
+    // $("#stake").modal("show");
+</script>
+ 
+
+
+                <!--scripts gunna be here-->
+</body>
+
+</html>

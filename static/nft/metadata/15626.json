@@ -1,0 +1,28 @@
+{
+    "name": "Eremedel  ",
+    "description": "The collection from onerichgroup #15626",
+    "image": "https://nft.onerichgroup.com/nft/15626.jpg",
+    "dna": "44333asmdjsadya6d7860765bec080e546380",
+    "edition": 1,
+    "date": 1689443118853,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

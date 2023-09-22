@@ -1,0 +1,28 @@
+{
+    "name": "Elbilwë  ",
+    "description": "The collection from onerichgroup #2186",
+    "image": "https://nft.onerichgroup.com/nft/2186.jpg",
+    "dna": "84553asmdjsadya6d7825568bec080e555038",
+    "edition": 1,
+    "date": 1689443114486,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

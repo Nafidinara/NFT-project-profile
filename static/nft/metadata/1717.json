@@ -1,0 +1,28 @@
+{
+    "name": "Cirevel  ",
+    "description": "The collection from onerichgroup #1717",
+    "image": "https://nft.onerichgroup.com/nft/1717.jpg",
+    "dna": "78290asmdjsadya6d7816473bec080e548048",
+    "edition": 1,
+    "date": 1689443114151,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

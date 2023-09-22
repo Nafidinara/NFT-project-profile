@@ -1,0 +1,28 @@
+{
+    "name": "Clarinsil  ",
+    "description": "The collection from onerichgroup #31947",
+    "image": "https://nft.onerichgroup.com/nft/31947.jpg",
+    "dna": "79076asmdjsadya6d786827bec080e589059",
+    "edition": 1,
+    "date": 1689443121327,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Melarien  ",
+    "description": "The collection from onerichgroup #18124",
+    "image": "https://nft.onerichgroup.com/nft/18124.jpg",
+    "dna": "80770asmdjsadya6d7842643bec080e537622",
+    "edition": 1,
+    "date": 1689443119410,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Lirarian  ",
+    "description": "The collection from onerichgroup #50432",
+    "image": "https://nft.onerichgroup.com/nft/50432.jpg",
+    "dna": "39427asmdjsadya6d7864718bec080e547922",
+    "edition": 1,
+    "date": 1689478811231,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

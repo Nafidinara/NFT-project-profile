@@ -1,0 +1,28 @@
+{
+    "name": "Elesrian  ",
+    "description": "The collection from onerichgroup #55671",
+    "image": "https://nft.onerichgroup.com/nft/55671.jpg",
+    "dna": "47479asmdjsadya6d7876756bec080e534591",
+    "edition": 1,
+    "date": 1689478814740,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

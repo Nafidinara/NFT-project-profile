@@ -1,0 +1,28 @@
+{
+    "name": "Miredian  ",
+    "description": "The collection from onerichgroup #61078",
+    "image": "https://nft.onerichgroup.com/nft/61078.jpg",
+    "dna": "268477dje6rgfnbs039940bec080e584737",
+    "edition": 1,
+    "date": 1689584225497,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

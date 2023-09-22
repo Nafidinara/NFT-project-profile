@@ -1,0 +1,28 @@
+{
+    "name": "Rilemrien  ",
+    "description": "The collection from onerichgroup #24264",
+    "image": "https://nft.onerichgroup.com/nft/24264.jpg",
+    "dna": "70936asmdjsadya6d7881217bec080e596255",
+    "edition": 1,
+    "date": 1689443120385,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

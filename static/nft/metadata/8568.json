@@ -1,0 +1,28 @@
+{
+    "name": "Melasrien  ",
+    "description": "The collection from onerichgroup #8568",
+    "image": "https://nft.onerichgroup.com/nft/8568.jpg",
+    "dna": "39839asmdjsadya6d7851128bec080e545820",
+    "edition": 1,
+    "date": 1689443116980,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

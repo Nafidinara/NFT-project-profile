@@ -1,0 +1,28 @@
+{
+    "name": "Rilarwen  ",
+    "description": "The vip collection from onerichgroup #80281",
+    "image": "https://nft.onerichgroup.com/nft/80281.jpg",
+    "dna": "93609iyuirf45edrtd61971vjvtyd45tuy93616",
+    "edition": 1,
+    "date": 1690898983488,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

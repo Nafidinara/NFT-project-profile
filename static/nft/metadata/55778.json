@@ -1,0 +1,28 @@
+{
+    "name": "Nimthonien  ",
+    "description": "The collection from onerichgroup #55778",
+    "image": "https://nft.onerichgroup.com/nft/55778.jpg",
+    "dna": "17369asmdjsadya6d7854166bec080e52581",
+    "edition": 1,
+    "date": 1689478814775,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Larthalril  ",
+    "description": "The collection from onerichgroup #2848",
+    "image": "https://nft.onerichgroup.com/nft/2848.jpg",
+    "dna": "15466asmdjsadya6d7817297bec080e537162",
+    "edition": 1,
+    "date": 1689443114654,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

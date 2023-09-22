@@ -1,0 +1,28 @@
+{
+    "name": "Rileswen  ",
+    "description": "The collection from onerichgroup #53229",
+    "image": "https://nft.onerichgroup.com/nft/53229.jpg",
+    "dna": "78024asmdjsadya6d7838733bec080e533721",
+    "edition": 1,
+    "date": 1689478813477,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

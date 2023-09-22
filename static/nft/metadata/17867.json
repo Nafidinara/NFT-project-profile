@@ -1,0 +1,28 @@
+{
+    "name": "Ilmareth  ",
+    "description": "The collection from onerichgroup #17867",
+    "image": "https://nft.onerichgroup.com/nft/17867.jpg",
+    "dna": "45923asmdjsadya6d7881765bec080e510766",
+    "edition": 1,
+    "date": 1689443119370,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

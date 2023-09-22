@@ -1,0 +1,28 @@
+{
+    "name": "Aninroël  ",
+    "description": "The collection from onerichgroup #4899",
+    "image": "https://nft.onerichgroup.com/nft/4899.jpg",
+    "dna": "8911asmdjsadya6d7870863bec080e581689",
+    "edition": 1,
+    "date": 1689443115866,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

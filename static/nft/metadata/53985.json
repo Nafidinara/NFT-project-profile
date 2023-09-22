@@ -1,0 +1,28 @@
+{
+    "name": "Gilolrien  ",
+    "description": "The collection from onerichgroup #53985",
+    "image": "https://nft.onerichgroup.com/nft/53985.jpg",
+    "dna": "76771asmdjsadya6d7895317bec080e5787",
+    "edition": 1,
+    "date": 1689478813779,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miradel  ",
+    "description": "The collection from onerichgroup #38584",
+    "image": "https://nft.onerichgroup.com/nft/38584.jpg",
+    "dna": "56443asmdjsadya6d7875989bec080e566813",
+    "edition": 1,
+    "date": 1689443121837,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

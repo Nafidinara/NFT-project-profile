@@ -1,0 +1,28 @@
+{
+    "name": "Relarien  ",
+    "description": "The collection from onerichgroup #7929",
+    "image": "https://nft.onerichgroup.com/nft/7929.jpg",
+    "dna": "82312asmdjsadya6d7846921bec080e595366",
+    "edition": 1,
+    "date": 1689443116809,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

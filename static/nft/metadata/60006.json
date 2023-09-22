@@ -1,0 +1,28 @@
+{
+    "name": "Aremril  ",
+    "description": "The collection from onerichgroup #60006",
+    "image": "https://nft.onerichgroup.com/nft/60006.jpg",
+    "dna": "47643asmdjsadya6d7849847bec080e552847",
+    "edition": 1,
+    "date": 1689482664828,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

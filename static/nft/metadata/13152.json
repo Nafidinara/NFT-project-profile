@@ -1,0 +1,27 @@
+{
+  "name": "Irebmir  ",
+  "description": "The collection from onerichgroup #13152",
+  "image": "https://nft.onerichgroup.com/nft/13152.jpg",
+  "dna": "8988asmdjsadya6d7816725bec080e561936",
+  "edition": 1,
+  "date": 1689443118088,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

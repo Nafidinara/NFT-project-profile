@@ -1,0 +1,27 @@
+{
+  "name": "Istadwen  ",
+  "description": "The collection from onerichgroup #1325",
+  "image": "https://nft.onerichgroup.com/nft/1325.jpg",
+  "dna": "38056asmdjsadya6d7872355bec080e526328",
+  "edition": 1,
+  "date": 1689443113887,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

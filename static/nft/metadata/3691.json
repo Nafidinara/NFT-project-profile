@@ -1,0 +1,28 @@
+{
+    "name": "Faremrian  ",
+    "description": "The collection from onerichgroup #3691",
+    "image": "https://nft.onerichgroup.com/nft/3691.jpg",
+    "dna": "30131asmdjsadya6d7879130bec080e523642",
+    "edition": 1,
+    "date": 1689443115208,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

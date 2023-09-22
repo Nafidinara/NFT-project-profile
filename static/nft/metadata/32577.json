@@ -1,0 +1,28 @@
+{
+    "name": "Imebsil  ",
+    "description": "The collection from onerichgroup #32577",
+    "image": "https://nft.onerichgroup.com/nft/32577.jpg",
+    "dna": "92496asmdjsadya6d7840596bec080e538847",
+    "edition": 1,
+    "date": 1689443121396,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

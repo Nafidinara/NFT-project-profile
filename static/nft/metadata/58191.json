@@ -1,0 +1,28 @@
+{
+    "name": "Relebrial  ",
+    "description": "The collection from onerichgroup #58191",
+    "image": "https://nft.onerichgroup.com/nft/58191.jpg",
+    "dna": "99487asmdjsadya6d7866116bec080e511692",
+    "edition": 1,
+    "date": 1689478815892,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

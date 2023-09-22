@@ -1,0 +1,27 @@
+{
+  "name": "Elevsil  ",
+  "description": "The collection from onerichgroup #11771",
+  "image": "https://nft.onerichgroup.com/nft/11771.jpg",
+  "dna": "17004asmdjsadya6d7832841bec080e527750",
+  "edition": 1,
+  "date": 1689443117779,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Celedriel  ",
+  "description": "The collection from onerichgroup #12834",
+  "image": "https://nft.onerichgroup.com/nft/12834.jpg",
+  "dna": "28619asmdjsadya6d784684bec080e526600",
+  "edition": 1,
+  "date": 1689443118010,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

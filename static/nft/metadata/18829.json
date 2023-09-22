@@ -1,0 +1,28 @@
+{
+    "name": "Merebroël  ",
+    "description": "The collection from onerichgroup #18829",
+    "image": "https://nft.onerichgroup.com/nft/18829.jpg",
+    "dna": "31894asmdjsadya6d7878796bec080e516142",
+    "edition": 1,
+    "date": 1689443119478,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miriniel  ",
+    "description": "The collection from onerichgroup #51442",
+    "image": "https://nft.onerichgroup.com/nft/51442.jpg",
+    "dna": "66565asmdjsadya6d7813149bec080e527979",
+    "edition": 1,
+    "date": 1689478812256,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimenmir  ",
+    "description": "The collection from onerichgroup #3903",
+    "image": "https://nft.onerichgroup.com/nft/3903.jpg",
+    "dna": "41345asmdjsadya6d7892668bec080e590479",
+    "edition": 1,
+    "date": 1689443115310,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

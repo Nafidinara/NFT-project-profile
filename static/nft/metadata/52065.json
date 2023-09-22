@@ -1,0 +1,28 @@
+{
+    "name": "Clarebriel  ",
+    "description": "The collection from onerichgroup #52065",
+    "image": "https://nft.onerichgroup.com/nft/52065.jpg",
+    "dna": "34231asmdjsadya6d7818574bec080e568360",
+    "edition": 1,
+    "date": 1689478812723,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

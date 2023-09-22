@@ -1,0 +1,28 @@
+{
+    "name": "Inemiel  ",
+    "description": "The collection from onerichgroup #55000",
+    "image": "https://nft.onerichgroup.com/nft/55000.jpg",
+    "dna": "765asmdjsadya6d7827158bec080e561279",
+    "edition": 1,
+    "date": 1689478814346,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

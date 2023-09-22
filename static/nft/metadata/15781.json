@@ -1,0 +1,28 @@
+{
+    "name": "Nimenwen  ",
+    "description": "The collection from onerichgroup #15781",
+    "image": "https://nft.onerichgroup.com/nft/15781.jpg",
+    "dna": "21315asmdjsadya6d7836705bec080e554644",
+    "edition": 1,
+    "date": 1689443118873,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

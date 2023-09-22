@@ -1,0 +1,28 @@
+{
+    "name": "Ilmarwë  ",
+    "description": "The collection from onerichgroup #8583",
+    "image": "https://nft.onerichgroup.com/nft/8583.jpg",
+    "dna": "24887asmdjsadya6d7850633bec080e564699",
+    "edition": 1,
+    "date": 1689443116985,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

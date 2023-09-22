@@ -1,0 +1,28 @@
+{
+    "name": "Fininsil  ",
+    "description": "The collection from onerichgroup #60416",
+    "image": "https://nft.onerichgroup.com/nft/60416.jpg",
+    "dna": "99942asmdjsadya6d7852976bec080e573654",
+    "edition": 1,
+    "date": 1689482664983,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

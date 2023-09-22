@@ -1,0 +1,28 @@
+{
+    "name": "Merilwen  ",
+    "description": "The collection from onerichgroup #731",
+    "image": "https://nft.onerichgroup.com/nft/731.jpg",
+    "dna": "39718asmdjsadya6d7845639bec080e554131",
+    "edition": 1,
+    "date": 1689443113554,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

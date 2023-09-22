@@ -1,0 +1,28 @@
+{
+    "name": "Lirerien  ",
+    "description": "The collection from onerichgroup #55871",
+    "image": "https://nft.onerichgroup.com/nft/55871.jpg",
+    "dna": "96974asmdjsadya6d7822628bec080e519549",
+    "edition": 1,
+    "date": 1689478814799,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

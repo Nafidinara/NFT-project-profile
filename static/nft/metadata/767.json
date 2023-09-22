@@ -1,0 +1,28 @@
+{
+    "name": "Nimalwë  ",
+    "description": "The collection from onerichgroup #767",
+    "image": "https://nft.onerichgroup.com/nft/767.jpg",
+    "dna": "62175asmdjsadya6d7845218bec080e543803",
+    "edition": 1,
+    "date": 1689443113571,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

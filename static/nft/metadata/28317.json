@@ -1,0 +1,28 @@
+{
+    "name": "Maranmir  ",
+    "description": "The collection from onerichgroup #28317",
+    "image": "https://nft.onerichgroup.com/nft/28317.jpg",
+    "dna": "90051asmdjsadya6d7810370bec080e556355",
+    "edition": 1,
+    "date": 1689443120904,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

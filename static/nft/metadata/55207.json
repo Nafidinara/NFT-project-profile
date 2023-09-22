@@ -1,0 +1,28 @@
+{
+    "name": "Rimensil  ",
+    "description": "The collection from onerichgroup #55207",
+    "image": "https://nft.onerichgroup.com/nft/55207.jpg",
+    "dna": "11130asmdjsadya6d7869073bec080e570256",
+    "edition": 1,
+    "date": 1689478814452,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

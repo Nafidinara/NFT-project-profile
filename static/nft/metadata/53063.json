@@ -1,0 +1,28 @@
+{
+    "name": "Ganedmir  ",
+    "description": "The collection from onerichgroup #53063",
+    "image": "https://nft.onerichgroup.com/nft/53063.jpg",
+    "dna": "90619asmdjsadya6d7862145bec080e594108",
+    "edition": 1,
+    "date": 1689478813406,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

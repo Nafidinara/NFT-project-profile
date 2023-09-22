@@ -1,0 +1,28 @@
+{
+    "name": "Finevrian  ",
+    "description": "The collection from onerichgroup #57522",
+    "image": "https://nft.onerichgroup.com/nft/57522.jpg",
+    "dna": "72364asmdjsadya6d7817722bec080e543677",
+    "edition": 1,
+    "date": 1689478815602,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

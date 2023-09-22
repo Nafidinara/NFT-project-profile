@@ -1,0 +1,28 @@
+{
+    "name": "Clareswë  ",
+    "description": "The collection from onerichgroup #8164",
+    "image": "https://nft.onerichgroup.com/nft/8164.jpg",
+    "dna": "63296asmdjsadya6d7866116bec080e570867",
+    "edition": 1,
+    "date": 1689443116879,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

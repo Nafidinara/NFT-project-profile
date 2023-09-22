@@ -1,0 +1,28 @@
+{
+    "name": "Estedien  ",
+    "description": "The collection from onerichgroup #52054",
+    "image": "https://nft.onerichgroup.com/nft/52054.jpg",
+    "dna": "47310asmdjsadya6d7876002bec080e574662",
+    "edition": 1,
+    "date": 1689478812718,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

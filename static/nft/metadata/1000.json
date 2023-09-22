@@ -1,0 +1,27 @@
+{
+  "name": "Melaneth  ",
+  "description": "The collection from onerichgroup #1000",
+  "image": "https://nft.onerichgroup.com/nft/1000.jpg",
+  "dna": "35975asmdjsadya6d7845030bec080e512967",
+  "edition": 1,
+  "date": 1689443113639,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

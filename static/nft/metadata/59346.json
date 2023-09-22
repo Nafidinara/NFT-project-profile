@@ -1,0 +1,28 @@
+{
+    "name": "Maramsil  ",
+    "description": "The collection from onerichgroup #59346",
+    "image": "https://nft.onerichgroup.com/nft/59346.jpg",
+    "dna": "82796asmdjsadya6d7875218bec080e511463",
+    "edition": 1,
+    "date": 1689478816324,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

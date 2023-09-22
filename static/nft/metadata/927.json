@@ -1,0 +1,28 @@
+{
+    "name": "Elbesel  ",
+    "description": "The collection from onerichgroup #927",
+    "image": "https://nft.onerichgroup.com/nft/927.jpg",
+    "dna": "87965asmdjsadya6d7833583bec080e584494",
+    "edition": 1,
+    "date": 1689443113612,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

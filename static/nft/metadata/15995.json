@@ -1,0 +1,28 @@
+{
+    "name": "Calinien  ",
+    "description": "The collection from onerichgroup #15995",
+    "image": "https://nft.onerichgroup.com/nft/15995.jpg",
+    "dna": "24050asmdjsadya6d7888982bec080e524927",
+    "edition": 1,
+    "date": 1689443118903,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

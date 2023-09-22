@@ -1,0 +1,27 @@
+{
+  "name": "Ganirwë  ",
+  "description": "The collection from onerichgroup #10228",
+  "image": "https://nft.onerichgroup.com/nft/10228.jpg",
+  "dna": "47511asmdjsadya6d7812198bec080e570481",
+  "edition": 1,
+  "date": 1689443117479,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

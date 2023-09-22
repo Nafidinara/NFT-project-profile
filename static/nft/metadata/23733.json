@@ -1,0 +1,28 @@
+{
+    "name": "Estamien  ",
+    "description": "The collection from onerichgroup #23733",
+    "image": "https://nft.onerichgroup.com/nft/23733.jpg",
+    "dna": "2asmdjsadya6d7876277bec080e560956",
+    "edition": 1,
+    "date": 1689443120291,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

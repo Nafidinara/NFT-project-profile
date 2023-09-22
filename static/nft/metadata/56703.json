@@ -1,0 +1,28 @@
+{
+    "name": "Iramien  ",
+    "description": "The collection from onerichgroup #56703",
+    "image": "https://nft.onerichgroup.com/nft/56703.jpg",
+    "dna": "38773asmdjsadya6d789714bec080e581763",
+    "edition": 1,
+    "date": 1689478815213,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

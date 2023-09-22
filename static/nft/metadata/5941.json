@@ -1,0 +1,28 @@
+{
+    "name": "Finenian  ",
+    "description": "The collection from onerichgroup #5941",
+    "image": "https://nft.onerichgroup.com/nft/5941.jpg",
+    "dna": "84144asmdjsadya6d7812894bec080e567907",
+    "edition": 1,
+    "date": 1689443116338,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

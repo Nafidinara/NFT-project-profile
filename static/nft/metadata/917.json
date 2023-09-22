@@ -1,0 +1,28 @@
+{
+    "name": "Areniel  ",
+    "description": "The collection from onerichgroup #917",
+    "image": "https://nft.onerichgroup.com/nft/917.jpg",
+    "dna": "47725asmdjsadya6d7882141bec080e590968",
+    "edition": 1,
+    "date": 1689443113608,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

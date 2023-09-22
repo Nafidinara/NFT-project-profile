@@ -1,0 +1,28 @@
+{
+    "name": "Rimensil  ",
+    "description": "The vip collection from onerichgroup #80886",
+    "image": "https://nft.onerichgroup.com/nft/80886.jpg",
+    "dna": "36887iyuirf45edrtd90480vjvtyd45tuy16737",
+    "edition": 1,
+    "date": 1690898985488,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

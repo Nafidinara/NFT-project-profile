@@ -1,0 +1,28 @@
+{
+    "name": "Ilmarien  ",
+    "description": "The collection from onerichgroup #4785",
+    "image": "https://nft.onerichgroup.com/nft/4785.jpg",
+    "dna": "85674asmdjsadya6d7812300bec080e591018",
+    "edition": 1,
+    "date": 1689443115805,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

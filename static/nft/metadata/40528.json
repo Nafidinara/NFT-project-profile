@@ -1,0 +1,28 @@
+{
+    "name": "Mirerrien  ",
+    "description": "The collection from onerichgroup #40528",
+    "image": "https://nft.onerichgroup.com/nft/40528.jpg",
+    "dna": "43325asmdjsadya6d7888655bec080e542333",
+    "edition": 1,
+    "date": 1689443121988,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

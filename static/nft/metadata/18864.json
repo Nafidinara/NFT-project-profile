@@ -1,0 +1,28 @@
+{
+    "name": "Ranamloth  ",
+    "description": "The collection from onerichgroup #18864",
+    "image": "https://nft.onerichgroup.com/nft/18864.jpg",
+    "dna": "56205asmdjsadya6d7814853bec080e514103",
+    "edition": 1,
+    "date": 1689443119482,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

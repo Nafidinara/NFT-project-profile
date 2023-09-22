@@ -1,0 +1,28 @@
+{
+    "name": "Eledrien  ",
+    "description": "The collection from onerichgroup #16303",
+    "image": "https://nft.onerichgroup.com/nft/16303.jpg",
+    "dna": "81887asmdjsadya6d785275bec080e564064",
+    "edition": 1,
+    "date": 1689443118953,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

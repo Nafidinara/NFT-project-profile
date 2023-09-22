@@ -1,0 +1,28 @@
+{
+    "name": "Inamriel  ",
+    "description": "The collection from onerichgroup #4026",
+    "image": "https://nft.onerichgroup.com/nft/4026.jpg",
+    "dna": "49009asmdjsadya6d7827822bec080e534074",
+    "edition": 1,
+    "date": 1689443115393,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

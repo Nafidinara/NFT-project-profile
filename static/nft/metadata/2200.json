@@ -1,0 +1,28 @@
+{
+    "name": "Gararwë  ",
+    "description": "The collection from onerichgroup #2200",
+    "image": "https://nft.onerichgroup.com/nft/2200.jpg",
+    "dna": "14452asmdjsadya6d7881202bec080e532033",
+    "edition": 1,
+    "date": 1689443114492,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

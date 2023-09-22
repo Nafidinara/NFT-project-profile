@@ -1,0 +1,28 @@
+{
+    "name": "Elasel  ",
+    "description": "The collection from onerichgroup #32048",
+    "image": "https://nft.onerichgroup.com/nft/32048.jpg",
+    "dna": "2771asmdjsadya6d7854297bec080e518675",
+    "edition": 1,
+    "date": 1689443121334,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

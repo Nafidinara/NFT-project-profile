@@ -1,0 +1,28 @@
+{
+    "name": "Clarasmir  ",
+    "description": "The collection from onerichgroup #3896",
+    "image": "https://nft.onerichgroup.com/nft/3896.jpg",
+    "dna": "43260asmdjsadya6d7830137bec080e528279",
+    "edition": 1,
+    "date": 1689443115309,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

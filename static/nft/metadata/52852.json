@@ -1,0 +1,28 @@
+{
+    "name": "Nimebril  ",
+    "description": "The collection from onerichgroup #52852",
+    "image": "https://nft.onerichgroup.com/nft/52852.jpg",
+    "dna": "130asmdjsadya6d7814275bec080e539769",
+    "edition": 1,
+    "date": 1689478813324,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

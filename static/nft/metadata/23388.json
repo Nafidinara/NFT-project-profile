@@ -1,0 +1,28 @@
+{
+    "name": "Elensil  ",
+    "description": "The collection from onerichgroup #23388",
+    "image": "https://nft.onerichgroup.com/nft/23388.jpg",
+    "dna": "85805asmdjsadya6d7833822bec080e555005",
+    "edition": 1,
+    "date": 1689443120244,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

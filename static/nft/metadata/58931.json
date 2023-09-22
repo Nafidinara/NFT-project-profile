@@ -1,0 +1,28 @@
+{
+    "name": "Loranroël  ",
+    "description": "The collection from onerichgroup #58931",
+    "image": "https://nft.onerichgroup.com/nft/58931.jpg",
+    "dna": "77850asmdjsadya6d7860644bec080e598549",
+    "edition": 1,
+    "date": 1689478816168,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

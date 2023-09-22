@@ -1,0 +1,28 @@
+{
+    "name": "Faresroël  ",
+    "description": "The collection from onerichgroup #50485",
+    "image": "https://nft.onerichgroup.com/nft/50485.jpg",
+    "dna": "14659asmdjsadya6d7897133bec080e567653",
+    "edition": 1,
+    "date": 1689478811244,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

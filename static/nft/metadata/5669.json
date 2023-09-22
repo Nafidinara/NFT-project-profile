@@ -1,0 +1,28 @@
+{
+    "name": "Liradril  ",
+    "description": "The collection from onerichgroup #5669",
+    "image": "https://nft.onerichgroup.com/nft/5669.jpg",
+    "dna": "21672asmdjsadya6d7868328bec080e594244",
+    "edition": 1,
+    "date": 1689443116171,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

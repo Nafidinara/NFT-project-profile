@@ -1,0 +1,28 @@
+{
+    "name": "Finasien  ",
+    "description": "The collection from onerichgroup #60298",
+    "image": "https://nft.onerichgroup.com/nft/60298.jpg",
+    "dna": "92656asmdjsadya6d7891415bec080e545699",
+    "edition": 1,
+    "date": 1689482664899,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

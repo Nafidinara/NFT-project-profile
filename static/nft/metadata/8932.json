@@ -1,0 +1,28 @@
+{
+    "name": "Ranthoniel  ",
+    "description": "The collection from onerichgroup #8932",
+    "image": "https://nft.onerichgroup.com/nft/8932.jpg",
+    "dna": "73274asmdjsadya6d7852285bec080e582634",
+    "edition": 1,
+    "date": 1689443117113,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

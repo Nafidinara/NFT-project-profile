@@ -1,0 +1,28 @@
+{
+    "name": "Rimersil  ",
+    "description": "The collection from onerichgroup #34475",
+    "image": "https://nft.onerichgroup.com/nft/34475.jpg",
+    "dna": "93744asmdjsadya6d7888156bec080e554277",
+    "edition": 1,
+    "date": 1689443121577,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

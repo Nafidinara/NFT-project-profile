@@ -1,0 +1,28 @@
+{
+    "name": "Melanel  ",
+    "description": "The collection from onerichgroup #8330",
+    "image": "https://nft.onerichgroup.com/nft/8330.jpg",
+    "dna": "90518asmdjsadya6d783008bec080e517423",
+    "edition": 1,
+    "date": 1689443116913,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

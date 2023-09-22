@@ -1,0 +1,28 @@
+{
+    "name": "Marevedel  ",
+    "description": "The collection from onerichgroup #54899",
+    "image": "https://nft.onerichgroup.com/nft/54899.jpg",
+    "dna": "89159asmdjsadya6d7823772bec080e541578",
+    "edition": 1,
+    "date": 1689478814324,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

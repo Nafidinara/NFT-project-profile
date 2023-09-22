@@ -1,0 +1,27 @@
+{
+  "name": "Marasel  ",
+  "description": "The collection from onerichgroup #131",
+  "image": "https://nft.onerichgroup.com/nft/131.jpg",
+  "dna": "39063asmdjsadya6d7870068bec080e57683",
+  "edition": 1,
+  "date": 1689443113198,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

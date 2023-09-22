@@ -1,0 +1,28 @@
+{
+    "name": "Inebriel  ",
+    "description": "The collection from onerichgroup #54031",
+    "image": "https://nft.onerichgroup.com/nft/54031.jpg",
+    "dna": "47569asmdjsadya6d7822859bec080e578328",
+    "edition": 1,
+    "date": 1689478813790,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

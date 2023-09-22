@@ -1,0 +1,28 @@
+{
+    "name": "Clareliel  ",
+    "description": "The collection from onerichgroup #8",
+    "image": "https://nft.onerichgroup.com/nft/8.jpg",
+    "dna": "81921asmdjsadya6d7872454bec080e516704",
+    "edition": 1,
+    "date": 1689443113134,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

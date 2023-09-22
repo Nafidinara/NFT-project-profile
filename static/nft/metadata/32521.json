@@ -1,0 +1,28 @@
+{
+    "name": "Gilasroël  ",
+    "description": "The collection from onerichgroup #32521",
+    "image": "https://nft.onerichgroup.com/nft/32521.jpg",
+    "dna": "59245asmdjsadya6d7848028bec080e536644",
+    "edition": 1,
+    "date": 1689443121391,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

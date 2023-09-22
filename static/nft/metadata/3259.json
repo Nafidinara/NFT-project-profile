@@ -1,0 +1,28 @@
+{
+    "name": "Clarilwen  ",
+    "description": "The collection from onerichgroup #3259",
+    "image": "https://nft.onerichgroup.com/nft/3259.jpg",
+    "dna": "51065asmdjsadya6d7894597bec080e512002",
+    "edition": 1,
+    "date": 1689443114950,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

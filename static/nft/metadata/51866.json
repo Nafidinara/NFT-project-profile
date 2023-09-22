@@ -1,0 +1,28 @@
+{
+    "name": "Isteveth  ",
+    "description": "The collection from onerichgroup #51866",
+    "image": "https://nft.onerichgroup.com/nft/51866.jpg",
+    "dna": "34826asmdjsadya6d7847547bec080e599189",
+    "edition": 1,
+    "date": 1689478812530,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

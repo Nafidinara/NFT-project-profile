@@ -1,0 +1,28 @@
+{
+    "name": "Lirerrial  ",
+    "description": "The collection from onerichgroup #50735",
+    "image": "https://nft.onerichgroup.com/nft/50735.jpg",
+    "dna": "48299asmdjsadya6d7877785bec080e529776",
+    "edition": 1,
+    "date": 1689478811566,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

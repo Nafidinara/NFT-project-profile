@@ -1,0 +1,28 @@
+{
+    "name": "Melasrien  ",
+    "description": "The vip collection from onerichgroup #80122",
+    "image": "https://nft.onerichgroup.com/nft/80122.jpg",
+    "dna": "65277iyuirf45edrtd97819vjvtyd45tuy21911",
+    "edition": 1,
+    "date": 1690898982947,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

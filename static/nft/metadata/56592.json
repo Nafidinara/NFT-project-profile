@@ -1,0 +1,28 @@
+{
+    "name": "Clarerriel  ",
+    "description": "The collection from onerichgroup #56592",
+    "image": "https://nft.onerichgroup.com/nft/56592.jpg",
+    "dna": "94288asmdjsadya6d7876463bec080e579014",
+    "edition": 1,
+    "date": 1689478815183,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

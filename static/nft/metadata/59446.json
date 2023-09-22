@@ -1,0 +1,28 @@
+{
+    "name": "Caradien  ",
+    "description": "The collection from onerichgroup #59446",
+    "image": "https://nft.onerichgroup.com/nft/59446.jpg",
+    "dna": "53724asmdjsadya6d7863386bec080e517079",
+    "edition": 1,
+    "date": 1689478816392,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

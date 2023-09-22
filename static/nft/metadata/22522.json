@@ -1,0 +1,28 @@
+{
+    "name": "Erlilrial  ",
+    "description": "The collection from onerichgroup #22522",
+    "image": "https://nft.onerichgroup.com/nft/22522.jpg",
+    "dna": "61663asmdjsadya6d7829329bec080e525714",
+    "edition": 1,
+    "date": 1689443120159,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

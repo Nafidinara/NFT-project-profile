@@ -1,0 +1,28 @@
+{
+    "name": "Lirinwë  ",
+    "description": "The collection from onerichgroup #542",
+    "image": "https://nft.onerichgroup.com/nft/542.jpg",
+    "dna": "94328asmdjsadya6d7811324bec080e530052",
+    "edition": 1,
+    "date": 1689443113479,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

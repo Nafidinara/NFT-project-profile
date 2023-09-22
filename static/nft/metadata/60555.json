@@ -1,0 +1,28 @@
+{
+    "name": "Miramiel  ",
+    "description": "The collection from onerichgroup #60555",
+    "image": "https://nft.onerichgroup.com/nft/60555.jpg",
+    "dna": "5466asmdjsadya6d7855699bec080e575549",
+    "edition": 1,
+    "date": 1689482665074,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

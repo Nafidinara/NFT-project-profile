@@ -1,0 +1,28 @@
+{
+    "name": "Istadel  ",
+    "description": "The collection from onerichgroup #3224",
+    "image": "https://nft.onerichgroup.com/nft/3224.jpg",
+    "dna": "81899asmdjsadya6d7841645bec080e560022",
+    "edition": 1,
+    "date": 1689443114931,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

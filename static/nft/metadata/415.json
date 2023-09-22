@@ -1,0 +1,28 @@
+{
+    "name": "Calasloth  ",
+    "description": "The collection from onerichgroup #415",
+    "image": "https://nft.onerichgroup.com/nft/415.jpg",
+    "dna": "32057asmdjsadya6d7846212bec080e560260",
+    "edition": 1,
+    "date": 1689443113287,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

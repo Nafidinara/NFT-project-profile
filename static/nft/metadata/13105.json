@@ -1,0 +1,27 @@
+{
+  "name": "Nirthonmir  ",
+  "description": "The collection from onerichgroup #13105",
+  "image": "https://nft.onerichgroup.com/nft/13105.jpg",
+  "dna": "19127asmdjsadya6d7860972bec080e554011",
+  "edition": 1,
+  "date": 1689443118075,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

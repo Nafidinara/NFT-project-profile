@@ -1,0 +1,28 @@
+{
+    "name": "Inanel  ",
+    "description": "The collection from onerichgroup #9685",
+    "image": "https://nft.onerichgroup.com/nft/9685.jpg",
+    "dna": "71281asmdjsadya6d7836678bec080e599337",
+    "edition": 1,
+    "date": 1689443117436,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

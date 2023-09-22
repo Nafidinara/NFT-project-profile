@@ -1,0 +1,28 @@
+{
+    "name": "Merthalloth  ",
+    "description": "The collection from onerichgroup #53062",
+    "image": "https://nft.onerichgroup.com/nft/53062.jpg",
+    "dna": "51921asmdjsadya6d7832051bec080e586420",
+    "edition": 1,
+    "date": 1689478813405,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

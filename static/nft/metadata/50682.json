@@ -1,0 +1,28 @@
+{
+    "name": "Elebwen  ",
+    "description": "The collection from onerichgroup #50682",
+    "image": "https://nft.onerichgroup.com/nft/50682.jpg",
+    "dna": "50887asmdjsadya6d7898848bec080e519855",
+    "edition": 1,
+    "date": 1689478811536,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

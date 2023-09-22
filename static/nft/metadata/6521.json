@@ -1,0 +1,28 @@
+{
+    "name": "Elbileth  ",
+    "description": "The collection from onerichgroup #6521",
+    "image": "https://nft.onerichgroup.com/nft/6521.jpg",
+    "dna": "30340asmdjsadya6d7830736bec080e535561",
+    "edition": 1,
+    "date": 1689443116455,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

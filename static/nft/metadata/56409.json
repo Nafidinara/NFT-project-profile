@@ -1,0 +1,28 @@
+{
+    "name": "Elolloth  ",
+    "description": "The collection from onerichgroup #56409",
+    "image": "https://nft.onerichgroup.com/nft/56409.jpg",
+    "dna": "70930asmdjsadya6d7867918bec080e541865",
+    "edition": 1,
+    "date": 1689478815119,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

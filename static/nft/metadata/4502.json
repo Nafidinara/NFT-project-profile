@@ -1,0 +1,28 @@
+{
+    "name": "Ciredrian  ",
+    "description": "The collection from onerichgroup #4502",
+    "image": "https://nft.onerichgroup.com/nft/4502.jpg",
+    "dna": "9197asmdjsadya6d7878261bec080e574995",
+    "edition": 1,
+    "date": 1689443115671,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

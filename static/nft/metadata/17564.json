@@ -1,0 +1,28 @@
+{
+    "name": "Erthalrial  ",
+    "description": "The collection from onerichgroup #17564",
+    "image": "https://nft.onerichgroup.com/nft/17564.jpg",
+    "dna": "37767asmdjsadya6d7891921bec080e540442",
+    "edition": 1,
+    "date": 1689443119328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

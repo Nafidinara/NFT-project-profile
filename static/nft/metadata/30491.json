@@ -1,0 +1,28 @@
+{
+    "name": "Aneredel  ",
+    "description": "The collection from onerichgroup #30491",
+    "image": "https://nft.onerichgroup.com/nft/30491.jpg",
+    "dna": "27383asmdjsadya6d7830894bec080e550472",
+    "edition": 1,
+    "date": 1689443121174,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

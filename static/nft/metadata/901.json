@@ -1,0 +1,28 @@
+{
+    "name": "Giladwë  ",
+    "description": "The collection from onerichgroup #901",
+    "image": "https://nft.onerichgroup.com/nft/901.jpg",
+    "dna": "94431asmdjsadya6d7860461bec080e595551",
+    "edition": 1,
+    "date": 1689443113606,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elalwë  ",
+    "description": "The collection from onerichgroup #36676",
+    "image": "https://nft.onerichgroup.com/nft/36676.jpg",
+    "dna": "24261asmdjsadya6d7831408bec080e566068",
+    "edition": 1,
+    "date": 1689443121671,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

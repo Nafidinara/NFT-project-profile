@@ -1,0 +1,28 @@
+{
+    "name": "Rimadedel  ",
+    "description": "The collection from onerichgroup #50049",
+    "image": "https://nft.onerichgroup.com/nft/50049.jpg",
+    "dna": "94801asmdjsadya6d7875794bec080e589545",
+    "edition": 1,
+    "date": 1689478811138,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

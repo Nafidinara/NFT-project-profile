@@ -1,0 +1,28 @@
+{
+    "name": "Ranemeth  ",
+    "description": "The collection from onerichgroup #7217",
+    "image": "https://nft.onerichgroup.com/nft/7217.jpg",
+    "dna": "99837asmdjsadya6d789378bec080e536971",
+    "edition": 1,
+    "date": 1689443116525,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Eleleth  ",
+    "description": "The collection from onerichgroup #22220",
+    "image": "https://nft.onerichgroup.com/nft/22220.jpg",
+    "dna": "94075asmdjsadya6d7871757bec080e562519",
+    "edition": 1,
+    "date": 1689443120094,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

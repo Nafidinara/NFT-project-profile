@@ -1,0 +1,28 @@
+{
+    "name": "Rimereth  ",
+    "description": "The collection from onerichgroup #53116",
+    "image": "https://nft.onerichgroup.com/nft/53116.jpg",
+    "dna": "39608asmdjsadya6d785337bec080e584614",
+    "edition": 1,
+    "date": 1689478813429,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

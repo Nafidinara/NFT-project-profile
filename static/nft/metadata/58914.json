@@ -1,0 +1,28 @@
+{
+    "name": "Anebien  ",
+    "description": "The collection from onerichgroup #58914",
+    "image": "https://nft.onerichgroup.com/nft/58914.jpg",
+    "dna": "16446asmdjsadya6d7844258bec080e521781",
+    "edition": 1,
+    "date": 1689478816164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

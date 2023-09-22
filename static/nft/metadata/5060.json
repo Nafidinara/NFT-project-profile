@@ -1,0 +1,28 @@
+{
+    "name": "Melalwen  ",
+    "description": "The collection from onerichgroup #5060",
+    "image": "https://nft.onerichgroup.com/nft/5060.jpg",
+    "dna": "99700asmdjsadya6d7843375bec080e578200",
+    "edition": 1,
+    "date": 1689443115908,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

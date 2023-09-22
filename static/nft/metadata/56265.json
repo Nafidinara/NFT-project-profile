@@ -1,0 +1,28 @@
+{
+    "name": "Mereniel  ",
+    "description": "The collection from onerichgroup #56265",
+    "image": "https://nft.onerichgroup.com/nft/56265.jpg",
+    "dna": "46673asmdjsadya6d7836555bec080e595706",
+    "edition": 1,
+    "date": 1689478815043,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Gelesien  ",
+    "description": "The collection from onerichgroup #22008",
+    "image": "https://nft.onerichgroup.com/nft/22008.jpg",
+    "dna": "30987asmdjsadya6d7877952bec080e534471",
+    "edition": 1,
+    "date": 1689443120033,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clarthoniel  ",
+    "description": "The collection from onerichgroup #613",
+    "image": "https://nft.onerichgroup.com/nft/613.jpg",
+    "dna": "74128asmdjsadya6d7867456bec080e538035",
+    "edition": 1,
+    "date": 1689443113515,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

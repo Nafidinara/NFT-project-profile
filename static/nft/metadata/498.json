@@ -1,0 +1,28 @@
+{
+    "name": "Ganebwë  ",
+    "description": "The collection from onerichgroup #498",
+    "image": "https://nft.onerichgroup.com/nft/498.jpg",
+    "dna": "27087asmdjsadya6d7885121bec080e59419",
+    "edition": 1,
+    "date": 1689443113424,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

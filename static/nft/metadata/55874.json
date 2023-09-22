@@ -1,0 +1,28 @@
+{
+    "name": "Rimirriel  ",
+    "description": "The collection from onerichgroup #55874",
+    "image": "https://nft.onerichgroup.com/nft/55874.jpg",
+    "dna": "10087asmdjsadya6d7853295bec080e568413",
+    "edition": 1,
+    "date": 1689478814800,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

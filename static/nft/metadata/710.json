@@ -1,0 +1,28 @@
+{
+    "name": "Claranel  ",
+    "description": "The collection from onerichgroup #710",
+    "image": "https://nft.onerichgroup.com/nft/710.jpg",
+    "dna": "46543asmdjsadya6d7887987bec080e541104",
+    "edition": 1,
+    "date": 1689443113549,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

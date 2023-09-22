@@ -1,0 +1,28 @@
+{
+    "name": "Imthalriel  ",
+    "description": "The collection from onerichgroup #54663",
+    "image": "https://nft.onerichgroup.com/nft/54663.jpg",
+    "dna": "53597asmdjsadya6d7827217bec080e5636",
+    "edition": 1,
+    "date": 1689478814185,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

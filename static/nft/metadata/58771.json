@@ -1,0 +1,28 @@
+{
+    "name": "Elesriel  ",
+    "description": "The collection from onerichgroup #58771",
+    "image": "https://nft.onerichgroup.com/nft/58771.jpg",
+    "dna": "83877asmdjsadya6d7843355bec080e596016",
+    "edition": 1,
+    "date": 1689478816133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

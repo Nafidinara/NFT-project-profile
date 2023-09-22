@@ -1,0 +1,28 @@
+{
+    "name": "Inthonwen  ",
+    "description": "The collection from onerichgroup #54311",
+    "image": "https://nft.onerichgroup.com/nft/54311.jpg",
+    "dna": "66994asmdjsadya6d7828818bec080e568027",
+    "edition": 1,
+    "date": 1689478813976,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

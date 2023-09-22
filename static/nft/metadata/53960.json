@@ -1,0 +1,28 @@
+{
+    "name": "Iradien  ",
+    "description": "The collection from onerichgroup #53960",
+    "image": "https://nft.onerichgroup.com/nft/53960.jpg",
+    "dna": "69235asmdjsadya6d7825578bec080e515451",
+    "edition": 1,
+    "date": 1689478813773,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

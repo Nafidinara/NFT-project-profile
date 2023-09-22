@@ -1,0 +1,28 @@
+{
+    "name": "Istebril  ",
+    "description": "The collection from onerichgroup #55162",
+    "image": "https://nft.onerichgroup.com/nft/55162.jpg",
+    "dna": "51767asmdjsadya6d7872811bec080e543761",
+    "edition": 1,
+    "date": 1689478814399,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

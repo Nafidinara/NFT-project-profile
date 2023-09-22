@@ -1,0 +1,28 @@
+{
+    "name": "Melevrial  ",
+    "description": "The collection from onerichgroup #47198",
+    "image": "https://nft.onerichgroup.com/nft/47198.jpg",
+    "dna": "1168asmdjsadya6d7822229bec080e583615",
+    "edition": 1,
+    "date": 1689443122371,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

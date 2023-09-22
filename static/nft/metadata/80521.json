@@ -1,0 +1,28 @@
+{
+    "name": "Marolroël  ",
+    "description": "The vip collection from onerichgroup #80521",
+    "image": "https://nft.onerichgroup.com/nft/80521.jpg",
+    "dna": "89135iyuirf45edrtd62318vjvtyd45tuy9704",
+    "edition": 1,
+    "date": 1690898984245,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

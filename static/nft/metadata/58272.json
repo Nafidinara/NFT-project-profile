@@ -1,0 +1,28 @@
+{
+    "name": "Iresel  ",
+    "description": "The collection from onerichgroup #58272",
+    "image": "https://nft.onerichgroup.com/nft/58272.jpg",
+    "dna": "43564asmdjsadya6d7815781bec080e573918",
+    "edition": 1,
+    "date": 1689478815927,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

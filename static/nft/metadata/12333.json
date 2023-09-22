@@ -1,0 +1,27 @@
+{
+  "name": "Elbadien  ",
+  "description": "The collection from onerichgroup #12333",
+  "image": "https://nft.onerichgroup.com/nft/12333.jpg",
+  "dna": "32972asmdjsadya6d789517bec080e539030",
+  "edition": 1,
+  "date": 1689443117905,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

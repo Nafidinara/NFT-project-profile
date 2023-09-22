@@ -1,0 +1,28 @@
+{
+    "name": "Istebriel  ",
+    "description": "The collection from onerichgroup #2053",
+    "image": "https://nft.onerichgroup.com/nft/2053.jpg",
+    "dna": "33344asmdjsadya6d7820109bec080e536468",
+    "edition": 1,
+    "date": 1689443114364,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

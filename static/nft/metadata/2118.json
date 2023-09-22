@@ -1,0 +1,28 @@
+{
+    "name": "Ilmasril  ",
+    "description": "The collection from onerichgroup #2118",
+    "image": "https://nft.onerichgroup.com/nft/2118.jpg",
+    "dna": "56968asmdjsadya6d7854722bec080e559064",
+    "edition": 1,
+    "date": 1689443114385,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

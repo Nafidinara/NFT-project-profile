@@ -1,0 +1,28 @@
+{
+    "name": "Imilrial  ",
+    "description": "The collection from onerichgroup #14137",
+    "image": "https://nft.onerichgroup.com/nft/14137.jpg",
+    "dna": "81858asmdjsadya6d7820024bec080e563271",
+    "edition": 1,
+    "date": 1689443118371,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

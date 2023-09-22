@@ -1,0 +1,28 @@
+{
+    "name": "Galemriel  ",
+    "description": "The collection from onerichgroup #52658",
+    "image": "https://nft.onerichgroup.com/nft/52658.jpg",
+    "dna": "67171asmdjsadya6d781576bec080e564567",
+    "edition": 1,
+    "date": 1689478813190,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

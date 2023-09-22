@@ -1,0 +1,28 @@
+{
+    "name": "Anadwë  ",
+    "description": "The collection from onerichgroup #21486",
+    "image": "https://nft.onerichgroup.com/nft/21486.jpg",
+    "dna": "8699asmdjsadya6d7834584bec080e521500",
+    "edition": 1,
+    "date": 1689443119927,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

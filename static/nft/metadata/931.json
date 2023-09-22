@@ -1,0 +1,28 @@
+{
+    "name": "Rilthalian  ",
+    "description": "The collection from onerichgroup #931",
+    "image": "https://nft.onerichgroup.com/nft/931.jpg",
+    "dna": "86921asmdjsadya6d7861776bec080e577757",
+    "edition": 1,
+    "date": 1689443113612,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

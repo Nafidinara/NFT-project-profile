@@ -1,0 +1,28 @@
+{
+    "name": "Laremedel  ",
+    "description": "The collection from onerichgroup #54865",
+    "image": "https://nft.onerichgroup.com/nft/54865.jpg",
+    "dna": "80234asmdjsadya6d789161bec080e523985",
+    "edition": 1,
+    "date": 1689478814310,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

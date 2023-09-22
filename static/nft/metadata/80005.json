@@ -1,0 +1,28 @@
+{
+    "name": "Marthonwen  ",
+    "description": "The vip collection from onerichgroup #80005",
+    "image": "https://nft.onerichgroup.com/nft/80005.jpg",
+    "dna": "23865iyuirf45edrtd63409vjvtyd45tuy61640",
+    "edition": 1,
+    "date": 1690898982520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

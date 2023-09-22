@@ -1,0 +1,28 @@
+{
+    "name": "Ilmevian  ",
+    "description": "The collection from onerichgroup #14016",
+    "image": "https://nft.onerichgroup.com/nft/14016.jpg",
+    "dna": "38012asmdjsadya6d785785bec080e538817",
+    "edition": 1,
+    "date": 1689443118354,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

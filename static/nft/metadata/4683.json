@@ -1,0 +1,28 @@
+{
+    "name": "Erlareth  ",
+    "description": "The collection from onerichgroup #4683",
+    "image": "https://nft.onerichgroup.com/nft/4683.jpg",
+    "dna": "7280asmdjsadya6d7882299bec080e553560",
+    "edition": 1,
+    "date": 1689443115764,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

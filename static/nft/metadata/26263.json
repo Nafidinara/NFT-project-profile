@@ -1,0 +1,28 @@
+{
+    "name": "Ganesriel  ",
+    "description": "The collection from onerichgroup #26263",
+    "image": "https://nft.onerichgroup.com/nft/26263.jpg",
+    "dna": "38499asmdjsadya6d7861683bec080e575576",
+    "edition": 1,
+    "date": 1689443120650,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Meredroël  ",
+    "description": "The collection from onerichgroup #5433",
+    "image": "https://nft.onerichgroup.com/nft/5433.jpg",
+    "dna": "91820asmdjsadya6d7872397bec080e537362",
+    "edition": 1,
+    "date": 1689443116062,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

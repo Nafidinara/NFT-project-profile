@@ -1,0 +1,28 @@
+{
+    "name": "Erlesian  ",
+    "description": "The collection from onerichgroup #41002",
+    "image": "https://nft.onerichgroup.com/nft/41002.jpg",
+    "dna": "53956asmdjsadya6d7883938bec080e553239",
+    "edition": 1,
+    "date": 1689443122025,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

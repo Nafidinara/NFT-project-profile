@@ -1,0 +1,28 @@
+{
+    "name": "Istarriel  ",
+    "description": "The collection from onerichgroup #60111",
+    "image": "https://nft.onerichgroup.com/nft/60111.jpg",
+    "dna": "96775asmdjsadya6d7890539bec080e586015",
+    "edition": 1,
+    "date": 1689482664856,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

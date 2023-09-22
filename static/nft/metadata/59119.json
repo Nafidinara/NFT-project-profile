@@ -1,0 +1,28 @@
+{
+    "name": "Elbevien  ",
+    "description": "The collection from onerichgroup #59119",
+    "image": "https://nft.onerichgroup.com/nft/59119.jpg",
+    "dna": "95563asmdjsadya6d7820049bec080e528087",
+    "edition": 1,
+    "date": 1689478816212,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

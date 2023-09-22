@@ -1,0 +1,28 @@
+{
+    "name": "Farebwë  ",
+    "description": "The collection from onerichgroup #14986",
+    "image": "https://nft.onerichgroup.com/nft/14986.jpg",
+    "dna": "5926asmdjsadya6d7882306bec080e568340",
+    "edition": 1,
+    "date": 1689443118678,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

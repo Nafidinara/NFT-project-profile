@@ -1,0 +1,28 @@
+{
+    "name": "Mereriel  ",
+    "description": "The collection from onerichgroup #6686",
+    "image": "https://nft.onerichgroup.com/nft/6686.jpg",
+    "dna": "73583asmdjsadya6d7872852bec080e578051",
+    "edition": 1,
+    "date": 1689443116471,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

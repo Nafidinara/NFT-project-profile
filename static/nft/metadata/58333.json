@@ -1,0 +1,28 @@
+{
+    "name": "Istebeth  ",
+    "description": "The collection from onerichgroup #58333",
+    "image": "https://nft.onerichgroup.com/nft/58333.jpg",
+    "dna": "62663asmdjsadya6d7876134bec080e584128",
+    "edition": 1,
+    "date": 1689478815991,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

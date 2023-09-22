@@ -1,0 +1,28 @@
+{
+    "name": "Marilmir  ",
+    "description": "The collection from onerichgroup #30791",
+    "image": "https://nft.onerichgroup.com/nft/30791.jpg",
+    "dna": "36727asmdjsadya6d7816817bec080e550471",
+    "edition": 1,
+    "date": 1689443121194,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miramsil  ",
+    "description": "The collection from onerichgroup #41870",
+    "image": "https://nft.onerichgroup.com/nft/41870.jpg",
+    "dna": "76974asmdjsadya6d789177bec080e57604",
+    "edition": 1,
+    "date": 1689443122070,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

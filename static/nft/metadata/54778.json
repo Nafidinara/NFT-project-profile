@@ -1,0 +1,28 @@
+{
+    "name": "Farthonwen  ",
+    "description": "The collection from onerichgroup #54778",
+    "image": "https://nft.onerichgroup.com/nft/54778.jpg",
+    "dna": "64426asmdjsadya6d7831756bec080e559312",
+    "edition": 1,
+    "date": 1689478814290,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

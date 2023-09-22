@@ -1,0 +1,28 @@
+{
+    "name": "Lorarwen  ",
+    "description": "The collection from onerichgroup #4859",
+    "image": "https://nft.onerichgroup.com/nft/4859.jpg",
+    "dna": "67336asmdjsadya6d7817812bec080e57777",
+    "edition": 1,
+    "date": 1689443115825,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

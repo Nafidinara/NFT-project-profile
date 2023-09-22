@@ -1,0 +1,28 @@
+{
+    "name": "Erlireth  ",
+    "description": "The collection from onerichgroup #23963",
+    "image": "https://nft.onerichgroup.com/nft/23963.jpg",
+    "dna": "10328asmdjsadya6d7891353bec080e569231",
+    "edition": 1,
+    "date": 1689443120317,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

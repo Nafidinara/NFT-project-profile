@@ -1,0 +1,28 @@
+{
+    "name": "Elberloth  ",
+    "description": "The collection from onerichgroup #50203",
+    "image": "https://nft.onerichgroup.com/nft/50203.jpg",
+    "dna": "43099asmdjsadya6d78115bec080e578429",
+    "edition": 1,
+    "date": 1689478811176,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

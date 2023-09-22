@@ -1,0 +1,28 @@
+{
+    "name": "Cirthalroël  ",
+    "description": "The collection from onerichgroup #21929",
+    "image": "https://nft.onerichgroup.com/nft/21929.jpg",
+    "dna": "94543asmdjsadya6d7841896bec080e528244",
+    "edition": 1,
+    "date": 1689443120025,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

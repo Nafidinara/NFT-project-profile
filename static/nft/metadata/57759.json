@@ -1,0 +1,28 @@
+{
+    "name": "Rinasiel  ",
+    "description": "The collection from onerichgroup #57759",
+    "image": "https://nft.onerichgroup.com/nft/57759.jpg",
+    "dna": "22948asmdjsadya6d7842277bec080e564415",
+    "edition": 1,
+    "date": 1689478815658,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

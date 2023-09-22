@@ -1,0 +1,28 @@
+{
+    "name": "Farirwen  ",
+    "description": "The collection from onerichgroup #4619",
+    "image": "https://nft.onerichgroup.com/nft/4619.jpg",
+    "dna": "96003asmdjsadya6d7817612bec080e57529",
+    "edition": 1,
+    "date": 1689443115743,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

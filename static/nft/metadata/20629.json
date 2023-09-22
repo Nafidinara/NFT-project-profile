@@ -1,0 +1,28 @@
+{
+    "name": "Rinolrien  ",
+    "description": "The collection from onerichgroup #20629",
+    "image": "https://nft.onerichgroup.com/nft/20629.jpg",
+    "dna": "76588asmdjsadya6d783387bec080e539577",
+    "edition": 1,
+    "date": 1689443119827,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

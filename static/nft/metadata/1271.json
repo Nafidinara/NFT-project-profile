@@ -1,0 +1,27 @@
+{
+  "name": "Ralolrial  ",
+  "description": "The collection from onerichgroup #1271",
+  "image": "https://nft.onerichgroup.com/nft/1271.jpg",
+  "dna": "78246asmdjsadya6d7851247bec080e519427",
+  "edition": 1,
+  "date": 1689443113828,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

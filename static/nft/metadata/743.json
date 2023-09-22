@@ -1,0 +1,28 @@
+{
+    "name": "Gilevmir  ",
+    "description": "The collection from onerichgroup #743",
+    "image": "https://nft.onerichgroup.com/nft/743.jpg",
+    "dna": "13945asmdjsadya6d7843581bec080e543163",
+    "edition": 1,
+    "date": 1689443113556,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

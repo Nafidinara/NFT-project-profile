@@ -1,0 +1,28 @@
+{
+    "name": "Carenloth  ",
+    "description": "The collection from onerichgroup #1515",
+    "image": "https://nft.onerichgroup.com/nft/1515.jpg",
+    "dna": "35236asmdjsadya6d784293bec080e523255",
+    "edition": 1,
+    "date": 1689443113981,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

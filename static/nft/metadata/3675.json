@@ -1,0 +1,28 @@
+{
+    "name": "Istansil  ",
+    "description": "The collection from onerichgroup #3675",
+    "image": "https://nft.onerichgroup.com/nft/3675.jpg",
+    "dna": "11506asmdjsadya6d7867744bec080e599663",
+    "edition": 1,
+    "date": 1689443115200,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

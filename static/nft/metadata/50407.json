@@ -1,0 +1,28 @@
+{
+    "name": "Elbadedel  ",
+    "description": "The collection from onerichgroup #50407",
+    "image": "https://nft.onerichgroup.com/nft/50407.jpg",
+    "dna": "33571asmdjsadya6d7881786bec080e540215",
+    "edition": 1,
+    "date": 1689478811227,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

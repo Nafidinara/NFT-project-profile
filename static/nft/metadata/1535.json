@@ -1,0 +1,28 @@
+{
+    "name": "Lorebel  ",
+    "description": "The collection from onerichgroup #1535",
+    "image": "https://nft.onerichgroup.com/nft/1535.jpg",
+    "dna": "62720asmdjsadya6d7866589bec080e515944",
+    "edition": 1,
+    "date": 1689443113991,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

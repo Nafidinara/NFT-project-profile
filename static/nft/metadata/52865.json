@@ -1,0 +1,28 @@
+{
+    "name": "Ninirian  ",
+    "description": "The collection from onerichgroup #52865",
+    "image": "https://nft.onerichgroup.com/nft/52865.jpg",
+    "dna": "85797asmdjsadya6d7891237bec080e519613",
+    "edition": 1,
+    "date": 1689478813328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

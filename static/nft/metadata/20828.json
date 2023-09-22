@@ -1,0 +1,28 @@
+{
+    "name": "Melanloth  ",
+    "description": "The collection from onerichgroup #20828",
+    "image": "https://nft.onerichgroup.com/nft/20828.jpg",
+    "dna": "34625asmdjsadya6d7823223bec080e596201",
+    "edition": 1,
+    "date": 1689443119847,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

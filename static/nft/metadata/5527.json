@@ -1,0 +1,28 @@
+{
+    "name": "Ganemloth  ",
+    "description": "The collection from onerichgroup #5527",
+    "image": "https://nft.onerichgroup.com/nft/5527.jpg",
+    "dna": "50035asmdjsadya6d7847832bec080e599560",
+    "edition": 1,
+    "date": 1689443116088,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

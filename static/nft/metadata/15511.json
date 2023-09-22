@@ -1,0 +1,28 @@
+{
+    "name": "Ilmthoneth  ",
+    "description": "The collection from onerichgroup #15511",
+    "image": "https://nft.onerichgroup.com/nft/15511.jpg",
+    "dna": "84677asmdjsadya6d7889038bec080e5407",
+    "edition": 1,
+    "date": 1689443118837,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

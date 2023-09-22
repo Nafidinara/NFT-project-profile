@@ -1,0 +1,28 @@
+{
+    "name": "Ararian  ",
+    "description": "The collection from onerichgroup #705",
+    "image": "https://nft.onerichgroup.com/nft/705.jpg",
+    "dna": "67202asmdjsadya6d785195bec080e559590",
+    "edition": 1,
+    "date": 1689443113548,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

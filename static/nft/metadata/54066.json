@@ -1,0 +1,28 @@
+{
+    "name": "Irevien  ",
+    "description": "The collection from onerichgroup #54066",
+    "image": "https://nft.onerichgroup.com/nft/54066.jpg",
+    "dna": "23686asmdjsadya6d7866854bec080e580001",
+    "edition": 1,
+    "date": 1689478813800,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

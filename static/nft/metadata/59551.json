@@ -1,0 +1,28 @@
+{
+    "name": "Lirilriel  ",
+    "description": "The collection from onerichgroup #59551",
+    "image": "https://nft.onerichgroup.com/nft/59551.jpg",
+    "dna": "71743asmdjsadya6d7871585bec080e593103",
+    "edition": 1,
+    "date": 1689478816434,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Nimeviel  ",
+    "description": "The collection from onerichgroup #6532",
+    "image": "https://nft.onerichgroup.com/nft/6532.jpg",
+    "dna": "57832asmdjsadya6d7850210bec080e513921",
+    "edition": 1,
+    "date": 1689443116457,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

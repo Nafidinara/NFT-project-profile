@@ -1,0 +1,28 @@
+{
+    "name": "Estadeth  ",
+    "description": "The collection from onerichgroup #54915",
+    "image": "https://nft.onerichgroup.com/nft/54915.jpg",
+    "dna": "57877asmdjsadya6d7830423bec080e587818",
+    "edition": 1,
+    "date": 1689478814329,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

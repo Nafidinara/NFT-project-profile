@@ -1,0 +1,28 @@
+{
+    "name": "Gililien  ",
+    "description": "The collection from onerichgroup #21245",
+    "image": "https://nft.onerichgroup.com/nft/21245.jpg",
+    "dna": "86479asmdjsadya6d7876082bec080e582110",
+    "edition": 1,
+    "date": 1689443119903,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

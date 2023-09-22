@@ -1,0 +1,28 @@
+{
+    "name": "Mirasien  ",
+    "description": "The collection from onerichgroup #987",
+    "image": "https://nft.onerichgroup.com/nft/987.jpg",
+    "dna": "64111asmdjsadya6d7885565bec080e532071",
+    "edition": 1,
+    "date": 1689443113637,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

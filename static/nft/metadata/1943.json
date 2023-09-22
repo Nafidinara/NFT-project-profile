@@ -1,0 +1,28 @@
+{
+    "name": "Erlthoneth  ",
+    "description": "The collection from onerichgroup #1943",
+    "image": "https://nft.onerichgroup.com/nft/1943.jpg",
+    "dna": "26536asmdjsadya6d785631bec080e521847",
+    "edition": 1,
+    "date": 1689443114328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rilolsil  ",
+    "description": "The collection from onerichgroup #4921",
+    "image": "https://nft.onerichgroup.com/nft/4921.jpg",
+    "dna": "14580asmdjsadya6d7860312bec080e583096",
+    "edition": 1,
+    "date": 1689443115873,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

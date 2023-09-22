@@ -1,0 +1,28 @@
+{
+    "name": "Irinrian  ",
+    "description": "The collection from onerichgroup #4999",
+    "image": "https://nft.onerichgroup.com/nft/4999.jpg",
+    "dna": "22657asmdjsadya6d7848677bec080e549697",
+    "edition": 1,
+    "date": 1689443115893,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

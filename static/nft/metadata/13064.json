@@ -1,0 +1,27 @@
+{
+  "name": "Calerel  ",
+  "description": "The collection from onerichgroup #13064",
+  "image": "https://nft.onerichgroup.com/nft/13064.jpg",
+  "dna": "47824asmdjsadya6d7830372bec080e575036",
+  "edition": 1,
+  "date": 1689443118061,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Gelamedel  ",
+    "description": "The collection from onerichgroup #51705",
+    "image": "https://nft.onerichgroup.com/nft/51705.jpg",
+    "dna": "37716asmdjsadya6d7893047bec080e595973",
+    "edition": 1,
+    "date": 1689478812461,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

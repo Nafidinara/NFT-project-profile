@@ -1,0 +1,28 @@
+{
+    "name": "Irthonwen  ",
+    "description": "The collection from onerichgroup #60715",
+    "image": "https://nft.onerichgroup.com/nft/60715.jpg",
+    "dna": "47927asmdjsadya6d7834889bec080e598620",
+    "edition": 1,
+    "date": 1689482665229,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

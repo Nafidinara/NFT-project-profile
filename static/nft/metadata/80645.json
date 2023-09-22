@@ -1,0 +1,28 @@
+{
+    "name": "Erlthoniel  ",
+    "description": "The vip collection from onerichgroup #80645",
+    "image": "https://nft.onerichgroup.com/nft/80645.jpg",
+    "dna": "53715iyuirf45edrtd73186vjvtyd45tuy46464",
+    "edition": 1,
+    "date": 1690898984520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

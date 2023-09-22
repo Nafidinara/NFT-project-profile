@@ -1,0 +1,28 @@
+{
+    "name": "Ralanien  ",
+    "description": "The collection from onerichgroup #14615",
+    "image": "https://nft.onerichgroup.com/nft/14615.jpg",
+    "dna": "38094asmdjsadya6d7854468bec080e581367",
+    "edition": 1,
+    "date": 1689443118488,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

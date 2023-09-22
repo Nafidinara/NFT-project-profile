@@ -1,0 +1,28 @@
+{
+    "name": "Ninanloth  ",
+    "description": "The collection from onerichgroup #8950",
+    "image": "https://nft.onerichgroup.com/nft/8950.jpg",
+    "dna": "92526asmdjsadya6d783689bec080e569209",
+    "edition": 1,
+    "date": 1689443117118,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

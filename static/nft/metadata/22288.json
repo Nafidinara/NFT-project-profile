@@ -1,0 +1,28 @@
+{
+    "name": "Melthonwen  ",
+    "description": "The collection from onerichgroup #22288",
+    "image": "https://nft.onerichgroup.com/nft/22288.jpg",
+    "dna": "52419asmdjsadya6d7818593bec080e598195",
+    "edition": 1,
+    "date": 1689443120133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miredsil  ",
+    "description": "The collection from onerichgroup #56606",
+    "image": "https://nft.onerichgroup.com/nft/56606.jpg",
+    "dna": "21515asmdjsadya6d7839921bec080e524119",
+    "edition": 1,
+    "date": 1689478815186,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

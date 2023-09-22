@@ -1,0 +1,28 @@
+{
+    "name": "Finedwen  ",
+    "description": "The collection from onerichgroup #4807",
+    "image": "https://nft.onerichgroup.com/nft/4807.jpg",
+    "dna": "25082asmdjsadya6d7832047bec080e519458",
+    "edition": 1,
+    "date": 1689443115810,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

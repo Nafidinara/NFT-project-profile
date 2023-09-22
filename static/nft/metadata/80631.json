@@ -1,0 +1,28 @@
+{
+    "name": "Elenel  ",
+    "description": "The vip collection from onerichgroup #80631",
+    "image": "https://nft.onerichgroup.com/nft/80631.jpg",
+    "dna": "65608iyuirf45edrtd51715vjvtyd45tuy99924",
+    "edition": 1,
+    "date": 1690898984498,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rilamian  ",
+    "description": "The collection from onerichgroup #32032",
+    "image": "https://nft.onerichgroup.com/nft/32032.jpg",
+    "dna": "55486asmdjsadya6d783546bec080e55651",
+    "edition": 1,
+    "date": 1689443121333,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

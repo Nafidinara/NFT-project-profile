@@ -1,0 +1,49 @@
+{
+  "name": "onerich-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "prettier --write . && nodemon index.js",
+    "lint:check": "prettier --check .",
+    "lint:write": "prettier --write ."
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*": "prettier --write"
+  },
+  "keywords": [],
+  "author": "dhabita",
+  "license": "ISC",
+  "dependencies": {
+    "@wagmi/connectors": "^2.6.6",
+    "@wagmi/core": "^1.3.8",
+    "@web3modal/ethereum": "^2.7.0",
+    "@web3modal/html": "^2.7.0",
+    "compression": "^1.7.4",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "csurf": "^1.11.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "gamer-namer": "^1.0.5",
+    "helmet": "^7.0.0",
+    "husky": "^8.0.3",
+    "path": "^0.12.7",
+    "viem": "^1.3.1",
+    "web3": "^4.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}

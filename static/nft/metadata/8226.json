@@ -1,0 +1,28 @@
+{
+    "name": "Niniredel  ",
+    "description": "The collection from onerichgroup #8226",
+    "image": "https://nft.onerichgroup.com/nft/8226.jpg",
+    "dna": "39490asmdjsadya6d7838365bec080e557710",
+    "edition": 1,
+    "date": 1689443116895,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

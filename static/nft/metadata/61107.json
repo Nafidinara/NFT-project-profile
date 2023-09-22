@@ -1,0 +1,28 @@
+{
+    "name": "Rinaliel  ",
+    "description": "The collection from onerichgroup #61107",
+    "image": "https://nft.onerichgroup.com/nft/61107.jpg",
+    "dna": "922327dje6rgfnbs073275bec080e519705",
+    "edition": 1,
+    "date": 1689584225689,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

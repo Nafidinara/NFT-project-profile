@@ -1,0 +1,28 @@
+{
+    "name": "Melilmir  ",
+    "description": "The collection from onerichgroup #32053",
+    "image": "https://nft.onerichgroup.com/nft/32053.jpg",
+    "dna": "39164asmdjsadya6d7886752bec080e57648",
+    "edition": 1,
+    "date": 1689443121335,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

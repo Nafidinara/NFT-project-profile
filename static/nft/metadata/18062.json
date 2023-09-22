@@ -1,0 +1,28 @@
+{
+    "name": "Mirasrial  ",
+    "description": "The collection from onerichgroup #18062",
+    "image": "https://nft.onerichgroup.com/nft/18062.jpg",
+    "dna": "65324asmdjsadya6d7817701bec080e550960",
+    "edition": 1,
+    "date": 1689443119400,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

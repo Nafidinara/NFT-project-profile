@@ -1,0 +1,28 @@
+{
+    "name": "Eralrian  ",
+    "description": "The collection from onerichgroup #56737",
+    "image": "https://nft.onerichgroup.com/nft/56737.jpg",
+    "dna": "6657asmdjsadya6d7824996bec080e580450",
+    "edition": 1,
+    "date": 1689478815221,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

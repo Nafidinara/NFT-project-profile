@@ -1,0 +1,28 @@
+{
+    "name": "Calermir  ",
+    "description": "The collection from onerichgroup #1749",
+    "image": "https://nft.onerichgroup.com/nft/1749.jpg",
+    "dna": "40037asmdjsadya6d7842976bec080e59374",
+    "edition": 1,
+    "date": 1689443114194,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

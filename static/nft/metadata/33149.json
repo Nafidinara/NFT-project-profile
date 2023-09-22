@@ -1,0 +1,28 @@
+{
+    "name": "Imenloth  ",
+    "description": "The collection from onerichgroup #33149",
+    "image": "https://nft.onerichgroup.com/nft/33149.jpg",
+    "dna": "88048asmdjsadya6d7862749bec080e542985",
+    "edition": 1,
+    "date": 1689443121461,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

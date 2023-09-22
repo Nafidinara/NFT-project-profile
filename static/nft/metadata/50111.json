@@ -1,0 +1,28 @@
+{
+    "name": "Erlebloth  ",
+    "description": "The collection from onerichgroup #50111",
+    "image": "https://nft.onerichgroup.com/nft/50111.jpg",
+    "dna": "25555asmdjsadya6d7821415bec080e519491",
+    "edition": 1,
+    "date": 1689478811154,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

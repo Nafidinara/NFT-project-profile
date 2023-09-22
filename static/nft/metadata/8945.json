@@ -1,0 +1,28 @@
+{
+    "name": "Arthalmir  ",
+    "description": "The collection from onerichgroup #8945",
+    "image": "https://nft.onerichgroup.com/nft/8945.jpg",
+    "dna": "91555asmdjsadya6d7877068bec080e514330",
+    "edition": 1,
+    "date": 1689443117118,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

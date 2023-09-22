@@ -1,0 +1,28 @@
+{
+    "name": "Ninolriel  ",
+    "description": "The collection from onerichgroup #50649",
+    "image": "https://nft.onerichgroup.com/nft/50649.jpg",
+    "dna": "63686asmdjsadya6d7873850bec080e560019",
+    "edition": 1,
+    "date": 1689478811510,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

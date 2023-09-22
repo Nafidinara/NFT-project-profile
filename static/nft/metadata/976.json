@@ -1,0 +1,28 @@
+{
+    "name": "Niremeth  ",
+    "description": "The collection from onerichgroup #976",
+    "image": "https://nft.onerichgroup.com/nft/976.jpg",
+    "dna": "98616asmdjsadya6d7845247bec080e527316",
+    "edition": 1,
+    "date": 1689443113630,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Celadwë  ",
+    "description": "The collection from onerichgroup #51904",
+    "image": "https://nft.onerichgroup.com/nft/51904.jpg",
+    "dna": "27601asmdjsadya6d7840932bec080e577474",
+    "edition": 1,
+    "date": 1689478812577,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Caledel  ",
+    "description": "The collection from onerichgroup #7080",
+    "image": "https://nft.onerichgroup.com/nft/7080.jpg",
+    "dna": "21462asmdjsadya6d7893202bec080e580313",
+    "edition": 1,
+    "date": 1689443116513,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

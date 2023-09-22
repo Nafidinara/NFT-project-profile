@@ -1,0 +1,28 @@
+{
+    "name": "Gilalien  ",
+    "description": "The collection from onerichgroup #60485",
+    "image": "https://nft.onerichgroup.com/nft/60485.jpg",
+    "dna": "85813asmdjsadya6d7884487bec080e52870",
+    "edition": 1,
+    "date": 1689482665029,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

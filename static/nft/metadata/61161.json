@@ -1,0 +1,28 @@
+{
+    "name": "Meraswen  ",
+    "description": "The collection from onerichgroup #61161",
+    "image": "https://nft.onerichgroup.com/nft/61161.jpg",
+    "dna": "802677dje6rgfnbs084289bec080e556810",
+    "edition": 1,
+    "date": 1689584225862,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

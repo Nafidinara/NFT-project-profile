@@ -1,0 +1,28 @@
+{
+    "name": "Larasril  ",
+    "description": "The collection from onerichgroup #31958",
+    "image": "https://nft.onerichgroup.com/nft/31958.jpg",
+    "dna": "56442asmdjsadya6d7812672bec080e523539",
+    "edition": 1,
+    "date": 1689443121328,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

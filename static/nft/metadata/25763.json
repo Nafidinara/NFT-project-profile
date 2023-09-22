@@ -1,0 +1,28 @@
+{
+    "name": "Ciraredel  ",
+    "description": "The collection from onerichgroup #25763",
+    "image": "https://nft.onerichgroup.com/nft/25763.jpg",
+    "dna": "40708asmdjsadya6d7888037bec080e577988",
+    "edition": 1,
+    "date": 1689443120615,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

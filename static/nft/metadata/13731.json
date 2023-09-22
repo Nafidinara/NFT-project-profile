@@ -1,0 +1,27 @@
+{
+  "name": "Anarroël  ",
+  "description": "The collection from onerichgroup #13731",
+  "image": "https://nft.onerichgroup.com/nft/13731.jpg",
+  "dna": "74941asmdjsadya6d7817359bec080e567324",
+  "edition": 1,
+  "date": 1689443118293,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

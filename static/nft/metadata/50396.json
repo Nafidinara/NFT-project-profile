@@ -1,0 +1,28 @@
+{
+    "name": "Clarolwë  ",
+    "description": "The collection from onerichgroup #50396",
+    "image": "https://nft.onerichgroup.com/nft/50396.jpg",
+    "dna": "9147asmdjsadya6d7876115bec080e59029",
+    "edition": 1,
+    "date": 1689478811224,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

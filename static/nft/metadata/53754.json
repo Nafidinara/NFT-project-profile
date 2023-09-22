@@ -1,0 +1,28 @@
+{
+    "name": "Merasrial  ",
+    "description": "The collection from onerichgroup #53754",
+    "image": "https://nft.onerichgroup.com/nft/53754.jpg",
+    "dna": "51645asmdjsadya6d784317bec080e567971",
+    "edition": 1,
+    "date": 1689478813718,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

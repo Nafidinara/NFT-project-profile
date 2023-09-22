@@ -1,0 +1,28 @@
+{
+    "name": "Istadwë  ",
+    "description": "The collection from onerichgroup #50303",
+    "image": "https://nft.onerichgroup.com/nft/50303.jpg",
+    "dna": "76287asmdjsadya6d7883022bec080e561705",
+    "edition": 1,
+    "date": 1689478811204,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

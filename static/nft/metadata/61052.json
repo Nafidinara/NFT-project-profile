@@ -1,0 +1,28 @@
+{
+    "name": "Rilasriel  ",
+    "description": "The collection from onerichgroup #61052",
+    "image": "https://nft.onerichgroup.com/nft/61052.jpg",
+    "dna": "498697dje6rgfnbs046289bec080e599692",
+    "edition": 1,
+    "date": 1689584225461,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

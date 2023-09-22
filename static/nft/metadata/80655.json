@@ -1,0 +1,28 @@
+{
+    "name": "Faramwen  ",
+    "description": "The vip collection from onerichgroup #80655",
+    "image": "https://nft.onerichgroup.com/nft/80655.jpg",
+    "dna": "43402iyuirf45edrtd90858vjvtyd45tuy79809",
+    "edition": 1,
+    "date": 1690898984534,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Garemwë  ",
+    "description": "The collection from onerichgroup #24137",
+    "image": "https://nft.onerichgroup.com/nft/24137.jpg",
+    "dna": "62247asmdjsadya6d7875179bec080e582037",
+    "edition": 1,
+    "date": 1689443120372,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

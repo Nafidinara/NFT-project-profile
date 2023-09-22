@@ -1,0 +1,28 @@
+{
+    "name": "Istthalrien  ",
+    "description": "The collection from onerichgroup #54143",
+    "image": "https://nft.onerichgroup.com/nft/54143.jpg",
+    "dna": "82338asmdjsadya6d7877665bec080e589555",
+    "edition": 1,
+    "date": 1689478813826,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

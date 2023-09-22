@@ -1,0 +1,28 @@
+{
+    "name": "Gileriel  ",
+    "description": "The collection from onerichgroup #53313",
+    "image": "https://nft.onerichgroup.com/nft/53313.jpg",
+    "dna": "575asmdjsadya6d7856664bec080e568008",
+    "edition": 1,
+    "date": 1689478813507,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

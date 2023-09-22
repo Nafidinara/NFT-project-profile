@@ -1,0 +1,28 @@
+{
+    "name": "Estebrial  ",
+    "description": "The collection from onerichgroup #16404",
+    "image": "https://nft.onerichgroup.com/nft/16404.jpg",
+    "dna": "85857asmdjsadya6d7881400bec080e56955",
+    "edition": 1,
+    "date": 1689443118972,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

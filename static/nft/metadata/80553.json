@@ -1,0 +1,28 @@
+{
+    "name": "Maradril  ",
+    "description": "The vip collection from onerichgroup #80553",
+    "image": "https://nft.onerichgroup.com/nft/80553.jpg",
+    "dna": "7493iyuirf45edrtd16988vjvtyd45tuy7325",
+    "edition": 1,
+    "date": 1690898984378,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

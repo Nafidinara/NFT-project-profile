@@ -1,0 +1,28 @@
+{
+    "name": "Anasriel  ",
+    "description": "The collection from onerichgroup #61196",
+    "image": "https://nft.onerichgroup.com/nft/61196.jpg",
+    "dna": "706027dje6rgfnbs09874bec080e571687",
+    "edition": 1,
+    "date": 1689584226071,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

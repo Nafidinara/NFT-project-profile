@@ -1,0 +1,28 @@
+{
+    "name": "Calarloth  ",
+    "description": "The collection from onerichgroup #51937",
+    "image": "https://nft.onerichgroup.com/nft/51937.jpg",
+    "dna": "2253asmdjsadya6d7833466bec080e516982",
+    "edition": 1,
+    "date": 1689478812612,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

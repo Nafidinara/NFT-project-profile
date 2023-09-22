@@ -1,0 +1,28 @@
+{
+    "name": "Galevian  ",
+    "description": "The collection from onerichgroup #54133",
+    "image": "https://nft.onerichgroup.com/nft/54133.jpg",
+    "dna": "25075asmdjsadya6d7873616bec080e547272",
+    "edition": 1,
+    "date": 1689478813822,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

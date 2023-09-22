@@ -1,0 +1,28 @@
+{
+    "name": "Celelel  ",
+    "description": "The collection from onerichgroup #15886",
+    "image": "https://nft.onerichgroup.com/nft/15886.jpg",
+    "dna": "86917asmdjsadya6d7864377bec080e599256",
+    "edition": 1,
+    "date": 1689443118888,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

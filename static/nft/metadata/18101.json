@@ -1,0 +1,28 @@
+{
+    "name": "Rinammir  ",
+    "description": "The collection from onerichgroup #18101",
+    "image": "https://nft.onerichgroup.com/nft/18101.jpg",
+    "dna": "4045asmdjsadya6d7837691bec080e574627",
+    "edition": 1,
+    "date": 1689443119405,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

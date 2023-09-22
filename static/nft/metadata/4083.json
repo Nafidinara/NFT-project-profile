@@ -1,0 +1,28 @@
+{
+    "name": "Melthoniel  ",
+    "description": "The collection from onerichgroup #4083",
+    "image": "https://nft.onerichgroup.com/nft/4083.jpg",
+    "dna": "62452asmdjsadya6d7854806bec080e58332",
+    "edition": 1,
+    "date": 1689443115411,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

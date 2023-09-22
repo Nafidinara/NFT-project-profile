@@ -1,0 +1,28 @@
+{
+    "name": "Laranwen  ",
+    "description": "The collection from onerichgroup #4331",
+    "image": "https://nft.onerichgroup.com/nft/4331.jpg",
+    "dna": "53359asmdjsadya6d7875093bec080e538132",
+    "edition": 1,
+    "date": 1689443115538,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

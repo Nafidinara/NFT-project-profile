@@ -1,0 +1,28 @@
+{
+    "name": "Ireswë  ",
+    "description": "The collection from onerichgroup #233",
+    "image": "https://nft.onerichgroup.com/nft/233.jpg",
+    "dna": "3629asmdjsadya6d7870568bec080e547931",
+    "edition": 1,
+    "date": 1689443113230,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

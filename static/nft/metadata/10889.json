@@ -1,0 +1,27 @@
+{
+  "name": "Celaledel  ",
+  "description": "The collection from onerichgroup #10889",
+  "image": "https://nft.onerichgroup.com/nft/10889.jpg",
+  "dna": "84647asmdjsadya6d785642bec080e570305",
+  "edition": 1,
+  "date": 1689443117528,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

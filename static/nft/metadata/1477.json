@@ -1,0 +1,28 @@
+{
+    "name": "Istilril  ",
+    "description": "The collection from onerichgroup #1477",
+    "image": "https://nft.onerichgroup.com/nft/1477.jpg",
+    "dna": "15287asmdjsadya6d7874710bec080e582230",
+    "edition": 1,
+    "date": 1689443113955,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

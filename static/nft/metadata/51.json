@@ -1,0 +1,28 @@
+{
+    "name": "Ranthaleth  ",
+    "description": "The collection from onerichgroup #51",
+    "image": "https://nft.onerichgroup.com/nft/51.jpg",
+    "dna": "94721asmdjsadya6d7895059bec080e563450",
+    "edition": 1,
+    "date": 1689443113171,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

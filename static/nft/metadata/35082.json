@@ -1,0 +1,28 @@
+{
+    "name": "Inthalrial  ",
+    "description": "The collection from onerichgroup #35082",
+    "image": "https://nft.onerichgroup.com/nft/35082.jpg",
+    "dna": "36742asmdjsadya6d7844970bec080e546364",
+    "edition": 1,
+    "date": 1689443121604,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

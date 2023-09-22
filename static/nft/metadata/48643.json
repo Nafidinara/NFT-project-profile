@@ -1,0 +1,28 @@
+{
+    "name": "Imanmir  ",
+    "description": "The collection from onerichgroup #48643",
+    "image": "https://nft.onerichgroup.com/nft/48643.jpg",
+    "dna": "18130asmdjsadya6d7824068bec080e58058",
+    "edition": 1,
+    "date": 1689443122400,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Anemriel  ",
+    "description": "The collection from onerichgroup #7120",
+    "image": "https://nft.onerichgroup.com/nft/7120.jpg",
+    "dna": "99972asmdjsadya6d7827859bec080e568978",
+    "edition": 1,
+    "date": 1689443116517,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

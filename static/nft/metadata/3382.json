@@ -1,0 +1,28 @@
+{
+    "name": "Garemloth  ",
+    "description": "The collection from onerichgroup #3382",
+    "image": "https://nft.onerichgroup.com/nft/3382.jpg",
+    "dna": "58471asmdjsadya6d7880310bec080e513666",
+    "edition": 1,
+    "date": 1689443115042,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

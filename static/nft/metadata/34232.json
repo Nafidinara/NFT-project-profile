@@ -1,0 +1,28 @@
+{
+    "name": "Liresel  ",
+    "description": "The collection from onerichgroup #34232",
+    "image": "https://nft.onerichgroup.com/nft/34232.jpg",
+    "dna": "15844asmdjsadya6d7838552bec080e551935",
+    "edition": 1,
+    "date": 1689443121564,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

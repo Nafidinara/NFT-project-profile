@@ -1,0 +1,28 @@
+{
+    "name": "Riladian  ",
+    "description": "The collection from onerichgroup #59776",
+    "image": "https://nft.onerichgroup.com/nft/59776.jpg",
+    "dna": "83210asmdjsadya6d7892084bec080e534539",
+    "edition": 1,
+    "date": 1689478816492,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

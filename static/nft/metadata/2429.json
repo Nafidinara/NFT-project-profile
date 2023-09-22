@@ -1,0 +1,28 @@
+{
+    "name": "Rimalmir  ",
+    "description": "The collection from onerichgroup #2429",
+    "image": "https://nft.onerichgroup.com/nft/2429.jpg",
+    "dna": "63989asmdjsadya6d7836858bec080e553635",
+    "edition": 1,
+    "date": 1689443114562,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Calthalrial  ",
+  "description": "The collection from onerichgroup #11417",
+  "image": "https://nft.onerichgroup.com/nft/11417.jpg",
+  "dna": "29940asmdjsadya6d7885516bec080e594737",
+  "edition": 1,
+  "date": 1689443117599,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

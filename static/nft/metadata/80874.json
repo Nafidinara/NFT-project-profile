@@ -1,0 +1,28 @@
+{
+    "name": "Ralaswen  ",
+    "description": "The vip collection from onerichgroup #80874",
+    "image": "https://nft.onerichgroup.com/nft/80874.jpg",
+    "dna": "29204iyuirf45edrtd29327vjvtyd45tuy98972",
+    "edition": 1,
+    "date": 1690898985444,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

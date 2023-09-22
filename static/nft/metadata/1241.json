@@ -1,0 +1,27 @@
+{
+  "name": "Rinarwë  ",
+  "description": "The collection from onerichgroup #1241",
+  "image": "https://nft.onerichgroup.com/nft/1241.jpg",
+  "dna": "63368asmdjsadya6d7880015bec080e544751",
+  "edition": 1,
+  "date": 1689443113812,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

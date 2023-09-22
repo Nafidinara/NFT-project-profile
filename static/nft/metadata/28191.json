@@ -1,0 +1,28 @@
+{
+    "name": "Melelriel  ",
+    "description": "The collection from onerichgroup #28191",
+    "image": "https://nft.onerichgroup.com/nft/28191.jpg",
+    "dna": "60244asmdjsadya6d7881361bec080e591429",
+    "edition": 1,
+    "date": 1689443120790,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

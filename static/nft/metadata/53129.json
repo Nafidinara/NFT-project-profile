@@ -1,0 +1,28 @@
+{
+    "name": "Lareliel  ",
+    "description": "The collection from onerichgroup #53129",
+    "image": "https://nft.onerichgroup.com/nft/53129.jpg",
+    "dna": "29230asmdjsadya6d7813544bec080e522540",
+    "edition": 1,
+    "date": 1689478813434,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

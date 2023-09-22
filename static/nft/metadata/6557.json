@@ -1,0 +1,28 @@
+{
+    "name": "Ilmaswen  ",
+    "description": "The collection from onerichgroup #6557",
+    "image": "https://nft.onerichgroup.com/nft/6557.jpg",
+    "dna": "43420asmdjsadya6d7868508bec080e567794",
+    "edition": 1,
+    "date": 1689443116459,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

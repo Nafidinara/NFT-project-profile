@@ -1,0 +1,28 @@
+{
+    "name": "Rinadel  ",
+    "description": "The collection from onerichgroup #2980",
+    "image": "https://nft.onerichgroup.com/nft/2980.jpg",
+    "dna": "97619asmdjsadya6d7841898bec080e511922",
+    "edition": 1,
+    "date": 1689443114710,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

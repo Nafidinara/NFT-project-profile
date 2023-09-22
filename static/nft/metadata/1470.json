@@ -1,0 +1,28 @@
+{
+    "name": "Celasril  ",
+    "description": "The collection from onerichgroup #1470",
+    "image": "https://nft.onerichgroup.com/nft/1470.jpg",
+    "dna": "31946asmdjsadya6d7850730bec080e577689",
+    "edition": 1,
+    "date": 1689443113953,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

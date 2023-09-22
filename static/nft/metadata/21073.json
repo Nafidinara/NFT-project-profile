@@ -1,0 +1,28 @@
+{
+    "name": "Rimanroël  ",
+    "description": "The collection from onerichgroup #21073",
+    "image": "https://nft.onerichgroup.com/nft/21073.jpg",
+    "dna": "91128asmdjsadya6d7817656bec080e518207",
+    "edition": 1,
+    "date": 1689443119882,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

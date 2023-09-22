@@ -1,0 +1,28 @@
+{
+    "name": "Elameth  ",
+    "description": "The collection from onerichgroup #44249",
+    "image": "https://nft.onerichgroup.com/nft/44249.jpg",
+    "dna": "29951asmdjsadya6d7881551bec080e550013",
+    "edition": 1,
+    "date": 1689443122199,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

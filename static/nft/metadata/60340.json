@@ -1,0 +1,28 @@
+{
+    "name": "Nimadriel  ",
+    "description": "The collection from onerichgroup #60340",
+    "image": "https://nft.onerichgroup.com/nft/60340.jpg",
+    "dna": "35701asmdjsadya6d7895867bec080e532124",
+    "edition": 1,
+    "date": 1689482664908,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

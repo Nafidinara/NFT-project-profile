@@ -1,0 +1,28 @@
+{
+    "name": "Clarermir  ",
+    "description": "The vip collection from onerichgroup #80229",
+    "image": "https://nft.onerichgroup.com/nft/80229.jpg",
+    "dna": "98302iyuirf45edrtd14363vjvtyd45tuy15758",
+    "edition": 1,
+    "date": 1690898983405,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

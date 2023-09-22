@@ -1,0 +1,28 @@
+{
+    "name": "Erlilsil  ",
+    "description": "The collection from onerichgroup #54309",
+    "image": "https://nft.onerichgroup.com/nft/54309.jpg",
+    "dna": "92894asmdjsadya6d7862017bec080e543710",
+    "edition": 1,
+    "date": 1689478813974,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

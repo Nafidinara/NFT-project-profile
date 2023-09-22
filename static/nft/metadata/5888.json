@@ -1,0 +1,28 @@
+{
+    "name": "Ciraleth  ",
+    "description": "The collection from onerichgroup #5888",
+    "image": "https://nft.onerichgroup.com/nft/5888.jpg",
+    "dna": "12861asmdjsadya6d7889508bec080e599790",
+    "edition": 1,
+    "date": 1689443116322,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

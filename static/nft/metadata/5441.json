@@ -1,0 +1,28 @@
+{
+    "name": "Melelroël  ",
+    "description": "The collection from onerichgroup #5441",
+    "image": "https://nft.onerichgroup.com/nft/5441.jpg",
+    "dna": "94801asmdjsadya6d7848030bec080e546121",
+    "edition": 1,
+    "date": 1689443116063,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

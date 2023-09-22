@@ -1,0 +1,27 @@
+{
+  "name": "Lireleth  ",
+  "description": "The collection from onerichgroup #10065",
+  "image": "https://nft.onerichgroup.com/nft/10065.jpg",
+  "dna": "31825asmdjsadya6d7883389bec080e51060",
+  "edition": 1,
+  "date": 1689443117466,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

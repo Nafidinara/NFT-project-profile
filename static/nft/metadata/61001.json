@@ -1,0 +1,28 @@
+{
+    "name": "Inedloth  ",
+    "description": "The collection from onerichgroup #61001",
+    "image": "https://nft.onerichgroup.com/nft/61001.jpg",
+    "dna": "435047dje6rgfnbs020094bec080e565477",
+    "edition": 1,
+    "date": 1689584225395,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Lirerroël  ",
+    "description": "The collection from onerichgroup #20133",
+    "image": "https://nft.onerichgroup.com/nft/20133.jpg",
+    "dna": "74386asmdjsadya6d7849237bec080e591094",
+    "edition": 1,
+    "date": 1689443119730,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

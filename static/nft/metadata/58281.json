@@ -1,0 +1,28 @@
+{
+    "name": "Lorthonloth  ",
+    "description": "The collection from onerichgroup #58281",
+    "image": "https://nft.onerichgroup.com/nft/58281.jpg",
+    "dna": "28803asmdjsadya6d786123bec080e585430",
+    "edition": 1,
+    "date": 1689478815929,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

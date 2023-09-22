@@ -1,0 +1,28 @@
+{
+    "name": "Celadien  ",
+    "description": "The collection from onerichgroup #38031",
+    "image": "https://nft.onerichgroup.com/nft/38031.jpg",
+    "dna": "43036asmdjsadya6d7841169bec080e518384",
+    "edition": 1,
+    "date": 1689443121775,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

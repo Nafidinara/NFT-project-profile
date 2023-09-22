@@ -1,0 +1,28 @@
+{
+    "name": "Rilirwë  ",
+    "description": "The collection from onerichgroup #17382",
+    "image": "https://nft.onerichgroup.com/nft/17382.jpg",
+    "dna": "12471asmdjsadya6d7865638bec080e527668",
+    "edition": 1,
+    "date": 1689443119295,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Imaleth  ",
+    "description": "The collection from onerichgroup #3708",
+    "image": "https://nft.onerichgroup.com/nft/3708.jpg",
+    "dna": "97119asmdjsadya6d7828135bec080e519709",
+    "edition": 1,
+    "date": 1689443115213,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

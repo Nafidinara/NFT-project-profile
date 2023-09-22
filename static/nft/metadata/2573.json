@@ -1,0 +1,28 @@
+{
+    "name": "Raninmir  ",
+    "description": "The collection from onerichgroup #2573",
+    "image": "https://nft.onerichgroup.com/nft/2573.jpg",
+    "dna": "67168asmdjsadya6d7832761bec080e544044",
+    "edition": 1,
+    "date": 1689443114611,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

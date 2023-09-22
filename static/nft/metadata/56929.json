@@ -1,0 +1,28 @@
+{
+    "name": "Garasril  ",
+    "description": "The collection from onerichgroup #56929",
+    "image": "https://nft.onerichgroup.com/nft/56929.jpg",
+    "dna": "54920asmdjsadya6d78811bec080e552726",
+    "edition": 1,
+    "date": 1689478815276,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Melasel  ",
+    "description": "The collection from onerichgroup #8442",
+    "image": "https://nft.onerichgroup.com/nft/8442.jpg",
+    "dna": "551asmdjsadya6d7821551bec080e51220",
+    "edition": 1,
+    "date": 1689443116945,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

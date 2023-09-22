@@ -1,0 +1,28 @@
+{
+    "name": "Istermir  ",
+    "description": "The collection from onerichgroup #8237",
+    "image": "https://nft.onerichgroup.com/nft/8237.jpg",
+    "dna": "87484asmdjsadya6d784632bec080e567090",
+    "edition": 1,
+    "date": 1689443116898,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

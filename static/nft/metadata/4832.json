@@ -1,0 +1,28 @@
+{
+    "name": "Erebiel  ",
+    "description": "The collection from onerichgroup #4832",
+    "image": "https://nft.onerichgroup.com/nft/4832.jpg",
+    "dna": "2167asmdjsadya6d784092bec080e54407",
+    "edition": 1,
+    "date": 1689443115817,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

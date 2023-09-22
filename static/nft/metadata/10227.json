@@ -1,0 +1,27 @@
+{
+  "name": "Ganthalian  ",
+  "description": "The collection from onerichgroup #10227",
+  "image": "https://nft.onerichgroup.com/nft/10227.jpg",
+  "dna": "62759asmdjsadya6d7886497bec080e592676",
+  "edition": 1,
+  "date": 1689443117479,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

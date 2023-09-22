@@ -1,0 +1,28 @@
+{
+    "name": "Finelrien  ",
+    "description": "The collection from onerichgroup #59168",
+    "image": "https://nft.onerichgroup.com/nft/59168.jpg",
+    "dna": "269asmdjsadya6d7857314bec080e539335",
+    "edition": 1,
+    "date": 1689478816224,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

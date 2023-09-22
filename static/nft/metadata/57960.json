@@ -1,0 +1,28 @@
+{
+    "name": "Ralamsil  ",
+    "description": "The collection from onerichgroup #57960",
+    "image": "https://nft.onerichgroup.com/nft/57960.jpg",
+    "dna": "30675asmdjsadya6d784520bec080e57552",
+    "edition": 1,
+    "date": 1689478815774,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

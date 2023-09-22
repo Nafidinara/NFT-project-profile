@@ -1,0 +1,27 @@
+{
+  "name": "Ganaliel  ",
+  "description": "The collection from onerichgroup #13324",
+  "image": "https://nft.onerichgroup.com/nft/13324.jpg",
+  "dna": "21695asmdjsadya6d7899472bec080e530082",
+  "edition": 1,
+  "date": 1689443118192,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

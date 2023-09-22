@@ -1,0 +1,28 @@
+{
+    "name": "Irasien  ",
+    "description": "The collection from onerichgroup #7665",
+    "image": "https://nft.onerichgroup.com/nft/7665.jpg",
+    "dna": "92255asmdjsadya6d7891039bec080e518473",
+    "edition": 1,
+    "date": 1689443116626,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

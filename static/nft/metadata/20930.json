@@ -1,0 +1,28 @@
+{
+    "name": "Eloleth  ",
+    "description": "The collection from onerichgroup #20930",
+    "image": "https://nft.onerichgroup.com/nft/20930.jpg",
+    "dna": "47970asmdjsadya6d7861136bec080e515319",
+    "edition": 1,
+    "date": 1689443119863,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

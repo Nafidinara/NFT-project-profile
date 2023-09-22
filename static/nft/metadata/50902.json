@@ -1,0 +1,28 @@
+{
+    "name": "Relerroël  ",
+    "description": "The collection from onerichgroup #50902",
+    "image": "https://nft.onerichgroup.com/nft/50902.jpg",
+    "dna": "85723asmdjsadya6d782013bec080e528798",
+    "edition": 1,
+    "date": 1689478811751,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

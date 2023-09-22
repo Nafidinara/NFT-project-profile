@@ -1,0 +1,28 @@
+{
+    "name": "Celalsil  ",
+    "description": "The collection from onerichgroup #2312",
+    "image": "https://nft.onerichgroup.com/nft/2312.jpg",
+    "dna": "78319asmdjsadya6d7824170bec080e544892",
+    "edition": 1,
+    "date": 1689443114544,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

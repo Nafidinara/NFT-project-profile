@@ -1,0 +1,28 @@
+{
+    "name": "Rimesrian  ",
+    "description": "The collection from onerichgroup #3721",
+    "image": "https://nft.onerichgroup.com/nft/3721.jpg",
+    "dna": "57101asmdjsadya6d7831960bec080e544066",
+    "edition": 1,
+    "date": 1689443115217,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

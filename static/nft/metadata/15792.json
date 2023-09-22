@@ -1,0 +1,28 @@
+{
+    "name": "Rinevrien  ",
+    "description": "The collection from onerichgroup #15792",
+    "image": "https://nft.onerichgroup.com/nft/15792.jpg",
+    "dna": "5679asmdjsadya6d7888808bec080e53195",
+    "edition": 1,
+    "date": 1689443118875,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

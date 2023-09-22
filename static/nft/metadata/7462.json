@@ -1,0 +1,28 @@
+{
+    "name": "Irthoneth  ",
+    "description": "The collection from onerichgroup #7462",
+    "image": "https://nft.onerichgroup.com/nft/7462.jpg",
+    "dna": "17378asmdjsadya6d786466bec080e548194",
+    "edition": 1,
+    "date": 1689443116596,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

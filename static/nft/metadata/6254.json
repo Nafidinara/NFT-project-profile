@@ -1,0 +1,28 @@
+{
+    "name": "Gilthoneth  ",
+    "description": "The collection from onerichgroup #6254",
+    "image": "https://nft.onerichgroup.com/nft/6254.jpg",
+    "dna": "95407asmdjsadya6d781611bec080e544397",
+    "edition": 1,
+    "date": 1689443116427,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

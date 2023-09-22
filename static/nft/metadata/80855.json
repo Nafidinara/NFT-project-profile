@@ -1,0 +1,28 @@
+{
+    "name": "Ralasien  ",
+    "description": "The vip collection from onerichgroup #80855",
+    "image": "https://nft.onerichgroup.com/nft/80855.jpg",
+    "dna": "77590iyuirf45edrtd59805vjvtyd45tuy96879",
+    "edition": 1,
+    "date": 1690898985353,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

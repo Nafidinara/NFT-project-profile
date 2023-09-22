@@ -1,0 +1,28 @@
+{
+    "name": "Larerrial  ",
+    "description": "The collection from onerichgroup #16312",
+    "image": "https://nft.onerichgroup.com/nft/16312.jpg",
+    "dna": "91008asmdjsadya6d7863681bec080e544989",
+    "edition": 1,
+    "date": 1689443118953,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

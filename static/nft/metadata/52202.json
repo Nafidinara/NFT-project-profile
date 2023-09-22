@@ -1,0 +1,28 @@
+{
+    "name": "Estersil  ",
+    "description": "The collection from onerichgroup #52202",
+    "image": "https://nft.onerichgroup.com/nft/52202.jpg",
+    "dna": "47470asmdjsadya6d7837528bec080e553050",
+    "edition": 1,
+    "date": 1689478812838,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

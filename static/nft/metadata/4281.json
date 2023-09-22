@@ -1,0 +1,28 @@
+{
+    "name": "Caramian  ",
+    "description": "The collection from onerichgroup #4281",
+    "image": "https://nft.onerichgroup.com/nft/4281.jpg",
+    "dna": "41217asmdjsadya6d7813636bec080e540809",
+    "edition": 1,
+    "date": 1689443115520,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

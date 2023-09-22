@@ -1,0 +1,28 @@
+{
+    "name": "Istelel  ",
+    "description": "The collection from onerichgroup #6159",
+    "image": "https://nft.onerichgroup.com/nft/6159.jpg",
+    "dna": "41607asmdjsadya6d7875427bec080e555437",
+    "edition": 1,
+    "date": 1689443116411,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

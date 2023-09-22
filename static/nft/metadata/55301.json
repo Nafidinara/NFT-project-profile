@@ -1,0 +1,28 @@
+{
+    "name": "Irthonwen  ",
+    "description": "The collection from onerichgroup #55301",
+    "image": "https://nft.onerichgroup.com/nft/55301.jpg",
+    "dna": "30779asmdjsadya6d7837044bec080e581160",
+    "edition": 1,
+    "date": 1689478814530,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

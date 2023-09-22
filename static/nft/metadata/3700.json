@@ -1,0 +1,28 @@
+{
+    "name": "Meliredel  ",
+    "description": "The collection from onerichgroup #3700",
+    "image": "https://nft.onerichgroup.com/nft/3700.jpg",
+    "dna": "10902asmdjsadya6d7849861bec080e544454",
+    "edition": 1,
+    "date": 1689443115211,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Cirerrien  ",
+    "description": "The collection from onerichgroup #52462",
+    "image": "https://nft.onerichgroup.com/nft/52462.jpg",
+    "dna": "40062asmdjsadya6d7854840bec080e584648",
+    "edition": 1,
+    "date": 1689478813059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Inerriel  ",
+  "description": "The collection from onerichgroup #11187",
+  "image": "https://nft.onerichgroup.com/nft/11187.jpg",
+  "dna": "79945asmdjsadya6d7878636bec080e558018",
+  "edition": 1,
+  "date": 1689443117555,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Melthonian  ",
+    "description": "The collection from onerichgroup #26678",
+    "image": "https://nft.onerichgroup.com/nft/26678.jpg",
+    "dna": "99969asmdjsadya6d7875041bec080e533189",
+    "edition": 1,
+    "date": 1689443120675,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

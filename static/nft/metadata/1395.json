@@ -1,0 +1,28 @@
+{
+    "name": "Miramrien  ",
+    "description": "The collection from onerichgroup #1395",
+    "image": "https://nft.onerichgroup.com/nft/1395.jpg",
+    "dna": "4056asmdjsadya6d7868326bec080e572525",
+    "edition": 1,
+    "date": 1689443113924,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

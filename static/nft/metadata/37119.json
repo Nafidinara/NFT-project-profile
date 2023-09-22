@@ -1,0 +1,28 @@
+{
+    "name": "Marthonloth  ",
+    "description": "The collection from onerichgroup #37119",
+    "image": "https://nft.onerichgroup.com/nft/37119.jpg",
+    "dna": "49275asmdjsadya6d7859265bec080e592172",
+    "edition": 1,
+    "date": 1689443121685,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

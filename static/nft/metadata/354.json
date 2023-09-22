@@ -1,0 +1,28 @@
+{
+    "name": "Reledmir  ",
+    "description": "The collection from onerichgroup #354",
+    "image": "https://nft.onerichgroup.com/nft/354.jpg",
+    "dna": "12867asmdjsadya6d7868612bec080e527556",
+    "edition": 1,
+    "date": 1689443113269,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Eramrian  ",
+    "description": "The collection from onerichgroup #51485",
+    "image": "https://nft.onerichgroup.com/nft/51485.jpg",
+    "dna": "54635asmdjsadya6d7870798bec080e595082",
+    "edition": 1,
+    "date": 1689478812316,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

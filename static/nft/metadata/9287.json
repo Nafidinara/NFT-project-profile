@@ -1,0 +1,28 @@
+{
+    "name": "Elebloth  ",
+    "description": "The collection from onerichgroup #9287",
+    "image": "https://nft.onerichgroup.com/nft/9287.jpg",
+    "dna": "87083asmdjsadya6d7810031bec080e580485",
+    "edition": 1,
+    "date": 1689443117314,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

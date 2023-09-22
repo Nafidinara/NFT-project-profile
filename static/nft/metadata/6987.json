@@ -1,0 +1,28 @@
+{
+    "name": "Laranwë  ",
+    "description": "The collection from onerichgroup #6987",
+    "image": "https://nft.onerichgroup.com/nft/6987.jpg",
+    "dna": "97130asmdjsadya6d7817376bec080e597502",
+    "edition": 1,
+    "date": 1689443116504,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Erebril  ",
+    "description": "The vip collection from onerichgroup #80554",
+    "image": "https://nft.onerichgroup.com/nft/80554.jpg",
+    "dna": "46570iyuirf45edrtd48785vjvtyd45tuy56573",
+    "edition": 1,
+    "date": 1690898984379,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

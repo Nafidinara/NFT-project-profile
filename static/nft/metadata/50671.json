@@ -1,0 +1,28 @@
+{
+    "name": "Meredel  ",
+    "description": "The collection from onerichgroup #50671",
+    "image": "https://nft.onerichgroup.com/nft/50671.jpg",
+    "dna": "37658asmdjsadya6d786990bec080e599803",
+    "edition": 1,
+    "date": 1689478811530,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

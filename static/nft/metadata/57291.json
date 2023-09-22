@@ -1,0 +1,28 @@
+{
+    "name": "Erleseth  ",
+    "description": "The collection from onerichgroup #57291",
+    "image": "https://nft.onerichgroup.com/nft/57291.jpg",
+    "dna": "52512asmdjsadya6d7882998bec080e583947",
+    "edition": 1,
+    "date": 1689478815498,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Miresiel  ",
+    "description": "The collection from onerichgroup #52901",
+    "image": "https://nft.onerichgroup.com/nft/52901.jpg",
+    "dna": "75153asmdjsadya6d7832406bec080e565226",
+    "edition": 1,
+    "date": 1689478813338,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

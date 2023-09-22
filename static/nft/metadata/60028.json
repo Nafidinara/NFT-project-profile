@@ -1,0 +1,28 @@
+{
+    "name": "Lorerloth  ",
+    "description": "The collection from onerichgroup #60028",
+    "image": "https://nft.onerichgroup.com/nft/60028.jpg",
+    "dna": "32628asmdjsadya6d7839849bec080e530627",
+    "edition": 1,
+    "date": 1689482664836,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

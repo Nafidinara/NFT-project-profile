@@ -1,0 +1,27 @@
+{
+  "name": "Irinsil  ",
+  "description": "The collection from onerichgroup #13244",
+  "image": "https://nft.onerichgroup.com/nft/13244.jpg",
+  "dna": "34144asmdjsadya6d7893989bec080e574028",
+  "edition": 1,
+  "date": 1689443118134,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

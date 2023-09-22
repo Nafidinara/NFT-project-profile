@@ -1,0 +1,28 @@
+{
+    "name": "Giladel  ",
+    "description": "The collection from onerichgroup #54573",
+    "image": "https://nft.onerichgroup.com/nft/54573.jpg",
+    "dna": "82423asmdjsadya6d7824475bec080e527768",
+    "edition": 1,
+    "date": 1689478814095,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ninarsil  ",
+    "description": "The collection from onerichgroup #7079",
+    "image": "https://nft.onerichgroup.com/nft/7079.jpg",
+    "dna": "93299asmdjsadya6d785433bec080e598728",
+    "edition": 1,
+    "date": 1689443116513,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

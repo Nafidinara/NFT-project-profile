@@ -1,0 +1,28 @@
+{
+    "name": "Celthalloth  ",
+    "description": "The collection from onerichgroup #20758",
+    "image": "https://nft.onerichgroup.com/nft/20758.jpg",
+    "dna": "52095asmdjsadya6d7871085bec080e539306",
+    "edition": 1,
+    "date": 1689443119843,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

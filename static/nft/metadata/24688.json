@@ -1,0 +1,28 @@
+{
+    "name": "Rimerel  ",
+    "description": "The collection from onerichgroup #24688",
+    "image": "https://nft.onerichgroup.com/nft/24688.jpg",
+    "dna": "36948asmdjsadya6d7846327bec080e523149",
+    "edition": 1,
+    "date": 1689443120466,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

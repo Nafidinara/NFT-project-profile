@@ -1,0 +1,27 @@
+{
+  "name": "Rililmir  ",
+  "description": "The collection from onerichgroup #13883",
+  "image": "https://nft.onerichgroup.com/nft/13883.jpg",
+  "dna": "62805asmdjsadya6d7861659bec080e598035",
+  "edition": 1,
+  "date": 1689443118327,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

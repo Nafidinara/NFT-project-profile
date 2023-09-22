@@ -1,0 +1,28 @@
+{
+    "name": "Carerian  ",
+    "description": "The collection from onerichgroup #7111",
+    "image": "https://nft.onerichgroup.com/nft/7111.jpg",
+    "dna": "3768asmdjsadya6d7826002bec080e524764",
+    "edition": 1,
+    "date": 1689443116516,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Galthonroël  ",
+    "description": "The collection from onerichgroup #14709",
+    "image": "https://nft.onerichgroup.com/nft/14709.jpg",
+    "dna": "39194asmdjsadya6d7841717bec080e591434",
+    "edition": 1,
+    "date": 1689443118504,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

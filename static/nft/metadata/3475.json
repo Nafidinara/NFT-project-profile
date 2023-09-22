@@ -1,0 +1,28 @@
+{
+    "name": "Rimemedel  ",
+    "description": "The collection from onerichgroup #3475",
+    "image": "https://nft.onerichgroup.com/nft/3475.jpg",
+    "dna": "79800asmdjsadya6d7892690bec080e523916",
+    "edition": 1,
+    "date": 1689443115065,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

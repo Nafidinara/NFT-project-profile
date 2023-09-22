@@ -1,0 +1,28 @@
+{
+    "name": "Aremeth  ",
+    "description": "The collection from onerichgroup #3229",
+    "image": "https://nft.onerichgroup.com/nft/3229.jpg",
+    "dna": "62552asmdjsadya6d7854559bec080e521841",
+    "edition": 1,
+    "date": 1689443114932,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Aralriel  ",
+    "description": "The collection from onerichgroup #5392",
+    "image": "https://nft.onerichgroup.com/nft/5392.jpg",
+    "dna": "3405asmdjsadya6d7864861bec080e573148",
+    "edition": 1,
+    "date": 1689443116051,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

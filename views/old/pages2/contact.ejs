@@ -1,0 +1,82 @@
+<%- include("header2.ejs") %>
+
+
+
+    <!-- end Header -->
+    <section class="page-title ">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="breadcrumbs" data-aos="zoom-in" data-aos-duration="800">
+                        <h3>Contact Us</h3>
+                        <ul>
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            <li>
+                                <span class="icon">
+                                    <svg width="5" height="9" viewBox="0 0 5 9" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M0.9375 1.375L4.0625 4.5L0.9375 7.625" stroke="white"
+                                            stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+                                    </svg>
+                                </span>
+                                <span>Contact Us</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="tf-section project-info" style="margin-top:50px">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <form action="contact/contact-process.php" class="form-contact">
+                        <div class="project-info-form">
+                            <h6 class="title">Leave a message</h6>
+                            <div class="form-inner">
+                                <fieldset>
+                                    <label>
+                                        Full name
+                                    </label>
+                                    <input type="text" id="name" placeholder="Enter the name of your project" required>
+                                </fieldset>
+                                <fieldset>
+                                    <label>
+                                        Email address
+                                    </label>
+                                    <input type="email" id="email" placeholder="Your email" required>
+                                </fieldset>
+                                <fieldset>
+                                    <label>
+                                        Phone
+                                    </label>
+                                    <input type="number" id="phone" placeholder="Your phone" required>
+                                </fieldset>
+                                <fieldset>
+                                    <label for="message">
+                                        Mesage
+                                    </label>
+                                    <textarea id="message" placeholder="Tell us about the project you wan to launch"
+                                        rows="5" tabindex="4" name="message" class="message" id="message"
+                                        required></textarea>
+                                </fieldset>
+                            </div>
+                        </div>
+
+                        <div class="wrap-btn">
+                            <button type="submit" class="tf-button style1">
+                                Send mesage
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>

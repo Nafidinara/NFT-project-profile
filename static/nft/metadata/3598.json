@@ -1,0 +1,28 @@
+{
+    "name": "Lirirrial  ",
+    "description": "The collection from onerichgroup #3598",
+    "image": "https://nft.onerichgroup.com/nft/3598.jpg",
+    "dna": "75623asmdjsadya6d7860060bec080e5767",
+    "edition": 1,
+    "date": 1689443115133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

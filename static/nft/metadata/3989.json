@@ -1,0 +1,28 @@
+{
+    "name": "Carebien  ",
+    "description": "The collection from onerichgroup #3989",
+    "image": "https://nft.onerichgroup.com/nft/3989.jpg",
+    "dna": "75681asmdjsadya6d7837455bec080e522214",
+    "edition": 1,
+    "date": 1689443115382,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

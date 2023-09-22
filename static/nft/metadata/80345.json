@@ -1,0 +1,28 @@
+{
+    "name": "Estthonloth  ",
+    "description": "The vip collection from onerichgroup #80345",
+    "image": "https://nft.onerichgroup.com/nft/80345.jpg",
+    "dna": "73188iyuirf45edrtd81736vjvtyd45tuy95877",
+    "edition": 1,
+    "date": 1690898983592,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

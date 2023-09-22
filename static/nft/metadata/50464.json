@@ -1,0 +1,28 @@
+{
+    "name": "Galthonrian  ",
+    "description": "The collection from onerichgroup #50464",
+    "image": "https://nft.onerichgroup.com/nft/50464.jpg",
+    "dna": "83861asmdjsadya6d7817979bec080e543268",
+    "edition": 1,
+    "date": 1689478811240,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

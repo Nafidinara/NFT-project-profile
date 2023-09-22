@@ -1,0 +1,28 @@
+{
+    "name": "Gileriel  ",
+    "description": "The collection from onerichgroup #3887",
+    "image": "https://nft.onerichgroup.com/nft/3887.jpg",
+    "dna": "78656asmdjsadya6d7869847bec080e593978",
+    "edition": 1,
+    "date": 1689443115305,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

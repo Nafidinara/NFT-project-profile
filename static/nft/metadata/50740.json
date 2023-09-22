@@ -1,0 +1,28 @@
+{
+    "name": "Ninededel  ",
+    "description": "The collection from onerichgroup #50740",
+    "image": "https://nft.onerichgroup.com/nft/50740.jpg",
+    "dna": "88219asmdjsadya6d7882240bec080e529314",
+    "edition": 1,
+    "date": 1689478811570,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

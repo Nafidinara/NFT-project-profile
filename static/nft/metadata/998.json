@@ -1,0 +1,28 @@
+{
+    "name": "Imadel  ",
+    "description": "The collection from onerichgroup #998",
+    "image": "https://nft.onerichgroup.com/nft/998.jpg",
+    "dna": "51256asmdjsadya6d7889954bec080e578610",
+    "edition": 1,
+    "date": 1689443113639,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

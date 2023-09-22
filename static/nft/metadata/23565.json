@@ -1,0 +1,28 @@
+{
+    "name": "Galensil  ",
+    "description": "The collection from onerichgroup #23565",
+    "image": "https://nft.onerichgroup.com/nft/23565.jpg",
+    "dna": "97560asmdjsadya6d7824478bec080e546644",
+    "edition": 1,
+    "date": 1689443120269,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

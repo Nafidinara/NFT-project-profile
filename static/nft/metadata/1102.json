@@ -1,0 +1,27 @@
+{
+  "name": "Cirirriel  ",
+  "description": "The collection from onerichgroup #1102",
+  "image": "https://nft.onerichgroup.com/nft/1102.jpg",
+  "dna": "97084asmdjsadya6d7871553bec080e536965",
+  "edition": 1,
+  "date": 1689443113664,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

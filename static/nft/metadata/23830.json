@@ -1,0 +1,28 @@
+{
+    "name": "Caresel  ",
+    "description": "The collection from onerichgroup #23830",
+    "image": "https://nft.onerichgroup.com/nft/23830.jpg",
+    "dna": "30936asmdjsadya6d7827922bec080e585658",
+    "edition": 1,
+    "date": 1689443120299,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

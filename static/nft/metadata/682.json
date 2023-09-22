@@ -1,0 +1,28 @@
+{
+    "name": "Liralsil  ",
+    "description": "The collection from onerichgroup #682",
+    "image": "https://nft.onerichgroup.com/nft/682.jpg",
+    "dna": "24825asmdjsadya6d7810293bec080e533692",
+    "edition": 1,
+    "date": 1689443113543,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

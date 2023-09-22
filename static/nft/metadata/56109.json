@@ -1,0 +1,28 @@
+{
+    "name": "Nirirwë  ",
+    "description": "The collection from onerichgroup #56109",
+    "image": "https://nft.onerichgroup.com/nft/56109.jpg",
+    "dna": "5697asmdjsadya6d7819287bec080e569230",
+    "edition": 1,
+    "date": 1689478814927,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

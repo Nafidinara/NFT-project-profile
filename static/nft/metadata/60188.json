@@ -1,0 +1,28 @@
+{
+    "name": "Elinrian  ",
+    "description": "The collection from onerichgroup #60188",
+    "image": "https://nft.onerichgroup.com/nft/60188.jpg",
+    "dna": "87043asmdjsadya6d7843101bec080e592619",
+    "edition": 1,
+    "date": 1689482664875,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

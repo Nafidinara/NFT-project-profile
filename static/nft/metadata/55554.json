@@ -1,0 +1,28 @@
+{
+    "name": "Irelwen  ",
+    "description": "The collection from onerichgroup #55554",
+    "image": "https://nft.onerichgroup.com/nft/55554.jpg",
+    "dna": "73606asmdjsadya6d7814837bec080e572696",
+    "edition": 1,
+    "date": 1689478814617,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

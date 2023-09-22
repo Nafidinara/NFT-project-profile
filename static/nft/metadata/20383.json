@@ -1,0 +1,28 @@
+{
+    "name": "Calesedel  ",
+    "description": "The collection from onerichgroup #20383",
+    "image": "https://nft.onerichgroup.com/nft/20383.jpg",
+    "dna": "43751asmdjsadya6d7842633bec080e564606",
+    "edition": 1,
+    "date": 1689443119758,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

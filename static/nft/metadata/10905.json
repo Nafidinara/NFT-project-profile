@@ -1,0 +1,27 @@
+{
+  "name": "Nininmir  ",
+  "description": "The collection from onerichgroup #10905",
+  "image": "https://nft.onerichgroup.com/nft/10905.jpg",
+  "dna": "94019asmdjsadya6d7811898bec080e599643",
+  "edition": 1,
+  "date": 1689443117529,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

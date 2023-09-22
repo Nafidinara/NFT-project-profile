@@ -1,0 +1,28 @@
+{
+    "name": "Nininian  ",
+    "description": "The collection from onerichgroup #1722",
+    "image": "https://nft.onerichgroup.com/nft/1722.jpg",
+    "dna": "29127asmdjsadya6d7836025bec080e524442",
+    "edition": 1,
+    "date": 1689443114154,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

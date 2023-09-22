@@ -1,0 +1,28 @@
+{
+    "name": "Ninenedel  ",
+    "description": "The collection from onerichgroup #55296",
+    "image": "https://nft.onerichgroup.com/nft/55296.jpg",
+    "dna": "55835asmdjsadya6d7823475bec080e552762",
+    "edition": 1,
+    "date": 1689478814526,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

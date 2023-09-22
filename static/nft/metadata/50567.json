@@ -1,0 +1,28 @@
+{
+    "name": "Ciramwë  ",
+    "description": "The collection from onerichgroup #50567",
+    "image": "https://nft.onerichgroup.com/nft/50567.jpg",
+    "dna": "25227asmdjsadya6d7856774bec080e537503",
+    "edition": 1,
+    "date": 1689478811330,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

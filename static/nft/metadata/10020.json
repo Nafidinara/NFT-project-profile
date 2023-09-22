@@ -1,0 +1,27 @@
+{
+  "name": "Maralril  ",
+  "description": "The collection from onerichgroup #10020",
+  "image": "https://nft.onerichgroup.com/nft/10020.jpg",
+  "dna": "48318asmdjsadya6d7811748bec080e575819",
+  "edition": 1,
+  "date": 1689443117462,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

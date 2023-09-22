@@ -1,0 +1,28 @@
+{
+    "name": "Loredroël  ",
+    "description": "The vip collection from onerichgroup #80336",
+    "image": "https://nft.onerichgroup.com/nft/80336.jpg",
+    "dna": "33616iyuirf45edrtd75085vjvtyd45tuy84840",
+    "edition": 1,
+    "date": 1690898983581,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

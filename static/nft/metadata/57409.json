@@ -1,0 +1,28 @@
+{
+    "name": "Claralian  ",
+    "description": "The collection from onerichgroup #57409",
+    "image": "https://nft.onerichgroup.com/nft/57409.jpg",
+    "dna": "89286asmdjsadya6d7864075bec080e597345",
+    "edition": 1,
+    "date": 1689478815537,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

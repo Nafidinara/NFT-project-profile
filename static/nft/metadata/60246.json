@@ -1,0 +1,28 @@
+{
+    "name": "Farireth  ",
+    "description": "The collection from onerichgroup #60246",
+    "image": "https://nft.onerichgroup.com/nft/60246.jpg",
+    "dna": "38204asmdjsadya6d7835580bec080e59866",
+    "edition": 1,
+    "date": 1689482664888,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

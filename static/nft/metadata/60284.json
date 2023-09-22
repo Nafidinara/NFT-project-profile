@@ -1,0 +1,28 @@
+{
+    "name": "Gilinmir  ",
+    "description": "The collection from onerichgroup #60284",
+    "image": "https://nft.onerichgroup.com/nft/60284.jpg",
+    "dna": "25395asmdjsadya6d784827bec080e526673",
+    "edition": 1,
+    "date": 1689482664896,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

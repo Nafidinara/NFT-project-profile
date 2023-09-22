@@ -1,0 +1,28 @@
+{
+    "name": "Elamrien  ",
+    "description": "The collection from onerichgroup #57622",
+    "image": "https://nft.onerichgroup.com/nft/57622.jpg",
+    "dna": "59775asmdjsadya6d7854744bec080e512879",
+    "edition": 1,
+    "date": 1689478815629,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

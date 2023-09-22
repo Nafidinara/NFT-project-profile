@@ -1,0 +1,28 @@
+{
+    "name": "Rimelian  ",
+    "description": "The collection from onerichgroup #23353",
+    "image": "https://nft.onerichgroup.com/nft/23353.jpg",
+    "dna": "68212asmdjsadya6d7894416bec080e569860",
+    "edition": 1,
+    "date": 1689443120240,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

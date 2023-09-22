@@ -1,0 +1,28 @@
+{
+    "name": "Rilirel  ",
+    "description": "The collection from onerichgroup #23646",
+    "image": "https://nft.onerichgroup.com/nft/23646.jpg",
+    "dna": "27200asmdjsadya6d7856162bec080e56263",
+    "edition": 1,
+    "date": 1689443120280,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

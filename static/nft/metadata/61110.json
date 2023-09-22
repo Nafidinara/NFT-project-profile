@@ -1,0 +1,28 @@
+{
+    "name": "Mirareth  ",
+    "description": "The collection from onerichgroup #61110",
+    "image": "https://nft.onerichgroup.com/nft/61110.jpg",
+    "dna": "478797dje6rgfnbs096316bec080e571612",
+    "edition": 1,
+    "date": 1689584225705,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Lirarrial  ",
+    "description": "The collection from onerichgroup #7601",
+    "image": "https://nft.onerichgroup.com/nft/7601.jpg",
+    "dna": "47120asmdjsadya6d7854952bec080e519955",
+    "edition": 1,
+    "date": 1689443116617,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

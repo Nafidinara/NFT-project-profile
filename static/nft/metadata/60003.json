@@ -1,0 +1,28 @@
+{
+    "name": "Ralesmir  ",
+    "description": "The collection from onerichgroup #60003",
+    "image": "https://nft.onerichgroup.com/nft/60003.jpg",
+    "dna": "71062asmdjsadya6d7841bec080e584229",
+    "edition": 1,
+    "date": 1689482664827,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Eremiel  ",
+    "description": "The collection from onerichgroup #51390",
+    "image": "https://nft.onerichgroup.com/nft/51390.jpg",
+    "dna": "77878asmdjsadya6d7897816bec080e583792",
+    "edition": 1,
+    "date": 1689478812196,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

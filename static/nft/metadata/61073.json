@@ -1,0 +1,28 @@
+{
+    "name": "Celelwen  ",
+    "description": "The collection from onerichgroup #61073",
+    "image": "https://nft.onerichgroup.com/nft/61073.jpg",
+    "dna": "778837dje6rgfnbs093088bec080e543343",
+    "edition": 1,
+    "date": 1689584225491,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

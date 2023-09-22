@@ -1,0 +1,28 @@
+{
+    "name": "Ranerel  ",
+    "description": "The collection from onerichgroup #5352",
+    "image": "https://nft.onerichgroup.com/nft/5352.jpg",
+    "dna": "67669asmdjsadya6d7896641bec080e592537",
+    "edition": 1,
+    "date": 1689443116038,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

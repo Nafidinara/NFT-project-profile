@@ -1,0 +1,28 @@
+{
+    "name": "Nirasel  ",
+    "description": "The collection from onerichgroup #39806",
+    "image": "https://nft.onerichgroup.com/nft/39806.jpg",
+    "dna": "58878asmdjsadya6d7885939bec080e575847",
+    "edition": 1,
+    "date": 1689443121923,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ralasrian  ",
+    "description": "The collection from onerichgroup #57886",
+    "image": "https://nft.onerichgroup.com/nft/57886.jpg",
+    "dna": "19220asmdjsadya6d7827961bec080e548345",
+    "edition": 1,
+    "date": 1689478815756,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

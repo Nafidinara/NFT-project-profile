@@ -1,0 +1,28 @@
+{
+    "name": "Marinel  ",
+    "description": "The collection from onerichgroup #33155",
+    "image": "https://nft.onerichgroup.com/nft/33155.jpg",
+    "dna": "56537asmdjsadya6d7867641bec080e517667",
+    "edition": 1,
+    "date": 1689443121461,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

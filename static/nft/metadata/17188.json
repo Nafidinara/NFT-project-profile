@@ -1,0 +1,28 @@
+{
+    "name": "Iredrian  ",
+    "description": "The collection from onerichgroup #17188",
+    "image": "https://nft.onerichgroup.com/nft/17188.jpg",
+    "dna": "33871asmdjsadya6d7842855bec080e564863",
+    "edition": 1,
+    "date": 1689443119248,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Raleriel  ",
+    "description": "The collection from onerichgroup #60694",
+    "image": "https://nft.onerichgroup.com/nft/60694.jpg",
+    "dna": "23818asmdjsadya6d7854457bec080e518768",
+    "edition": 1,
+    "date": 1689482665218,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

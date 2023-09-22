@@ -1,0 +1,28 @@
+{
+    "name": "Mireledel  ",
+    "description": "The collection from onerichgroup #23882",
+    "image": "https://nft.onerichgroup.com/nft/23882.jpg",
+    "dna": "97953asmdjsadya6d7858261bec080e525556",
+    "edition": 1,
+    "date": 1689443120305,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

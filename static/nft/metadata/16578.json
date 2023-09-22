@@ -1,0 +1,28 @@
+{
+    "name": "Marirrian  ",
+    "description": "The collection from onerichgroup #16578",
+    "image": "https://nft.onerichgroup.com/nft/16578.jpg",
+    "dna": "24057asmdjsadya6d7873486bec080e596856",
+    "edition": 1,
+    "date": 1689443118997,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

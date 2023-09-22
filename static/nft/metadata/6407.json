@@ -1,0 +1,28 @@
+{
+    "name": "Niminian  ",
+    "description": "The collection from onerichgroup #6407",
+    "image": "https://nft.onerichgroup.com/nft/6407.jpg",
+    "dna": "92442asmdjsadya6d7831872bec080e558427",
+    "edition": 1,
+    "date": 1689443116444,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

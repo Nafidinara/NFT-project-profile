@@ -1,0 +1,28 @@
+{
+    "name": "Relanrial  ",
+    "description": "The collection from onerichgroup #3652",
+    "image": "https://nft.onerichgroup.com/nft/3652.jpg",
+    "dna": "49127asmdjsadya6d7856008bec080e55644",
+    "edition": 1,
+    "date": 1689443115147,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

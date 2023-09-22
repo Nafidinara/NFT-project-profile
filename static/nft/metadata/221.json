@@ -1,0 +1,28 @@
+{
+    "name": "Geliniel  ",
+    "description": "The collection from onerichgroup #221",
+    "image": "https://nft.onerichgroup.com/nft/221.jpg",
+    "dna": "56199asmdjsadya6d7882371bec080e563166",
+    "edition": 1,
+    "date": 1689443113228,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

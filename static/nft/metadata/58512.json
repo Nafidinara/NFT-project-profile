@@ -1,0 +1,28 @@
+{
+    "name": "Iriledel  ",
+    "description": "The collection from onerichgroup #58512",
+    "image": "https://nft.onerichgroup.com/nft/58512.jpg",
+    "dna": "21024asmdjsadya6d7818543bec080e51910",
+    "edition": 1,
+    "date": 1689478816058,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

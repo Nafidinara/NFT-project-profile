@@ -1,0 +1,27 @@
+{
+  "name": "Gelevwë  ",
+  "description": "The collection from onerichgroup #11603",
+  "image": "https://nft.onerichgroup.com/nft/11603.jpg",
+  "dna": "46285asmdjsadya6d781414bec080e583001",
+  "edition": 1,
+  "date": 1689443117664,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

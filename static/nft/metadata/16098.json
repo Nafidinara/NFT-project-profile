@@ -1,0 +1,28 @@
+{
+    "name": "Istemrien  ",
+    "description": "The collection from onerichgroup #16098",
+    "image": "https://nft.onerichgroup.com/nft/16098.jpg",
+    "dna": "24907asmdjsadya6d7877200bec080e574602",
+    "edition": 1,
+    "date": 1689443118923,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

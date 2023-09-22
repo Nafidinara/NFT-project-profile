@@ -1,0 +1,27 @@
+{
+  "name": "Anirrial  ",
+  "description": "The collection from onerichgroup #11779",
+  "image": "https://nft.onerichgroup.com/nft/11779.jpg",
+  "dna": "12568asmdjsadya6d7866837bec080e563992",
+  "edition": 1,
+  "date": 1689443117781,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

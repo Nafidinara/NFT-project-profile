@@ -1,0 +1,28 @@
+{
+    "name": "Giledroël  ",
+    "description": "The collection from onerichgroup #2832",
+    "image": "https://nft.onerichgroup.com/nft/2832.jpg",
+    "dna": "56151asmdjsadya6d7839652bec080e553411",
+    "edition": 1,
+    "date": 1689443114652,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

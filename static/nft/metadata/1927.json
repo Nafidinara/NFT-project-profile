@@ -1,0 +1,28 @@
+{
+    "name": "Lirenmir  ",
+    "description": "The collection from onerichgroup #1927",
+    "image": "https://nft.onerichgroup.com/nft/1927.jpg",
+    "dna": "42522asmdjsadya6d7848664bec080e517667",
+    "edition": 1,
+    "date": 1689443114324,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

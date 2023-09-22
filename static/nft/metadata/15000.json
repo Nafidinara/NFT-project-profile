@@ -1,0 +1,28 @@
+{
+    "name": "Relelwë  ",
+    "description": "The collection from onerichgroup #15000",
+    "image": "https://nft.onerichgroup.com/nft/15000.jpg",
+    "dna": "58319asmdjsadya6d7834884bec080e517825",
+    "edition": 1,
+    "date": 1689443118686,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

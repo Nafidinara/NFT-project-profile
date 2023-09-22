@@ -1,0 +1,28 @@
+{
+    "name": "Ninelien  ",
+    "description": "The collection from onerichgroup #7098",
+    "image": "https://nft.onerichgroup.com/nft/7098.jpg",
+    "dna": "10997asmdjsadya6d7896052bec080e541566",
+    "edition": 1,
+    "date": 1689443116514,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

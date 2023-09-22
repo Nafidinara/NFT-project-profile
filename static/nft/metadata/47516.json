@@ -1,0 +1,28 @@
+{
+    "name": "Farilloth  ",
+    "description": "The collection from onerichgroup #47516",
+    "image": "https://nft.onerichgroup.com/nft/47516.jpg",
+    "dna": "57837asmdjsadya6d7853195bec080e538620",
+    "edition": 1,
+    "date": 1689443122384,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

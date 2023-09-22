@@ -1,0 +1,27 @@
+{
+  "name": "Inolrien  ",
+  "description": "The collection from onerichgroup #12353",
+  "image": "https://nft.onerichgroup.com/nft/12353.jpg",
+  "dna": "47632asmdjsadya6d7853569bec080e552437",
+  "edition": 1,
+  "date": 1689443117906,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

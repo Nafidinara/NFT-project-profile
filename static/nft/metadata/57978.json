@@ -1,0 +1,28 @@
+{
+    "name": "Inolmir  ",
+    "description": "The collection from onerichgroup #57978",
+    "image": "https://nft.onerichgroup.com/nft/57978.jpg",
+    "dna": "83466asmdjsadya6d7831172bec080e546294",
+    "edition": 1,
+    "date": 1689478815779,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

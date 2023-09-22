@@ -1,0 +1,28 @@
+{
+    "name": "Ereswë  ",
+    "description": "The collection from onerichgroup #4302",
+    "image": "https://nft.onerichgroup.com/nft/4302.jpg",
+    "dna": "96849asmdjsadya6d7860489bec080e557067",
+    "edition": 1,
+    "date": 1689443115528,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

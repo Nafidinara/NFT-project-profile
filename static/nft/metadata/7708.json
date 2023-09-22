@@ -1,0 +1,28 @@
+{
+    "name": "Niredroël  ",
+    "description": "The collection from onerichgroup #7708",
+    "image": "https://nft.onerichgroup.com/nft/7708.jpg",
+    "dna": "51873asmdjsadya6d7817451bec080e580431",
+    "edition": 1,
+    "date": 1689443116664,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

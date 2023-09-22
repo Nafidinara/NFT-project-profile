@@ -1,0 +1,27 @@
+{
+  "name": "Celebril  ",
+  "description": "The collection from onerichgroup #12533",
+  "image": "https://nft.onerichgroup.com/nft/12533.jpg",
+  "dna": "53619asmdjsadya6d7860509bec080e556699",
+  "edition": 1,
+  "date": 1689443117944,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

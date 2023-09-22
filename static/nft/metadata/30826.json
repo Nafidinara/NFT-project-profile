@@ -1,0 +1,28 @@
+{
+    "name": "Ranamel  ",
+    "description": "The collection from onerichgroup #30826",
+    "image": "https://nft.onerichgroup.com/nft/30826.jpg",
+    "dna": "97054asmdjsadya6d7840784bec080e545188",
+    "edition": 1,
+    "date": 1689443121198,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

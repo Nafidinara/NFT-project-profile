@@ -1,0 +1,27 @@
+{
+  "name": "Ganelien  ",
+  "description": "The collection from onerichgroup #1093",
+  "image": "https://nft.onerichgroup.com/nft/1093.jpg",
+  "dna": "38289asmdjsadya6d7894884bec080e547246",
+  "edition": 1,
+  "date": 1689443113662,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

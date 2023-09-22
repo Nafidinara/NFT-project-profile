@@ -1,0 +1,28 @@
+{
+    "name": "Ganebien  ",
+    "description": "The collection from onerichgroup #23257",
+    "image": "https://nft.onerichgroup.com/nft/23257.jpg",
+    "dna": "7637asmdjsadya6d7848196bec080e536933",
+    "edition": 1,
+    "date": 1689443120229,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

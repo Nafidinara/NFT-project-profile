@@ -1,0 +1,28 @@
+{
+    "name": "Ranirril  ",
+    "description": "The collection from onerichgroup #15917",
+    "image": "https://nft.onerichgroup.com/nft/15917.jpg",
+    "dna": "84438asmdjsadya6d7827564bec080e557629",
+    "edition": 1,
+    "date": 1689443118892,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

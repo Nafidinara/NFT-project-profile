@@ -1,0 +1,28 @@
+{
+    "name": "Aransil  ",
+    "description": "The collection from onerichgroup #37355",
+    "image": "https://nft.onerichgroup.com/nft/37355.jpg",
+    "dna": "93000asmdjsadya6d7815094bec080e516326",
+    "edition": 1,
+    "date": 1689443121699,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

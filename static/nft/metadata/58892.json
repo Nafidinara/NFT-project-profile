@@ -1,0 +1,28 @@
+{
+    "name": "Ilmadwë  ",
+    "description": "The collection from onerichgroup #58892",
+    "image": "https://nft.onerichgroup.com/nft/58892.jpg",
+    "dna": "73652asmdjsadya6d7836631bec080e584672",
+    "edition": 1,
+    "date": 1689478816159,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

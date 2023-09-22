@@ -1,0 +1,28 @@
+{
+    "name": "Farenmir  ",
+    "description": "The collection from onerichgroup #57270",
+    "image": "https://nft.onerichgroup.com/nft/57270.jpg",
+    "dna": "12151asmdjsadya6d7878308bec080e510400",
+    "edition": 1,
+    "date": 1689478815492,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

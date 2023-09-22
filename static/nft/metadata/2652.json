@@ -1,0 +1,28 @@
+{
+    "name": "Mariliel  ",
+    "description": "The collection from onerichgroup #2652",
+    "image": "https://nft.onerichgroup.com/nft/2652.jpg",
+    "dna": "99535asmdjsadya6d7854635bec080e582710",
+    "edition": 1,
+    "date": 1689443114628,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

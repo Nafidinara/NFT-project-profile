@@ -1,0 +1,28 @@
+{
+    "name": "Riladloth  ",
+    "description": "The collection from onerichgroup #22729",
+    "image": "https://nft.onerichgroup.com/nft/22729.jpg",
+    "dna": "42652asmdjsadya6d785312bec080e566633",
+    "edition": 1,
+    "date": 1689443120179,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

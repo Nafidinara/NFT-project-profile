@@ -1,0 +1,28 @@
+{
+    "name": "Carolwen  ",
+    "description": "The vip collection from onerichgroup #80629",
+    "image": "https://nft.onerichgroup.com/nft/80629.jpg",
+    "dna": "67658iyuirf45edrtd44440vjvtyd45tuy10340",
+    "edition": 1,
+    "date": 1690898984497,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

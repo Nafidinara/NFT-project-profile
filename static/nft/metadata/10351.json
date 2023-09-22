@@ -1,0 +1,27 @@
+{
+  "name": "Araleth  ",
+  "description": "The collection from onerichgroup #10351",
+  "image": "https://nft.onerichgroup.com/nft/10351.jpg",
+  "dna": "71401asmdjsadya6d7882847bec080e533345",
+  "edition": 1,
+  "date": 1689443117489,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

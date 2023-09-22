@@ -1,0 +1,28 @@
+{
+    "name": "Merinsil  ",
+    "description": "The collection from onerichgroup #58287",
+    "image": "https://nft.onerichgroup.com/nft/58287.jpg",
+    "dna": "30857asmdjsadya6d7822513bec080e53722",
+    "edition": 1,
+    "date": 1689478815932,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

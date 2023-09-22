@@ -1,0 +1,28 @@
+{
+    "name": "Cirenril  ",
+    "description": "The collection from onerichgroup #58442",
+    "image": "https://nft.onerichgroup.com/nft/58442.jpg",
+    "dna": "34113asmdjsadya6d7833955bec080e536992",
+    "edition": 1,
+    "date": 1689478816018,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

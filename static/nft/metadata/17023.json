@@ -1,0 +1,28 @@
+{
+    "name": "Ninammir  ",
+    "description": "The collection from onerichgroup #17023",
+    "image": "https://nft.onerichgroup.com/nft/17023.jpg",
+    "dna": "26111asmdjsadya6d7843381bec080e55240",
+    "edition": 1,
+    "date": 1689443119230,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

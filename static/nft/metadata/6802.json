@@ -1,0 +1,28 @@
+{
+    "name": "Erlenwë  ",
+    "description": "The collection from onerichgroup #6802",
+    "image": "https://nft.onerichgroup.com/nft/6802.jpg",
+    "dna": "86111asmdjsadya6d7835702bec080e516547",
+    "edition": 1,
+    "date": 1689443116482,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

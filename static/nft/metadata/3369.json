@@ -1,0 +1,28 @@
+{
+    "name": "Eradrial  ",
+    "description": "The collection from onerichgroup #3369",
+    "image": "https://nft.onerichgroup.com/nft/3369.jpg",
+    "dna": "69166asmdjsadya6d7896972bec080e513892",
+    "edition": 1,
+    "date": 1689443115037,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

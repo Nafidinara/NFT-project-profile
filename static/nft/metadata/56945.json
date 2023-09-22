@@ -1,0 +1,28 @@
+{
+    "name": "Niraleth  ",
+    "description": "The collection from onerichgroup #56945",
+    "image": "https://nft.onerichgroup.com/nft/56945.jpg",
+    "dna": "8139asmdjsadya6d788957bec080e541564",
+    "edition": 1,
+    "date": 1689478815283,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

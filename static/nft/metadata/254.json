@@ -1,0 +1,28 @@
+{
+    "name": "Eremroël  ",
+    "description": "The collection from onerichgroup #254",
+    "image": "https://nft.onerichgroup.com/nft/254.jpg",
+    "dna": "83398asmdjsadya6d789744bec080e550347",
+    "edition": 1,
+    "date": 1689443113237,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

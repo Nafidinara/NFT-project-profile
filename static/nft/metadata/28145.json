@@ -1,0 +1,28 @@
+{
+    "name": "Ciralroël  ",
+    "description": "The collection from onerichgroup #28145",
+    "image": "https://nft.onerichgroup.com/nft/28145.jpg",
+    "dna": "9874asmdjsadya6d7815925bec080e553163",
+    "edition": 1,
+    "date": 1689443120785,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimanrien  ",
+    "description": "The collection from onerichgroup #17240",
+    "image": "https://nft.onerichgroup.com/nft/17240.jpg",
+    "dna": "98363asmdjsadya6d7855769bec080e546648",
+    "edition": 1,
+    "date": 1689443119273,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

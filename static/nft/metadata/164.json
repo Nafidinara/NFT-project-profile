@@ -1,0 +1,28 @@
+{
+    "name": "Ciramloth  ",
+    "description": "The collection from onerichgroup #164",
+    "image": "https://nft.onerichgroup.com/nft/164.jpg",
+    "dna": "2268asmdjsadya6d7869159bec080e594832",
+    "edition": 1,
+    "date": 1689443113208,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

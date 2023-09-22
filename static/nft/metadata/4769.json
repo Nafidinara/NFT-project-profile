@@ -1,0 +1,28 @@
+{
+    "name": "Elthalmir  ",
+    "description": "The collection from onerichgroup #4769",
+    "image": "https://nft.onerichgroup.com/nft/4769.jpg",
+    "dna": "94404asmdjsadya6d7867253bec080e537688",
+    "edition": 1,
+    "date": 1689443115797,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

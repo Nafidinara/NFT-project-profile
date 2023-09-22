@@ -1,0 +1,28 @@
+{
+    "name": "Farelien  ",
+    "description": "The collection from onerichgroup #3846",
+    "image": "https://nft.onerichgroup.com/nft/3846.jpg",
+    "dna": "46480asmdjsadya6d7813633bec080e562285",
+    "edition": 1,
+    "date": 1689443115260,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

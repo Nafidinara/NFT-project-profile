@@ -1,0 +1,27 @@
+{
+  "name": "Ninolien  ",
+  "description": "The collection from onerichgroup #10915",
+  "image": "https://nft.onerichgroup.com/nft/10915.jpg",
+  "dna": "47126asmdjsadya6d7839291bec080e535197",
+  "edition": 1,
+  "date": 1689443117530,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

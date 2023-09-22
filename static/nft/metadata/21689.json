@@ -1,0 +1,28 @@
+{
+    "name": "Larinrial  ",
+    "description": "The collection from onerichgroup #21689",
+    "image": "https://nft.onerichgroup.com/nft/21689.jpg",
+    "dna": "4517asmdjsadya6d7812623bec080e557384",
+    "edition": 1,
+    "date": 1689443119948,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

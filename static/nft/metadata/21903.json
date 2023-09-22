@@ -1,0 +1,28 @@
+{
+    "name": "Ninebroël  ",
+    "description": "The collection from onerichgroup #21903",
+    "image": "https://nft.onerichgroup.com/nft/21903.jpg",
+    "dna": "80973asmdjsadya6d7878080bec080e528703",
+    "edition": 1,
+    "date": 1689443120019,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

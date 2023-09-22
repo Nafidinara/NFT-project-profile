@@ -1,0 +1,28 @@
+{
+    "name": "Clarebel  ",
+    "description": "The collection from onerichgroup #782",
+    "image": "https://nft.onerichgroup.com/nft/782.jpg",
+    "dna": "11022asmdjsadya6d7862491bec080e528310",
+    "edition": 1,
+    "date": 1689443113573,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

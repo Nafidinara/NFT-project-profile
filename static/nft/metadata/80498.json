@@ -1,0 +1,28 @@
+{
+    "name": "Cireswen  ",
+    "description": "The vip collection from onerichgroup #80498",
+    "image": "https://nft.onerichgroup.com/nft/80498.jpg",
+    "dna": "38290iyuirf45edrtd49152vjvtyd45tuy49250",
+    "edition": 1,
+    "date": 1690898984107,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

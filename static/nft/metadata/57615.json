@@ -1,0 +1,28 @@
+{
+    "name": "Gileleth  ",
+    "description": "The collection from onerichgroup #57615",
+    "image": "https://nft.onerichgroup.com/nft/57615.jpg",
+    "dna": "26921asmdjsadya6d7843836bec080e511704",
+    "edition": 1,
+    "date": 1689478815627,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

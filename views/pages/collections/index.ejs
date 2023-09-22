@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-US"
+    class=" yes-js js_active js js csstransitions js  js no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Onerichgroup - All in one cryptoworld platform</title>
+    <link rel="shortcut icon" href="./assets/images/logos/favicon-enefti.jpg">
+
+    <%- include('../../includes/styles.ejs') %>
+
+        <link rel="stylesheet" href="./assets/css/styles.css">
+
+        <style>
+            body {
+                background-color: rgb(14, 14, 14) !important;
+            }
+        </style>
+</head>
+
+<body>
+
+    <!--place the navbar here-->
+    <%- include('../../includes/navbar.ejs') %>
+        <!--place the navbar here-->
+
+        <!--place the page section here-->
+        <div>
+            <!--BreadCrumbs-->
+            <div class="enefti-breadcrumbs-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="col-md-12 p-0">
+                                <h1>Collections</h1>
+                            </div>
+                            <div class="col-md-12 p-0">
+                                <div class="breadcrumbs breadcrumbs-navxt" typeof="BreadcrumbList"
+                                    vocab="https://schema.org/">
+                                    <span property="itemListElement" typeof="ListItem">
+                                        <a property="item" typeof="WebPage" title="Go to Enefti." href="/" class="home">
+                                            <span property="name">Home</span>
+                                        </a>
+                                        <meta property="position" content="1" />
+                                    </span>
+                                    /
+                                    <span property="itemListElement" typeof="ListItem">
+                                        <a property="item" typeof="WebPage" title="Go to the NFT Category archives."
+                                            href="/collections" class="taxonomy category">
+                                            <span property="name">Mint NFT</span>
+                                        </a>
+                                        <meta property="position" content="2" />
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Collection Shop-->
+            <section class="enefti-shop">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-12">
+                            <div class="enefti-shop-sort-group d-flex justify-content-between align-items-center">
+
+
+                                <button class="next page-numbers used "
+                                    style="margin-top:20px;min-width:150px;padding-top: 12px;padding-bottom: 12px;"
+                                    onclick="generate()">
+                                    Find More
+                                </button>
+                                <div class="enefti-shop-dropdown" style="min-width:150px">
+                                    <div class="dropdown">
+                                        <select class="enefti-select enefti-select-dropdown"
+                                            onchange="generate($(this).val())">
+                                            <option value="0" class="dropdown-item active" >All NFT
+                                            </option>
+                                            <option value="1" class="dropdown-item">Onerich - Zephire</option>
+                                            <option value="2" class="dropdown-item">Onerich - Claritya</option>
+                                            <option value="3" class="dropdown-item">Onerich - Diamore</option>
+                                            <option value="4" class="dropdown-item">Onerich Prismora
+                                            </option>
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="enefti-shop-pagination" class="nav-links text-center">
+
+
+                            </div>
+
+                            <!--Products-->
+                            <div class="row" id="nftlist">
+
+
+                            </div>
+
+                            <!--Pagination-->
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!--place the page section here-->
+
+        <!--place the footer here-->
+        <%- include('../../includes/footer.ejs') %>
+            <!--place the footer here-->
+
+            <!--scripts gunna be here-->
+            <%- include('../../includes/scripts.ejs') %>
+                <script src="/assets/js/collections.js?<%= Math.random() %>"></script>
+
+                <script>
+                    let colection = 0;
+                    Collection.generate(0)
+                    function generate(a = colection) {
+                        Collection.generate(a);
+                        colection = a;
+                    }
+                </script>
+
+                <!--scripts gunna be here-->
+</body>
+
+</html>

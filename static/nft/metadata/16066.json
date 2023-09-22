@@ -1,0 +1,28 @@
+{
+    "name": "Nimesien  ",
+    "description": "The collection from onerichgroup #16066",
+    "image": "https://nft.onerichgroup.com/nft/16066.jpg",
+    "dna": "28337asmdjsadya6d7882120bec080e56794",
+    "edition": 1,
+    "date": 1689443118918,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

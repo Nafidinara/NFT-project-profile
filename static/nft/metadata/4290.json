@@ -1,0 +1,28 @@
+{
+    "name": "Farebriel  ",
+    "description": "The collection from onerichgroup #4290",
+    "image": "https://nft.onerichgroup.com/nft/4290.jpg",
+    "dna": "22065asmdjsadya6d787101bec080e570934",
+    "edition": 1,
+    "date": 1689443115523,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

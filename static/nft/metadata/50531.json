@@ -1,0 +1,28 @@
+{
+    "name": "Rilebiel  ",
+    "description": "The collection from onerichgroup #50531",
+    "image": "https://nft.onerichgroup.com/nft/50531.jpg",
+    "dna": "92093asmdjsadya6d7826586bec080e521549",
+    "edition": 1,
+    "date": 1689478811272,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

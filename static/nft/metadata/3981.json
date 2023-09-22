@@ -1,0 +1,28 @@
+{
+    "name": "Galasroël  ",
+    "description": "The collection from onerichgroup #3981",
+    "image": "https://nft.onerichgroup.com/nft/3981.jpg",
+    "dna": "50548asmdjsadya6d7812793bec080e59329",
+    "edition": 1,
+    "date": 1689443115380,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

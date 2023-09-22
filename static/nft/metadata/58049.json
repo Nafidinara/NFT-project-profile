@@ -1,0 +1,28 @@
+{
+    "name": "Mireseth  ",
+    "description": "The collection from onerichgroup #58049",
+    "image": "https://nft.onerichgroup.com/nft/58049.jpg",
+    "dna": "13367asmdjsadya6d7846464bec080e511186",
+    "edition": 1,
+    "date": 1689478815800,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

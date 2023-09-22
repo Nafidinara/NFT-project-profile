@@ -1,0 +1,28 @@
+{
+    "name": "Elbadel  ",
+    "description": "The vip collection from onerichgroup #80044",
+    "image": "https://nft.onerichgroup.com/nft/80044.jpg",
+    "dna": "44135iyuirf45edrtd99258vjvtyd45tuy20634",
+    "edition": 1,
+    "date": 1690898982613,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

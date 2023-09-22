@@ -1,0 +1,28 @@
+{
+    "name": "Galemiel  ",
+    "description": "The collection from onerichgroup #2319",
+    "image": "https://nft.onerichgroup.com/nft/2319.jpg",
+    "dna": "27309asmdjsadya6d78758bec080e580231",
+    "edition": 1,
+    "date": 1689443114545,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

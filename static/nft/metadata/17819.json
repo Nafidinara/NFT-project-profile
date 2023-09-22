@@ -1,0 +1,28 @@
+{
+    "name": "Garebedel  ",
+    "description": "The collection from onerichgroup #17819",
+    "image": "https://nft.onerichgroup.com/nft/17819.jpg",
+    "dna": "14639asmdjsadya6d7868085bec080e552920",
+    "edition": 1,
+    "date": 1689443119360,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

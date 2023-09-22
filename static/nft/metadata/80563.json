@@ -1,0 +1,28 @@
+{
+    "name": "Farirmir  ",
+    "description": "The vip collection from onerichgroup #80563",
+    "image": "https://nft.onerichgroup.com/nft/80563.jpg",
+    "dna": "20778iyuirf45edrtd80408vjvtyd45tuy1747",
+    "edition": 1,
+    "date": 1690898984394,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

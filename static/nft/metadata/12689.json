@@ -1,0 +1,27 @@
+{
+  "name": "Ralthalloth  ",
+  "description": "The collection from onerichgroup #12689",
+  "image": "https://nft.onerichgroup.com/nft/12689.jpg",
+  "dna": "35142asmdjsadya6d7837243bec080e551120",
+  "edition": 1,
+  "date": 1689443117982,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

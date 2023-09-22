@@ -1,0 +1,28 @@
+{
+    "name": "Finadel  ",
+    "description": "The collection from onerichgroup #50600",
+    "image": "https://nft.onerichgroup.com/nft/50600.jpg",
+    "dna": "81549asmdjsadya6d783634bec080e538583",
+    "edition": 1,
+    "date": 1689478811417,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

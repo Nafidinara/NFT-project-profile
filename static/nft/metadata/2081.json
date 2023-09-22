@@ -1,0 +1,28 @@
+{
+    "name": "Nirerwen  ",
+    "description": "The collection from onerichgroup #2081",
+    "image": "https://nft.onerichgroup.com/nft/2081.jpg",
+    "dna": "45029asmdjsadya6d7826598bec080e52003",
+    "edition": 1,
+    "date": 1689443114374,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

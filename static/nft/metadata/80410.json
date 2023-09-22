@@ -1,0 +1,28 @@
+{
+    "name": "Clarevwen  ",
+    "description": "The vip collection from onerichgroup #80410",
+    "image": "https://nft.onerichgroup.com/nft/80410.jpg",
+    "dna": "21055iyuirf45edrtd69903vjvtyd45tuy91591",
+    "edition": 1,
+    "date": 1690898983781,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

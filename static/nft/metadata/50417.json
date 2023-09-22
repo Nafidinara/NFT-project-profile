@@ -1,0 +1,28 @@
+{
+    "name": "Relthonien  ",
+    "description": "The collection from onerichgroup #50417",
+    "image": "https://nft.onerichgroup.com/nft/50417.jpg",
+    "dna": "43589asmdjsadya6d787338bec080e557501",
+    "edition": 1,
+    "date": 1689478811229,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

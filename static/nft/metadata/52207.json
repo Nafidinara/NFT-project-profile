@@ -1,0 +1,28 @@
+{
+    "name": "Anesriel  ",
+    "description": "The collection from onerichgroup #52207",
+    "image": "https://nft.onerichgroup.com/nft/52207.jpg",
+    "dna": "47544asmdjsadya6d7893421bec080e515532",
+    "edition": 1,
+    "date": 1689478812841,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Arasrial  ",
+    "description": "The collection from onerichgroup #17694",
+    "image": "https://nft.onerichgroup.com/nft/17694.jpg",
+    "dna": "46030asmdjsadya6d782705bec080e517621",
+    "edition": 1,
+    "date": 1689443119343,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

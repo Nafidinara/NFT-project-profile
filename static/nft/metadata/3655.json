@@ -1,0 +1,28 @@
+{
+    "name": "Ilmolien  ",
+    "description": "The collection from onerichgroup #3655",
+    "image": "https://nft.onerichgroup.com/nft/3655.jpg",
+    "dna": "96987asmdjsadya6d7824924bec080e597259",
+    "edition": 1,
+    "date": 1689443115149,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

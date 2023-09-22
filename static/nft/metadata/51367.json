@@ -1,0 +1,28 @@
+{
+    "name": "Arinel  ",
+    "description": "The collection from onerichgroup #51367",
+    "image": "https://nft.onerichgroup.com/nft/51367.jpg",
+    "dna": "32707asmdjsadya6d783341bec080e574434",
+    "edition": 1,
+    "date": 1689478812183,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

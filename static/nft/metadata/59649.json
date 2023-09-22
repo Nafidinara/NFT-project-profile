@@ -1,0 +1,28 @@
+{
+    "name": "Gelebedel  ",
+    "description": "The collection from onerichgroup #59649",
+    "image": "https://nft.onerichgroup.com/nft/59649.jpg",
+    "dna": "16302asmdjsadya6d7830320bec080e584101",
+    "edition": 1,
+    "date": 1689478816462,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

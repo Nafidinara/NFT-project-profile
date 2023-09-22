@@ -1,0 +1,28 @@
+{
+    "name": "Arassil  ",
+    "description": "The collection from onerichgroup #3474",
+    "image": "https://nft.onerichgroup.com/nft/3474.jpg",
+    "dna": "73825asmdjsadya6d785503bec080e567918",
+    "edition": 1,
+    "date": 1689443115065,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

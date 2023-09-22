@@ -1,0 +1,27 @@
+{
+  "name": "Maredril  ",
+  "description": "The collection from onerichgroup #1242",
+  "image": "https://nft.onerichgroup.com/nft/1242.jpg",
+  "dna": "62741asmdjsadya6d7885622bec080e510163",
+  "edition": 1,
+  "date": 1689443113812,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

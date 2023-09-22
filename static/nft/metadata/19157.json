@@ -1,0 +1,28 @@
+{
+    "name": "Laralrial  ",
+    "description": "The collection from onerichgroup #19157",
+    "image": "https://nft.onerichgroup.com/nft/19157.jpg",
+    "dna": "15190asmdjsadya6d7860449bec080e598506",
+    "edition": 1,
+    "date": 1689443119512,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

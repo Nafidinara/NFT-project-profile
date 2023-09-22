@@ -1,0 +1,28 @@
+{
+    "name": "Rinemsil  ",
+    "description": "The collection from onerichgroup #3279",
+    "image": "https://nft.onerichgroup.com/nft/3279.jpg",
+    "dna": "10964asmdjsadya6d7855276bec080e522949",
+    "edition": 1,
+    "date": 1689443114957,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

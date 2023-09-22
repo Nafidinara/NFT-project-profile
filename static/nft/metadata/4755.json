@@ -1,0 +1,28 @@
+{
+    "name": "Carinian  ",
+    "description": "The collection from onerichgroup #4755",
+    "image": "https://nft.onerichgroup.com/nft/4755.jpg",
+    "dna": "49171asmdjsadya6d7855487bec080e563497",
+    "edition": 1,
+    "date": 1689443115793,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

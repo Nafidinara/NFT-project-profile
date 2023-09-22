@@ -1,0 +1,28 @@
+{
+    "name": "Anilwen  ",
+    "description": "The collection from onerichgroup #4197",
+    "image": "https://nft.onerichgroup.com/nft/4197.jpg",
+    "dna": "78106asmdjsadya6d7869366bec080e570943",
+    "edition": 1,
+    "date": 1689443115493,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

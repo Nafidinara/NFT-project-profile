@@ -1,0 +1,28 @@
+{
+    "name": "Rimamel  ",
+    "description": "The collection from onerichgroup #23912",
+    "image": "https://nft.onerichgroup.com/nft/23912.jpg",
+    "dna": "91380asmdjsadya6d788012bec080e588146",
+    "edition": 1,
+    "date": 1689443120308,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

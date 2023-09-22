@@ -1,0 +1,28 @@
+{
+    "name": "Melilien  ",
+    "description": "The collection from onerichgroup #60638",
+    "image": "https://nft.onerichgroup.com/nft/60638.jpg",
+    "dna": "65212asmdjsadya6d7885238bec080e562438",
+    "edition": 1,
+    "date": 1689482665158,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

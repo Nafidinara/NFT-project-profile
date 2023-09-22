@@ -1,0 +1,28 @@
+{
+    "name": "Melthalriel  ",
+    "description": "The collection from onerichgroup #6772",
+    "image": "https://nft.onerichgroup.com/nft/6772.jpg",
+    "dna": "64241asmdjsadya6d7811901bec080e525745",
+    "edition": 1,
+    "date": 1689443116479,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

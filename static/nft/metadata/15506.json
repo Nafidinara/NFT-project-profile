@@ -1,0 +1,28 @@
+{
+    "name": "Inansil  ",
+    "description": "The collection from onerichgroup #15506",
+    "image": "https://nft.onerichgroup.com/nft/15506.jpg",
+    "dna": "18322asmdjsadya6d7896545bec080e565189",
+    "edition": 1,
+    "date": 1689443118837,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Lirthonien  ",
+    "description": "The collection from onerichgroup #9007",
+    "image": "https://nft.onerichgroup.com/nft/9007.jpg",
+    "dna": "12451asmdjsadya6d7867291bec080e57943",
+    "edition": 1,
+    "date": 1689443117239,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

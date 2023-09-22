@@ -1,0 +1,28 @@
+{
+    "name": "Istelmir  ",
+    "description": "The collection from onerichgroup #4695",
+    "image": "https://nft.onerichgroup.com/nft/4695.jpg",
+    "dna": "86321asmdjsadya6d7836420bec080e544061",
+    "edition": 1,
+    "date": 1689443115766,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

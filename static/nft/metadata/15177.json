@@ -1,0 +1,28 @@
+{
+    "name": "Ralenril  ",
+    "description": "The collection from onerichgroup #15177",
+    "image": "https://nft.onerichgroup.com/nft/15177.jpg",
+    "dna": "61393asmdjsadya6d7820338bec080e567695",
+    "edition": 1,
+    "date": 1689443118731,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

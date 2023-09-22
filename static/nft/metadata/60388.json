@@ -1,0 +1,28 @@
+{
+    "name": "Ralebwë  ",
+    "description": "The collection from onerichgroup #60388",
+    "image": "https://nft.onerichgroup.com/nft/60388.jpg",
+    "dna": "78303asmdjsadya6d7896122bec080e518920",
+    "edition": 1,
+    "date": 1689482664935,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

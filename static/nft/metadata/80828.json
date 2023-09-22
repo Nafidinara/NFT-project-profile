@@ -1,0 +1,28 @@
+{
+    "name": "Imanriel  ",
+    "description": "The vip collection from onerichgroup #80828",
+    "image": "https://nft.onerichgroup.com/nft/80828.jpg",
+    "dna": "84952iyuirf45edrtd71670vjvtyd45tuy78770",
+    "edition": 1,
+    "date": 1690898985238,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

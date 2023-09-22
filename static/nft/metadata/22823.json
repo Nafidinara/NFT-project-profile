@@ -1,0 +1,28 @@
+{
+    "name": "Raladwë  ",
+    "description": "The collection from onerichgroup #22823",
+    "image": "https://nft.onerichgroup.com/nft/22823.jpg",
+    "dna": "37231asmdjsadya6d7896446bec080e570798",
+    "edition": 1,
+    "date": 1689443120191,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

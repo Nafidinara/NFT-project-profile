@@ -1,0 +1,28 @@
+{
+    "name": "Elbaseth  ",
+    "description": "The collection from onerichgroup #3391",
+    "image": "https://nft.onerichgroup.com/nft/3391.jpg",
+    "dna": "29344asmdjsadya6d7830553bec080e598889",
+    "edition": 1,
+    "date": 1689443115045,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

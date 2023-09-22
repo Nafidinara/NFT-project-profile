@@ -1,0 +1,28 @@
+{
+    "name": "Ralensil  ",
+    "description": "The collection from onerichgroup #385",
+    "image": "https://nft.onerichgroup.com/nft/385.jpg",
+    "dna": "34865asmdjsadya6d7826050bec080e532553",
+    "edition": 1,
+    "date": 1689443113278,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

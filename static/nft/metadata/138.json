@@ -1,0 +1,27 @@
+{
+  "name": "Niminien  ",
+  "description": "The collection from onerichgroup #138",
+  "image": "https://nft.onerichgroup.com/nft/138.jpg",
+  "dna": "81720asmdjsadya6d7855971bec080e523964",
+  "edition": 1,
+  "date": 1689443113201,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

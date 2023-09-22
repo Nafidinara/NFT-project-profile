@@ -1,0 +1,28 @@
+{
+    "name": "Irenmir  ",
+    "description": "The collection from onerichgroup #3600",
+    "image": "https://nft.onerichgroup.com/nft/3600.jpg",
+    "dna": "62566asmdjsadya6d7816985bec080e517682",
+    "edition": 1,
+    "date": 1689443115133,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

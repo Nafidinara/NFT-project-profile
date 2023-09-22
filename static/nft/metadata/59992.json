@@ -1,0 +1,28 @@
+{
+    "name": "Lorerwë  ",
+    "description": "The collection from onerichgroup #59992",
+    "image": "https://nft.onerichgroup.com/nft/59992.jpg",
+    "dna": "76355asmdjsadya6d7834680bec080e542283",
+    "edition": 1,
+    "date": 1689478816567,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

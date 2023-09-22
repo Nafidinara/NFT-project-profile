@@ -1,0 +1,28 @@
+{
+    "name": "Estarrial  ",
+    "description": "The collection from onerichgroup #17966",
+    "image": "https://nft.onerichgroup.com/nft/17966.jpg",
+    "dna": "12822asmdjsadya6d7892038bec080e522815",
+    "edition": 1,
+    "date": 1689443119386,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

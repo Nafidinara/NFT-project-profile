@@ -1,0 +1,28 @@
+{
+    "name": "Nimaswë  ",
+    "description": "The collection from onerichgroup #24211",
+    "image": "https://nft.onerichgroup.com/nft/24211.jpg",
+    "dna": "25139asmdjsadya6d7871434bec080e537257",
+    "edition": 1,
+    "date": 1689443120380,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

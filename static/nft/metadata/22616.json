@@ -1,0 +1,28 @@
+{
+    "name": "Calinloth  ",
+    "description": "The collection from onerichgroup #22616",
+    "image": "https://nft.onerichgroup.com/nft/22616.jpg",
+    "dna": "84215asmdjsadya6d7898687bec080e524233",
+    "edition": 1,
+    "date": 1689443120166,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

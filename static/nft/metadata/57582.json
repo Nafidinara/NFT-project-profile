@@ -1,0 +1,28 @@
+{
+    "name": "Galthalien  ",
+    "description": "The collection from onerichgroup #57582",
+    "image": "https://nft.onerichgroup.com/nft/57582.jpg",
+    "dna": "4386asmdjsadya6d7842854bec080e562250",
+    "edition": 1,
+    "date": 1689478815621,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

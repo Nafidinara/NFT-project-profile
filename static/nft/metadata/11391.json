@@ -1,0 +1,27 @@
+{
+  "name": "Relasrian  ",
+  "description": "The collection from onerichgroup #11391",
+  "image": "https://nft.onerichgroup.com/nft/11391.jpg",
+  "dna": "52900asmdjsadya6d7847572bec080e595376",
+  "edition": 1,
+  "date": 1689443117594,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

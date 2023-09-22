@@ -1,0 +1,28 @@
+{
+    "name": "Elbelsil  ",
+    "description": "The collection from onerichgroup #877",
+    "image": "https://nft.onerichgroup.com/nft/877.jpg",
+    "dna": "2467asmdjsadya6d782009bec080e545332",
+    "edition": 1,
+    "date": 1689443113600,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

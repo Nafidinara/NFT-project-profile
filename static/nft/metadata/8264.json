@@ -1,0 +1,28 @@
+{
+    "name": "Liranroël  ",
+    "description": "The collection from onerichgroup #8264",
+    "image": "https://nft.onerichgroup.com/nft/8264.jpg",
+    "dna": "39441asmdjsadya6d7847086bec080e52506",
+    "edition": 1,
+    "date": 1689443116904,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

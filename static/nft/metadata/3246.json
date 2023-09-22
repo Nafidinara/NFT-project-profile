@@ -1,0 +1,28 @@
+{
+    "name": "Erededel  ",
+    "description": "The collection from onerichgroup #3246",
+    "image": "https://nft.onerichgroup.com/nft/3246.jpg",
+    "dna": "98739asmdjsadya6d7847794bec080e590714",
+    "edition": 1,
+    "date": 1689443114942,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clarthonloth  ",
+    "description": "The collection from onerichgroup #3808",
+    "image": "https://nft.onerichgroup.com/nft/3808.jpg",
+    "dna": "26000asmdjsadya6d7841038bec080e521873",
+    "edition": 1,
+    "date": 1689443115247,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

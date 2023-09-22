@@ -1,0 +1,27 @@
+{
+  "name": "Lararmir  ",
+  "description": "The collection from onerichgroup #12119",
+  "image": "https://nft.onerichgroup.com/nft/12119.jpg",
+  "dna": "52985asmdjsadya6d7832550bec080e530992",
+  "edition": 1,
+  "date": 1689443117838,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

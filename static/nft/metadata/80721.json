@@ -1,0 +1,28 @@
+{
+    "name": "Irebsil  ",
+    "description": "The vip collection from onerichgroup #80721",
+    "image": "https://nft.onerichgroup.com/nft/80721.jpg",
+    "dna": "80665iyuirf45edrtd36263vjvtyd45tuy29768",
+    "edition": 1,
+    "date": 1690898984754,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

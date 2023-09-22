@@ -1,0 +1,28 @@
+{
+    "name": "Ranemeth  ",
+    "description": "The collection from onerichgroup #59200",
+    "image": "https://nft.onerichgroup.com/nft/59200.jpg",
+    "dna": "1058asmdjsadya6d7864074bec080e510349",
+    "edition": 1,
+    "date": 1689478816229,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

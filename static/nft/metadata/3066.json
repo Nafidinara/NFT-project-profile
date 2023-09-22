@@ -1,0 +1,28 @@
+{
+    "name": "Ninoledel  ",
+    "description": "The collection from onerichgroup #3066",
+    "image": "https://nft.onerichgroup.com/nft/3066.jpg",
+    "dna": "60251asmdjsadya6d7810651bec080e573146",
+    "edition": 1,
+    "date": 1689443114776,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

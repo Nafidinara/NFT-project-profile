@@ -1,0 +1,27 @@
+{
+  "name": "Galanel  ",
+  "description": "The collection from onerichgroup #10180",
+  "image": "https://nft.onerichgroup.com/nft/10180.jpg",
+  "dna": "88680asmdjsadya6d7876784bec080e543599",
+  "edition": 1,
+  "date": 1689443117476,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

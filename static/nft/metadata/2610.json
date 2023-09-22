@@ -1,0 +1,28 @@
+{
+    "name": "Celarroël  ",
+    "description": "The collection from onerichgroup #2610",
+    "image": "https://nft.onerichgroup.com/nft/2610.jpg",
+    "dna": "15487asmdjsadya6d7815137bec080e561476",
+    "edition": 1,
+    "date": 1689443114622,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rilerriel  ",
+    "description": "The collection from onerichgroup #17814",
+    "image": "https://nft.onerichgroup.com/nft/17814.jpg",
+    "dna": "23374asmdjsadya6d7834920bec080e531295",
+    "edition": 1,
+    "date": 1689443119359,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

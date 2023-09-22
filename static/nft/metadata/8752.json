@@ -1,0 +1,28 @@
+{
+    "name": "Arareth  ",
+    "description": "The collection from onerichgroup #8752",
+    "image": "https://nft.onerichgroup.com/nft/8752.jpg",
+    "dna": "95965asmdjsadya6d7859088bec080e599848",
+    "edition": 1,
+    "date": 1689443117045,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

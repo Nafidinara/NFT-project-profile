@@ -1,0 +1,28 @@
+{
+    "name": "Larebiel  ",
+    "description": "The vip collection from onerichgroup #80102",
+    "image": "https://nft.onerichgroup.com/nft/80102.jpg",
+    "dna": "41271iyuirf45edrtd49943vjvtyd45tuy50458",
+    "edition": 1,
+    "date": 1690898982814,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Nireniel  ",
+    "description": "The collection from onerichgroup #3840",
+    "image": "https://nft.onerichgroup.com/nft/3840.jpg",
+    "dna": "43653asmdjsadya6d7828746bec080e566291",
+    "edition": 1,
+    "date": 1689443115257,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

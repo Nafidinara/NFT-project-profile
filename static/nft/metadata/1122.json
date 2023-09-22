@@ -1,0 +1,27 @@
+{
+  "name": "Erebrien  ",
+  "description": "The collection from onerichgroup #1122",
+  "image": "https://nft.onerichgroup.com/nft/1122.jpg",
+  "dna": "45164asmdjsadya6d7815265bec080e585844",
+  "edition": 1,
+  "date": 1689443113724,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

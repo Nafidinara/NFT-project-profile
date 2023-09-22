@@ -1,0 +1,28 @@
+{
+    "name": "Melevel  ",
+    "description": "The collection from onerichgroup #9004",
+    "image": "https://nft.onerichgroup.com/nft/9004.jpg",
+    "dna": "42865asmdjsadya6d789274bec080e579887",
+    "edition": 1,
+    "date": 1689443117237,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

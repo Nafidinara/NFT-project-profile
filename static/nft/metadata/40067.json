@@ -1,0 +1,28 @@
+{
+    "name": "Ganolloth  ",
+    "description": "The collection from onerichgroup #40067",
+    "image": "https://nft.onerichgroup.com/nft/40067.jpg",
+    "dna": "81588asmdjsadya6d7893754bec080e532182",
+    "edition": 1,
+    "date": 1689443121936,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

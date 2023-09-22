@@ -1,0 +1,28 @@
+{
+    "name": "Eladwë  ",
+    "description": "The vip collection from onerichgroup #80920",
+    "image": "https://nft.onerichgroup.com/nft/80920.jpg",
+    "dna": "33052iyuirf45edrtd74176vjvtyd45tuy17288",
+    "edition": 1,
+    "date": 1690898985664,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

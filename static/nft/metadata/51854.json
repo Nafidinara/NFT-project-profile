@@ -1,0 +1,28 @@
+{
+    "name": "Ninirloth  ",
+    "description": "The collection from onerichgroup #51854",
+    "image": "https://nft.onerichgroup.com/nft/51854.jpg",
+    "dna": "2102asmdjsadya6d787759bec080e598592",
+    "edition": 1,
+    "date": 1689478812526,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

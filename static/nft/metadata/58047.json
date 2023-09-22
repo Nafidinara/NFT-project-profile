@@ -1,0 +1,28 @@
+{
+    "name": "Lirelien  ",
+    "description": "The collection from onerichgroup #58047",
+    "image": "https://nft.onerichgroup.com/nft/58047.jpg",
+    "dna": "80871asmdjsadya6d7826121bec080e572530",
+    "edition": 1,
+    "date": 1689478815800,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

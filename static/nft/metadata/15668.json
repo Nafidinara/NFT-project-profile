@@ -1,0 +1,28 @@
+{
+    "name": "Galinien  ",
+    "description": "The collection from onerichgroup #15668",
+    "image": "https://nft.onerichgroup.com/nft/15668.jpg",
+    "dna": "54132asmdjsadya6d7825768bec080e594189",
+    "edition": 1,
+    "date": 1689443118858,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

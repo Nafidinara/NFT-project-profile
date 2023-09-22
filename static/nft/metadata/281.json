@@ -1,0 +1,28 @@
+{
+    "name": "Elbevril  ",
+    "description": "The collection from onerichgroup #281",
+    "image": "https://nft.onerichgroup.com/nft/281.jpg",
+    "dna": "10439asmdjsadya6d7855777bec080e531068",
+    "edition": 1,
+    "date": 1689443113245,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

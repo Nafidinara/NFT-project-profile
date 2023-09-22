@@ -1,0 +1,28 @@
+{
+    "name": "Caroliel  ",
+    "description": "The collection from onerichgroup #215",
+    "image": "https://nft.onerichgroup.com/nft/215.jpg",
+    "dna": "19271asmdjsadya6d7848367bec080e53152",
+    "edition": 1,
+    "date": 1689443113226,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

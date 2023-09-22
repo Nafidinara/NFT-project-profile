@@ -1,0 +1,27 @@
+{
+  "name": "Giledriel  ",
+  "description": "The collection from onerichgroup #1032",
+  "image": "https://nft.onerichgroup.com/nft/1032.jpg",
+  "dna": "54147asmdjsadya6d7866133bec080e563860",
+  "edition": 1,
+  "date": 1689443113645,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

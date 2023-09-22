@@ -1,0 +1,28 @@
+{
+    "name": "Merinien  ",
+    "description": "The collection from onerichgroup #55014",
+    "image": "https://nft.onerichgroup.com/nft/55014.jpg",
+    "dna": "22172asmdjsadya6d7874120bec080e590104",
+    "edition": 1,
+    "date": 1689478814350,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

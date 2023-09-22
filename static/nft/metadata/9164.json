@@ -1,0 +1,28 @@
+{
+    "name": "Celerrial  ",
+    "description": "The collection from onerichgroup #9164",
+    "image": "https://nft.onerichgroup.com/nft/9164.jpg",
+    "dna": "48008asmdjsadya6d7860996bec080e528615",
+    "edition": 1,
+    "date": 1689443117286,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

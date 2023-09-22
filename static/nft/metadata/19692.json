@@ -1,0 +1,28 @@
+{
+    "name": "Cirarsil  ",
+    "description": "The collection from onerichgroup #19692",
+    "image": "https://nft.onerichgroup.com/nft/19692.jpg",
+    "dna": "41506asmdjsadya6d7836157bec080e557878",
+    "edition": 1,
+    "date": 1689443119683,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

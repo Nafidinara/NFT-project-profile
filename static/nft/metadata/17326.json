@@ -1,0 +1,28 @@
+{
+    "name": "Carermir  ",
+    "description": "The collection from onerichgroup #17326",
+    "image": "https://nft.onerichgroup.com/nft/17326.jpg",
+    "dna": "2455asmdjsadya6d7875231bec080e519069",
+    "edition": 1,
+    "date": 1689443119290,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

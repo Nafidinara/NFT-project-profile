@@ -1,0 +1,28 @@
+{
+    "name": "Liraredel  ",
+    "description": "The collection from onerichgroup #52069",
+    "image": "https://nft.onerichgroup.com/nft/52069.jpg",
+    "dna": "26531asmdjsadya6d7891622bec080e537286",
+    "edition": 1,
+    "date": 1689478812723,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

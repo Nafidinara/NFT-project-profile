@@ -1,0 +1,28 @@
+{
+    "name": "Mirerrial  ",
+    "description": "The collection from onerichgroup #30880",
+    "image": "https://nft.onerichgroup.com/nft/30880.jpg",
+    "dna": "41841asmdjsadya6d7877593bec080e548041",
+    "edition": 1,
+    "date": 1689443121203,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

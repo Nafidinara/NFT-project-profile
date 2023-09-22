@@ -1,0 +1,28 @@
+{
+    "name": "Caremwen  ",
+    "description": "The collection from onerichgroup #5569",
+    "image": "https://nft.onerichgroup.com/nft/5569.jpg",
+    "dna": "32359asmdjsadya6d7866933bec080e569011",
+    "edition": 1,
+    "date": 1689443116129,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

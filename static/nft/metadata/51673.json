@@ -1,0 +1,28 @@
+{
+    "name": "Nimirwë  ",
+    "description": "The collection from onerichgroup #51673",
+    "image": "https://nft.onerichgroup.com/nft/51673.jpg",
+    "dna": "48923asmdjsadya6d7835519bec080e512196",
+    "edition": 1,
+    "date": 1689478812405,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ganededel  ",
+    "description": "The collection from onerichgroup #56494",
+    "image": "https://nft.onerichgroup.com/nft/56494.jpg",
+    "dna": "18115asmdjsadya6d7897184bec080e56396",
+    "edition": 1,
+    "date": 1689478815146,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

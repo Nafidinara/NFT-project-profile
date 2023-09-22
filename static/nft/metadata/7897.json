@@ -1,0 +1,28 @@
+{
+    "name": "Rinemwen  ",
+    "description": "The collection from onerichgroup #7897",
+    "image": "https://nft.onerichgroup.com/nft/7897.jpg",
+    "dna": "82980asmdjsadya6d7894530bec080e524772",
+    "edition": 1,
+    "date": 1689443116766,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

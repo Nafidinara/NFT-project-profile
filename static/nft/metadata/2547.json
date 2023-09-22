@@ -1,0 +1,28 @@
+{
+    "name": "Elanrien  ",
+    "description": "The collection from onerichgroup #2547",
+    "image": "https://nft.onerichgroup.com/nft/2547.jpg",
+    "dna": "29744asmdjsadya6d7810604bec080e578431",
+    "edition": 1,
+    "date": 1689443114580,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

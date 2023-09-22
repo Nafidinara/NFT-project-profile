@@ -1,0 +1,28 @@
+{
+    "name": "Elarwen  ",
+    "description": "The collection from onerichgroup #1915",
+    "image": "https://nft.onerichgroup.com/nft/1915.jpg",
+    "dna": "41293asmdjsadya6d7895974bec080e598074",
+    "edition": 1,
+    "date": 1689443114319,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

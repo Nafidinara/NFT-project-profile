@@ -1,0 +1,28 @@
+{
+    "name": "Istalian  ",
+    "description": "The collection from onerichgroup #60092",
+    "image": "https://nft.onerichgroup.com/nft/60092.jpg",
+    "dna": "72007asmdjsadya6d7844355bec080e588084",
+    "edition": 1,
+    "date": 1689482664852,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

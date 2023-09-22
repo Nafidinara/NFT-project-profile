@@ -1,0 +1,28 @@
+{
+    "name": "Calolrial  ",
+    "description": "The collection from onerichgroup #17840",
+    "image": "https://nft.onerichgroup.com/nft/17840.jpg",
+    "dna": "18939asmdjsadya6d7851014bec080e552808",
+    "edition": 1,
+    "date": 1689443119365,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

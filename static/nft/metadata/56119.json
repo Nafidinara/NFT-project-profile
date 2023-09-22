@@ -1,0 +1,28 @@
+{
+    "name": "Fininril  ",
+    "description": "The collection from onerichgroup #56119",
+    "image": "https://nft.onerichgroup.com/nft/56119.jpg",
+    "dna": "37935asmdjsadya6d7896235bec080e543011",
+    "edition": 1,
+    "date": 1689478814963,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

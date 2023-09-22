@@ -1,0 +1,28 @@
+{
+    "name": "Ranebrian  ",
+    "description": "The collection from onerichgroup #50646",
+    "image": "https://nft.onerichgroup.com/nft/50646.jpg",
+    "dna": "77441asmdjsadya6d7817675bec080e541900",
+    "edition": 1,
+    "date": 1689478811507,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

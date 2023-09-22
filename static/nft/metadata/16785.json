@@ -1,0 +1,28 @@
+{
+    "name": "Elbarsil  ",
+    "description": "The collection from onerichgroup #16785",
+    "image": "https://nft.onerichgroup.com/nft/16785.jpg",
+    "dna": "80810asmdjsadya6d7852896bec080e532450",
+    "edition": 1,
+    "date": 1689443119157,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

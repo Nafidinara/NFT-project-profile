@@ -1,0 +1,28 @@
+{
+    "name": "Rimedrial  ",
+    "description": "The collection from onerichgroup #35193",
+    "image": "https://nft.onerichgroup.com/nft/35193.jpg",
+    "dna": "25640asmdjsadya6d7824223bec080e573458",
+    "edition": 1,
+    "date": 1689443121611,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

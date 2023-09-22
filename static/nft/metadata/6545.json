@@ -1,0 +1,28 @@
+{
+    "name": "Elberedel  ",
+    "description": "The collection from onerichgroup #6545",
+    "image": "https://nft.onerichgroup.com/nft/6545.jpg",
+    "dna": "86142asmdjsadya6d785225bec080e559085",
+    "edition": 1,
+    "date": 1689443116458,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

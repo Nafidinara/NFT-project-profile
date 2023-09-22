@@ -1,0 +1,28 @@
+{
+    "name": "Marthalel  ",
+    "description": "The collection from onerichgroup #15212",
+    "image": "https://nft.onerichgroup.com/nft/15212.jpg",
+    "dna": "14246asmdjsadya6d7832353bec080e566646",
+    "edition": 1,
+    "date": 1689443118738,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

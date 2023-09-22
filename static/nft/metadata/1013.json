@@ -1,0 +1,27 @@
+{
+  "name": "Celessil  ",
+  "description": "The collection from onerichgroup #1013",
+  "image": "https://nft.onerichgroup.com/nft/1013.jpg",
+  "dna": "89337asmdjsadya6d7831479bec080e51705",
+  "edition": 1,
+  "date": 1689443113643,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

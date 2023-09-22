@@ -1,0 +1,28 @@
+{
+    "name": "Liralel  ",
+    "description": "The collection from onerichgroup #5142",
+    "image": "https://nft.onerichgroup.com/nft/5142.jpg",
+    "dna": "34770asmdjsadya6d7849682bec080e571054",
+    "edition": 1,
+    "date": 1689443115962,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

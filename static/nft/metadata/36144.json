@@ -1,0 +1,28 @@
+{
+    "name": "Gananien  ",
+    "description": "The collection from onerichgroup #36144",
+    "image": "https://nft.onerichgroup.com/nft/36144.jpg",
+    "dna": "35234asmdjsadya6d7830420bec080e535387",
+    "edition": 1,
+    "date": 1689443121651,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

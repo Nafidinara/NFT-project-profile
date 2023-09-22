@@ -1,0 +1,28 @@
+{
+    "name": "Claradrien  ",
+    "description": "The collection from onerichgroup #579",
+    "image": "https://nft.onerichgroup.com/nft/579.jpg",
+    "dna": "38769asmdjsadya6d7860006bec080e548150",
+    "edition": 1,
+    "date": 1689443113497,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

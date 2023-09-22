@@ -1,0 +1,28 @@
+{
+    "name": "Farirrien  ",
+    "description": "The collection from onerichgroup #57609",
+    "image": "https://nft.onerichgroup.com/nft/57609.jpg",
+    "dna": "93693asmdjsadya6d7861687bec080e531306",
+    "edition": 1,
+    "date": 1689478815625,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

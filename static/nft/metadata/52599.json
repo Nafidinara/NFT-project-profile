@@ -1,0 +1,28 @@
+{
+    "name": "Garesriel  ",
+    "description": "The collection from onerichgroup #52599",
+    "image": "https://nft.onerichgroup.com/nft/52599.jpg",
+    "dna": "20625asmdjsadya6d7833540bec080e572099",
+    "edition": 1,
+    "date": 1689478813118,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

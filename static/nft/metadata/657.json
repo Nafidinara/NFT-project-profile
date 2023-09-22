@@ -1,0 +1,28 @@
+{
+    "name": "Arilsil  ",
+    "description": "The collection from onerichgroup #657",
+    "image": "https://nft.onerichgroup.com/nft/657.jpg",
+    "dna": "12306asmdjsadya6d7848790bec080e577932",
+    "edition": 1,
+    "date": 1689443113535,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

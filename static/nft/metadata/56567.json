@@ -1,0 +1,28 @@
+{
+    "name": "Gelesiel  ",
+    "description": "The collection from onerichgroup #56567",
+    "image": "https://nft.onerichgroup.com/nft/56567.jpg",
+    "dna": "25986asmdjsadya6d7856959bec080e541042",
+    "edition": 1,
+    "date": 1689478815172,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

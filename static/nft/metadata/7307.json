@@ -1,0 +1,28 @@
+{
+    "name": "Geladrian  ",
+    "description": "The collection from onerichgroup #7307",
+    "image": "https://nft.onerichgroup.com/nft/7307.jpg",
+    "dna": "85846asmdjsadya6d7846167bec080e52118",
+    "edition": 1,
+    "date": 1689443116534,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

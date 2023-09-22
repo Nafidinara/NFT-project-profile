@@ -1,0 +1,27 @@
+{
+  "name": "Rilalian  ",
+  "description": "The collection from onerichgroup #11426",
+  "image": "https://nft.onerichgroup.com/nft/11426.jpg",
+  "dna": "39946asmdjsadya6d7810833bec080e514906",
+  "edition": 1,
+  "date": 1689443117600,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

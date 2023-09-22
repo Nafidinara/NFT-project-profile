@@ -1,0 +1,27 @@
+{
+  "name": "Nimilmir  ",
+  "description": "The collection from onerichgroup #10006",
+  "image": "https://nft.onerichgroup.com/nft/10006.jpg",
+  "dna": "45979asmdjsadya6d7838441bec080e572959",
+  "edition": 1,
+  "date": 1689443117462,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

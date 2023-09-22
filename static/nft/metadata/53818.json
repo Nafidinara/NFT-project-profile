@@ -1,0 +1,28 @@
+{
+    "name": "Melinian  ",
+    "description": "The collection from onerichgroup #53818",
+    "image": "https://nft.onerichgroup.com/nft/53818.jpg",
+    "dna": "61985asmdjsadya6d7897733bec080e524475",
+    "edition": 1,
+    "date": 1689478813729,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

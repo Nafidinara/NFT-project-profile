@@ -1,0 +1,28 @@
+{
+    "name": "Elinedel  ",
+    "description": "The collection from onerichgroup #52992",
+    "image": "https://nft.onerichgroup.com/nft/52992.jpg",
+    "dna": "58537asmdjsadya6d782180bec080e585516",
+    "edition": 1,
+    "date": 1689478813372,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

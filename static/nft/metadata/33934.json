@@ -1,0 +1,28 @@
+{
+    "name": "Carthalloth  ",
+    "description": "The collection from onerichgroup #33934",
+    "image": "https://nft.onerichgroup.com/nft/33934.jpg",
+    "dna": "30953asmdjsadya6d7840288bec080e554114",
+    "edition": 1,
+    "date": 1689443121552,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

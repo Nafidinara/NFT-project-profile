@@ -1,0 +1,28 @@
+{
+    "name": "Reledien  ",
+    "description": "The collection from onerichgroup #7515",
+    "image": "https://nft.onerichgroup.com/nft/7515.jpg",
+    "dna": "89301asmdjsadya6d7844478bec080e578251",
+    "edition": 1,
+    "date": 1689443116604,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clarinrian  ",
+    "description": "The collection from onerichgroup #52817",
+    "image": "https://nft.onerichgroup.com/nft/52817.jpg",
+    "dna": "5736asmdjsadya6d7898146bec080e599864",
+    "edition": 1,
+    "date": 1689478813281,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

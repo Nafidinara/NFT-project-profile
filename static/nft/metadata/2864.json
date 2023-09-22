@@ -1,0 +1,28 @@
+{
+    "name": "Marasedel  ",
+    "description": "The collection from onerichgroup #2864",
+    "image": "https://nft.onerichgroup.com/nft/2864.jpg",
+    "dna": "66448asmdjsadya6d7898198bec080e552300",
+    "edition": 1,
+    "date": 1689443114656,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

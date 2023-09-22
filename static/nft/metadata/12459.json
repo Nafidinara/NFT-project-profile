@@ -1,0 +1,27 @@
+{
+  "name": "Istebmir  ",
+  "description": "The collection from onerichgroup #12459",
+  "image": "https://nft.onerichgroup.com/nft/12459.jpg",
+  "dna": "66614asmdjsadya6d7898030bec080e556111",
+  "edition": 1,
+  "date": 1689443117929,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

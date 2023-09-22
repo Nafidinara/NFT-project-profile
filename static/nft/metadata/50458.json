@@ -1,0 +1,28 @@
+{
+    "name": "Rimedrien  ",
+    "description": "The collection from onerichgroup #50458",
+    "image": "https://nft.onerichgroup.com/nft/50458.jpg",
+    "dna": "93222asmdjsadya6d7894395bec080e519848",
+    "edition": 1,
+    "date": 1689478811238,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

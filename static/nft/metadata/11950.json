@@ -1,0 +1,27 @@
+{
+  "name": "Cirolmir  ",
+  "description": "The collection from onerichgroup #11950",
+  "image": "https://nft.onerichgroup.com/nft/11950.jpg",
+  "dna": "94936asmdjsadya6d7851791bec080e558072",
+  "edition": 1,
+  "date": 1689443117812,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

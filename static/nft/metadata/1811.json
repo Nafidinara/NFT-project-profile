@@ -1,0 +1,28 @@
+{
+    "name": "Anolel  ",
+    "description": "The collection from onerichgroup #1811",
+    "image": "https://nft.onerichgroup.com/nft/1811.jpg",
+    "dna": "19033asmdjsadya6d7831748bec080e525629",
+    "edition": 1,
+    "date": 1689443114226,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

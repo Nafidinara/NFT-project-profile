@@ -1,0 +1,28 @@
+{
+    "name": "Ranenrial  ",
+    "description": "The collection from onerichgroup #17932",
+    "image": "https://nft.onerichgroup.com/nft/17932.jpg",
+    "dna": "24778asmdjsadya6d7813012bec080e571325",
+    "edition": 1,
+    "date": 1689443119380,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

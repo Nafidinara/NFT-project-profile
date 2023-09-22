@@ -1,0 +1,28 @@
+{
+    "name": "Ninasian  ",
+    "description": "The collection from onerichgroup #3902",
+    "image": "https://nft.onerichgroup.com/nft/3902.jpg",
+    "dna": "70588asmdjsadya6d7861348bec080e560527",
+    "edition": 1,
+    "date": 1689443115310,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Rimeseth  ",
+    "description": "The collection from onerichgroup #45272",
+    "image": "https://nft.onerichgroup.com/nft/45272.jpg",
+    "dna": "97837asmdjsadya6d7864872bec080e599181",
+    "edition": 1,
+    "date": 1689443122323,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

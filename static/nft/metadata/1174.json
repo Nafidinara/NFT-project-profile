@@ -1,0 +1,27 @@
+{
+  "name": "Rimevriel  ",
+  "description": "The collection from onerichgroup #1174",
+  "image": "https://nft.onerichgroup.com/nft/1174.jpg",
+  "dna": "20304asmdjsadya6d7885731bec080e541928",
+  "edition": 1,
+  "date": 1689443113766,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

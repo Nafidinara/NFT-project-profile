@@ -1,0 +1,28 @@
+{
+    "name": "Elinroël  ",
+    "description": "The collection from onerichgroup #60267",
+    "image": "https://nft.onerichgroup.com/nft/60267.jpg",
+    "dna": "91924asmdjsadya6d7839771bec080e519943",
+    "edition": 1,
+    "date": 1689482664892,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

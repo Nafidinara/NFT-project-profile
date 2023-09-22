@@ -1,0 +1,28 @@
+{
+    "name": "Finemmir  ",
+    "description": "The collection from onerichgroup #54482",
+    "image": "https://nft.onerichgroup.com/nft/54482.jpg",
+    "dna": "18105asmdjsadya6d7867417bec080e586387",
+    "edition": 1,
+    "date": 1689478814060,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Maredeth  ",
+    "description": "The collection from onerichgroup #4927",
+    "image": "https://nft.onerichgroup.com/nft/4927.jpg",
+    "dna": "34177asmdjsadya6d7829098bec080e595529",
+    "edition": 1,
+    "date": 1689443115873,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

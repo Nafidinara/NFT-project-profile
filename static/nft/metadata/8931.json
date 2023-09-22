@@ -1,0 +1,28 @@
+{
+    "name": "Istthonmir  ",
+    "description": "The collection from onerichgroup #8931",
+    "image": "https://nft.onerichgroup.com/nft/8931.jpg",
+    "dna": "75614asmdjsadya6d7849524bec080e584464",
+    "edition": 1,
+    "date": 1689443117113,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

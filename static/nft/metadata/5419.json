@@ -1,0 +1,28 @@
+{
+    "name": "Aneviel  ",
+    "description": "The collection from onerichgroup #5419",
+    "image": "https://nft.onerichgroup.com/nft/5419.jpg",
+    "dna": "56693asmdjsadya6d7896145bec080e533719",
+    "edition": 1,
+    "date": 1689443116059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

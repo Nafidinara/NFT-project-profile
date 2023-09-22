@@ -1,0 +1,27 @@
+{
+  "name": "Nimilril  ",
+  "description": "The collection from onerichgroup #13822",
+  "image": "https://nft.onerichgroup.com/nft/13822.jpg",
+  "dna": "35222asmdjsadya6d789272bec080e571120",
+  "edition": 1,
+  "date": 1689443118312,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

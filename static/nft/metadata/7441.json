@@ -1,0 +1,28 @@
+{
+    "name": "Celerien  ",
+    "description": "The collection from onerichgroup #7441",
+    "image": "https://nft.onerichgroup.com/nft/7441.jpg",
+    "dna": "99039asmdjsadya6d7852275bec080e532371",
+    "edition": 1,
+    "date": 1689443116591,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

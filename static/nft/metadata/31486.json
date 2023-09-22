@@ -1,0 +1,28 @@
+{
+    "name": "Farerwë  ",
+    "description": "The collection from onerichgroup #31486",
+    "image": "https://nft.onerichgroup.com/nft/31486.jpg",
+    "dna": "99751asmdjsadya6d7878864bec080e522573",
+    "edition": 1,
+    "date": 1689443121254,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

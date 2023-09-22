@@ -1,0 +1,27 @@
+{
+  "name": "Carebwen  ",
+  "description": "The collection from onerichgroup #13151",
+  "image": "https://nft.onerichgroup.com/nft/13151.jpg",
+  "dna": "80532asmdjsadya6d7826140bec080e530079",
+  "edition": 1,
+  "date": 1689443118088,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

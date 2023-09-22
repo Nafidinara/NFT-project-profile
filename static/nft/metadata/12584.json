@@ -1,0 +1,27 @@
+{
+  "name": "Relirrial  ",
+  "description": "The collection from onerichgroup #12584",
+  "image": "https://nft.onerichgroup.com/nft/12584.jpg",
+  "dna": "97479asmdjsadya6d7819922bec080e51577",
+  "edition": 1,
+  "date": 1689443117957,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

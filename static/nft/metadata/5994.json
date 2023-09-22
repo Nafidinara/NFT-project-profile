@@ -1,0 +1,28 @@
+{
+    "name": "Ilmesrian  ",
+    "description": "The collection from onerichgroup #5994",
+    "image": "https://nft.onerichgroup.com/nft/5994.jpg",
+    "dna": "75164asmdjsadya6d7897943bec080e587958",
+    "edition": 1,
+    "date": 1689443116358,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

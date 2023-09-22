@@ -1,0 +1,27 @@
+{
+  "name": "Galalsil  ",
+  "description": "The collection from onerichgroup #11223",
+  "image": "https://nft.onerichgroup.com/nft/11223.jpg",
+  "dna": "36146asmdjsadya6d787865bec080e599757",
+  "edition": 1,
+  "date": 1689443117563,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

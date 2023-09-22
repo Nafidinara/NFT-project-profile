@@ -1,0 +1,28 @@
+{
+    "name": "Istthalel  ",
+    "description": "The collection from onerichgroup #9621",
+    "image": "https://nft.onerichgroup.com/nft/9621.jpg",
+    "dna": "54415asmdjsadya6d7865215bec080e549851",
+    "edition": 1,
+    "date": 1689443117432,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

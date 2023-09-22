@@ -1,0 +1,28 @@
+{
+    "name": "Celebloth  ",
+    "description": "The collection from onerichgroup #59592",
+    "image": "https://nft.onerichgroup.com/nft/59592.jpg",
+    "dna": "25060asmdjsadya6d7879077bec080e517722",
+    "edition": 1,
+    "date": 1689478816451,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

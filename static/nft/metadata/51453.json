@@ -1,0 +1,28 @@
+{
+    "name": "Imthonrian  ",
+    "description": "The collection from onerichgroup #51453",
+    "image": "https://nft.onerichgroup.com/nft/51453.jpg",
+    "dna": "92540asmdjsadya6d7828800bec080e580160",
+    "edition": 1,
+    "date": 1689478812297,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Nirelwen  ",
+    "description": "The collection from onerichgroup #56784",
+    "image": "https://nft.onerichgroup.com/nft/56784.jpg",
+    "dna": "71589asmdjsadya6d7880971bec080e598302",
+    "edition": 1,
+    "date": 1689478815236,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

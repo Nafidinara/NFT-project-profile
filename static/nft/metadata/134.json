@@ -1,0 +1,27 @@
+{
+  "name": "Gileseth  ",
+  "description": "The collection from onerichgroup #134",
+  "image": "https://nft.onerichgroup.com/nft/134.jpg",
+  "dna": "80376asmdjsadya6d7885193bec080e511354",
+  "edition": 1,
+  "date": 1689443113199,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

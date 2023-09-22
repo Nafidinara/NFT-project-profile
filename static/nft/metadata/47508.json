@@ -1,0 +1,28 @@
+{
+    "name": "Nimasedel  ",
+    "description": "The collection from onerichgroup #47508",
+    "image": "https://nft.onerichgroup.com/nft/47508.jpg",
+    "dna": "86303asmdjsadya6d7857183bec080e526709",
+    "edition": 1,
+    "date": 1689443122384,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

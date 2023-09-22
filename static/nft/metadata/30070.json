@@ -1,0 +1,28 @@
+{
+    "name": "Gilevel  ",
+    "description": "The collection from onerichgroup #30070",
+    "image": "https://nft.onerichgroup.com/nft/30070.jpg",
+    "dna": "29047asmdjsadya6d7892547bec080e58095",
+    "edition": 1,
+    "date": 1689443121149,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

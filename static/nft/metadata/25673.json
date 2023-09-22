@@ -1,0 +1,28 @@
+{
+    "name": "Aradeth  ",
+    "description": "The collection from onerichgroup #25673",
+    "image": "https://nft.onerichgroup.com/nft/25673.jpg",
+    "dna": "88203asmdjsadya6d7858034bec080e523773",
+    "edition": 1,
+    "date": 1689443120609,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

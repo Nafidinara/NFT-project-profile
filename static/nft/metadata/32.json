@@ -1,0 +1,28 @@
+{
+    "name": "Lirebrian  ",
+    "description": "The collection from onerichgroup #32",
+    "image": "https://nft.onerichgroup.com/nft/32.jpg",
+    "dna": "2323asmdjsadya6d7831978bec080e559472",
+    "edition": 1,
+    "date": 1689443113164,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

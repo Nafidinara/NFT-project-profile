@@ -1,0 +1,28 @@
+{
+    "name": "Mirthonriel  ",
+    "description": "The collection from onerichgroup #8740",
+    "image": "https://nft.onerichgroup.com/nft/8740.jpg",
+    "dna": "51395asmdjsadya6d7831044bec080e544032",
+    "edition": 1,
+    "date": 1689443117041,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

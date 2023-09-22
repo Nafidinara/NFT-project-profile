@@ -1,0 +1,28 @@
+{
+    "name": "Fararien  ",
+    "description": "The collection from onerichgroup #22801",
+    "image": "https://nft.onerichgroup.com/nft/22801.jpg",
+    "dna": "27568asmdjsadya6d7825036bec080e5302",
+    "edition": 1,
+    "date": 1689443120186,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

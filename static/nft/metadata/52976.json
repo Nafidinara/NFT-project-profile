@@ -1,0 +1,28 @@
+{
+    "name": "Marelwë  ",
+    "description": "The collection from onerichgroup #52976",
+    "image": "https://nft.onerichgroup.com/nft/52976.jpg",
+    "dna": "63354asmdjsadya6d7878178bec080e559250",
+    "edition": 1,
+    "date": 1689478813366,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

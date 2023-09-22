@@ -1,0 +1,28 @@
+{
+    "name": "Carebedel  ",
+    "description": "The collection from onerichgroup #16538",
+    "image": "https://nft.onerichgroup.com/nft/16538.jpg",
+    "dna": "28948asmdjsadya6d7814446bec080e522786",
+    "edition": 1,
+    "date": 1689443118994,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

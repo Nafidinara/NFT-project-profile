@@ -1,0 +1,28 @@
+{
+    "name": "Cararloth  ",
+    "description": "The collection from onerichgroup #7301",
+    "image": "https://nft.onerichgroup.com/nft/7301.jpg",
+    "dna": "53574asmdjsadya6d7860811bec080e561015",
+    "edition": 1,
+    "date": 1689443116533,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

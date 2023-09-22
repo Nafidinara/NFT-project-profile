@@ -1,0 +1,28 @@
+{
+    "name": "Mirthalrien  ",
+    "description": "The collection from onerichgroup #15074",
+    "image": "https://nft.onerichgroup.com/nft/15074.jpg",
+    "dna": "59542asmdjsadya6d7849071bec080e595136",
+    "edition": 1,
+    "date": 1689443118709,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

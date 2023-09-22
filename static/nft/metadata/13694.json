@@ -1,0 +1,27 @@
+{
+  "name": "Ilmadrian  ",
+  "description": "The collection from onerichgroup #13694",
+  "image": "https://nft.onerichgroup.com/nft/13694.jpg",
+  "dna": "2610asmdjsadya6d782684bec080e565469",
+  "edition": 1,
+  "date": 1689443118288,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

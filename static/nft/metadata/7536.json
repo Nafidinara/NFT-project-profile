@@ -1,0 +1,28 @@
+{
+    "name": "Elbamsil  ",
+    "description": "The collection from onerichgroup #7536",
+    "image": "https://nft.onerichgroup.com/nft/7536.jpg",
+    "dna": "11630asmdjsadya6d7826171bec080e538794",
+    "edition": 1,
+    "date": 1689443116608,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

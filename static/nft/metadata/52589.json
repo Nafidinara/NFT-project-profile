@@ -1,0 +1,28 @@
+{
+    "name": "Relenwë  ",
+    "description": "The collection from onerichgroup #52589",
+    "image": "https://nft.onerichgroup.com/nft/52589.jpg",
+    "dna": "22801asmdjsadya6d7856355bec080e549811",
+    "edition": 1,
+    "date": 1689478813115,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Irolrian  ",
+    "description": "The collection from onerichgroup #834",
+    "image": "https://nft.onerichgroup.com/nft/834.jpg",
+    "dna": "61848asmdjsadya6d7839223bec080e584509",
+    "edition": 1,
+    "date": 1689443113593,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Larirrial  ",
+    "description": "The collection from onerichgroup #59073",
+    "image": "https://nft.onerichgroup.com/nft/59073.jpg",
+    "dna": "22303asmdjsadya6d7823291bec080e566821",
+    "edition": 1,
+    "date": 1689478816205,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

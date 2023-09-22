@@ -1,0 +1,27 @@
+{
+  "name": "Elbolrien  ",
+  "description": "The collection from onerichgroup #11784",
+  "image": "https://nft.onerichgroup.com/nft/11784.jpg",
+  "dna": "90475asmdjsadya6d7868352bec080e566611",
+  "edition": 1,
+  "date": 1689443117783,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

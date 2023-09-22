@@ -1,0 +1,28 @@
+{
+    "name": "Ralenrian  ",
+    "description": "The collection from onerichgroup #8832",
+    "image": "https://nft.onerichgroup.com/nft/8832.jpg",
+    "dna": "43611asmdjsadya6d7874615bec080e549155",
+    "edition": 1,
+    "date": 1689443117060,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Nirevian  ",
+  "description": "The collection from onerichgroup #11351",
+  "image": "https://nft.onerichgroup.com/nft/11351.jpg",
+  "dna": "68998asmdjsadya6d7868385bec080e579301",
+  "edition": 1,
+  "date": 1689443117588,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Relansil  ",
+    "description": "The collection from onerichgroup #51644",
+    "image": "https://nft.onerichgroup.com/nft/51644.jpg",
+    "dna": "24715asmdjsadya6d7812241bec080e563811",
+    "edition": 1,
+    "date": 1689478812392,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Ganilrien  ",
+    "description": "The collection from onerichgroup #53335",
+    "image": "https://nft.onerichgroup.com/nft/53335.jpg",
+    "dna": "19238asmdjsadya6d7879638bec080e553218",
+    "edition": 1,
+    "date": 1689478813543,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

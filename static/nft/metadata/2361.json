@@ -1,0 +1,28 @@
+{
+    "name": "Gilebiel  ",
+    "description": "The collection from onerichgroup #2361",
+    "image": "https://nft.onerichgroup.com/nft/2361.jpg",
+    "dna": "83678asmdjsadya6d7855468bec080e561519",
+    "edition": 1,
+    "date": 1689443114552,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

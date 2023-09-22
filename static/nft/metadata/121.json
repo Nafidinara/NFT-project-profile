@@ -1,0 +1,27 @@
+{
+  "name": "Lirasroël  ",
+  "description": "The collection from onerichgroup #121",
+  "image": "https://nft.onerichgroup.com/nft/121.jpg",
+  "dna": "82321asmdjsadya6d7824056bec080e554084",
+  "edition": 1,
+  "date": 1689443113196,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

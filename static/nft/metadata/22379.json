@@ -1,0 +1,28 @@
+{
+    "name": "Analien  ",
+    "description": "The collection from onerichgroup #22379",
+    "image": "https://nft.onerichgroup.com/nft/22379.jpg",
+    "dna": "95080asmdjsadya6d7877271bec080e577570",
+    "edition": 1,
+    "date": 1689443120145,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

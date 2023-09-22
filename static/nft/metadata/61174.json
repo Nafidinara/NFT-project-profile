@@ -1,0 +1,28 @@
+{
+    "name": "Laraseth  ",
+    "description": "The collection from onerichgroup #61174",
+    "image": "https://nft.onerichgroup.com/nft/61174.jpg",
+    "dna": "553757dje6rgfnbs050222bec080e566496",
+    "edition": 1,
+    "date": 1689584225956,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

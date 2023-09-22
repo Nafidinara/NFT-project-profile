@@ -1,0 +1,28 @@
+{
+    "name": "Cirerwë  ",
+    "description": "The vip collection from onerichgroup #80374",
+    "image": "https://nft.onerichgroup.com/nft/80374.jpg",
+    "dna": "49677iyuirf45edrtd63467vjvtyd45tuy99770",
+    "edition": 1,
+    "date": 1690898983636,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

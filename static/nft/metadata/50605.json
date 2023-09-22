@@ -1,0 +1,28 @@
+{
+    "name": "Elamsil  ",
+    "description": "The collection from onerichgroup #50605",
+    "image": "https://nft.onerichgroup.com/nft/50605.jpg",
+    "dna": "34568asmdjsadya6d7819112bec080e58477",
+    "edition": 1,
+    "date": 1689478811450,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

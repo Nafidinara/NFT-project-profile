@@ -1,0 +1,28 @@
+{
+    "name": "Elamloth  ",
+    "description": "The collection from onerichgroup #52358",
+    "image": "https://nft.onerichgroup.com/nft/52358.jpg",
+    "dna": "61112asmdjsadya6d7894885bec080e580274",
+    "edition": 1,
+    "date": 1689478812972,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

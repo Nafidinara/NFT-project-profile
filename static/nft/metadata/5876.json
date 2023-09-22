@@ -1,0 +1,28 @@
+{
+    "name": "Celthonrial  ",
+    "description": "The collection from onerichgroup #5876",
+    "image": "https://nft.onerichgroup.com/nft/5876.jpg",
+    "dna": "17872asmdjsadya6d7839670bec080e534367",
+    "edition": 1,
+    "date": 1689443116318,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

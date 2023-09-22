@@ -1,0 +1,28 @@
+{
+    "name": "Nimthonrial  ",
+    "description": "The collection from onerichgroup #399",
+    "image": "https://nft.onerichgroup.com/nft/399.jpg",
+    "dna": "9537asmdjsadya6d7822554bec080e58250",
+    "edition": 1,
+    "date": 1689443113284,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

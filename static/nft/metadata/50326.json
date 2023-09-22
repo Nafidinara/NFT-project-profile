@@ -1,0 +1,28 @@
+{
+    "name": "Rinireth  ",
+    "description": "The collection from onerichgroup #50326",
+    "image": "https://nft.onerichgroup.com/nft/50326.jpg",
+    "dna": "50929asmdjsadya6d7864929bec080e563882",
+    "edition": 1,
+    "date": 1689478811210,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

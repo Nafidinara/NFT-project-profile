@@ -1,0 +1,28 @@
+{
+    "name": "Erlebroël  ",
+    "description": "The collection from onerichgroup #17025",
+    "image": "https://nft.onerichgroup.com/nft/17025.jpg",
+    "dna": "11300asmdjsadya6d7884066bec080e57685",
+    "edition": 1,
+    "date": 1689443119231,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

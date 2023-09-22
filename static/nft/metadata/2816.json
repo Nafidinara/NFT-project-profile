@@ -1,0 +1,28 @@
+{
+    "name": "Estevrial  ",
+    "description": "The collection from onerichgroup #2816",
+    "image": "https://nft.onerichgroup.com/nft/2816.jpg",
+    "dna": "40441asmdjsadya6d7864307bec080e518336",
+    "edition": 1,
+    "date": 1689443114650,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

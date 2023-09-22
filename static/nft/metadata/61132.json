@@ -1,0 +1,28 @@
+{
+    "name": "Lirinel  ",
+    "description": "The collection from onerichgroup #61132",
+    "image": "https://nft.onerichgroup.com/nft/61132.jpg",
+    "dna": "779497dje6rgfnbs010062bec080e598317",
+    "edition": 1,
+    "date": 1689584225811,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "Estthonloth  ",
+  "description": "The collection from onerichgroup #11788",
+  "image": "https://nft.onerichgroup.com/nft/11788.jpg",
+  "dna": "96396asmdjsadya6d7852825bec080e582984",
+  "edition": 1,
+  "date": 1689443117783,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

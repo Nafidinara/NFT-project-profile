@@ -1,0 +1,28 @@
+{
+    "name": "Meraseth  ",
+    "description": "The collection from onerichgroup #2785",
+    "image": "https://nft.onerichgroup.com/nft/2785.jpg",
+    "dna": "34093asmdjsadya6d7887093bec080e514809",
+    "edition": 1,
+    "date": 1689443114645,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

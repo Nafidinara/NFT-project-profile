@@ -1,0 +1,28 @@
+{
+    "name": "Rimebrial  ",
+    "description": "The collection from onerichgroup #57783",
+    "image": "https://nft.onerichgroup.com/nft/57783.jpg",
+    "dna": "60665asmdjsadya6d7859557bec080e590579",
+    "edition": 1,
+    "date": 1689478815665,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

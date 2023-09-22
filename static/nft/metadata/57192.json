@@ -1,0 +1,28 @@
+{
+    "name": "Marediel  ",
+    "description": "The collection from onerichgroup #57192",
+    "image": "https://nft.onerichgroup.com/nft/57192.jpg",
+    "dna": "31952asmdjsadya6d7878626bec080e529971",
+    "edition": 1,
+    "date": 1689478815470,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

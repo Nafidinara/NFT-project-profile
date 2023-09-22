@@ -1,0 +1,28 @@
+{
+    "name": "Finamwë  ",
+    "description": "The collection from onerichgroup #2564",
+    "image": "https://nft.onerichgroup.com/nft/2564.jpg",
+    "dna": "48563asmdjsadya6d7854554bec080e518109",
+    "edition": 1,
+    "date": 1689443114584,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

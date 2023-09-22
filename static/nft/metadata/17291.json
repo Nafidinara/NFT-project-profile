@@ -1,0 +1,28 @@
+{
+    "name": "Elinroël  ",
+    "description": "The collection from onerichgroup #17291",
+    "image": "https://nft.onerichgroup.com/nft/17291.jpg",
+    "dna": "63621asmdjsadya6d7818943bec080e554237",
+    "edition": 1,
+    "date": 1689443119288,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

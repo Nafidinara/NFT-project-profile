@@ -1,0 +1,27 @@
+{
+  "name": "Cirenriel  ",
+  "description": "The collection from onerichgroup #13490",
+  "image": "https://nft.onerichgroup.com/nft/13490.jpg",
+  "dna": "59612asmdjsadya6d7890137bec080e538599",
+  "edition": 1,
+  "date": 1689443118253,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

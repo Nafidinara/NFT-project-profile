@@ -1,0 +1,28 @@
+{
+    "name": "Rinoleth  ",
+    "description": "The collection from onerichgroup #2223",
+    "image": "https://nft.onerichgroup.com/nft/2223.jpg",
+    "dna": "64108asmdjsadya6d7820651bec080e592349",
+    "edition": 1,
+    "date": 1689443114501,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

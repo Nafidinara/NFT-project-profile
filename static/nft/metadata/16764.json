@@ -1,0 +1,28 @@
+{
+    "name": "Nireswë  ",
+    "description": "The collection from onerichgroup #16764",
+    "image": "https://nft.onerichgroup.com/nft/16764.jpg",
+    "dna": "94345asmdjsadya6d7821138bec080e540463",
+    "edition": 1,
+    "date": 1689443119125,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

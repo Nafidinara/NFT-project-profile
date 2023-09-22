@@ -1,0 +1,28 @@
+{
+    "name": "Imalril  ",
+    "description": "The collection from onerichgroup #2726",
+    "image": "https://nft.onerichgroup.com/nft/2726.jpg",
+    "dna": "87949asmdjsadya6d7860056bec080e552268",
+    "edition": 1,
+    "date": 1689443114637,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

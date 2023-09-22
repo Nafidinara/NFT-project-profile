@@ -1,0 +1,28 @@
+{
+    "name": "Imevsil  ",
+    "description": "The collection from onerichgroup #17763",
+    "image": "https://nft.onerichgroup.com/nft/17763.jpg",
+    "dna": "91574asmdjsadya6d783235bec080e55804",
+    "edition": 1,
+    "date": 1689443119349,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

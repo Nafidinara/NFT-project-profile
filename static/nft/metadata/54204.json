@@ -1,0 +1,28 @@
+{
+    "name": "Riledroël  ",
+    "description": "The collection from onerichgroup #54204",
+    "image": "https://nft.onerichgroup.com/nft/54204.jpg",
+    "dna": "13672asmdjsadya6d7892873bec080e544753",
+    "edition": 1,
+    "date": 1689478813846,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

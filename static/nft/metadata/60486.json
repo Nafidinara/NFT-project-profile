@@ -1,0 +1,28 @@
+{
+    "name": "Giliniel  ",
+    "description": "The collection from onerichgroup #60486",
+    "image": "https://nft.onerichgroup.com/nft/60486.jpg",
+    "dna": "79413asmdjsadya6d7820522bec080e580382",
+    "edition": 1,
+    "date": 1689482665030,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

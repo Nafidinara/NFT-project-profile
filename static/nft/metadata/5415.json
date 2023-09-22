@@ -1,0 +1,28 @@
+{
+    "name": "Elemril  ",
+    "description": "The collection from onerichgroup #5415",
+    "image": "https://nft.onerichgroup.com/nft/5415.jpg",
+    "dna": "38243asmdjsadya6d7872236bec080e543343",
+    "edition": 1,
+    "date": 1689443116059,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

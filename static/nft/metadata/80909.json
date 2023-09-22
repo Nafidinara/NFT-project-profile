@@ -1,0 +1,28 @@
+{
+    "name": "Ganarian  ",
+    "description": "The vip collection from onerichgroup #80909",
+    "image": "https://nft.onerichgroup.com/nft/80909.jpg",
+    "dna": "55085iyuirf45edrtd49800vjvtyd45tuy55374",
+    "edition": 1,
+    "date": 1690898985588,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "vip"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

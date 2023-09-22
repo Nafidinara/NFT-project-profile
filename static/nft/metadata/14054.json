@@ -1,0 +1,28 @@
+{
+    "name": "Melthalril  ",
+    "description": "The collection from onerichgroup #14054",
+    "image": "https://nft.onerichgroup.com/nft/14054.jpg",
+    "dna": "66627asmdjsadya6d7886829bec080e560714",
+    "edition": 1,
+    "date": 1689443118357,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

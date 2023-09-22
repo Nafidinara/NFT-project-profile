@@ -1,0 +1,28 @@
+{
+    "name": "Larinien  ",
+    "description": "The collection from onerichgroup #6600",
+    "image": "https://nft.onerichgroup.com/nft/6600.jpg",
+    "dna": "63564asmdjsadya6d7860741bec080e521625",
+    "edition": 1,
+    "date": 1689443116463,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

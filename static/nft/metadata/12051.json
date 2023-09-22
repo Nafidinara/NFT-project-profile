@@ -1,0 +1,27 @@
+{
+  "name": "Mirilien  ",
+  "description": "The collection from onerichgroup #12051",
+  "image": "https://nft.onerichgroup.com/nft/12051.jpg",
+  "dna": "86952asmdjsadya6d7899729bec080e561876",
+  "edition": 1,
+  "date": 1689443117829,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

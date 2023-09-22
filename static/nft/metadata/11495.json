@@ -1,0 +1,27 @@
+{
+  "name": "Irebloth  ",
+  "description": "The collection from onerichgroup #11495",
+  "image": "https://nft.onerichgroup.com/nft/11495.jpg",
+  "dna": "33857asmdjsadya6d7875594bec080e527278",
+  "edition": 1,
+  "date": 1689443117646,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

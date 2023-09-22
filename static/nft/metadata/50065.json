@@ -1,0 +1,28 @@
+{
+    "name": "Riladmir  ",
+    "description": "The collection from onerichgroup #50065",
+    "image": "https://nft.onerichgroup.com/nft/50065.jpg",
+    "dna": "30450asmdjsadya6d7814467bec080e579292",
+    "edition": 1,
+    "date": 1689478811141,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Elbthonsil  ",
+    "description": "The collection from onerichgroup #2942",
+    "image": "https://nft.onerichgroup.com/nft/2942.jpg",
+    "dna": "80311asmdjsadya6d7833513bec080e553496",
+    "edition": 1,
+    "date": 1689443114666,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

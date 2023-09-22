@@ -1,0 +1,28 @@
+{
+    "name": "Elthaledel  ",
+    "description": "The collection from onerichgroup #20094",
+    "image": "https://nft.onerichgroup.com/nft/20094.jpg",
+    "dna": "15629asmdjsadya6d7823083bec080e553938",
+    "edition": 1,
+    "date": 1689443119727,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

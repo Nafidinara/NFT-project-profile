@@ -1,0 +1,27 @@
+{
+  "name": "Rinebiel  ",
+  "description": "The collection from onerichgroup #11532",
+  "image": "https://nft.onerichgroup.com/nft/11532.jpg",
+  "dna": "43180asmdjsadya6d7884172bec080e567941",
+  "edition": 1,
+  "date": 1689443117654,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

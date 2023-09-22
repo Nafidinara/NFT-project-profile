@@ -1,0 +1,28 @@
+{
+    "name": "Melthalwë  ",
+    "description": "The collection from onerichgroup #50704",
+    "image": "https://nft.onerichgroup.com/nft/50704.jpg",
+    "dna": "34340asmdjsadya6d7873002bec080e517045",
+    "edition": 1,
+    "date": 1689478811549,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

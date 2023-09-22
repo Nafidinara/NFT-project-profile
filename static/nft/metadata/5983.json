@@ -1,0 +1,28 @@
+{
+    "name": "Celasedel  ",
+    "description": "The collection from onerichgroup #5983",
+    "image": "https://nft.onerichgroup.com/nft/5983.jpg",
+    "dna": "78966asmdjsadya6d7868731bec080e546584",
+    "edition": 1,
+    "date": 1689443116354,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

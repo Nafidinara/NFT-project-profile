@@ -1,0 +1,28 @@
+{
+    "name": "Claramwë  ",
+    "description": "The collection from onerichgroup #7776",
+    "image": "https://nft.onerichgroup.com/nft/7776.jpg",
+    "dna": "58531asmdjsadya6d7838307bec080e53749",
+    "edition": 1,
+    "date": 1689443116695,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

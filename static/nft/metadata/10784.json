@@ -1,0 +1,27 @@
+{
+  "name": "Garadrial  ",
+  "description": "The collection from onerichgroup #10784",
+  "image": "https://nft.onerichgroup.com/nft/10784.jpg",
+  "dna": "4393asmdjsadya6d7873713bec080e575816",
+  "edition": 1,
+  "date": 1689443117521,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

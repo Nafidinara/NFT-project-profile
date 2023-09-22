@@ -1,0 +1,28 @@
+{
+    "name": "Lorariel  ",
+    "description": "The collection from onerichgroup #61114",
+    "image": "https://nft.onerichgroup.com/nft/61114.jpg",
+    "dna": "276197dje6rgfnbs056634bec080e556815",
+    "edition": 1,
+    "date": 1689584225740,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "prismora"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Carasrial  ",
+    "description": "The collection from onerichgroup #7820",
+    "image": "https://nft.onerichgroup.com/nft/7820.jpg",
+    "dna": "96117asmdjsadya6d7898683bec080e55083",
+    "edition": 1,
+    "date": 1689443116709,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

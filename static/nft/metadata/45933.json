@@ -1,0 +1,28 @@
+{
+    "name": "Meralian  ",
+    "description": "The collection from onerichgroup #45933",
+    "image": "https://nft.onerichgroup.com/nft/45933.jpg",
+    "dna": "85298asmdjsadya6d7833318bec080e510984",
+    "edition": 1,
+    "date": 1689443122332,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

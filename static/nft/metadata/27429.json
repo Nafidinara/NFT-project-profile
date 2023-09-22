@@ -1,0 +1,28 @@
+{
+    "name": "Irenian  ",
+    "description": "The collection from onerichgroup #27429",
+    "image": "https://nft.onerichgroup.com/nft/27429.jpg",
+    "dna": "46672asmdjsadya6d7820104bec080e526393",
+    "edition": 1,
+    "date": 1689443120733,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

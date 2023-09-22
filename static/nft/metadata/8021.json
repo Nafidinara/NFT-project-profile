@@ -1,0 +1,28 @@
+{
+    "name": "Ninenmir  ",
+    "description": "The collection from onerichgroup #8021",
+    "image": "https://nft.onerichgroup.com/nft/8021.jpg",
+    "dna": "25173asmdjsadya6d78180bec080e530563",
+    "edition": 1,
+    "date": 1689443116843,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

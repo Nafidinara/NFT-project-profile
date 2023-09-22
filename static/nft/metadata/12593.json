@@ -1,0 +1,27 @@
+{
+  "name": "Larolian  ",
+  "description": "The collection from onerichgroup #12593",
+  "image": "https://nft.onerichgroup.com/nft/12593.jpg",
+  "dna": "57637asmdjsadya6d7892962bec080e596463",
+  "edition": 1,
+  "date": 1689443117960,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

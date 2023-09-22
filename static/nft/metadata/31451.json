@@ -1,0 +1,28 @@
+{
+    "name": "Ilmanroël  ",
+    "description": "The collection from onerichgroup #31451",
+    "image": "https://nft.onerichgroup.com/nft/31451.jpg",
+    "dna": "81896asmdjsadya6d7811037bec080e551268",
+    "edition": 1,
+    "date": 1689443121250,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

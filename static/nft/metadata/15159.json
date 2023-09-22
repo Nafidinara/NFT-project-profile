@@ -1,0 +1,28 @@
+{
+    "name": "Erlalrian  ",
+    "description": "The collection from onerichgroup #15159",
+    "image": "https://nft.onerichgroup.com/nft/15159.jpg",
+    "dna": "64713asmdjsadya6d7816099bec080e572255",
+    "edition": 1,
+    "date": 1689443118728,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Clararsil  ",
+    "description": "The collection from onerichgroup #16193",
+    "image": "https://nft.onerichgroup.com/nft/16193.jpg",
+    "dna": "67674asmdjsadya6d7884415bec080e520216",
+    "edition": 1,
+    "date": 1689443118937,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

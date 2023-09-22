@@ -1,0 +1,28 @@
+{
+    "name": "Ilmamrian  ",
+    "description": "The collection from onerichgroup #884",
+    "image": "https://nft.onerichgroup.com/nft/884.jpg",
+    "dna": "85488asmdjsadya6d7842631bec080e590357",
+    "edition": 1,
+    "date": 1689443113602,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

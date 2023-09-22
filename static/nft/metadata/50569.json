@@ -1,0 +1,28 @@
+{
+    "name": "Nimebroël  ",
+    "description": "The collection from onerichgroup #50569",
+    "image": "https://nft.onerichgroup.com/nft/50569.jpg",
+    "dna": "22965asmdjsadya6d7862394bec080e515495",
+    "edition": 1,
+    "date": 1689478811335,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

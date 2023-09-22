@@ -1,0 +1,28 @@
+{
+    "name": "Imevian  ",
+    "description": "The collection from onerichgroup #40512",
+    "image": "https://nft.onerichgroup.com/nft/40512.jpg",
+    "dna": "19568asmdjsadya6d7815152bec080e582470",
+    "edition": 1,
+    "date": 1689443121960,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

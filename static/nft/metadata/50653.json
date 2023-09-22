@@ -1,0 +1,28 @@
+{
+    "name": "Finenwë  ",
+    "description": "The collection from onerichgroup #50653",
+    "image": "https://nft.onerichgroup.com/nft/50653.jpg",
+    "dna": "14017asmdjsadya6d7834609bec080e534178",
+    "edition": 1,
+    "date": 1689478811515,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

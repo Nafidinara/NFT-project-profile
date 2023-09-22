@@ -1,0 +1,28 @@
+{
+    "name": "Miralrian  ",
+    "description": "The collection from onerichgroup #40764",
+    "image": "https://nft.onerichgroup.com/nft/40764.jpg",
+    "dna": "64738asmdjsadya6d788388bec080e544021",
+    "edition": 1,
+    "date": 1689443121999,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

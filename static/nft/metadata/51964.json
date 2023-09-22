@@ -1,0 +1,28 @@
+{
+    "name": "Gilevroël  ",
+    "description": "The collection from onerichgroup #51964",
+    "image": "https://nft.onerichgroup.com/nft/51964.jpg",
+    "dna": "60346asmdjsadya6d7844571bec080e526817",
+    "edition": 1,
+    "date": 1689478812666,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

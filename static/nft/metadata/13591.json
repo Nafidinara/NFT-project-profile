@@ -1,0 +1,27 @@
+{
+  "name": "Elbolwen  ",
+  "description": "The collection from onerichgroup #13591",
+  "image": "https://nft.onerichgroup.com/nft/13591.jpg",
+  "dna": "4821asmdjsadya6d7884319bec080e596646",
+  "edition": 1,
+  "date": 1689443118266,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

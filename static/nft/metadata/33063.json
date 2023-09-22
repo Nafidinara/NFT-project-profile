@@ -1,0 +1,28 @@
+{
+    "name": "Irthonsil  ",
+    "description": "The collection from onerichgroup #33063",
+    "image": "https://nft.onerichgroup.com/nft/33063.jpg",
+    "dna": "3730asmdjsadya6d7897580bec080e533638",
+    "edition": 1,
+    "date": 1689443121455,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

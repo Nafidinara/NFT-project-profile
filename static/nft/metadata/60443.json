@@ -1,0 +1,28 @@
+{
+    "name": "Rilinrien  ",
+    "description": "The collection from onerichgroup #60443",
+    "image": "https://nft.onerichgroup.com/nft/60443.jpg",
+    "dna": "14466asmdjsadya6d7831031bec080e580195",
+    "edition": 1,
+    "date": 1689482665004,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

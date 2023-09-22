@@ -1,0 +1,28 @@
+{
+    "name": "Nimemloth  ",
+    "description": "The collection from onerichgroup #55802",
+    "image": "https://nft.onerichgroup.com/nft/55802.jpg",
+    "dna": "29593asmdjsadya6d7828556bec080e536822",
+    "edition": 1,
+    "date": 1689478814783,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

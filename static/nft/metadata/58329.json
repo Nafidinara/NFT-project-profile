@@ -1,0 +1,28 @@
+{
+    "name": "Erarloth  ",
+    "description": "The collection from onerichgroup #58329",
+    "image": "https://nft.onerichgroup.com/nft/58329.jpg",
+    "dna": "87819asmdjsadya6d7847560bec080e544883",
+    "edition": 1,
+    "date": 1689478815991,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

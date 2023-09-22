@@ -1,0 +1,27 @@
+{
+  "name": "Galesrian  ",
+  "description": "The collection from onerichgroup #10830",
+  "image": "https://nft.onerichgroup.com/nft/10830.jpg",
+  "dna": "23149asmdjsadya6d7816422bec080e537120",
+  "edition": 1,
+  "date": 1689443117525,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Eladel  ",
+    "description": "The collection from onerichgroup #3693",
+    "image": "https://nft.onerichgroup.com/nft/3693.jpg",
+    "dna": "48289asmdjsadya6d7820368bec080e592011",
+    "edition": 1,
+    "date": 1689443115209,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

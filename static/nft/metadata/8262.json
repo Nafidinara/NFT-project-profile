@@ -1,0 +1,28 @@
+{
+    "name": "Finesedel  ",
+    "description": "The collection from onerichgroup #8262",
+    "image": "https://nft.onerichgroup.com/nft/8262.jpg",
+    "dna": "49058asmdjsadya6d7823781bec080e584411",
+    "edition": 1,
+    "date": 1689443116903,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

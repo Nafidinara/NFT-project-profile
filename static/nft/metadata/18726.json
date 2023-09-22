@@ -1,0 +1,28 @@
+{
+    "name": "Imirel  ",
+    "description": "The collection from onerichgroup #18726",
+    "image": "https://nft.onerichgroup.com/nft/18726.jpg",
+    "dna": "93456asmdjsadya6d7898481bec080e533603",
+    "edition": 1,
+    "date": 1689443119471,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

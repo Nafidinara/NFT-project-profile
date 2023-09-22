@@ -1,0 +1,28 @@
+{
+    "name": "Celilel  ",
+    "description": "The collection from onerichgroup #40311",
+    "image": "https://nft.onerichgroup.com/nft/40311.jpg",
+    "dna": "77319asmdjsadya6d781357bec080e514738",
+    "edition": 1,
+    "date": 1689443121948,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

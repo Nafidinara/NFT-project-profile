@@ -1,0 +1,28 @@
+{
+    "name": "Rinebwë  ",
+    "description": "The collection from onerichgroup #21159",
+    "image": "https://nft.onerichgroup.com/nft/21159.jpg",
+    "dna": "57985asmdjsadya6d7858066bec080e585968",
+    "edition": 1,
+    "date": 1689443119890,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

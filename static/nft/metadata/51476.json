@@ -1,0 +1,28 @@
+{
+    "name": "Lorenel  ",
+    "description": "The collection from onerichgroup #51476",
+    "image": "https://nft.onerichgroup.com/nft/51476.jpg",
+    "dna": "56803asmdjsadya6d7843505bec080e577737",
+    "edition": 1,
+    "date": 1689478812312,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

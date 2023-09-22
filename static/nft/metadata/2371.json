@@ -1,0 +1,28 @@
+{
+    "name": "Relilrian  ",
+    "description": "The collection from onerichgroup #2371",
+    "image": "https://nft.onerichgroup.com/nft/2371.jpg",
+    "dna": "59712asmdjsadya6d7899267bec080e542811",
+    "edition": 1,
+    "date": 1689443114553,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

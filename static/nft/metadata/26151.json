@@ -1,0 +1,28 @@
+{
+    "name": "Eririen  ",
+    "description": "The collection from onerichgroup #26151",
+    "image": "https://nft.onerichgroup.com/nft/26151.jpg",
+    "dna": "69679asmdjsadya6d7834453bec080e590433",
+    "edition": 1,
+    "date": 1689443120644,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

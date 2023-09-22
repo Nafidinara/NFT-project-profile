@@ -1,0 +1,28 @@
+{
+    "name": "Elthalril  ",
+    "description": "The collection from onerichgroup #43815",
+    "image": "https://nft.onerichgroup.com/nft/43815.jpg",
+    "dna": "13105asmdjsadya6d7835042bec080e52873",
+    "edition": 1,
+    "date": 1689443122179,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Esterwë  ",
+    "description": "The collection from onerichgroup #36306",
+    "image": "https://nft.onerichgroup.com/nft/36306.jpg",
+    "dna": "8241asmdjsadya6d7850689bec080e546576",
+    "edition": 1,
+    "date": 1689443121658,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

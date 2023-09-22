@@ -1,0 +1,27 @@
+{
+  "name": "Lorelwë  ",
+  "description": "The collection from onerichgroup #13530",
+  "image": "https://nft.onerichgroup.com/nft/13530.jpg",
+  "dna": "59630asmdjsadya6d7839401bec080e559793",
+  "edition": 1,
+  "date": 1689443118259,
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "zephyr"
+    },
+    {
+      "trait_type": "power",
+      "value": 100
+    },
+    {
+      "trait_type": "life",
+      "value": 100
+    },
+    {
+      "trait_type": "wallet",
+      "value": 0
+    }
+  ],
+  "compiler": "Art Engine"
+}

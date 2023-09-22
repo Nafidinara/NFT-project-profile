@@ -1,0 +1,28 @@
+{
+    "name": "Anelroël  ",
+    "description": "The collection from onerichgroup #33819",
+    "image": "https://nft.onerichgroup.com/nft/33819.jpg",
+    "dna": "73854asmdjsadya6d7893556bec080e579859",
+    "edition": 1,
+    "date": 1689443121547,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

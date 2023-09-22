@@ -1,0 +1,28 @@
+{
+    "name": "Gileneth  ",
+    "description": "The collection from onerichgroup #60846",
+    "image": "https://nft.onerichgroup.com/nft/60846.jpg",
+    "dna": "12645asmdjsadya6d7848537bec080e569599",
+    "edition": 1,
+    "date": 1689482665338,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

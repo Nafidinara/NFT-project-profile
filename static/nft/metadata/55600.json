@@ -1,0 +1,28 @@
+{
+    "name": "Imedmir  ",
+    "description": "The collection from onerichgroup #55600",
+    "image": "https://nft.onerichgroup.com/nft/55600.jpg",
+    "dna": "76929asmdjsadya6d7863527bec080e579143",
+    "edition": 1,
+    "date": 1689478814683,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

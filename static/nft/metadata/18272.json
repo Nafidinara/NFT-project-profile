@@ -1,0 +1,28 @@
+{
+    "name": "Laresroël  ",
+    "description": "The collection from onerichgroup #18272",
+    "image": "https://nft.onerichgroup.com/nft/18272.jpg",
+    "dna": "34700asmdjsadya6d7828941bec080e541904",
+    "edition": 1,
+    "date": 1689443119431,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

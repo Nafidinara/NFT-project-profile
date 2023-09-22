@@ -1,0 +1,28 @@
+{
+    "name": "Fararedel  ",
+    "description": "The collection from onerichgroup #14489",
+    "image": "https://nft.onerichgroup.com/nft/14489.jpg",
+    "dna": "2873asmdjsadya6d7839216bec080e542663",
+    "edition": 1,
+    "date": 1689443118468,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

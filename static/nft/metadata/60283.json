@@ -1,0 +1,28 @@
+{
+    "name": "Ralirsil  ",
+    "description": "The collection from onerichgroup #60283",
+    "image": "https://nft.onerichgroup.com/nft/60283.jpg",
+    "dna": "97096asmdjsadya6d7834045bec080e5928",
+    "edition": 1,
+    "date": 1689482664895,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "claritya"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Finebrian  ",
+    "description": "The collection from onerichgroup #55106",
+    "image": "https://nft.onerichgroup.com/nft/55106.jpg",
+    "dna": "11607asmdjsadya6d7846340bec080e52202",
+    "edition": 1,
+    "date": 1689478814378,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

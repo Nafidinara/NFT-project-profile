@@ -1,0 +1,28 @@
+{
+    "name": "Erlesrian  ",
+    "description": "The collection from onerichgroup #85",
+    "image": "https://nft.onerichgroup.com/nft/85.jpg",
+    "dna": "88471asmdjsadya6d7843965bec080e516425",
+    "edition": 1,
+    "date": 1689443113183,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

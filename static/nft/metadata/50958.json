@@ -1,0 +1,28 @@
+{
+    "name": "Mirammir  ",
+    "description": "The collection from onerichgroup #50958",
+    "image": "https://nft.onerichgroup.com/nft/50958.jpg",
+    "dna": "49465asmdjsadya6d7891042bec080e558182",
+    "edition": 1,
+    "date": 1689478811774,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

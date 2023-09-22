@@ -1,0 +1,28 @@
+{
+    "name": "Ilmedrial  ",
+    "description": "The collection from onerichgroup #1952",
+    "image": "https://nft.onerichgroup.com/nft/1952.jpg",
+    "dna": "1737asmdjsadya6d7876061bec080e543917",
+    "edition": 1,
+    "date": 1689443114331,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

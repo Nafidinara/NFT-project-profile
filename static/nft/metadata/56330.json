@@ -1,0 +1,28 @@
+{
+    "name": "Ganalril  ",
+    "description": "The collection from onerichgroup #56330",
+    "image": "https://nft.onerichgroup.com/nft/56330.jpg",
+    "dna": "94570asmdjsadya6d7880522bec080e51287",
+    "edition": 1,
+    "date": 1689478815086,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "diamore"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }

@@ -1,0 +1,28 @@
+{
+    "name": "Calelien  ",
+    "description": "The collection from onerichgroup #14304",
+    "image": "https://nft.onerichgroup.com/nft/14304.jpg",
+    "dna": "52456asmdjsadya6d7884171bec080e583535",
+    "edition": 1,
+    "date": 1689443118395,
+    "attributes": [
+      {
+        "trait_type": "class",
+        "value": "zephyr"
+      },
+      {
+        "trait_type": "power",
+        "value": 100
+      },
+      {
+        "trait_type": "life",
+        "value": 100
+      },
+      {
+        "trait_type": "wallet",
+        "value": 0
+      }
+  
+    ],
+    "compiler": "Art Engine"
+  }
